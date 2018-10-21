@@ -27,5 +27,13 @@ h6 {
 }
 
 .landing-page {
-    background-image: url("../assets/landing-page/landing_page_white.png");
+    /* background-image: url("../assets/landing-page/landing_page_white.png"); */
+    \ width: 100%;
+    z-index: 1;
+}
+
+.landing-page-img {
+    width: 100%;
+    height: auto;
+    vertical-align: bottom;
 }
