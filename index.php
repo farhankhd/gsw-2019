@@ -10,6 +10,3 @@
     include('templates/landing-page.php');
 ?>
 <!-- <br /><br />
-<?php
-    include('templates/footer.php');
-?> -->
