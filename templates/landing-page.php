@@ -10,14 +10,14 @@
         <link href="assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     </head>
     
-	<body class="landing-page-img">
-        <section id="banner">
+	<body>
+        <section id="banner" class="landing-page-img">
             <div class="container">
                 <div class="row">
                     <div class="col">
-                    <img src="../../images/landing-page/logo.png" />
+                        <img src="../../images/landing-page/logo.png" />
                     </div>
-                    <div class="col-8">
+                    <div class="col">
                         <p>MIT GSW 2019 </p>
                         <p>Conference Location</p>
                         <p>Will Be Announced In</p>
