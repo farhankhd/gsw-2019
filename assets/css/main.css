@@ -2,12 +2,12 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 @font-face {
     font-family: "DIN";
-    src: url("../fonts/FF_DIN_Black.otf");
+    src: url("../user_fonts/FF_DIN_Black.otf");
 }
 
 @font-face {
     font-family: "DIN Condensed";
-    src: url("../fonts/FF_DIN_Condensed_Black.otf");
+    src: url("../user_fonts/FF_DIN_Condensed_Black.otf");
 }
 
 body {
@@ -29,7 +29,7 @@ h6 {
 }
 
 .landing-page {
-    background-image: url("../../images/landing-page/landing_page_white.jpg");
+    background-image: url("../../images/landing-page/landing-page.png");
     max-width: 100%;
     max-height: 100%;
     z-index: 1;
@@ -42,6 +42,11 @@ h6 {
     max-width: 100%;
     max-height: 100%;
     z-index: 1;
+}
+
+.landing-text {
+    font-size: 10px;
+    color: white;
 }
 
 
