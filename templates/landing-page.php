@@ -27,7 +27,7 @@
                         <div class="col">
                             <p>MIT GSW 2019 </p>
                             <p>Conference Location</p>
-                            <p>Will Be Announced In</p>
+                            <p>Dates Will Be Announced In</p>
                             <p id="demo"> </p>
                             <br>
                             
