@@ -36,7 +36,7 @@ h6 {
 }
 
 .landing-page-img {
-    background-image: url("../../images/landing-page/landing_page_white.jpg");
+    background-image: url("../../images/landing-page/smaller-landing-page.png");
     background-size: cover;
     /* color: #c8ece9; */
     max-width: 100%;
@@ -47,6 +47,38 @@ h6 {
 .landing-text {
     font-size: 10px;
     color: white;
+}
+
+.logo-img {
+    padding: 50px;
+}
+
+.logo-img img {
+    height: auto;
+    width: 20%;
+}
+
+.landing-text {
+    position: relative;
+    left: 30px;
+}
+
+#banner2 {
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -moz-justify-content: center;
+    -webkit-justify-content: center;
+    -ms-justify-content: center;
+    justify-content: center;
+    cursor: default;
+    height: 100vh;
+    min-height: 35em;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    font-family: "DIN", sans-serif;
 }
 
 #banner {
@@ -72,12 +104,13 @@ h6 {
     line-height: 1;
 }
 
-#banner p {
+#banner2 p {
     color: white;
-    font-size: 25px;
+    font-size: 2.5vw;
+    line-height: 90%;
 }
 
-#banner img {
+.landing-img {
     height: 70px;
     width: 200px;
 }
