@@ -35,7 +35,7 @@
 
                             <script>
                                 // Set the date we're counting down to
-                                var countDownDate = new Date("Jan 5, 2019 15:37:25").getTime();
+                                var countDownDate = new Date("Jan 1, 2019 15:37:25").getTime();
 
                                 // Update the count down every 1 second
                                 var x = setInterval(function() {
@@ -69,19 +69,15 @@
                     
             </section>
         </div>
-            
-            <!-- <section id="one" class="landing-page">
-                <h1> HELLO </h1>
-			</section> -->
-
+        
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
+			<!-- <script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrollex.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
-            <script src="assets/js/main.js"></script>
+            <script src="assets/js/main.js"></script> -->
             
             <script src="lib/jquery/jquery.min.js"></script>
             <script src="lib/jquery/jquery-migrate.min.js"></script>
