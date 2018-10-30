@@ -116,7 +116,13 @@ h6 {
 
 #banner2 p {
     color: white;
-    font-size: 2.8vw;
+    font-size: 2vw;
+    line-height: 90%;
+}
+
+#banner2 h1 {
+    color: white;
+    font-size: 5vw;
     line-height: 90%;
 }
 

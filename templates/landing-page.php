@@ -25,13 +25,15 @@
                             
                         </div>
                         <div class="col">
-                            <p>MIT GSW 2019 </p>
+                            <h1>MIT GSW 2019 </h1>
+                            <br>
+                            <br>
                             <p>Conference Location</p>
-                            <p>Dates Will Be Announced In</p>
+                            <p>And Dates Will Be Announced In</p>
                             <p id="demo"> </p>
                             <br>
                             
-                            <p style="font-size: 1vw"> <a href="http://gsw.mit.edu/2018/">See</a> GSW 2018 in Thailand</p>
+                            <p style="font-size: 1vw"> <a href="http://gsw.mit.edu/2018/">Learn more about GSW 2018 in Thailand</a></p>
 
                             <script>
                                 // Set the date we're counting down to
