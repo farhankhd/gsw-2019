@@ -33,7 +33,7 @@
                             <p id="demo"> </p>
                             <br>
                             
-                            <p style="font-size: 1vw"> <a href="http://gsw.mit.edu/2018/">Learn more about GSW 2018 in Thailand</a></p>
+                            <p style="font-size: 1vw"> <a style="color: white" href="http://gsw.mit.edu/2018/">Learn more about GSW 2018 in Thailand</a></p>
 
                             <script>
                                 // Set the date we're counting down to
