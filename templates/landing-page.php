@@ -14,7 +14,7 @@
 
         <div class=col> 
             <div class="logo-img">
-                <img src="../../images/landing-page/logo.png" />
+                <img src="../../images/landing-page/logo2.png" />
             </div>
         </div>
         <div class="col"> 
