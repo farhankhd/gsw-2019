@@ -60,9 +60,11 @@ h6 {
 }
 
 .blob-img {
-    position: relative;
-    z-index: 5;
-    bottom: 100px;
+    position: absolute;
+    float: left;
+    left: 10%;
+    bottom: 20%;
+    z-index: 2;
 }
 
 .blob-img:hover {
@@ -71,9 +73,7 @@ h6 {
 }
 
 .blob-img img {
-    width: 20%;
-    left: 10%;
-    top: 50%;
+    width: 50%;
 }
 
 .landing-text {
