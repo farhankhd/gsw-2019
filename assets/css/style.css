@@ -59,6 +59,22 @@ h6 {
     width: 20%;
 }
 
+.blob-img {
+    position: relative;
+    z-index: 5;
+    bottom: 100px;
+}
+
+.blob-img:hover {
+    opacity: 0;
+    transition: all ease 0.8s;
+}
+
+.blob-img img {
+    width: 20%;
+    left: 10%;
+}
+
 .landing-text {
     position: relative;
     left: 30px;
@@ -78,45 +94,22 @@ h6 {
     display: -webkit-flex;
     display: -ms-flex;
     display: flex;
+    z-index: 1;
     -moz-justify-content: center;
     -webkit-justify-content: center;
     -ms-justify-content: center;
     justify-content: center;
     cursor: default;
-    /* height: 100vh; */
     min-height: 35em;
     overflow: hidden;
     position: relative;
     text-align: center;
     font-family: "DIN", sans-serif;
-}
-
-#banner {
-    display: -moz-flex;
-    display: -webkit-flex;
-    display: -ms-flex;
-    display: flex;
-    -moz-flex-direction: column;
-    -webkit-flex-direction: column;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    -moz-justify-content: center;
-    -webkit-justify-content: center;
-    -ms-justify-content: center;
-    justify-content: center;
-    cursor: default;
-    height: 100vh;
-    min-height: 35em;
-    overflow: hidden;
-    position: relative;
-    text-align: center;
-    font-family: "DIN", sans-serif;
-    line-height: 1;
 }
 
 #banner2 p {
     color: white;
-    font-size: 2vw;
+    font-size: 1.7vw;
     line-height: 90%;
 }
 
