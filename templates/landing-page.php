@@ -12,12 +12,9 @@
     
 	<body class="landing-page-img">
 
-        <div class=col> 
             <div class="logo-img">
                 <img src="../../images/landing-page/logo2.png" />
             </div>
-        </div>
-        <div class="col"> 
             <section id="banner2" class="landing-text">
                 <div class="container">
                     <div class="row">
@@ -36,9 +33,11 @@
                         </div>
                     </div>  
             </section>
-        </div>
         <div class="blob-img">
-                <img src="../../images/landing-page/blob.png" />
+            <img src="../../images/landing-page/blob.png" />
+        </div>
+        <div class="text"> 
+            <p>50% of the entrepreneurs in this country reside in this year's host city</p>
         </div>
             
         <script src="assets/js/main.js"></script>

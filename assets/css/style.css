@@ -16,6 +16,14 @@ body {
     font-family: 'DIN', sans-serif;
 }
 
+
+/* to see div outlines */
+
+
+/* div {
+    outline: 1px solid red;
+} */
+
 h1,
 h2,
 h3,
@@ -63,17 +71,39 @@ h6 {
     position: absolute;
     float: left;
     left: 10%;
-    bottom: 20%;
+    bottom: 5%;
     z-index: 2;
+    width: 20%;
+    font-family: "DIN", sans-serif;
 }
 
-.blob-img:hover {
+.blob-img:hover img {
     opacity: 0;
     transition: all ease 0.8s;
 }
 
 .blob-img img {
-    width: 50%;
+    width: 100%;
+    z-index: 5;
+    position: relative;
+    /* top: -100px;
+    right: 80px; */
+}
+
+.text {
+    width: 20%;
+    position: absolute;
+    left: 20%;
+    bottom: 5%;
+    font-family: "DIN", sans-serif;
+}
+
+.text p {
+    color: white;
+    font-size: 0.9vw;
+    line-height: 90%;
+    width: 40%;
+    bottom: 10%;
 }
 
 .landing-text {
