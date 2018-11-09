@@ -91,10 +91,10 @@ h6 {
 }
 
 .text {
-    width: 20%;
+    width: 30%;
     position: absolute;
-    left: 20%;
-    bottom: 5%;
+    left: 18%;
+    bottom: 8%;
     font-family: "DIN", sans-serif;
 }
 
@@ -102,8 +102,8 @@ h6 {
     color: white;
     font-size: 0.9vw;
     line-height: 90%;
-    width: 40%;
-    bottom: 10%;
+    width: 20%;
+    bottom: 20%;
 }
 
 .landing-text {
