@@ -18,10 +18,7 @@
             <section id="banner2" class="landing-text">
                 <div class="container">
                     <div class="row">
-                        <div class="col">
-                            
-                        </div>
-                        <div class="col">
+                        <div class="landing-box">
                             <h1>MIT GSW 2019 </h1>
                             <br>
                             <br>

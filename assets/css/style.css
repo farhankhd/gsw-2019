@@ -111,15 +111,6 @@ h6 {
     left: 30px;
 }
 
-@media only screen and (max-width: 479px) {
-    #banner2 {
-        display: -moz-flex;
-        display: -webkit-flex;
-        display: -ms-flex;
-        display: flex;
-    }
-}
-
 #banner2 {
     display: -moz-flex;
     display: -webkit-flex;
@@ -144,6 +135,11 @@ h6 {
     line-height: 90%;
 }
 
+#banner2 div {
+    float: right;
+    padding-right: 1%;
+}
+
 #banner2 h1 {
     color: white;
     font-size: 5vw;
@@ -153,4 +149,73 @@ h6 {
 .landing-img {
     height: 70px;
     width: 200px;
+}
+
+@media only screen and (max-width: 479px) {
+    #banner2 {
+        display: -moz-flex;
+        display: -webkit-flex;
+        display: -ms-flex;
+        display: flex;
+        z-index: 1;
+        overflow: hidden;
+        position: relative;
+        text-align: center;
+        font-family: "DIN", sans-serif;
+    }
+    #banner2 div.landing-box {
+        float: left;
+        position: relative;
+        right: 80%;
+        outline: 1px solid red;
+    }
+    #banner2 p {
+        color: white;
+        font-size: 3vw;
+        line-height: 40%;
+    }
+    #banner2 h1 {
+        color: white;
+        font-size: 6vw;
+        line-height: 90%;
+    }
+    #banner2 a {
+        color: white;
+        font-size: 2vw;
+        line-height: 90%;
+    }
+    .blob-img {
+        position: absolute;
+        float: left;
+        left: 10%;
+        bottom: 40%;
+        z-index: 2;
+        width: 20%;
+        font-family: "DIN", sans-serif;
+    }
+    .blob-img:hover img {
+        opacity: 0;
+        transition: all ease 0.8s;
+    }
+    .blob-img img {
+        width: 100%;
+        z-index: 5;
+        position: relative;
+        /* top: -100px;
+        right: 80px; */
+    }
+    .text {
+        width: 30%;
+        position: absolute;
+        left: 18%;
+        bottom: 40%;
+        font-family: "DIN", sans-serif;
+    }
+    .text p {
+        color: white;
+        font-size: 0.9vw;
+        line-height: 90%;
+        width: 20%;
+        bottom: 20%;
+    }
 }
