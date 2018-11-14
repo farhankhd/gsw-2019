@@ -1,4 +1,5 @@
 <!DOCTYPE HTML>
+
 <html>
 	<head>
 		<title>GSW 2019</title>
@@ -13,7 +14,7 @@
 	<body class="landing-page-img">
 
             <div class="logo-img">
-                <img src="../../images/landing-page/logo2.png" />
+                <img src="images/landing-page/logo2.png" />
             </div>
             <section id="banner2" class="landing-text">
                 <div class="container">
@@ -34,7 +35,7 @@
                     </div>  
             </section>
         <div class="blob-img">
-            <img src="../../images/landing-page/blob.png" />
+            <img src="images/landing-page/blob.png" />
         </div>
         <div class="text"> 
             <p>50% of the entrepreneurs in this country reside in this year's host city</p>
