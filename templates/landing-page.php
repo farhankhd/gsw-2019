@@ -35,7 +35,7 @@
             <img src="images/landing-page/blob.png" />
         </div>
         <div class="text"> 
-            <p>50% of the entrepreneurs in this country reside in this year's host city</p>
+            <p>71% of this country's bilingual talent resides in this year's host city</p>
         </div>
             
         <script src="assets/js/main.js"></script>
