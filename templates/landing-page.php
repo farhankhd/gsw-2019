@@ -20,7 +20,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="landing-box">
-                            <h1>MIT GSW 2019 </h1>
+                            <h1>MIT <a href="templates/header.php"> GSW</a> 2019 </h1>
                             <br>
                             <br>
                             <p>Conference Location</p>
