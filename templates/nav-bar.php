@@ -30,6 +30,7 @@
                 <span class="icon-bar"></span>
             </button> -->
             <a class="navbar-brand" href="index.php"><img src="images/landing-page/logo2.png" id="navbar-logo"></a>
+            
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->

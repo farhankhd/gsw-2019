@@ -10,26 +10,25 @@
     <link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">
     <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
+<body>
 <div data-parallax="scroll" class="parallax-window main-page-header">
-    <div class="brand">
-        <img src="images/launch/bogota_plus_dates.png" />
-        <!-- <div class="brand-theme">
-                dream <span class="brand-highlight">big.</span><br>
-                dream <span class="brand-highlight">tech.</span>
-        </div>
-
-        <div class="brand-title">tools for innovation-driven entrepreneurship</div>
-        <div class="brand-subtitle">in collaboration with Sasin School of Management and the MIT Association of Thailand</div>
-        <div class="brand-text"><span class="brand-highlight">Bangkok, Thailand</span></div>
-        <div class="brand-text"><span class="brand-highlight">26-28 March, 2018</span></div> -->
-    </div>
 
     <!-- Image while loading -->
     <!-- <img class="top-background hidden-xs" src="images/launch/temp_video.png" /> -->
 
     <!-- Full-size video -->
-    <div class="top-background-div">
+    <!-- <div class="top-background-div">
         <video class="hidden-xs" preload="none" autoplay loop muted="muted" plays-inline="" src="images/launch/bogota-drone-footage.mp4"></video>
+    </div> -->
+    <!-- <div class="top-background-div-2">
+        <video class="top-background hidden-xs" preload="none" autoplay loop muted="muted" plays-inline="" src="images/launch/bogota-drone-footage.mp4"></video>
+    </div> -->
+
+    <div class="brand">
+        <img src="images/launch/bogota_plus_dates.png" />
+    </div>
+    <div class="video-container">
+        <video preload="none" autoplay loop muted="muted" plays-inline="" src="images/launch/bogota-drone-footage.mp4"></video>
     </div>
     <!-- <video class="top-background hidden-xs" preload="none" autoplay loop muted="muted" plays-inline="" src="images/launch/bogota-drone-footage.mp4"></video> -->
     <!-- <img class="top-background hidden-xs" src="images/launch/launch_background_short.png" /> -->
@@ -44,7 +43,8 @@
                 <p><strong>Register</strong> now to learn more about <strong>MIT Global Startup Workshop 2019</strong>!</p>
                 <p> CHANGE THIS FORMATTING + BACKGROUND?!?!</p>
             </div>
-            <a class="btn btn-default registration-button" href="registration.php" role="button">Register</a>
+            <a class="btn btn-default registration-button" role="button">Register</a> 
+            <!-- href="registration.php" -->
         </div>
     </div>
 </div>
@@ -90,3 +90,31 @@
         </div>
     </div>
 </div>
+
+<div class="parallax-window header" data-parallax="scroll" data-image-src="headers/img/bogota-noche.jpg">
+    <h1 class="parallax-text">
+        Our sponsors
+    </h1>
+</div>
+    <div class="section">
+        <div class="section-header text-center">
+            We're proud to bring these organizations on board with us!
+        </div>
+        <hr>
+        <div class="row text-center">
+            <div class="col-sm-6 col-md-3">
+                <img class="partner-logo" src="splash/img/logos/sasin.png">
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <img class="partner-logo" src="splash/img/logos/mitthailand.png">
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <img class="partner-logo" src="splash/img/logos/reap.png">
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <img class="partner-logo" src="splash/img/logos/legatum.png">
+            </div>
+        </div>
+
+    </div>
+</body>
