@@ -13,7 +13,44 @@
     
 	<body class="landing-page-img">
 
-            <div class="logo-img">
+        <div style="padding: 1%">
+            <img src="images/landing-page/logo2.png" id="navbar-logo"/>
+            <img src="images/launch/bogota-team-logo.png" id="navbar-logo-right">
+        </div>
+        <div data-parallax="scroll" class="parallax-window main-page-header">
+            <div class="brand">
+                <img src="images/launch/bogota_plus_dates.png" />
+            </div>
+        </div>
+        <div id="banner2">
+            <div class="container">
+                <button class="register-btn">Stay Updated</button>
+                <p>SUBMIT YOUR EMAIL TO STAY INFORMED</p>
+                <br>
+                <br>
+                <h2>THE VENUE</h2>
+                <br>
+                <p style="font-family: 'Din'">Business and Recreation Center The Cube (Colsubsidio)</p>
+                <br>
+                <p>Ak. 30 #52-77, Bogota, Colombia</p>
+                <!-- <img src="images/landing-page/colsubsidio.jpg"/> -->
+                <br>
+                <div class="row">
+                    <div class="col">
+                        <img style="width:100%" src="images/landing-page/colsubsidio.jpg" />
+                    </div>
+                    <div class="col">
+                        <img style="width:100%" src="images/landing-page/colsubsidio.jpg" />
+                    </div>
+                </div>
+                <div>
+                    <p style="font-family: 'Din Light'"> Copyright &copy; 2011-2019. Massachusetts Institute of Technology. All Rights Reserved.</p>
+                    <p style="font-family: 'Din Light'"> For more information please contact <a href="mailto:gsw-tech@mit.edu">gsw-tech@mit.edu</a>.</p>
+                </div>
+            </div>
+    </div>
+
+            <!-- <div class="logo-img">
                 <img src="images/landing-page/logo2.png" />
             </div>
             <section id="banner2" class="landing-text">
@@ -36,7 +73,7 @@
         </div>
         <div class="text"> 
             <p>71% of this country's bilingual talent resides in this year's host city</p>
-        </div>
+        </div> -->
             
         <script src="assets/js/main.js"></script>
         <script src="lib/jquery/jquery.min.js"></script>

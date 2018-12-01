@@ -6,8 +6,23 @@
 }
 
 @font-face {
+    font-family: "DIN Italic";
+    src: url("../user_fonts/FF_DIN_Black_Italic.otf");
+}
+
+@font-face {
     font-family: "DIN Condensed";
     src: url("../user_fonts/FF_DIN_Condensed_Black.otf");
+}
+
+@font-face {
+    font-family: "DIN Light";
+    src: url("../user_fonts/FF_DIN_Light.otf");
+}
+
+@font-face {
+    font-family: "DIN Regular";
+    src: url("../user_fonts/FF_DIN_Regular.otf");
 }
 
 body {
@@ -45,13 +60,14 @@ h6 {
 }
 
 .landing-page-img {
-    background-image: url("../../images/landing-page/background2.png");
+    background-image: url("../../images/landing-page/background-full-blobs.png");
     background-size: cover;
+    background-repeat: no-repeat;
     /* color: #c8ece9; */
     max-width: 100%;
     max-height: 100%;
     z-index: 1;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
 }
 
 .landing-text {
@@ -123,7 +139,7 @@ h6 {
     -ms-justify-content: center;
     justify-content: center;
     cursor: default;
-    min-height: 35em;
+    min-height: 20em;
     overflow: hidden;
     position: relative;
     text-align: center;
@@ -131,15 +147,17 @@ h6 {
 }
 
 #banner2 p {
+    font-family: 'Din Light';
     color: white;
-    font-size: 1.7vw;
+    font-size: 1.2vw;
     line-height: 90%;
 }
 
-#banner2 div {
+
+/* #banner2 div {
     float: right;
     padding-right: 1%;
-}
+} */
 
 #banner2 h1 {
     color: white;
@@ -147,9 +165,48 @@ h6 {
     line-height: 90%;
 }
 
+#banner2 h2 {
+    font-family: "DIN Italic";
+    color: white;
+    font-size: 2.5vw;
+    line-height: 90%;
+}
+
+#banner2 h3 {
+    font-family: "DIN Regular";
+    color: white;
+    font-size: 1.7vw;
+    line-height: 90%;
+}
+
+#banner2 img {
+    -webkit-transform: scale(0.5);
+}
+
 .landing-img {
     height: 70px;
     width: 200px;
+}
+
+.register-btn {
+    background-color: white;
+    /* Green */
+    border: none;
+    color: black;
+    padding: 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "Din Light";
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.img-container {
+    margin-left: -100px;
+    margin-right: -100px;
 }
 
 @media only screen and (max-width: 479px) {
@@ -827,9 +884,10 @@ td:hover {
     transition: height 0.3s ease-out;
 }
 
-.navbar-logo-right {
+#navbar-logo-right {
     /* height: 50px;
     transition: height 0.3s ease-out; */
+    height: 50px;
     margin-left: auto;
     margin-right: 0;
     float: right;
@@ -945,7 +1003,8 @@ td:hover {
 
 .main-page-header {
     background: #efefef;
-    min-height: 720px;
+    min-height: 700px;
+    display: inline-block
 }
 
 .main-page-header-text {
