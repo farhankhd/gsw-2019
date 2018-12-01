@@ -236,7 +236,7 @@ h6 {
     }
     #banner2 p {
         color: white;
-        font-size: 5vw;
+        font-size: 4vw;
         line-height: 90%;
     }
     #banner2 h1 {
@@ -247,7 +247,7 @@ h6 {
     }
     #banner2 a {
         color: white;
-        font-size: 3vw;
+        font-size: 4vw;
         line-height: 90%;
     }
     .blob-img {
@@ -283,6 +283,40 @@ h6 {
         line-height: 90%;
         width: 50%;
         bottom: 20%;
+    }
+    #banner2 h1 {
+        color: white;
+        font-size: 5vw;
+        line-height: 90%;
+    }
+    #banner2 h2 {
+        font-family: "DIN Italic";
+        color: white;
+        font-size: 5vw;
+        line-height: 90%;
+    }
+    #banner2 h3 {
+        font-family: "DIN Regular";
+        color: white;
+        font-size: 1.7vw;
+        line-height: 90%;
+    }
+    #banner2 img {
+        -webkit-transform: scale(0.5);
+    }
+    .brand {
+        position: absolute;
+        top: 80%;
+        /* left: 50%; */
+        left: 0;
+        right: 0;
+        font-size: 0.6em;
+        z-index: 20;
+    }
+    .brand img {
+        width: 60%;
+        display: block;
+        margin: auto;
     }
 }
 
@@ -1003,7 +1037,7 @@ td:hover {
 
 .main-page-header {
     background: #efefef;
-    min-height: 700px;
+    min-height: 100vh;
     display: inline-block
 }
 

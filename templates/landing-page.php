@@ -17,11 +17,13 @@
             <img src="images/landing-page/logo2.png" id="navbar-logo"/>
             <img src="images/launch/bogota-team-logo.png" id="navbar-logo-right">
         </div>
-        <div data-parallax="scroll" class="parallax-window main-page-header">
-            <div class="brand">
-                <img src="images/launch/bogota_plus_dates.png" />
+            <div data-parallax="scroll" class="parallax-window main-page-header">
+                <div class="brand">
+                    <img src="images/launch/bogota_plus_dates.png" />
+                </div>
             </div>
         </div>
+        
         <div id="banner2">
             <div class="container">
                 <button class="register-btn">Stay Updated</button>
