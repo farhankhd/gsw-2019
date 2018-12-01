@@ -8,8 +8,8 @@
     $classIndexMenu = 'active';
 // include('templates/nav-bar.php');
 
-    // include('templates/nav-bar.php');
+    
     include('templates/landing-page.php');
-    // include('templates/header.php');
+    
 ?>
 <!-- <br /><br />
