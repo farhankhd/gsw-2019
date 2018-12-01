@@ -6,6 +6,8 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <link rel="stylesheet" href="assets/css/style.css" />
+
+         <link rel="shortcut icon" href="favicon.ico"/>
         
         <!-- Bootstrap CSS File -->
         <link href="assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -26,13 +28,10 @@
         
         <div id="banner2">
             <div class="container">
-                <!-- <button class="register-btn">Stay Updated</button> -->
                 <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Stay Updated</a>
-                <br>
-                <br>
+                <br> <br>
                 <p>SUBMIT YOUR EMAIL TO STAY INFORMED</p>
-                <br>
-                <br>
+                <br><br>
                 <h2>THE VENUE</h2>
                 <br>
                 <p style="font-family: 'Din'">Business and Recreation Center The Cube (Colsubsidio)</p>
@@ -60,31 +59,6 @@
                 </div>
             </div>
     </div>
-
-            <!-- <div class="logo-img">
-                <img src="images/landing-page/logo2.png" />
-            </div>
-            <section id="banner2" class="landing-text">
-                <div class="container">
-                    <div class="row">
-                        <div class="landing-box">
-                            <h1>MIT <a href="templates/header.php"> GSW</a> 2019 </h1>
-                            <br>
-                            <br>
-                            <p>Conference Location</p>
-                            <p>And Dates Will Be Announced In</p>
-                            <p id="demo"></p>
-                            <br>
-                            <p style="font-size: 1vw"> <a style="color: white" href="http://gsw.mit.edu/2018/">Learn more about GSW 2018 in Thailand</a></p>
-                        </div>
-                    </div>  
-            </section>
-        <div class="blob-img">
-            <img src="images/landing-page/blob.png" />
-        </div>
-        <div class="text"> 
-            <p>71% of this country's bilingual talent resides in this year's host city</p>
-        </div> -->
             
         <script src="assets/js/main.js"></script>
         <script src="lib/jquery/jquery.min.js"></script>

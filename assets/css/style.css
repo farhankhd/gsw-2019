@@ -1602,7 +1602,6 @@ p {
         opacity: 0;
     }
     #banner2 a {
-        color: white;
         font-size: 4vw;
         line-height: 90%;
     }
@@ -1678,5 +1677,20 @@ p {
         background: #efefef;
         min-height: 80vh;
         display: inline-block
+    }
+    .register-btn {
+        background-color: white;
+        /* Green */
+        border: none;
+        color: black;
+        padding: 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-family: "Din Light";
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 12px;
     }
 }
