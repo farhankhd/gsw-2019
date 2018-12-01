@@ -7,7 +7,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <link rel="stylesheet" href="assets/css/style.css" />
 
-         <link rel="shortcut icon" href="favicon.ico"/>
+        <link rel="shortcut icon" href="favicon.ico"/>
         
         <!-- Bootstrap CSS File -->
         <link href="assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -39,9 +39,9 @@
                 <p>Ak. 30 #52-77, Bogota, Colombia</p>
                 <!-- <img src="images/landing-page/colsubsidio.jpg"/> -->
                 <div class="row">
-                    <div class="col">
+                    <!-- <div class="col">
                         <img style="width:100%" src="images/landing-page/colsubsidio.jpg" />
-                    </div>
+                    </div> -->
                     <div class="col">
                         <!-- <div class="mapouter">
                             <div class="gmap_canvas">
@@ -50,7 +50,7 @@
                             </div>
                             <style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
                         </div>                     -->
-                        <img style="width:100%" src="images/landing-page/colsubsidio.jpg" />
+                        <img style="width:50%; padding: 0px" src="images/landing-page/colsubsidio.jpg" />
                     </div>
                 </div>
                 <div>
