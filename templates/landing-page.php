@@ -26,7 +26,10 @@
         
         <div id="banner2">
             <div class="container">
-                <button class="register-btn">Stay Updated</button>
+                <!-- <button class="register-btn">Stay Updated</button> -->
+                <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Stay Updated</a>
+                <br>
+                <br>
                 <p>SUBMIT YOUR EMAIL TO STAY INFORMED</p>
                 <br>
                 <br>
@@ -36,18 +39,24 @@
                 <br>
                 <p>Ak. 30 #52-77, Bogota, Colombia</p>
                 <!-- <img src="images/landing-page/colsubsidio.jpg"/> -->
-                <br>
                 <div class="row">
                     <div class="col">
                         <img style="width:100%" src="images/landing-page/colsubsidio.jpg" />
                     </div>
                     <div class="col">
+                        <!-- <div class="mapouter">
+                            <div class="gmap_canvas">
+                                <iframe width="40%" height="40%" id="gmap_canvas" src="https://maps.google.com/maps?q=Ak.%2030%20%2352-77%2C%20Bogota%2C%20Colombia&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+                                </iframe>
+                            </div>
+                            <style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
+                        </div>                     -->
                         <img style="width:100%" src="images/landing-page/colsubsidio.jpg" />
                     </div>
                 </div>
                 <div>
                     <p style="font-family: 'Din Light'"> Copyright &copy; 2011-2019. Massachusetts Institute of Technology. All Rights Reserved.</p>
-                    <p style="font-family: 'Din Light'"> For more information please contact <a href="mailto:gsw-tech@mit.edu">gsw-tech@mit.edu</a>.</p>
+                    <p style="font-family: 'Din Light'"> For more information please contact <a style="color: white" href="mailto:gsw-tech@mit.edu">gsw-tech@mit.edu</a>.</p>
                 </div>
             </div>
     </div>

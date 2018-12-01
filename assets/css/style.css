@@ -193,7 +193,7 @@ h6 {
     /* Green */
     border: none;
     color: black;
-    padding: 7px;
+    padding: 8px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -207,117 +207,6 @@ h6 {
 .img-container {
     margin-left: -100px;
     margin-right: -100px;
-}
-
-@media only screen and (max-width: 479px) {
-    .logo-img {
-        padding: 5%;
-        text-align: center;
-    }
-    .logo-img img {
-        height: auto;
-        width: 70%;
-    }
-    #banner2 {
-        display: -moz-flex;
-        display: -webkit-flex;
-        display: -ms-flex;
-        display: flex;
-        z-index: 1;
-        overflow: hidden;
-        position: relative;
-        text-align: center;
-        font-family: "DIN", sans-serif;
-    }
-    #banner2 div.landing-box {
-        float: left;
-        position: relative;
-        right: 30%;
-    }
-    #banner2 p {
-        color: white;
-        font-size: 4vw;
-        line-height: 90%;
-    }
-    #banner2 h1 {
-        color: white;
-        font-size: 6vw;
-        line-height: 90%;
-        opacity: 0;
-    }
-    #banner2 a {
-        color: white;
-        font-size: 4vw;
-        line-height: 90%;
-    }
-    .blob-img {
-        position: absolute;
-        float: left;
-        left: 30%;
-        bottom: 10%;
-        z-index: 2;
-        width: 40%;
-        font-family: "DIN", sans-serif;
-    }
-    .blob-img:hover img {
-        opacity: 0;
-        transition: all ease 0.8s;
-    }
-    .blob-img img {
-        width: 100%;
-        z-index: 5;
-        position: relative;
-        /* top: -100px;
-        right: 80px; */
-    }
-    .text {
-        width: 30%;
-        position: absolute;
-        left: 40%;
-        bottom: 10%;
-        font-family: "DIN", sans-serif;
-    }
-    .text p {
-        color: white;
-        font-size: 2.5vw;
-        line-height: 90%;
-        width: 50%;
-        bottom: 20%;
-    }
-    #banner2 h1 {
-        color: white;
-        font-size: 5vw;
-        line-height: 90%;
-    }
-    #banner2 h2 {
-        font-family: "DIN Italic";
-        color: white;
-        font-size: 5vw;
-        line-height: 90%;
-    }
-    #banner2 h3 {
-        font-family: "DIN Regular";
-        color: white;
-        font-size: 1.7vw;
-        line-height: 90%;
-    }
-    #banner2 img {
-        -webkit-transform: scale(0.5);
-    }
-    .brand {
-        position: absolute;
-        top: 80%;
-        /* left: 50%; */
-        left: 0;
-        right: 0;
-        font-size: 0.6em;
-        z-index: 20;
-    }
-    .brand img {
-        width: 60%;
-        display: block;
-        margin: auto;
-    }
 }
 
 a {
@@ -1671,4 +1560,123 @@ p {
 .blue-hr {
     border: 1px solid rgba(100, 121, 162, 0.3);
     width: 100%;
+}
+
+
+/* NEWW STUFF */
+
+@media only screen and (max-width: 479px) {
+    .logo-img {
+        padding: 5%;
+        text-align: center;
+    }
+    .logo-img img {
+        height: auto;
+        width: 70%;
+    }
+    #banner2 {
+        display: -moz-flex;
+        display: -webkit-flex;
+        display: -ms-flex;
+        display: flex;
+        z-index: 1;
+        overflow: hidden;
+        position: relative;
+        text-align: center;
+        font-family: "DIN", sans-serif;
+    }
+    #banner2 div.landing-box {
+        float: left;
+        position: relative;
+        right: 30%;
+    }
+    #banner2 p {
+        color: white;
+        font-size: 4vw;
+        line-height: 90%;
+    }
+    #banner2 h1 {
+        color: white;
+        font-size: 6vw;
+        line-height: 90%;
+        opacity: 0;
+    }
+    #banner2 a {
+        color: white;
+        font-size: 4vw;
+        line-height: 90%;
+    }
+    .blob-img {
+        position: absolute;
+        float: left;
+        left: 30%;
+        bottom: 10%;
+        z-index: 2;
+        width: 40%;
+        font-family: "DIN", sans-serif;
+    }
+    .blob-img:hover img {
+        opacity: 0;
+        transition: all ease 0.8s;
+    }
+    .blob-img img {
+        width: 100%;
+        z-index: 5;
+        position: relative;
+        /* top: -100px;
+        right: 80px; */
+    }
+    .text {
+        width: 30%;
+        position: absolute;
+        left: 40%;
+        bottom: 10%;
+        font-family: "DIN", sans-serif;
+    }
+    .text p {
+        color: white;
+        font-size: 2.5vw;
+        line-height: 90%;
+        width: 50%;
+        bottom: 20%;
+    }
+    #banner2 h1 {
+        color: white;
+        font-size: 5vw;
+        line-height: 90%;
+    }
+    #banner2 h2 {
+        font-family: "DIN Italic";
+        color: white;
+        font-size: 5vw;
+        line-height: 90%;
+    }
+    #banner2 h3 {
+        font-family: "DIN Regular";
+        color: white;
+        font-size: 1.7vw;
+        line-height: 90%;
+    }
+    #banner2 img {
+        -webkit-transform: scale(0.5);
+    }
+    .brand {
+        position: absolute;
+        top: 20%;
+        /* left: 50%; */
+        left: 0;
+        right: 0;
+        font-size: 0.6em;
+        z-index: 20;
+    }
+    .brand img {
+        width: 60%;
+        display: block;
+        margin: auto;
+    }
+    .main-page-header {
+        background: #efefef;
+        min-height: 80vh;
+        display: inline-block
+    }
 }
