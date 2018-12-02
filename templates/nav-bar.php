@@ -29,6 +29,8 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button> -->
+            <img src="images/landing-page/logo2.png" id="navbar-logo"/>
+            <img src="images/launch/bogota-team-logo.png" id="navbar-logo-right">
             <!-- <div>
                 <a class="navbar-brand" href="index.php"><img src="images/landing-page/logo2.png" id="navbar-logo"></a>
             </div>
