@@ -30,7 +30,6 @@
                 <span class="icon-bar"></span>
             </button> -->
             <img src="images/landing-page/logo2.png" id="navbar-logo"/>
-            <img src="images/launch/bogota-team-logo.png" id="navbar-logo-right">
             <!-- <div>
                 <a class="navbar-brand" href="index.php"><img src="images/landing-page/logo2.png" id="navbar-logo"></a>
             </div>
@@ -64,8 +63,9 @@
                     </div>
                 </li> -->
             </ul>
-            <!-- <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
-                <li class="nav-item dropdown">
+            <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
+            <img src="images/launch/bogota-team-logo.png" id="navbar-logo-right">
+                <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         About <span class="caret"></span>
                     </a>
@@ -76,8 +76,8 @@
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="sponsors.php">Sponsors</a>
                     </div>
-                </li>
-            </ul> -->
+                </li> -->
+            </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 </nav>

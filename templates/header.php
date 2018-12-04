@@ -34,17 +34,23 @@
     <!-- <img class="top-background hidden-xs" src="images/launch/launch_background_short.png" /> -->
 </div>
 
-<div class="section" id="registration-section">
+<div id="registration-section">
     <div class="row text-center">
         <div class="col-xs-12">
             <br />
             <!-- <img class="blob" src="images/launch/blob_01.png" /> -->
             <div class="section-subheader text-center">
-                <p><strong>Register</strong> now to learn more about <strong>MIT Global Startup Workshop 2019</strong>!</p>
-                <p> CHANGE THIS FORMATTING + BACKGROUND?!?!</p>
+                <h4>Register now to guarantee your spot!</h4>
             </div>
-            <a class="btn btn-default registration-button" role="button">Register</a> 
+            <br> <br>
+            <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Register</a>
             <!-- href="registration.php" -->
+            <br> <br><br> <br>
+            <div class="line"></div>
+            <div class="section-subheader text-center">
+                <p style="font-family: DIN Italic; font-size: 2vw">Sponsors</p>
+            </div>
+            <br> <br><br> <br>
         </div>
     </div>
 </div>
@@ -54,6 +60,44 @@
     <img class="top-background hidden-xs" src="images/launch/launch_background_short.png" />
     
 </div> -->
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="hidden-xs">
+            <div class="col-xs-1"></div>
+            <div class="col-xs-5">
+            </div>
+            <div class="col-xs-5">
+                <div class="quote" style="text-align: right">
+                    <p class="img-quote">"Events like MIT GSW play an invaluable role in harnessing the power of innovation and developing practical solutions to the world’s most pressing issues."</p>
+                    <p class="quote-name">Bill Clinton</p>
+                    <p class="quote-position">Former President of the United States</p>
+                </div>
+            </div>
+            <img src="images/launch/bill_clinton.png" class="img-responsive hidden-xs" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
+        </div>
+        <img src="images/launch/gsw-rafael-reif-mobile.jpg" class="img-responsive visible-xs-block" alt="Statement from Bill Clinton, former president of the US: Events like MIT GSW play an invaluable role in harnessing the power of innovation and developing practical solutions to the world’s most pressing issues."/>
+    </div>
+</div>
+
+<div class="why-section">
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="section-header text-center">
+                    <p style="font-family: DIN Italic; font-size: 3vw">WHY ATTEND?</p>
+            </div>
+            <ul style="font-family: DIN Light; font-size: 1.5vw">
+                <li>Transform your ideas into successful <strong>startups</strong> by gaining valuable <strong>MIT expertise</strong> through workshops</li>
+                <li>Learn about cutting edge, innovative <strong>technologies</strong> from <strong>MIT & world experts</strong> through panel discussions</li>
+                <li>Participate in the <strong>GSW Competitions</strong> to receive mentorship from renowned entrepreneurs and gain access to exclusive <strong>VIP networking events</strong></li>
+                <li>Display your company in the <strong>GSW Startup Showcase</strong> featuring protected time with investors</li>
+                <li>Gain access to top talent and emerging <strong>tech startups</strong></li>
+                <li>Learn and understand the <strong>business landscape</strong> in the South East Asian market</li>
+                <li>Make fruitful connections with <strong>investors, government officials, corporate representatives,</strong> and more.</li>
+            </ul>
+        </div>
+    </div>
+</div>
 
 <div class="container-fluid">
     <div class="row">
@@ -71,50 +115,38 @@
         <img src="images/launch/gsw-rafael-reif-mobile.jpg" class="img-responsive visible-xs-block" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
     </div>
 </div>
-<div class="section">
-    <div class="row">
-        <div class="col-xs-12">
-            <div class="section-header">
-                    <p>Why attend?</p>
-                    <p> UPDATE THIS SECTION!!!!!!</p>
+
+<div id="registration-section">
+    <div class="row text-center">
+            <h2 style="font-family: DIN Italic; font-size: 3vw">THE VENUE</h2>
+            <br>
+            <p style="font-family: 'Din'">Business and Recreation Center The Cube (Colsubsidio)</p>
+            <p style="font-family: 'Din Light'">Ak. 30 #52-77, Bogota, Colombia</p>
+            <!-- <img src="images/landing-page/colsubsidio.jpg"/> -->
+            <div class="row">
+                <!-- <div class="col">
+                    <img style="width:100%" src="images/landing-page/colsubsidio.jpg" />
+                </div> -->
+                <div class="col">
+                    <!-- <div class="mapouter">
+                        <div class="gmap_canvas">
+                            <iframe width="40%" height="40%" id="gmap_canvas" src="https://maps.google.com/maps?q=Ak.%2030%20%2352-77%2C%20Bogota%2C%20Colombia&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+                            </iframe>
+                        </div>
+                        <style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
+                    </div>                     -->
+                    <img style="width:40%; padding: 0px" src="images/launch/temp_map.png" />
+                </div>
             </div>
-            <ul>
-                <li>Transform your ideas into successful startups by gaining valuable MIT expertise through workshops</li>
-                <li>Learn about cutting edge, innovative technologies from MIT & world experts through panel discussions</li>
-                <li>Participate in the GSW Competitions to receive mentorship from renowned entrepreneurs and gain access to exclusive VIP networking events</li>
-                <li>Display your company in the GSW Startup Showcase featuring protected time with investors</li>
-                <li>Gain access to top talent and emerging tech startups</li>
-                <li>Learn and understand the business landscape in the South East Asian market</li>
-                <li>Make fruitful connections with investors, government officials, corporate representatives, and more.</li>
-            </ul>
-        </div>
     </div>
 </div>
 
-<div class="parallax-window header" data-parallax="scroll" data-image-src="headers/img/bogota-noche.jpg">
-    <h1 class="parallax-text">
-        Our sponsors
-    </h1>
-</div>
-    <div class="section">
-        <div class="section-header text-center">
-            We're proud to bring these organizations on board with us!
+<div id="registration-section">
+    <br><br>
+    <div class="row text-center">
+        <div>
+            <p style="font-family: 'Din Light'"> Copyright &copy; 2011-2019. Massachusetts Institute of Technology. All Rights Reserved.</p>
+            <p style="font-family: 'Din Light'"> For more information please contact <a style="color: white; text-decoration: underline" href="mailto:gsw-tech@mit.edu"> gsw-tech@mit.edu</a>.</p>
         </div>
-        <hr>
-        <div class="row text-center">
-            <div class="col-sm-6 col-md-3">
-                <img class="partner-logo" src="splash/img/logos/sasin.png">
-            </div>
-            <div class="col-sm-6 col-md-3">
-                <img class="partner-logo" src="splash/img/logos/mitthailand.png">
-            </div>
-            <div class="col-sm-6 col-md-3">
-                <img class="partner-logo" src="splash/img/logos/reap.png">
-            </div>
-            <div class="col-sm-6 col-md-3">
-                <img class="partner-logo" src="splash/img/logos/legatum.png">
-            </div>
-        </div>
-
     </div>
-</body>
+</div>

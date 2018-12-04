@@ -60,7 +60,7 @@ h6 {
 }
 
 .landing-page-img {
-    background-image: url("../../images/landing-page/background-full-blobs.png");
+    background-image: url("../../images/launch/launch_background_long.png");
     background-size: cover;
     background-repeat: no-repeat;
     /* color: #c8ece9; */
@@ -193,15 +193,17 @@ h6 {
     /* Green */
     border: none;
     color: black;
-    padding: 8px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-family: "Din Light";
+    /* font-family: "Din Light"; */
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
-    border-radius: 12px;
+    border-radius: 20px;
 }
 
 .img-container {
@@ -372,6 +374,20 @@ img.top-background {
     background-color: white;
 }
 
+.why-section {
+    padding: 40px 15%;
+    font-size: 1em;
+}
+
+.why-section p,
+.why-section ul {
+    color: white;
+}
+
+.why-section strong {
+    font-family: "DIN"
+}
+
 @media only screen and (min-width: 480px) {
     .section {
         padding: 40px 15%;
@@ -435,7 +451,13 @@ img.top-background {
     /* background-image: url("../../images/launch/blob_01.png"); */
 }
 
-#registration-section p {
+#registration-section p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     color: white;
 }
 
@@ -465,6 +487,13 @@ img.top-background {
     font-weight: 800;
     text-align: center;
     color: white;
+}
+
+.line {
+    height: 1px;
+    flex: 1;
+    background: white;
+    margin: 0 40px;
 }
 
 @media only screen and (min-width: 480px) {
