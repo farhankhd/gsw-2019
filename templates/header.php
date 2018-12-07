@@ -104,7 +104,7 @@
                 <li>Participate in the <strong>GSW Competitions</strong> to receive mentorship from renowned entrepreneurs and gain access to exclusive <strong>VIP networking events</strong></li>
                 <li>Display your company in the <strong>GSW Startup Showcase</strong> featuring protected time with investors</li>
                 <li>Gain access to top talent and emerging <strong>tech startups</strong></li>
-                <li>Learn and understand the <strong>business landscape</strong> in the South East Asian market</li>
+                <li>Learn and understand the <strong>business landscape</strong> in Colombia</li>
                 <li>Make fruitful connections with <strong>investors, government officials, corporate representatives,</strong> and more.</li>
             </ul>
         </div>
