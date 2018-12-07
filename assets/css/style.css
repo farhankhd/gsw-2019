@@ -31,6 +31,7 @@ body {
     font-family: 'DIN', sans-serif;
     display: inline-block;
     background-image: url("../../images/launch/launch_background_long.png");
+    background-size: cover;
 }
 
 
@@ -813,6 +814,7 @@ td:hover {
     height: 150px;
     padding: 20px;
     text-transform: uppercase;
+    font-size: 1.5vw;
 }
 
 .navbar-condensed {

@@ -45,7 +45,7 @@
                 <h4>Registration will open in 2019 - sign up to stay updated! We promise we won't spam you.</h4>
             </div>
             <br> <br>
-            <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Register</a>
+            <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Stay Updated</a>
             <!-- href="registration.php" -->
             <br> <br><br> <br>
             <div class="line"></div>
@@ -117,7 +117,7 @@
             <div class="col-xs-1"></div>
             <div class="col-xs-5">
                 <div class="quote">
-                    <p class="img-quote">By bringing together cross-sector experts</br>and leaders, GSW has built a global</br>support network, empowering and accelerating</br>entrepreneurship in emerging markets,</br>from Seoul to Madrid, Cape Town to Santiago.</br>And now Bogota.</p>
+                    <p class="img-quote">By bringing together cross-sector experts</br>and leaders, GSW has built a global</br>support network, empowering and accelerating</br>entrepreneurship in emerging markets,</br>from Seoul to Madrid, Cape Town to Santiago.</p>
                     <p class="quote-name">L. Rafael Reif</p>
                     <p class="quote-position">President of MIT</p>
                 </div>
@@ -130,6 +130,7 @@
 
 <div id="registration-section">
     <div class="row text-center">
+    <br>
             <h2 style="font-family: DIN Italic; font-size: 3vw">THE VENUE</h2>
             <br>
             <p style="font-family: 'Din'; font-size: 1.5vw">El Cubo - Business and Recreation Center (Colsubsidio)</p>
@@ -147,7 +148,8 @@
                         </div>
                         <style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
                     </div>                     -->
-                    <img style="width:40%; padding: 0px" src="images/launch/temp_map.png" />
+                    <img style="width: auto; height: 25vw; padding: 10px" src="images/launch/temp_map.png" />
+                    <img style="width: auto; height: 25vw; padding: 10px" src="images/landing-page/colsubsidio.jpg" />
                 </div>
             </div>
     </div>
