@@ -29,6 +29,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'DIN', sans-serif;
+    display: inline-block;
     background-image: url("../../images/launch/launch_background_long.png");
 }
 
@@ -490,7 +491,7 @@ h6 {
 }
 
 .line {
-    height: 1px;
+    height: 2px;
     flex: 1;
     background: white;
     margin: 0 40px;
@@ -674,7 +675,9 @@ td:hover {
 .partner-logo {
     width: 200px;
     height: auto;
-    margin: 0 auto;
+    margin: 30 auto;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .partner-logo-2 {
@@ -956,7 +959,7 @@ td:hover {
 .main-page-header {
     background: #efefef;
     min-height: 100vh;
-    display: inline-block
+    display: inline-block;
 }
 
 .main-page-header-text {
@@ -1721,5 +1724,11 @@ p {
         margin: 4px 2px;
         cursor: pointer;
         border-radius: 12px;
+    }
+    .video-container video {
+        visibility: hidden;
+    }
+    .video-container {
+        background-image: url("../../images/landing-page/bogota.png")
     }
 }

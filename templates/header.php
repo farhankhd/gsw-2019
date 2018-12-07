@@ -25,6 +25,8 @@
     </div> -->
 
     <div class="brand">
+        <img src="images/launch/gsw-heading.png"/>
+        <br> <br>
         <img src="images/launch/bogota_plus_dates.png" />
     </div>
     <div class="video-container">
@@ -40,7 +42,7 @@
             <br />
             <!-- <img class="blob" src="images/launch/blob_01.png" /> -->
             <div class="section-subheader text-center">
-                <h4>Register now to guarantee your spot!</h4>
+                <h4>Registration will open in 2019 - sign up to stay updated! We promise we won't spam you.</h4>
             </div>
             <br> <br>
             <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Register</a>
@@ -49,7 +51,17 @@
             <div class="line"></div>
             <div class="section-subheader text-center">
                 <p style="font-family: DIN Italic; font-size: 2vw">Sponsors</p>
+                <div class="container">
+                    <div class="row">
+                        <img src="images/launch/bogota-team-logo.png" class="partner-logo">
+                        <img src="images/launch/legatum.png" class="partner-logo">
+                        <img src="images/launch/martin_trust.png" class="partner-logo">
+                        <img src="images/launch/reap.png" class="partner-logo">
+
+                    </div>
+                </div>
             </div>
+            
             <br> <br><br> <br>
         </div>
     </div>
@@ -76,7 +88,7 @@
             </div>
             <img src="images/launch/bill_clinton.png" class="img-responsive hidden-xs" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
         </div>
-        <img src="images/launch/gsw-rafael-reif-mobile.jpg" class="img-responsive visible-xs-block" alt="Statement from Bill Clinton, former president of the US: Events like MIT GSW play an invaluable role in harnessing the power of innovation and developing practical solutions to the world’s most pressing issues."/>
+        <img src="images/launch/gsw-bill-clinton-mobile.png" class="img-responsive visible-xs-block" alt="Statement from Bill Clinton, former president of the US: Events like MIT GSW play an invaluable role in harnessing the power of innovation and developing practical solutions to the world’s most pressing issues."/>
     </div>
 </div>
 
@@ -105,7 +117,7 @@
             <div class="col-xs-1"></div>
             <div class="col-xs-5">
                 <div class="quote">
-                    <p class="img-quote">By bringing together cross-sector experts</br>and leaders, GSW has built a global</br>support network, empowering and accelerating</br>entrepreneurship in emerging markets,</br>from Seoul to Madrid, Cape Town to Santiago.</br>And now Bangkok.</p>
+                    <p class="img-quote">By bringing together cross-sector experts</br>and leaders, GSW has built a global</br>support network, empowering and accelerating</br>entrepreneurship in emerging markets,</br>from Seoul to Madrid, Cape Town to Santiago.</br>And now Bogota.</p>
                     <p class="quote-name">L. Rafael Reif</p>
                     <p class="quote-position">President of MIT</p>
                 </div>
@@ -120,8 +132,8 @@
     <div class="row text-center">
             <h2 style="font-family: DIN Italic; font-size: 3vw">THE VENUE</h2>
             <br>
-            <p style="font-family: 'Din'">Business and Recreation Center The Cube (Colsubsidio)</p>
-            <p style="font-family: 'Din Light'">Ak. 30 #52-77, Bogota, Colombia</p>
+            <p style="font-family: 'Din'; font-size: 1.5vw">El Cubo - Business and Recreation Center (Colsubsidio)</p>
+            <p style="font-family: 'Din Light'; font-size: 1.5vw">Ak. 30 #52-77, Bogota, Colombia</p>
             <!-- <img src="images/landing-page/colsubsidio.jpg"/> -->
             <div class="row">
                 <!-- <div class="col">
