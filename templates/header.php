@@ -34,6 +34,9 @@
     </div>
     <!-- <video class="top-background hidden-xs" preload="none" autoplay loop muted="muted" plays-inline="" src="images/launch/bogota-drone-footage.mp4"></video> -->
     <!-- <img class="top-background hidden-xs" src="images/launch/launch_background_short.png" /> -->
+    <div class="brand2">
+        <p> footage from worldmoments.org</p>
+    </div>
 </div>
 
 <div id="registration-section">
@@ -42,8 +45,8 @@
             <br />
             <!-- <img class="blob" src="images/launch/blob_01.png" /> -->
             <div class="section-subheader text-center">
-                <h4>Applications to attend the conference will open in 2019. Selected applicants</h4>
-                <h4>will receive free registration to attend. Sign up to receive updates here!</h4>
+                <h4>Applications to attend the conference will open in 2019.</h4>
+                <h4>Selected applicants will receive free registration to attend. Sign up to receive updates here!</h4>
             </div>
             <br> <br>
             <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Stay Updated</a>
@@ -51,7 +54,7 @@
             <br> <br><br> <br>
             <div class="line"></div>
             <div class="section-subheader text-center">
-                <p style="font-family: DIN Italic; font-size: 2vw">Collaborators</p>
+                <p>Collaborators</p>
                 <div class="container">
                     <div class="row">
                         <img src="images/launch/bogota-team-logo.png" class="partner-logo">
@@ -97,12 +100,12 @@
     <div class="row">
         <div class="col-xs-12">
             <div class="section-header text-center">
-                    <p style="font-family: DIN Italic; font-size: 3vw">WHY ATTEND?</p>
+                    <p>WHY ATTEND?</p>
             </div>
-            <ul style="font-family: DIN Light; font-size: 1.4vw">
+            <ul>
                 <li>Transform your ideas into successful <strong>startups</strong> by gaining valuable <strong>MIT expertise</strong> through workshops</li>
                 <li>Learn about cutting edge, innovative <strong>technologies</strong> from <strong>MIT & world experts</strong> through panel discussions</li>
-                <li>Participate in the <strong>GSW Competitions</strong> to receive mentorship from renowned entrepreneurs and gain access to <br>exclusive <strong>VIP networking events</strong> </li>
+                <li>Participate in the <strong>GSW Competitions</strong> to receive mentorship from renowned entrepreneurs and gain access to exclusive <strong>VIP networking events</strong> </li>
                 <li>Display your company in the <strong>GSW Startup Showcase</strong> featuring protected time with investors</li>
                 <li>Gain access to top talent and emerging <strong>tech startups</strong></li>
                 <li>Learn and understand the <strong>business landscape</strong> in Colombia</li>
@@ -129,42 +132,44 @@
     </div>
 </div>
 
-<div id="registration-section">
+<div id="why-section">
     <div class="row text-center">
     <br>
-            <h2 style="font-family: DIN Italic; font-size: 3vw">THE VENUE</h2>
+            <h2 >THE VENUE</h2>
             <br>
-            <p style="font-family: 'Din'; font-size: 1.5vw">El Cubo - Business and Recreation Center (Colsubsidio)</p>
-            <p style="font-family: 'Din Light'; font-size: 1.5vw">Ak. 30 #52-77, Bogota, Colombia</p>
+            <p style="color: white">El Cubo - Business and Recreation Center (Colsubsidio)</p>
+            <p style="color: white">Ak. 30 #52-77, Bogota, Colombia</p>
             <!-- <img src="images/landing-page/colsubsidio.jpg"/> -->
             <div class="row">
                 <!-- <div class="col">
                     <img style="width:100%" src="images/landing-page/colsubsidio.jpg" />
                 </div> -->
                 <div class="col">
-                    <!-- <div class="mapouter">
-                        <div class="gmap_canvas">
-                            <iframe width="40%" height="40%" id="gmap_canvas" src="https://maps.google.com/maps?q=Ak.%2030%20%2352-77%2C%20Bogota%2C%20Colombia&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
-                            </iframe>
-                        </div>
-                        <style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
-                    </div>                     -->
-                    <img style="width: auto; height: 25vw; padding: 10px" src="images/launch/temp_map.png" />
-                    <img style="width: auto; height: 25vw; padding: 10px" src="images/landing-page/colsubsidio.jpg" />
+                    <!-- <img style="width: auto; height: 25vw; padding: 10px" src="images/launch/temp_map.png" /> -->
+                    <div class="row" style="width: 33vw; height: 25vw; padding: 10px; display: inline-block;" id="map">
+                    </div>
+                    <!-- <div class="row" style="display: inline-block;">
+                        <img style="width: auto; height: 25vw; padding: 10px" src="images/landing-page/colsubsidio.jpg" />
+                    </div> -->
+
+                    <script>
+                    function initMap() {
+                        // The location of cubo
+                        var cubo = {lat: 4.64216, lng: -74.079369};
+                        // The map, centered at cubo
+                        var map = new google.maps.Map(
+                            document.getElementById('map'), {zoom: 10, center: cubo});
+                        // The marker, positioned at cubo
+                        var marker = new google.maps.Marker({position: cubo, map: map});
+                        }
+                </script>
+                <script async defer
+                        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAaFHhMXs5pzFzWb2ZfhTD3uyAuFeU_15U&callback=initMap">
+                    </script>
+                </div>
+                <div class="col">
+                <img style="width: 35vw; height: 25vw; padding: 10px" src="images/landing-page/colsubsidio.jpg" />
                 </div>
             </div>
     </div>
-</div>
-
-<div id="registration-section">
-    <br><br>
-    <div class="row text-center">
-        <div>
-            <p style="font-family: 'Din Light'"> Copyright &copy; 2011-2019. Massachusetts Institute of Technology. All Rights Reserved.</p>
-            <p style="font-family: 'Din Light'"> For more information please contact <a style="color: white; text-decoration: underline" href="mailto:gsw-tech@mit.edu"> gsw-tech@mit.edu</a>.</p>
-        </div>
-    </div>
-
-    <br><br>
-    <br><br>
 </div>

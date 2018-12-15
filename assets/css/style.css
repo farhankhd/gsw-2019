@@ -25,14 +25,16 @@
     src: url("../user_fonts/FF_DIN_Regular.otf");
 }
 
+html,
 body {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     width: 100%;
     font-family: 'DIN', sans-serif;
     display: inline-block;
     background-image: url("../../images/launch/launch_background_short.png");
     background-size: cover;
+    overflow: auto;
 }
 
 
@@ -331,6 +333,13 @@ img.top-background {
     z-index: 20;
 }
 
+.brand2 {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    color: white;
+}
+
 .brand img {
     width: 25%;
     display: block;
@@ -390,6 +399,22 @@ img.top-background {
 .why-section ul {
     color: white;
     display: block;
+    font-family: DIN Italic;
+    font-size: 3vw
+}
+
+.why-section ul {
+    font-family: DIN Light;
+    font-size: 1.4vw
+}
+
+.why-section h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: white;
 }
 
 .why-section strong {
@@ -469,6 +494,11 @@ h6 {
     color: white;
 }
 
+#registration-section p {
+    font-family: DIN Italic;
+    font-size: 2vw
+}
+
 .blob {
     position: absolute;
     right: 0;
@@ -478,6 +508,7 @@ h6 {
 
 .parallax-window.header {
     height: 250px;
+    margin-top: -20px;
     background-size: cover;
     background-position: center;
     background-repeat: none;
@@ -704,6 +735,7 @@ td:hover {
     height: 80px;
     width: auto;
     margin: 30 auto;
+    /* padding: 20px; */
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -1467,11 +1499,15 @@ td:hover {
 
 /* FOOTER CSS */
 
-footer {
+#footer {
     margin-top: 50px;
-    background-color: rgb(6, 23, 56);
+    /* background-color: white; */
     padding-top: 40px;
     padding-bottom: 40px;
+}
+
+#footer p {
+    color: white;
 }
 
 #footer-hr {
@@ -1765,6 +1801,32 @@ p {
     }
     .video-container {
         background-image: url("../../images/landing-page/bogota.png")
+    }
+    .partner-logo {
+        /* width: 200px; */
+        height: 80px;
+        width: auto;
+        margin: 30 auto;
+        padding: 20px;
+        /* padding-left: 20px;
+        padding-right: 20px; */
+    }
+    .why-section p,
+    .why-section ul {
+        font-size: 10vw
+    }
+    .why-section ul {
+        font-family: DIN Light;
+        font-size: 4vw
+    }
+    #registration-section p {
+        color: white;
+        font-family: DIN Italic;
+        font-size: 10vw
+    }
+    #footer p {
+        color: white;
+        font-size: 2vw;
     }
 }
 
