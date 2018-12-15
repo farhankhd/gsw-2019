@@ -42,7 +42,8 @@
             <br />
             <!-- <img class="blob" src="images/launch/blob_01.png" /> -->
             <div class="section-subheader text-center">
-                <h4>Registration will open in 2019 - sign up to stay updated! We promise we won't spam you.</h4>
+                <h4>Applications to attend the conference will open in 2019. Selected applicants</h4>
+                <h4>will receive free registration to attend. Sign up to receive updates here!</h4>
             </div>
             <br> <br>
             <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Stay Updated</a>
@@ -50,13 +51,13 @@
             <br> <br><br> <br>
             <div class="line"></div>
             <div class="section-subheader text-center">
-                <p style="font-family: DIN Italic; font-size: 2vw">Sponsors</p>
+                <p style="font-family: DIN Italic; font-size: 2vw">Collaborators</p>
                 <div class="container">
                     <div class="row">
                         <img src="images/launch/bogota-team-logo.png" class="partner-logo">
-                        <img src="images/launch/legatum.png" class="partner-logo">
-                        <img src="images/launch/martin_trust.png" class="partner-logo">
-                        <img src="images/launch/reap.png" class="partner-logo">
+                        <img src="images/launch/legatum_2.png" class="partner-logo">
+                        <img src="images/launch/martin_trust_2.png" class="partner-logo">
+                        <img src="images/launch/reap_2.png" class="partner-logo">
 
                     </div>
                 </div>
@@ -73,7 +74,7 @@
     
 </div> -->
 
-<div class="container-fluid">
+<!-- <div class="container-fluid">
     <div class="row">
         <div class="hidden-xs">
             <div class="col-xs-1"></div>
@@ -90,7 +91,7 @@
         </div>
         <img src="images/launch/gsw-bill-clinton-mobile.png" class="img-responsive visible-xs-block" alt="Statement from Bill Clinton, former president of the US: Events like MIT GSW play an invaluable role in harnessing the power of innovation and developing practical solutions to the world’s most pressing issues."/>
     </div>
-</div>
+</div> -->
 
 <div class="why-section">
     <div class="row">
@@ -98,10 +99,10 @@
             <div class="section-header text-center">
                     <p style="font-family: DIN Italic; font-size: 3vw">WHY ATTEND?</p>
             </div>
-            <ul style="font-family: DIN Light; font-size: 1.5vw">
+            <ul style="font-family: DIN Light; font-size: 1.4vw">
                 <li>Transform your ideas into successful <strong>startups</strong> by gaining valuable <strong>MIT expertise</strong> through workshops</li>
                 <li>Learn about cutting edge, innovative <strong>technologies</strong> from <strong>MIT & world experts</strong> through panel discussions</li>
-                <li>Participate in the <strong>GSW Competitions</strong> to receive mentorship from renowned entrepreneurs and gain access to exclusive <strong>VIP networking events</strong></li>
+                <li>Participate in the <strong>GSW Competitions</strong> to receive mentorship from renowned entrepreneurs and gain access to <br>exclusive <strong>VIP networking events</strong> </li>
                 <li>Display your company in the <strong>GSW Startup Showcase</strong> featuring protected time with investors</li>
                 <li>Gain access to top talent and emerging <strong>tech startups</strong></li>
                 <li>Learn and understand the <strong>business landscape</strong> in Colombia</li>
@@ -163,4 +164,7 @@
             <p style="font-family: 'Din Light'"> For more information please contact <a style="color: white; text-decoration: underline" href="mailto:gsw-tech@mit.edu"> gsw-tech@mit.edu</a>.</p>
         </div>
     </div>
+
+    <br><br>
+    <br><br>
 </div>

@@ -28,6 +28,7 @@
 body {
     margin: 0;
     padding: 0;
+    width: 100%;
     font-family: 'DIN', sans-serif;
     display: inline-block;
     background-image: url("../../images/launch/launch_background_long.png");
@@ -373,17 +374,21 @@ img.top-background {
 .section {
     padding: 40px 15%;
     font-size: 1em;
-    background-color: white;
+    /* background-color: white; */
 }
 
 .why-section {
     padding: 40px 15%;
     font-size: 1em;
+    background-image: url('../../images/launch/blob_05.png');
+    background-repeat: no-repeat;
+    background-image: rgba(255, 255, 255, 0.5);
 }
 
 .why-section p,
 .why-section ul {
     color: white;
+    display: block;
 }
 
 .why-section strong {
@@ -674,8 +679,9 @@ td:hover {
 }
 
 .partner-logo {
-    width: 200px;
-    height: auto;
+    /* width: 200px; */
+    height: 80px;
+    width: auto;
     margin: 30 auto;
     padding-left: 20px;
     padding-right: 20px;
@@ -800,6 +806,8 @@ td:hover {
 
 .navbar {
     /* background: rgba(10, 28, 63, 1); */
+    /* width: 100%; */
+    max-width: 100%;
     background-image: url("../../images/launch/launch_background_short.png");
     /* background: -moz-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgba(8, 21, 47, 1) 25%, rgba(0, 0, 0, 0) 100%); */
     /* background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(10, 28, 63, 1)), color-stop(25%, rgba(8, 21, 47, 1)), color-stop(100%, rgba(0, 0, 0, 0))); */
@@ -834,11 +842,6 @@ td:hover {
 
 .navbar-brand {
     padding: 0 15px;
-}
-
-#navbar-logo {
-    height: 50px;
-    transition: height 0.3s ease-out;
 }
 
 #navbar-logo-right {
@@ -1309,6 +1312,11 @@ td:hover {
     margin-bottom: 15px;
 }
 
+.team-background {
+    background-image: url('images/team/Team.jpg');
+    /* object-position: center; */
+}
+
 
 /*ADVISORY BOARD*/
 
@@ -1733,4 +1741,11 @@ p {
     .video-container {
         background-image: url("../../images/landing-page/bogota.png")
     }
+}
+
+#navbar-logo {
+    height: 8vh;
+    padding: 10px;
+    padding-top: 0px;
+    transition: height 0.3s ease-out;
 }
