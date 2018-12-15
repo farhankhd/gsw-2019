@@ -31,7 +31,7 @@ body {
     width: 100%;
     font-family: 'DIN', sans-serif;
     display: inline-block;
-    background-image: url("../../images/launch/launch_background_long.png");
+    background-image: url("../../images/launch/launch_background_short.png");
     background-size: cover;
 }
 
@@ -53,6 +53,7 @@ h6 {
     text-transform: uppercase;
     letter-spacing: 2px;
     font-family: "DIN", sans-serif;
+    color: white;
 }
 
 .landing-page {
@@ -480,6 +481,26 @@ h6 {
     background-size: cover;
     background-position: center;
     background-repeat: none;
+}
+
+.header-overlay {
+    height: 100%;
+    z-index: 100;
+    opacity: 0.6;
+    background: -moz-linear-gradient(top, rgba(28, 189, 230, 0) 0%, rgba(33, 218, 224, 0.65) 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(33, 218, 224, 0.65)), color-stop(100%, rgba(0, 0, 0, 0)));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, rgba(28, 189, 230, 0) 0%, rgba(33, 218, 224, 0.65) 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, rgba(28, 189, 230, 0) 0%, rgba(33, 218, 224, 0.65) 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, rgba(28, 189, 230, 0) 0%, rgba(33, 218, 224, 0.65) 100%);
+    /* IE10+ */
+    background: linear-gradient(to bottom, rgba(28, 189, 230, 0) 0%, rgba(33, 218, 224, 0.65) 100%);
+    /* W3C */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000', GradientType=0);
+    /* IE6-9 */
 }
 
 @media only screen and (min-width: 480px) {
@@ -1253,13 +1274,13 @@ td:hover {
     font-weight: 800;
     margin-bottom: 5px;
     font-size: 1em;
-    color: #515152;
+    color: white;
 }
 
 .team-association,
 .team-role {
     margin-bottom: 3px;
-    color: #0e1e58;
+    color: #e4e4f0;
     font-size: 0.8em;
     text-align: center;
     font-weight: 200;
@@ -1269,7 +1290,7 @@ td:hover {
 
 .team-area {
     margin-bottom: 20px;
-    color: #0e1e58;
+    color: #e4e4f0;
     font-size: 0.9em;
     text-align: center;
     font-weight: 400;
@@ -1278,6 +1299,7 @@ td:hover {
 .team-row,
 .team-expanded-bio {
     margin-bottom: 30px;
+    color: white;
 }
 
 .team-row h2 {
@@ -1293,11 +1315,13 @@ td:hover {
     font-size: 0.7em;
     text-align: justify;
     text-justify: inter-word;
+    color: white;
 }
 
 .team-expanded-name {
     font-weight: 800;
     font-size: 1.2em;
+    color: #a6a7ad;
 }
 
 .team-picture-association {
@@ -1310,6 +1334,7 @@ td:hover {
 
 .team-expanded-association {
     margin-bottom: 15px;
+    color: #a6a7ad;
 }
 
 .team-background {
