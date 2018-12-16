@@ -416,6 +416,15 @@ h4,
 h5,
 h6 {
     color: white;
+    font-size: 1.4vw;
+    font-family: "DIN Light";
+}
+
+.why-img {
+    width: 35vw;
+    height: 25vw;
+    padding: 10px;
+    display: inline-block;
 }
 
 .why-section strong {
@@ -1824,6 +1833,22 @@ p {
     .why-section ul {
         font-family: DIN Light;
         font-size: 4vw
+    }
+    .why-section h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: white;
+        font-size: 4vw;
+        font-family: "DIN Light";
+    }
+    .why-img {
+        width: 50vw;
+        height: 40vw;
+        padding: 10px;
+        display: inline-block;
     }
     #registration-section p {
         color: white;

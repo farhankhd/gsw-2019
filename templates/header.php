@@ -132,13 +132,15 @@
     </div>
 </div>
 
-<div id="why-section">
+<div class="why-section">
     <div class="row text-center">
     <br>
-            <h2 >THE VENUE</h2>
+            <div class="section-header text-center">
+                    <p>THE VENUE</p>
+            </div>
+            <h1>El Cubo - Business and Recreation Center (Colsubsidio)</h1>
+            <h1>Ak. 30 #52-77, Bogota, Colombia</h1>
             <br>
-            <p style="color: white">El Cubo - Business and Recreation Center (Colsubsidio)</p>
-            <p style="color: white">Ak. 30 #52-77, Bogota, Colombia</p>
             <!-- <img src="images/landing-page/colsubsidio.jpg"/> -->
             <div class="row">
                 <!-- <div class="col">
@@ -168,7 +170,7 @@
                     </script>
                 </div>
                 <div class="col">
-                <img style="width: 35vw; height: 25vw; padding: 10px" src="images/landing-page/colsubsidio.jpg" />
+                <img class="why-img" src="images/landing-page/colsubsidio.jpg" />
                 </div>
             </div>
     </div>
