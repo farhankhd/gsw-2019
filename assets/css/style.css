@@ -416,7 +416,7 @@ h4,
 h5,
 h6 {
     color: white;
-    font-size: 1.4vw;
+    font-size: 1.2vw;
     font-family: "DIN Light";
 }
 
@@ -1845,7 +1845,7 @@ p {
         font-family: "DIN Light";
     }
     .why-img {
-        width: 50vw;
+        width: 43vw;
         height: 40vw;
         padding: 10px;
         display: inline-block;

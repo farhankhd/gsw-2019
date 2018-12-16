@@ -13,17 +13,6 @@
 <body>
 <div data-parallax="scroll" class="parallax-window main-page-header" style="display:inline-block;">
 
-    <!-- Image while loading -->
-    <!-- <img class="top-background hidden-xs" src="images/launch/temp_video.png" /> -->
-
-    <!-- Full-size video -->
-    <!-- <div class="top-background-div">
-        <video class="hidden-xs" preload="none" autoplay loop muted="muted" plays-inline="" src="images/launch/bogota-drone-footage.mp4"></video>
-    </div> -->
-    <!-- <div class="top-background-div-2">
-        <video class="top-background hidden-xs" preload="none" autoplay loop muted="muted" plays-inline="" src="images/launch/bogota-drone-footage.mp4"></video>
-    </div> -->
-
     <div class="brand">
         <img src="images/launch/gsw-heading.png"/>
         <br> <br>
@@ -32,8 +21,7 @@
     <div class="video-container">
         <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="images/launch/bogota-drone-footage.mp4"></video>
     </div>
-    <!-- <video class="top-background hidden-xs" preload="none" autoplay loop muted="muted" plays-inline="" src="images/launch/bogota-drone-footage.mp4"></video> -->
-    <!-- <img class="top-background hidden-xs" src="images/launch/launch_background_short.png" /> -->
+    
     <div class="brand2">
         <p> footage from worldmoments.org</p>
     </div>
@@ -70,31 +58,6 @@
         </div>
     </div>
 </div>
-
-<!-- <div data-parallax="scroll" class="placeholder">
-
-    <img class="top-background hidden-xs" src="images/launch/launch_background_short.png" />
-    
-</div> -->
-
-<!-- <div class="container-fluid">
-    <div class="row">
-        <div class="hidden-xs">
-            <div class="col-xs-1"></div>
-            <div class="col-xs-5">
-            </div>
-            <div class="col-xs-5">
-                <div class="quote" style="text-align: right">
-                    <p class="img-quote">"Events like MIT GSW play an invaluable role in harnessing the power of innovation and developing practical solutions to the world’s most pressing issues."</p>
-                    <p class="quote-name">Bill Clinton</p>
-                    <p class="quote-position">Former President of the United States</p>
-                </div>
-            </div>
-            <img src="images/launch/bill_clinton.png" class="img-responsive hidden-xs" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
-        </div>
-        <img src="images/launch/gsw-bill-clinton-mobile.png" class="img-responsive visible-xs-block" alt="Statement from Bill Clinton, former president of the US: Events like MIT GSW play an invaluable role in harnessing the power of innovation and developing practical solutions to the world’s most pressing issues."/>
-    </div>
-</div> -->
 
 <div class="why-section">
     <div class="row">
@@ -141,18 +104,13 @@
             <h1>El Cubo - Business and Recreation Center (Colsubsidio)</h1>
             <h1>Ak. 30 #52-77, Bogota, Colombia</h1>
             <br>
-            <!-- <img src="images/landing-page/colsubsidio.jpg"/> -->
+            
             <div class="row">
-                <!-- <div class="col">
-                    <img style="width:100%" src="images/landing-page/colsubsidio.jpg" />
-                </div> -->
+
                 <div class="col">
                     <!-- <img style="width: auto; height: 25vw; padding: 10px" src="images/launch/temp_map.png" /> -->
                     <div class="row" style="width: 33vw; height: 25vw; padding: 10px; display: inline-block;" id="map">
                     </div>
-                    <!-- <div class="row" style="display: inline-block;">
-                        <img style="width: auto; height: 25vw; padding: 10px" src="images/landing-page/colsubsidio.jpg" />
-                    </div> -->
 
                     <script>
                     function initMap() {
@@ -164,13 +122,14 @@
                         // The marker, positioned at cubo
                         var marker = new google.maps.Marker({position: cubo, map: map});
                         }
-                </script>
-                <script async defer
+                    </script>
+                    <script async defer
                         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAaFHhMXs5pzFzWb2ZfhTD3uyAuFeU_15U&callback=initMap">
                     </script>
                 </div>
+                <br>
                 <div class="col">
-                <img class="why-img" src="images/landing-page/colsubsidio.jpg" />
+                    <img class="why-img" src="images/landing-page/colsubsidio.jpg" />
                 </div>
             </div>
     </div>
