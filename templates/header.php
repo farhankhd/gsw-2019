@@ -30,7 +30,7 @@
         <img src="images/launch/bogota_plus_dates.png" />
     </div>
     <div class="video-container">
-        <video preload="none" autoplay loop muted="muted" plays-inline="" src="images/launch/bogota-drone-footage.mp4"></video>
+        <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="images/launch/bogota-drone-footage.mp4"></video>
     </div>
     <!-- <video class="top-background hidden-xs" preload="none" autoplay loop muted="muted" plays-inline="" src="images/launch/bogota-drone-footage.mp4"></video> -->
     <!-- <img class="top-background hidden-xs" src="images/launch/launch_background_short.png" /> -->
