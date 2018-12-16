@@ -1350,6 +1350,8 @@ td:hover {
 
 .team-row h2 {
     margin-bottom: 15px;
+    font-family: "DIN";
+    font-size: 3vw;
 }
 
 .team {
