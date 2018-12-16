@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
 <body>
-<div data-parallax="scroll" class="parallax-window main-page-header">
+<div data-parallax="scroll" class="parallax-window main-page-header" style="display:inline-block;">
 
     <!-- Image while loading -->
     <!-- <img class="top-background hidden-xs" src="images/launch/temp_video.png" /> -->

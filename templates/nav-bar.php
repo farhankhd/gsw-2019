@@ -11,6 +11,10 @@
     <title><?= $pageTitle ?></title>
     <link rel="shortcut icon" href="favicon.ico"/>
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
     <link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,400i,500,500i,600,700,800,900" rel="stylesheet">
@@ -23,22 +27,13 @@
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
-            <!-- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
-            </button> -->
+            </button>
             <img src="images/landing-page/logo2.png" id="navbar-logo"/>
-            <!-- <div>
-                <a class="navbar-brand" href="index.php"><img src="images/landing-page/logo2.png" id="navbar-logo"></a>
-            </div>
-            <div>
-                <a class="navbar-brand" href="index.php"><img src="images/launch/bogota-team-logo.png" id="navbar-logo-right"></a>
-            </div> -->
-            <!-- <a class="navbar-brand" href="index.php"><img src="images/landing-page/logo2.png" id="navbar-logo"></a>
-            <a class="navbar-brand" href="index.php"><img src="images/launch/bogota-team-logo.png" id="navbar-logo"></a> -->
-            
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -65,7 +60,7 @@
                 </li> -->
             </ul>
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
-            <img src="images/launch/bogota-team-logo.png" id="navbar-logo">
+            <img src="images/launch/bogota-team-logo.png" id="navbar-logo-right">
                 <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         About <span class="caret"></span>
@@ -82,3 +77,34 @@
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 </nav>
+
+<?php
+$scripts = "
+    <script>
+        $(document).scroll(function () {
+            var scrollPos = $(document).scrollTop();
+            if (scrollPos > 250) {
+                $('#navbar-logo').addClass('navbar-logo-small');
+                $('.navbar').addClass('navbar-condensed');
+            } else {
+                $('#navbar-logo').removeClass('navbar-logo-small');
+                $('.navbar').removeClass('navbar-condensed');
+            }
+        });
+
+        (function() {
+            var nav = document.getElementById('nav'),
+            anchor = nav.getElementsByTagName('a'),
+            current = window.location.href.split('/')[window.location.href.split('/').length-1];
+                        
+            for (var i = 0; i < anchor.length; i++) {
+                var url = anchor[i].href.split('/')[anchor[i].href.split('/').length-1];
+
+                if(url == current) {
+                    
+                        anchor[i].className = \"active\";
+                }
+            }
+        })();
+    </script>";
+?>

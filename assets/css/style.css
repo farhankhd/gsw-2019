@@ -862,13 +862,17 @@ td:hover {
     /* width: 100%; */
     max-width: 100%;
     background-image: url("../../images/launch/launch_background_short.png");
-    /* background: -moz-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgba(8, 21, 47, 1) 25%, rgba(0, 0, 0, 0) 100%); */
-    /* background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(10, 28, 63, 1)), color-stop(25%, rgba(8, 21, 47, 1)), color-stop(100%, rgba(0, 0, 0, 0))); */
-    /* background: -webkit-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgba(8, 21, 47, 1) 25%, rgba(0, 0, 0, 0) 100%); */
-    /* background: -o-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgba(8, 21, 47, 1) 25%, rgba(0, 0, 0, 0) 100%); */
-    /* background: -ms-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgba(8, 21, 47, 1) 25%, rgba(0, 0, 0, 0) 100%); */
-    /* background: linear-gradient(to bottom, rgba(10, 28, 63, 1) 0%, rgba(8, 21, 47, 1) 25%, rgba(0, 0, 0, 0) 100%); */
-    -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 1)), to(rgba(0, 0, 0, 0)));
+    background: -moz-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgb(8, 39, 47) 25%, rgba(0, 0, 0, 0) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(10, 28, 63, 1)), color-stop(25%, rgba(8, 21, 47, 1)), color-stop(100%, rgba(0, 0, 0, 0)));
+    background: -webkit-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgba(8, 21, 47, 1) 25%, rgba(0, 0, 0, 0) 100%);
+    background: -o-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgba(8, 21, 47, 1) 25%, rgba(0, 0, 0, 0) 100%);
+    background: -ms-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgba(8, 21, 47, 1) 25%, rgba(0, 0, 0, 0) 100%);
+    background: linear-gradient(to bottom, rgba(10, 28, 63, 1) 0%, rgba(8, 21, 47, 1) 25%, rgba(0, 0, 0, 0) 100%);
+    /* -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 1)), to(rgba(0, 0, 0, 0)));
+    -webkit-mask-image: -moz-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0) 100%);
+    -webkit-mask-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0) 100%);
+    -webkit-mask-image: -o-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0) 100%);
+    -webkit-mask-image: -ms-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0) 100%); */
     mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#0a1c3f', endColorstr='#000000', GradientType=0);
     border: none;
@@ -1778,8 +1782,8 @@ p {
     }
     .main-page-header {
         background: #efefef;
-        min-height: 80vh;
-        display: inline-block
+        min-height: 100vh;
+        display: inline-block;
     }
     .register-btn {
         background-color: white;
@@ -1800,7 +1804,8 @@ p {
         visibility: hidden;
     }
     .video-container {
-        background-image: url("../../images/landing-page/bogota.png")
+        background-image: url("../../images/landing-page/bogota.png");
+        display: inline-block
     }
     .partner-logo {
         /* width: 200px; */
@@ -1827,6 +1832,9 @@ p {
     #footer p {
         color: white;
         font-size: 2vw;
+    }
+    #navbar-logo-right {
+        visibility: hidden;
     }
 }
 
