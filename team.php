@@ -3,6 +3,19 @@
     include('templates/nav-bar.php');
 ?>
 
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130174054-2"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130174054-2');
+    </script>
+
+</head>
+
 
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/Team.jpg');">
     <div class="header-overlay">

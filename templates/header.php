@@ -1,4 +1,15 @@
 <head>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130174054-2"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130174054-2');
+    </script>
+
     <meta charset="UTF-8">
     <title><?= $pageTitle ?></title>
     <link rel="shortcut icon" href="favicon.ico"/>
