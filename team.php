@@ -12,6 +12,7 @@
     gtag('js', new Date());
 
     gtag('config', 'UA-130174054-2');
+    ga('send', 'pageview');
     </script>
 
 </head>
