@@ -55,7 +55,7 @@
                 </div>
             </div>
             
-            <br> <br><br> <br>
+            <br> <br>
         </div>
     </div>
 </div>
@@ -64,7 +64,7 @@
     <div class="row">
         <div class="col-xs-12">
             <div class="section-header text-center">
-                    <p>WHY ATTEND?</p>
+                    <h1>WHY ATTEND?</h1>
             </div>
             <ul>
                 <li>Transform your ideas into successful <strong>startups</strong> by gaining valuable <strong>MIT expertise</strong> through workshops</li>
@@ -97,41 +97,39 @@
 </div>
 
 <div class="why-section">
-    <div class="row text-center">
+    <div class="row">
     <br>
-            <div class="section-header text-center">
-                    <p>THE VENUE</p>
-            </div>
-            <h1>El Cubo - Business and Recreation Center (Colsubsidio)</h1>
-            <h1>Ak. 30 #52-77, Bogota, Colombia</h1>
-            <br>
-            
-            <div class="row">
-
-                <div class="col">
-                    <!-- <img style="width: auto; height: 25vw; padding: 10px" src="images/launch/temp_map.png" /> -->
-                    <div class="row" style="width: 33vw; height: 25vw; padding: 10px; display: inline-block;" id="map">
-                    </div>
-
-                    <script>
-                    function initMap() {
-                        // The location of cubo
-                        var cubo = {lat: 4.64216, lng: -74.079369};
-                        // The map, centered at cubo
-                        var map = new google.maps.Map(
-                            document.getElementById('map'), {zoom: 10, center: cubo});
-                        // The marker, positioned at cubo
-                        var marker = new google.maps.Marker({position: cubo, map: map});
-                        }
-                    </script>
-                    <script async defer
-                        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAaFHhMXs5pzFzWb2ZfhTD3uyAuFeU_15U&callback=initMap">
-                    </script>
-                </div>
-                <br>
-                <div class="col">
-                    <img class="why-img" src="images/landing-page/colsubsidio.jpg" />
-                </div>
-            </div>
+    <div class="section-header text-center">
+            <h1>THE VENUE</h1>
     </div>
+    <div class="text-center">
+        <p>El Cubo - Business and Recreation Center (Colsubsidio)</p>
+        <p>Ak. 30 #52-77, Bogota, Colombia</p>
+    </div>
+    <br>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-6" style="width: 33vw; height: 23vw; padding: 10px; display: inline-block;" id="map">
+            </div>
+            <div class="col-xs-6">
+                <img class="why-img" src="images/landing-page/colsubsidio.jpg" />
+            </div>
+        </div>
+    </div>
+
+    <script>
+    function initMap() {
+        // The location of cubo
+        var cubo = {lat: 4.64216, lng: -74.079369};
+        // The map, centered at cubo
+        var map = new google.maps.Map(
+            document.getElementById('map'), {zoom: 10, center: cubo});
+        // The marker, positioned at cubo
+        var marker = new google.maps.Marker({position: cubo, map: map});
+        }
+    </script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAaFHhMXs5pzFzWb2ZfhTD3uyAuFeU_15U&callback=initMap">
+    </script>
 </div>

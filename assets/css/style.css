@@ -396,7 +396,7 @@ img.top-background {
     background-image: rgba(255, 255, 255, 0.5);
 }
 
-.why-section p,
+.why-section h1,
 .why-section ul {
     color: white;
     display: block;
@@ -409,8 +409,7 @@ img.top-background {
     font-size: 1.4vw
 }
 
-.why-section h1,
-h2,
+.why-section h2,
 h3,
 h4,
 h5,
@@ -420,11 +419,18 @@ h6 {
     font-family: "DIN Light";
 }
 
+.why-section p {
+    font-family: "DIN";
+    color: white;
+    font-size: 1.4vw;
+}
+
 .why-img {
     width: 35vw;
-    height: 25vw;
+    min-height: 100%;
     padding: 10px;
     display: inline-block;
+    object-fit: cover;
 }
 
 .why-section strong {
@@ -1828,7 +1834,7 @@ p {
         /* padding-left: 20px;
         padding-right: 20px; */
     }
-    .why-section p,
+    .why-section h1,
     .why-section ul {
         font-size: 10vw
     }
@@ -1836,8 +1842,7 @@ p {
         font-family: DIN Light;
         font-size: 4vw
     }
-    .why-section h1,
-    h2,
+    .why-section h2,
     h3,
     h4,
     h5,
@@ -1845,6 +1850,11 @@ p {
         color: white;
         font-size: 4vw;
         font-family: "DIN Light";
+    }
+    .why-section p {
+        font-family: "DIN";
+        color: white;
+        font-size: 4vw;
     }
     .why-img {
         width: 43vw;

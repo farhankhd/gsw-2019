@@ -118,7 +118,7 @@
             <a href="#teamJoaquinRichards">
             <img class="team-picture" src="images/team/Joaquin.jpg"></a>
             <div class="team-name">Joaquin Richards</div>
-            <div class="team-role">GSW Content team</div>
+            <div class="team-role">Content team</div>
             <div class="team-area">MIT Sloan School of Management</div>
         </div>
         <div class="team col-sm-6 col-md-3">
@@ -146,7 +146,7 @@
         <div class="team col-sm-6 col-md-3">
             <a href="#teamLenaDownes"><img class="team-picture" src="images/team/Lena.jpg"></a>
             <div class="team-name">Lena Downes</div>
-            <div class="team-role">GSW Tech team</div>
+            <div class="team-role">Operations Team</div>
             <div class="team-area">MIT AeroAstro</div>
         </div>
         <div class="team col-sm-6 col-md-3">
