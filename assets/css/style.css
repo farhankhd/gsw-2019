@@ -433,6 +433,13 @@ h6 {
     object-fit: cover;
 }
 
+.why-map {
+    width: 33vw;
+    height: 23vw;
+    padding: 10px;
+    display: inline-block;
+}
+
 .why-section strong {
     font-family: "DIN"
 }
@@ -1859,6 +1866,12 @@ p {
     .why-img {
         width: 43vw;
         height: 40vw;
+        padding: 10px;
+        display: inline-block;
+    }
+    .why-map {
+        width: 35vw;
+        height: 36vw;
         padding: 10px;
         display: inline-block;
     }

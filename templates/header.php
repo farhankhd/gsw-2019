@@ -1,5 +1,5 @@
 <head>
-    
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130174054-2"></script>
     <script>
@@ -121,7 +121,7 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-xs-6" style="width: 33vw; height: 23vw; padding: 10px; display: inline-block;" id="map">
+            <div class="col-xs-6 why-map" id="map">
             </div>
             <div class="col-xs-6">
                 <img class="why-img" src="images/landing-page/colsubsidio.jpg" />
