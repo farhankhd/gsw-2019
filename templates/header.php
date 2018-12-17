@@ -122,26 +122,18 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-xs-6 why-map" id="map">
-            </div>
+            <!-- <div class="col-xs-6 why-map" id="map">
+            </div> -->
+            <div class="col-xs-6 why-img">
+                <iframe class="why-map" src="https://maps.google.com/maps?width=720&amp;height=600&amp;hl=en&amp;coord=4.64216, -74.079369&amp;q=Ak.%2030%20%2352-77%2C%20Bogota%2C%20Colombia+(El%20Cubo%20-%20Business%20and%20Recreation%20Center)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=A&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+                <a href="https://www.maps.ie/map-my-route/">Plot a route map</a>
+                </iframe>
+            </div>            
             <div class="col-xs-6">
                 <img class="why-img" src="images/landing-page/colsubsidio.jpg" />
             </div>
         </div>
     </div>
 
-    <script>
-    function initMap() {
-        // The location of cubo
-        var cubo = {lat: 4.64216, lng: -74.079369};
-        // The map, centered at cubo
-        var map = new google.maps.Map(
-            document.getElementById('map'), {zoom: 10, center: cubo});
-        // The marker, positioned at cubo
-        var marker = new google.maps.Marker({position: cubo, map: map});
-        }
-    </script>
-    <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAaFHhMXs5pzFzWb2ZfhTD3uyAuFeU_15U&callback=initMap">
-    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
 </div>
