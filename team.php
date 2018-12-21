@@ -64,24 +64,6 @@
             <div class="team-area">MIT Health Sciences Technology</div>
         </div>
     </div>
-    <div class="section-header section-header-page" style="color: white">Advisory Board</div>
-    <div class="row text-center team">
-        <div class="col-md-4">
-            <img src="images/team/georgina.jpeg" class="team-picture" alt="">
-            <div class="team-name">Georgina Campbell Flatter</div>
-            <div class="team-area">Executive Director of the Legatum Center</div>
-        </div>
-        <div class="col-md-4">
-            <img src="images/team/sarah_advisor.jpg" class="team-picture" alt="">
-            <div class="team-name">Sarah Jane Maxted</div>
-            <div class="team-area">Executive Director of the MIT Regional Entrepreneurship Program</div>
-        </div>
-        <div class="col-md-4">
-            <img src="images/team/lee.jpg" class="team-picture" alt="">
-            <div class="team-name">Lee Ullmann</div>
-            <div class="team-area">Executive Director of the MIT Sloan Latin America Office</div>
-        </div>
-    </div>
 
     <br>
     <div class="section-header section-header-page" style="color: white">Organizing Team</div>
@@ -200,6 +182,19 @@
         </div>
         </div>
         
+    </div>
+    <div class="section-header section-header-page" style="color: white">Advisory Board</div>
+    <div class="row text-center team">
+        <div class="col-md-6">
+            <img src="images/team/georgina.jpeg" class="team-picture" alt="">
+            <div class="team-name">Georgina Campbell Flatter</div>
+            <div class="team-area">Executive Director of the Legatum Center</div>
+        </div>
+        <div class="col-md-6">
+            <img src="images/team/lee.jpg" class="team-picture" alt="">
+            <div class="team-name">Lee Ullmann</div>
+            <div class="team-area">Executive Director of the MIT Sloan Latin America Office</div>
+        </div>
     </div>
 </div>
 </div>
