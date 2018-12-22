@@ -8,6 +8,17 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name = "author" content = "MIT Global Startup Workshop" />
+    <meta name = "revised" content = "MITGSW, 1/1/2019" />
+    <meta name = "keywords" content = "MIT, MITGSW, Colombia, Bogota, Conference, Global Startup Workshop, MIT Global Startup Workshop, Global, Startup, Workshop, Bangkok, Thailand, Massachusetts Institute of Technology, Entrepreneurship, 2019, 2018, Sloan, MIT Business, MIT Entrepreneurship" />
+    <meta name = "description" content = "MITGSW 2019 will be hosted in Bogota, Colombia - the 22 years in the making, MITGSW is MIT's only global student-organized conference, with the goal of fostering an entrepreneurship ecosystem in a different country, every year." />
+    <meta http-equiv=”Content-Type” content=”text/html; charset=utf-8″ />
+    <meta name=”robot” content=”index,nofollow”>
+    <meta property=”og:title” content=”MITGSW in Bogota, Colombia - MIT Global Startup Workshop 2019”/>
+    <meta property=”og:image” content=”https://i.ibb.co/p4Y8Mcj/meta-pic.png”/>
+    <meta property=”og:site_name” content=”MITGSW Bogota”/>
+    <meta property=”og:description” content=”MITGSW 2019 will be hosted in Bogota, Colombia - the 22 years in the making, MITGSW is MITs only global student-organized conference, with the goal of fostering an entrepreneurship ecosystem in a different country, every year."/>
+
     <title><?= $pageTitle ?></title>
     <link rel="shortcut icon" href="favicon.ico"/>
 
