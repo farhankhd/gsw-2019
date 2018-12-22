@@ -43,17 +43,18 @@
 <div id="registration-section">
     <div class="row text-center">
         <div class="col-xs-12">
-            <br />
+            <br /><br><br><br>
             <!-- <img class="blob" src="images/launch/blob_01.png" /> -->
-            <div class="section-subheader text-center">
+            <div class="section-subheader text-center registration-message">
                 <h4>Applications to attend the conference will open in 2019.</h4>
                 <h4>Selected applicants will receive free registration to attend. Sign up to receive updates here!</h4>
             </div>
-            <br> <br>
+            <br><br>
             <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Stay Updated</a>
             <!-- href="registration.php" -->
-            <br> <br><br> <br>
+            <br><br><br><br><br><br>
             <div class="line"></div>
+	    <br><br><br><br>
             <div class="section-subheader text-center">
                 <p>Collaborators</p>
                 <div class="container">
@@ -66,12 +67,12 @@
                     </div>
                 </div>
             </div>
-            
-            <br> <br>
+            <br><br><br><br><br><br>
         </div>
     </div>
 </div>
 
+<br><br>            
 <div class="why-section">
     <div class="row">
         <div class="col-xs-12">
@@ -86,11 +87,10 @@
                 <li>Gain access to top talent and emerging <strong>tech startups</strong></li>
                 <li>Learn and understand the <strong>business landscape</strong> in Colombia</li>
                 <li>Make fruitful connections with <strong>investors, government officials, corporate representatives,</strong> and more.</li>
-            </ul>
+            </ul><br><br><br>
         </div>
     </div>
 </div>
-
 <div class="container-fluid">
     <div class="row">
         <div class="hidden-xs">
@@ -107,7 +107,7 @@
         <img src="images/launch/gsw-rafael-reif-mobile.jpg" class="img-responsive visible-xs-block" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
     </div>
 </div>
-
+<br><br><br><br>
 <div class="why-section">
     <div class="row">
     <br>

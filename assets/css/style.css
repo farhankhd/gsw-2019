@@ -30,7 +30,7 @@ body {
     margin: 0px;
     padding: 0px;
     width: 100%;
-    font-family: 'DIN', sans-serif;
+    font-family: 'DIN Regular', sans-serif;
     display: inline-block;
     background-image: url("../../images/launch/launch_background_short.png");
     background-size: cover;
@@ -194,22 +194,36 @@ h6 {
     width: 200px;
 }
 
+#registration-section p, h4 {
+    text-transform: none !important;
+}
+
+.registration-message {
+    text-decoration: none;
+    text-transform: none !important;
+}
+
 .register-btn {
     background-color: white;
     /* Green */
     border: none;
     color: black;
-    padding: 10px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding: 10px 30px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    /* font-family: "Din Light"; */
+    font-family: "DIN";
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 20px;
+}
+
+.register-btn:hover {
+   background-color: rgba(255,255,255,0.9);
+   border: 2px solid white;
+   padding: 8px 28px;
+   color: black;
 }
 
 .img-container {
@@ -485,9 +499,10 @@ h6 {
 }
 
 .section-header-page {
-    border-bottom: 2px solid rgba(100, 121, 162, 0.3);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.8);
     padding-bottom: 5px;
     color: #0e1e58;
+    font-family: "DIN";
 }
 
 #newsletter_section {
@@ -538,8 +553,8 @@ h6 {
 }
 
 .header-overlay {
+    position: relative;
     height: 100%;
-    z-index: 100;
     opacity: 0.7;
     background: -moz-linear-gradient(top, rgba(28, 189, 230, 0) 0%, rgba(33, 218, 224, 0.65) 100%);
     /* FF3.6+ */
@@ -569,6 +584,8 @@ h6 {
     font-weight: 800;
     text-align: center;
     color: white;
+    z-index: 5;
+    position: relative;
 }
 
 .line {
@@ -582,6 +599,7 @@ h6 {
     .parallax-text {
         font-size: 4em;
         line-height: 200px;
+        z-index:99;
     }
 }
 
@@ -980,7 +998,8 @@ td:hover {
 }
 
 .navbar-default .navbar-nav>li>a {
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255, 0.8);
+    font-family: "DIN";
     letter-spacing: 0.08em;
     font-size: 0.9em;
 }
@@ -1334,25 +1353,27 @@ td:hover {
     margin-bottom: 5px;
     font-size: 1em;
     color: white;
+    font-family: "DIN";
 }
 
 .team-association,
 .team-role {
     margin-bottom: 3px;
-    color: #e4e4f0;
+    color: rgba(255,255,255,0.9);
     font-size: 0.8em;
     text-align: center;
-    font-weight: 200;
+    font-weight: 800;
     text-transform: uppercase;
     letter-spacing: -0.2px;
+    font-family: "DIN Regular";
 }
 
 .team-area {
-    margin-bottom: 20px;
+    margin-bottom: 8vh;
     color: #e4e4f0;
     font-size: 0.9em;
     text-align: center;
-    font-weight: 400;
+    font-family: "DIN Regular";
 }
 
 .team-row,
@@ -1362,7 +1383,7 @@ td:hover {
 }
 
 .team-row h2 {
-    margin-bottom: 15px;
+    margin-bottom: 35px;
     font-family: "DIN";
     font-size: 3vw;
 }
@@ -1376,13 +1397,14 @@ td:hover {
     font-size: 0.7em;
     text-align: justify;
     text-justify: inter-word;
-    color: white;
+    color: rgba(255,255,255,0.9);
+    font-family: "DIN Regular";
 }
 
 .team-expanded-name {
     font-weight: 800;
     font-size: 1.2em;
-    color: #a6a7ad;
+    color: rgba(255,255,255,1);
 }
 
 .team-picture-association {
@@ -1607,10 +1629,12 @@ td:hover {
     color: white;
     background-color: #dd4f33;
     border: none;
+    font-family: "DIN";
 }
 
 .register-button {
     padding: 12px 16px;
+    font-family: "DIN";
 }
 
 .footer-title {
@@ -1819,12 +1843,19 @@ p {
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-family: "Din Light";
+        font-family: "DIN";
         font-size: 16px;
         margin: 4px 2px;
         cursor: pointer;
         border-radius: 12px;
     }
+    .register-btn:hover {
+        background-color: none;
+        color: white;
+        border: 2px white;
+
+    }
+
     .video-container video {
         visibility: hidden;
     }

@@ -30,11 +30,12 @@
             <div class="container">
                 <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Stay Updated</a>
                 <br> <br>
-                <p>SUBMIT YOUR EMAIL TO STAY INFORMED</p>
+                <p>Submit your email to stay informed.</p>
                 <br><br>
                 <h2>THE VENUE</h2>
                 <br>
-                <p style="font-family: 'Din'">Business and Recreation Center The Cube (Colsubsidio)</p>
+                <p style="font-family: 'Din'">El Cubo</p>
+		<br><p>Business and Recreation Center - The Cube (Colsubsidio)</p>
                 <br>
                 <p>Ak. 30 #52-77, Bogota, Colombia</p>
                 <!-- <img src="images/landing-page/colsubsidio.jpg"/> -->
