@@ -30,7 +30,7 @@ function countdown() {
 }
 
 function getSpeakers() {
-    var filename = 'data/speakers.csv'
+    var filename = 'data/speakersinfo.csv'
     Papa.parse(filename, {
         download: true,
         header: true,
