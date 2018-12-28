@@ -1119,6 +1119,7 @@ h6 {
 .speaker-row,
 .speaker-expanded-bio {
     margin-bottom: 40px;
+    color: white;
 }
 
 .speaker {
@@ -1134,15 +1135,16 @@ h6 {
 }
 
 .speaker-expanded-name {
-    font-weight: 800;
+    font-weight: 500;
     margin-bottom: 5px;
-    font-size: 1.2em;
-    color: #515152;
+    font-size: 1.8em;
+    color: white;
+    font-family: "DIN";
 }
 
 .speaker-expanded-position {
     margin-bottom: 20px;
-    color: #0e1e58;
+    color: #e4e4f0;
 }
 
 .link-to-speaker {
