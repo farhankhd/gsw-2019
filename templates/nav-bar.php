@@ -53,6 +53,7 @@
             <ul class="nav navbar-nav">
                 <li><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
                 <li><a href="http://gsw.mit.edu/2018/">GSW 2018</a></li>
+                <li><a href="speakers.php">Speakers</a></li>
                 <li><a href="team.php">About Us</a></li>
                 <!-- <li><a href="registration.php">Registration</a></li>
                 <li><a href="speakers.php">Speakers</a></li>
