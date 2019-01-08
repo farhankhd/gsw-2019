@@ -12,7 +12,7 @@
 </div>
 
 <body>
-<div class="section" id="keynote-section-expanded">
+<!-- <div class="section" id="keynote-section-expanded">
     <p class="section-header section-header-page" style="color: white">Keynotes</p>
     <div class="row speaker-expanded-bio">
         <div class="col-md-3"></div>
@@ -26,7 +26,7 @@
         <div class="col-md-3"></div>
         <div class="col-md-9"></div>
     </div>
-</div>
+</div> -->
 
 <div class="section">
     <p class="endSpeakers">Come back soon, more speakers are added every day!</p>
