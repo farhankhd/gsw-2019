@@ -182,12 +182,14 @@
         <div class="col-md-6">
             <img src="images/team/Megan.jpg" class="team-picture" alt="">
             <div class="team-name">Megan Mitchell</div>
-            <div class="team-area">Director of Fellowship & Student Programs, MIT Legatum Center</div>
+            <div class="team-role">Director of Fellowship & Student Programs</div>
+            <div class="team-area">MIT Legatum Center</div>
         </div>
         <div class="col-md-6">
             <img src="images/team/lee.jpg" class="team-picture" alt="">
             <div class="team-name">Lee Ullmann</div>
-            <div class="team-area">Executive Director of the MIT Sloan Latin America Office</div>
+            <div class="team-role">Executive Director</div>
+            <div class="team-area">MIT Sloan Latin America Office</div>
         </div>
     </div>
 </div>
