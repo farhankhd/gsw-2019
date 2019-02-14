@@ -182,7 +182,7 @@
         <div class="col-md-4">
             <img src="images/team/Megan.jpg" class="team-picture" alt="">
             <div class="team-name">Megan Mitchell</div>
-            <div class="team-role">Director of Fellowship & Student Programs</div>
+            <div class="team-role">Acting Director</div>
             <div class="team-area">MIT Legatum Center</div>
         </div>
         <div class="col-md-4">
@@ -191,7 +191,12 @@
             <div class="team-role">Executive Director</div>
             <div class="team-area">MIT Sloan Latin America Office</div>
         </div>
-        <div class="col-md-4"></div>
+        <div class="col-md-4">
+            <img src="images/team/Travis.jpg" class="team-picture" alt="">
+            <div class="team-name">Travis Hunter</div>
+            <div class="team-role">Director</div>
+            <div class="team-area">MIT Regional Entrepreneurship & Acceleration Program</div>
+        </div>
     </div>
     <div class="row team-row text-center">
         <div class="team col-md-4">
