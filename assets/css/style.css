@@ -1794,12 +1794,13 @@ p {
     color: white;
 }
 
-.white > a{
+.white > p > a{
     color: white;
     text-decoration: underline;
-    font-weight: 800;
+    font-weight: 900;
 }
 
-.white > a:hover {
+.white > p > a:hover {
     opacity: 0.8;
+    text-decoration:none;
 }
