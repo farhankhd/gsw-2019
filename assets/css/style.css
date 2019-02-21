@@ -1789,3 +1789,17 @@ p {
     padding-top: 0px;
     transition: height 0.3s ease-out;
 }
+
+.white {
+    color: white;
+}
+
+a.white {
+    color: white;
+    text-decoration: underline;
+    font-weight: 800;
+}
+
+a.white:hover {
+    opacity: 0.8;
+}
