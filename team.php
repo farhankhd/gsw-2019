@@ -41,7 +41,7 @@
 
         <p>Since 1998, our non-profit, student-run organization has held 21 international workshops across 6 continents, and has attracted participants from over 70 nations. We are proud to continue this annual tradition into 2019.</p>
 
-        <p>To learn more about MITGSW, the organization, visit <a href="gsw.mit.edu/gsw-about">our organizational website.</a></p>
+        <p>To learn more about MITGSW, the organization, visit <a href="http://gsw.mit.edu/gsw-about/">our organizational website.</a></p>
     </div>
 
     <br><br>
