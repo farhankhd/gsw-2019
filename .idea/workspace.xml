@@ -20,8 +20,8 @@
       <file leaf-file-name="team.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/team.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2985">
-              <caret line="192" column="57" lean-forward="false" selection-start-line="192" selection-start-column="57" selection-end-line="192" selection-end-column="57" />
+            <state relative-caret-position="180">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -32,8 +32,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="1803" column="17" lean-forward="false" selection-start-line="1803" selection-start-column="17" selection-end-line="1803" selection-end-column="17" />
+            <state relative-caret-position="443">
+              <caret line="1792" column="0" lean-forward="true" selection-start-line="1792" selection-start-column="0" selection-end-line="1792" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -47,8 +47,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/team.php" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/team.php" />
       </list>
     </option>
   </component>
@@ -148,12 +148,12 @@
       <updated>1549496152691</updated>
       <workItem from="1549496155553" duration="227000" />
       <workItem from="1550111232011" duration="571000" />
-      <workItem from="1550717014003" duration="618000" />
+      <workItem from="1550717014003" duration="764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1416000" />
+    <option name="totallyTimeSpent" value="1562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="802" extended-state="6" />
@@ -210,8 +210,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/team.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2985">
-          <caret line="192" column="57" lean-forward="false" selection-start-line="192" selection-start-column="57" selection-end-line="192" selection-end-column="57" />
+        <state relative-caret-position="180">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
@@ -220,8 +220,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="1803" column="17" lean-forward="false" selection-start-line="1803" selection-start-column="17" selection-end-line="1803" selection-end-column="17" />
+        <state relative-caret-position="443">
+          <caret line="1792" column="0" lean-forward="true" selection-start-line="1792" selection-start-column="0" selection-end-line="1792" selection-end-column="0" />
           <folding />
         </state>
       </provider>

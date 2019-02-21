@@ -33,7 +33,7 @@
     </div>
 </div> -->
 <div class="section">
-    <div class="section-header section-header-page" class="white">20 Years Strong</div>
+    <div class="section-header section-header-page white">20 Years Strong</div>
     <div class="white">
         <p>MIT Global Startup Workshop (MIT GSW) is an annual 3-day conference that brings together entrepreneurs, students, investors, and key stakeholders from across the world to accelerate the entrepreneurial ecosystem of a host region. Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered thousands of companies to launch from MIT.</p>
 
