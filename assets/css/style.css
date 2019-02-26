@@ -1810,3 +1810,18 @@ p {
     padding-top: 0px;
     transition: height 0.3s ease-out;
 }
+
+.white {
+    color: white;
+}
+
+.white > p > a{
+    color: white;
+    text-decoration: underline;
+    font-weight: 900;
+}
+
+.white > p > a:hover {
+    opacity: 0.8;
+    text-decoration:none;
+}

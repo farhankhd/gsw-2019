@@ -198,6 +198,26 @@
             <div class="team-area">MIT Regional Entrepreneurship & Acceleration Program</div>
         </div>
     </div>
+    <div class="row team-row text-center">
+        <div class="team col-md-4">
+            <img class="team-picture" src="images/team/Diana.jpg">
+            <div class="team-name">Diana Lu</div>
+            <div class="team-role">GSW Director 2018</div>
+            <div class="team-area">MIT Health Sciences Technology</div>
+        </div>
+        <div class="team col-md-4">
+            <img class="team-picture" src="images/team/David.jpg">
+            <div class="team-name">David Miranda Nieves</div>
+            <div class="team-role">GSW Director 2018</div>
+            <div class="team-area">MIT Health Sciences Technology</div>
+        </div>
+        <div class="team col-md-4">
+            <img class="team-picture" src="images/team/Juan.jpg">
+            <div class="team-name">Juan Ruiz Ruiz</div>
+            <div class="team-role">GSW Director 2018</div>
+            <div class="team-area">MIT Nuclear Science and Engineering</div>
+        </div>
+    </div>
 </div>
 </div>
 <div class="section">
