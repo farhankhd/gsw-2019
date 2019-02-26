@@ -215,10 +215,11 @@ h6 {
 }
 
 .register-btn {
-    background-color: white;
+    background-color: transparent;
     /* Green */
-    border: none;
-    color: black;
+    /* border: white; */
+    border: 1px solid white;
+    color: white;
     padding: 10px 30px;
     text-align: center;
     text-decoration: none;
@@ -502,7 +503,7 @@ h6 {
     height: 2px;
     flex: 1;
     background: white;
-    margin: 0 40px;
+    margin: 0 20px;
 }
 
 @media only screen and (min-width: 480px) {
@@ -877,7 +878,7 @@ h6 {
     letter-spacing: 0.08em;
     font-size: 0.9em;
     font-weight: 300;
-    background-color: #213356;
+    background-color: #062e2e;
 }
 
 .dropdown-menu a:hover,
@@ -1013,6 +1014,26 @@ h6 {
 
 
 /*}*/
+
+.comp-center {
+    text-align: center;
+}
+
+.comp-content p {
+    color: white;
+    text-align: justify;
+    font-size: 0.8em;
+}
+
+.comp-content li {
+    color: white;
+    text-align: left;
+    font-size: 0.8em;
+}
+
+.comp-content strong {
+    font-family: 'DIN';
+}
 
 .competition-type:hover,
 .competition-type:focus {

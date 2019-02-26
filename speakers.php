@@ -3,7 +3,7 @@
     include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/speaker.jpg');">
+<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/speaker-header.png');">
     <div class="header-overlay">
     <h1 class="parallax-text">
         Our Speakers
@@ -11,7 +11,7 @@
     </div>
 </div>
 
-<body>
+<body style="background-image: url('../../images/speaker/speaker-background.jpg');">
 <!-- <div class="section" id="keynote-section-expanded">
     <p class="section-header section-header-page" style="color: white">Keynotes</p>
     <div class="row speaker-expanded-bio">

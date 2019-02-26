@@ -54,23 +54,19 @@
                 <li><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
                 <li><a href="http://gsw.mit.edu/2018/">GSW 2018</a></li>
                 <li><a href="speakers.php">Speakers</a></li>
-                <li><a href="team.php">About Us</a></li>
                 <!-- <li><a href="registration.php">Registration</a></li>
-                <li><a href="speakers.php">Speakers</a></li>
+                <li><a href="speakers.php">Speakers</a></li> --->
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Competitions <span class="caret"></span>
                     </a>
                     <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="startup-showcase.php">Startup <br />Showcase</a>
+                        <a class="dropdown-item" href="gc.php">Grand <br />Challenge</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="epc.php">Elevator Pitch <br /> Competition</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="bpc.php">Business Plan <br />Competition</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="mentors.php">Mentors</a>
+                        <a class="dropdown-item" href="bpc.php">Business Plan <br /> Competition</a>
                     </div>
-                </li> -->
+                </li> 
+                <li><a href="team.php">About Us</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
             <img src="images/launch/bogota-team-logo.png" id="navbar-logo-right">
