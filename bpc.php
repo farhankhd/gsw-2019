@@ -3,7 +3,7 @@
     include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/comp-header.jpg');">
+<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/business-header.jpg');">
     <div class="header-overlay">
     <h1 class="parallax-text">
         Business Plan Competition
@@ -35,7 +35,8 @@
         <h1> Business Plan Competition</h1>
         <h4> Do you have an amazing early-stage startup? Apply to the Business Plan Competition (BPC) 
             for the opportunity to win $10,000 USD and receive mentorship from business leaders from MIT and Latin America!    </h4>
-        <h4> Check out our Official Rules Document for more information. Consulte nuestro Reglamento Oficial para más información.</h4>
+        <h4> Check out our Official Rules Document for more information.</h4>
+        <h4> Consulte nuestro Reglamento Oficial para más información.</h4>
         <br>
         <div class="line"></div>
         <br>
@@ -47,6 +48,8 @@
         <div class="line"></div>
 
         <br>
+
+        <img class="comp-flow" src="images/comp/bpc-flow.png">
     </div>
     <div class="row text-center">
         <div>

@@ -60,6 +60,8 @@
                 <div class="container">
                     <div class="row">
                         <img src="images/launch/mslao-logo.png" class="partner-logo">
+                        <img src="images/launch/colub.png" class="partner-logo">
+                        <br>
                         <img src="images/launch/legatum_2.png" class="partner-logo">
                         <img src="images/launch/martin_trust_2.png" class="partner-logo">
                         <img src="images/launch/reap_2.png" class="partner-logo">

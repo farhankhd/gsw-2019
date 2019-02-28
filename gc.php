@@ -3,7 +3,7 @@
     include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/comp-header.jpg');">
+<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/grand-header.jpg');">
     <div class="header-overlay">
     <h1 class="parallax-text">
         Grand Challenge
@@ -43,6 +43,7 @@
         <div class="line"></div>
 
         <br>
+        <img class="comp-flow" src="images/comp/gc-flow.png">
     </div>
     <div class="row text-center">
         <div>
