@@ -50,7 +50,7 @@
                 <h4>Selected applicants will receive free registration to attend. Sign up to receive updates here!</h4>
             </div>
             <br><br>
-            <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Stay Updated</a>
+            <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/xlOAGFyLPkg8PEc33">Apply Now</a>
             <!-- href="registration.php" -->
             <br><br><br><br><br><br>
             <div class="line"></div>

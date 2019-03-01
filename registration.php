@@ -18,7 +18,7 @@
 
 <div class="section">
     <div class="row text-center">
-        <h1> Register now to guarantee your spot </h1>
+        <h1> Apply to attend the MIT Global Startup Workshop </h1>
         <br>
         <br>
         <img style="position: absolute; height: 70%; right:-200px;" src="../../images/register/blob-3.png">
@@ -26,18 +26,22 @@
         <div class="register-box">
             <h2>How Registration Works</h2>
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus iaculis ultrices rutrum. Nullam vehicula nisi nec ipsum aliquam tempus. 
-            Nam eu varius erat. Sed tempus sed velit quis condimentum. Quisque hendrerit scelerisque odio sed maximus. 
-            Phasellus efficitur massa at elit accumsan luctus eget vel mauris. Mauris congue tortor quis magna efficitur, 
-            id consequat tortor hendrerit. Ut condimentum purus eu libero volutpat, sit amet gravida erat tempus. Interdum et malesuada fames ac ante ipsum primis in faucibus. 
-            Aliquam varius convallis libero non pellentesque. Praesent porta nisi arcu. Nullam in lacus justo. Praesent faucibus lobortis urna eu pulvinar.
+            <p>To apply to the MIT Global Startup Workshop, please complete this form. 
+                Applications are evaluated on a rolling basis, and if your application is accepted, 
+                you will be contacted with additional information on how to receive your ticket. 
+                This year, MIT GSW and the Cámara de Comercio de Bogotá are proud to announce that all tickets 
+                for selected attendees are free of charge. GSW will be held on May 27-28th, in El Cubo (Colsubsidio) in Bogotá. We hope to see you there!
+            </p>
+
+            <p> <strong style="font-family: 'DIN';"> For competition applicants:</strong> Even if you are applying for competitions, an application to attend the conference is still required here.
             </p>
             
-            <p>Curabitur varius felis nec purus sodales iaculis. Sed bibendum convallis sapien, in condimentum urna suscipit sed. 
-            Aliquam non dapibus lectus, vel accumsan metus. Cras id aliquet erat. Etiam hendrerit pellentesque eros, et facilisis neque efficitur eu. 
-            Nunc pretium mi a dolor ullamcorper, nec tempus dolor ornare. Maecenas condimentum, dui nec lobortis dignissim, lacus eros facilisis mi, 
-            eget lacinia turpis magna in libero. Vestibulum facilisis sagittis nibh, ut tempor velit cursus condimentum. Cras a mi ex. Integer nec est 
-            sit amet augue vehicula mattis et vel urna. Sed non tempor risus.</p>
+            <p>Completar el siguiente formulario para poder asistir al MIT Global Startup Workshop. 
+                Todas las aplicaciones seran evaluadas y, en caso de ser aceptado, será contactado con 
+                información adicional para recibir su entrada. MIT GSW y la Cámara de Comercio de Bogotá 
+                están orgullosos de anunciar que las entradas al evento serán gratuitas para los candidatos seleccionados. 
+                El evento tomará lugar los días 27 y 28 de Mayo en El Cubo (Colsubsidio) Bogotá. Esperamos verlos allí!</p>
+            <p> <strong style="font-family: 'DIN';">Participantes de la competencia:</strong> Es necesario completar ambos formularios. Formulario de asistencia a la conferencia y formulario de participación en la competencia.</p>
         </div>
     </div>
 
@@ -47,7 +51,7 @@
         
         <div>
             <div class="col-md-6 comp-content">
-            <a class="register-btn-large" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Registrador en español</a>
+            <a class="register-btn-large" style="text-decoration: none;" href="https://docs.google.com/forms/d/e/1FAIpQLScOgBsciOL8P5jBq6IZiRJrwYqEBofmbE4X07nQ7mhf6Aa2Wg/viewform">Registrador en español</a>
 
                 <br><br>
             </div>

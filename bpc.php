@@ -29,7 +29,7 @@
                 <!--<p>Consulte nuestro <a href="">Reglamento Oficial</a> para más información.</p>-->
 
                 <p class="white text-center">Deadline to Apply: 7 April, 2019</p>
-                <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Apply</a>
+                <a class="register-btn" style="text-decoration: none;" href="https://startup.openstartups.net/?eventcode=mit_businessplan_2019">Apply</a>
             </div>
             <div class="col-3"></div>
         </div>
