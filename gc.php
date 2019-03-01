@@ -35,10 +35,19 @@
         <br>
         <div class="line"></div>
         <br>
-        
-        <h4>Deadline to Apply: 7 April, 2019</h4> 
+        <div class="row">
+            <div class="col-3"></div>
+            <div class="col-6">
+                <p class="white" style="text-align:left; font-size: 1.2em;"><strong>Do you dream of ways to improve life for your community and country? Would you like to promote longer & stronger engagement between MIT and Colombia?</strong></p>
+                <p  class="white" style="text-align:left">Our inaugural Grand Challenge invites you to address a major challenge Colombians are currently facing: limited connectivity between geographically separate locations (e.g. supply chain improvement between rural and urban communities). Identify a specific problem relating to this theme and propose a solution that could be developed into a viable venture.</p>
+                <br>
+                <p class="white text-center">Check out our <a href="assets/MIT%20GSW%202019%20Grand%20Challenge%20Rules.pdf">Official Rules Document</a> for more information.</p>
+                <p class="white text-center">Consulte nuestro Reglamento Oficial para más información.</p>
+            </div>
+            <div class="col-3"></div>
+        <p class="text-center">Deadline to Apply: 7 April, 2019</p>
         <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Apply FIX ME</a>
-
+        </div>
         <br><br>
         <div class="line"></div>
 
