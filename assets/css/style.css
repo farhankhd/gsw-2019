@@ -317,6 +317,8 @@ a:focus {
     height: 100%;
     overflow: hidden;
     background-image: url("../../images/landing-page/bogota.png");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .video-container video {
