@@ -53,7 +53,6 @@
             <ul class="nav navbar-nav">
                 <li><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
                 <li><a href="registration.php">Registration</a></li>
-                <li><a href="speakers.php">Speakers</a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Competitions <span class="caret"></span>
@@ -64,6 +63,7 @@
                         <a class="dropdown-item" href="bpc.php">Business Plan <br /> Competition</a>
                     </div>
                 </li> 
+                <li><a href="speakers.php">Speakers</a></li>
                 <li><a href="team.php">About Us</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >

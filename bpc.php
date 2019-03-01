@@ -12,23 +12,6 @@
 </div>
 
 <body style="background-image: url('../../images/comp/comp-background.jpg');">
-<!-- <div class="section" id="keynote-section-expanded">
-    <p class="section-header section-header-page" style="color: white">Keynotes</p>
-    <div class="row speaker-expanded-bio">
-        <div class="col-md-3"></div>
-        <div class="col-md-9"></div>
-    </div>
-</div>
-
-<div class="section" id="speaker-section-expanded">
-    <p class="section-header section-header-page" style="color: white">Speakers</p>
-    <div class="row speaker-expanded-bio">
-        <div class="col-md-3"></div>
-        <div class="col-md-9"></div>
-    </div>
-</div> -->
-
-
 
 <div class="section">
     <div class="comp-center">
@@ -46,16 +29,15 @@
                 <!--<p>Consulte nuestro <a href="">Reglamento Oficial</a> para más información.</p>-->
 
                 <p class="white text-center">Deadline to Apply: 7 April, 2019</p>
-                <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Apply FIX ME</a>
+                <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Apply</a>
             </div>
             <div class="col-3"></div>
         </div>
         <br>
         <div class="line"></div>
-
         <br>
-
         <img class="comp-flow" src="images/comp/bpc-flow.png">
+        <br><br>
     </div>
     <div class="row text-center">
         <div>
@@ -84,7 +66,7 @@
         
     </div>
     <div class="row text-center">
-        
+
         <div>
             <div class="col-md-6 comp-content">
                 <h2> ELIGIBILITY </h2>
