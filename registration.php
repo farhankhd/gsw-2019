@@ -62,7 +62,7 @@
             </div>
         </div>
 
-        <img style="position: absolute; height: 70%; left: -400px; overflow: hidden;" src="../../images/register/blob-4.png">
+        <img style="position: absolute; padding-top: 50px; height: 60%; left: -400px; overflow: hidden;" src="../../images/register/blob-4.png">
 
         
     </div>
