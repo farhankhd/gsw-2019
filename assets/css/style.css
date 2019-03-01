@@ -1790,9 +1790,10 @@ p {
         color: white;
         border: 2px white;
     }
-    .register-btn-large {
+    a.register-btn-large {
         padding: 10px 30px;
-        border-radius: 40px;
+        border-radius: 20px;
+        width: 250px;
     }
     .video-container video {
         visibility: hidden;
@@ -1878,6 +1879,9 @@ p {
     }
     .blob-mobile {
         height: 40%;
+    }
+    .blob-box {
+        overflow: hidden;
     }
 }
 
