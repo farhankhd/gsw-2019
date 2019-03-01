@@ -51,9 +51,8 @@
         
         <div>
             <div class="col-md-6 comp-content">
+            
             <a class="register-btn-large" style="text-decoration: none;" href="https://docs.google.com/forms/d/e/1FAIpQLScOgBsciOL8P5jBq6IZiRJrwYqEBofmbE4X07nQ7mhf6Aa2Wg/viewform">Registrador en español</a>
-
-                <br><br>
             </div>
             <div class="col-md-6 comp-content">
             <a class="register-btn-large" style="text-decoration: none;" href="https://goo.gl/forms/xlOAGFyLPkg8PEc33">Register in English</a>

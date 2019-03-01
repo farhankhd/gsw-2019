@@ -50,7 +50,7 @@
                 <h4>Selected applications will receive free tickets to attend. For more information, see the <a href="registration.php">Registration page.</a></h4>
             </div>
             <br><br>
-            <a class="register-btn" style="text-decoration: none;" href="registration.php">Apply Now</a>
+            <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/xlOAGFyLPkg8PEc33">Apply Now</a>
             <!-- href="registration.php" -->
             <br><br><br><br><br><br>
             <div class="line"></div>
