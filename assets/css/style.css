@@ -214,11 +214,13 @@ h6 {
     font-size: 2vw
 }
 
-.register-btn {
-    background-color: white;
+.register-btn,
+.register-btn-large {
+    background-color: transparent;
     /* Green */
-    border: none;
-    color: black;
+    /* border: white; */
+    border: 1px solid white;
+    color: white;
     padding: 10px 30px;
     text-align: center;
     text-decoration: none;
@@ -230,21 +232,54 @@ h6 {
     border-radius: 20px;
 }
 
-.register-btn:hover {
+.register-btn:hover,
+.register-btn-large:hover {
     background-color: rgba(255, 255, 255, 0.9);
     border: 2px solid white;
-    padding: 8px 28px;
+    padding: 10px 30px;
     color: black;
 }
 
+.register-btn-large {
+    padding: 30px 90px;
+    border-radius: 40px;
+}
+
+.register-btn-large:hover {
+    padding: 30px 90px;
+}
+
 a {
-    color: rgb(100, 121, 162);
+    font-family: "DIN";
+    color: rgba(243, 239, 239, 0.9);
 }
 
 a:hover,
 a:focus {
     text-decoration: none;
     font-weight: 800 !important;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.register-brand img {
+    padding-top: 250px;
+    width: 15%;
+    display: block;
+    margin: auto;
+}
+
+.register-box {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    outline: 2px solid white;
+}
+
+.register-box p {
+    color: white;
+    text-align: justify;
+    font-size: 0.9em;
 }
 
 
@@ -455,7 +490,7 @@ h6 {
 }
 
 .parallax-window.header {
-    height: 250px;
+    height: 300px;
     margin-top: -20px;
     background-size: cover;
     background-position: center;
@@ -502,7 +537,7 @@ h6 {
     height: 2px;
     flex: 1;
     background: white;
-    margin: 0 40px;
+    margin: 0 20px;
 }
 
 @media only screen and (min-width: 480px) {
@@ -754,6 +789,10 @@ h6 {
 
 /* HEADER CSS */
 
+.navbar a {
+    font-family: "DIN Light";
+}
+
 .navbar {
     /* background: rgba(10, 28, 63, 1); */
     /* width: 100%; */
@@ -773,7 +812,7 @@ h6 {
     mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#0a1c3f', endColorstr='#000000', GradientType=0);
     border: none;
-    height: 150px;
+    height: 120px;
     padding: 20px;
     text-transform: uppercase;
     font-size: 1.5vw;
@@ -877,7 +916,7 @@ h6 {
     letter-spacing: 0.08em;
     font-size: 0.9em;
     font-weight: 300;
-    background-color: #213356;
+    background-color: #062e2e;
 }
 
 .dropdown-menu a:hover,
@@ -1013,6 +1052,34 @@ h6 {
 
 
 /*}*/
+
+.comp-center {
+    text-align: center;
+    max-width: 100%;
+}
+
+.comp-content p {
+    color: white;
+    text-align: justify;
+    font-size: 0.8em;
+}
+
+.comp-content li {
+    color: white;
+    text-align: left;
+    font-size: 0.8em;
+}
+
+.comp-content strong {
+    font-family: 'DIN';
+}
+
+.comp-flow {
+    width: 70%;
+    height: auto;
+    max-width: 70%;
+    max-height: 70%;
+}
 
 .competition-type:hover,
 .competition-type:focus {
@@ -1794,13 +1861,13 @@ p {
     color: white;
 }
 
-.white > p > a{
+.white>p>a {
     color: white;
     text-decoration: underline;
     font-weight: 900;
 }
 
-.white > p > a:hover {
+.white>p>a:hover {
     opacity: 0.8;
-    text-decoration:none;
+    text-decoration: none;
 }

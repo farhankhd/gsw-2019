@@ -33,26 +33,13 @@
     </div>
 </div> -->
 <div class="section">
-    <div class="section-header section-header-page white">20 Years Strong</div>
-    <div class="white">
-        <p>MIT Global Startup Workshop (MIT GSW) is an annual 3-day conference that brings together entrepreneurs, students, investors, and key stakeholders from across the world to accelerate the entrepreneurial ecosystem of a host region. Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered thousands of companies to launch from MIT.</p>
-
-        <p>MIT GSW is organized by a diverse group of graduate students and is strongly supported by the <a href="https://innovation.mit.edu/resource/mit-gsw/">MIT entrepreneurial ecosystem</a> including the <a href="http://legatum.mit.edu/">MIT Legatum Center for Development & Entrepreneurship</a>, the <a href="http://entrepreneurship.mit.edu/">Martin Trust Center for MIT Entrepreneurship</a>, and the <a href="http://reap.mit.edu/">MIT Regional Entrepreneurship Accelerator Program</a> (MIT REAP).</p>
-
-        <p>Since 1998, our non-profit, student-run organization has held 21 international workshops across 6 continents, and has attracted participants from over 70 nations. We are proud to continue this annual tradition into 2019.</p>
-
-        <p>To learn more about MITGSW, the organization, visit <a href="gsw.mit.edu/gsw-about">our organizational website.</a></p>
-    </div>
-
-    <br><br>
-
-    <div class="white">
+    <div style="color:white;">
         Our team consists of individuals across all parts of the MIT campus, and is supported by an accomplished advisory board.
     </div>
 
     <br>
 
-    <div class="section-header section-header-page white">Co-Directors</div>
+    <div class="section-header section-header-page" style="color: white">Co-Directors</div>
 <div></div>
 <div class="row team-row text-center">
     <!-- <div class="col-xs-12">
@@ -77,7 +64,7 @@
         </div>
     </div>
 
-    <div class="section-header section-header-page white">Organizing Team</div>
+    <div class="section-header section-header-page" style="color: white">Organizing Team</div>
     <div class="team-row text-center">
 	<div class="row">
         <div class="team col-sm-6 col-md-3"><a href="#teamSarahCen">
@@ -190,7 +177,7 @@
         </div>
         
     </div>
-    <div class="section-header section-header-page white">Advisory Board</div>
+    <div class="section-header section-header-page" style="color: white">Advisory Board</div>
     <div class="row text-center team">
         <div class="col-md-4">
             <img src="images/team/Megan.jpg" class="team-picture" alt="">
@@ -206,7 +193,7 @@
         </div>
         <div class="col-md-4">
             <img src="images/team/Travis.jpg" class="team-picture" alt="">
-            <div class="team-name">Travis Hunter</div>
+            <div class="team-name">Lee Ullmann</div>
             <div class="team-role">Director</div>
             <div class="team-area">MIT Regional Entrepreneurship & Acceleration Program</div>
         </div>

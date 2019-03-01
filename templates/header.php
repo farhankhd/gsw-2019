@@ -46,11 +46,11 @@
             <br /><br><br><br>
             <!-- <img class="blob" src="images/launch/blob_01.png" /> -->
             <div class="section-subheader text-center registration-message">
-                <h4>Applications to attend the conference will open in 2019.</h4>
-                <h4>Selected applicants will receive free registration to attend. Sign up to receive updates here!</h4>
+                <h4>Registration applications for MIT GSW 2019 are now open!</h4>
+                <h4>Selected applications will receive free tickets to attend. For more information, see the <a href="registration.php">Registration page.</a></h4>
             </div>
             <br><br>
-            <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Stay Updated</a>
+            <a class="register-btn" style="text-decoration: none;" href="registration.php">Apply Now</a>
             <!-- href="registration.php" -->
             <br><br><br><br><br><br>
             <div class="line"></div>
@@ -59,7 +59,9 @@
                 <p>Collaborators</p>
                 <div class="container">
                     <div class="row">
-                        <img src="images/launch/colsub-logo.png" class="partner-logo">
+                        <img src="images/launch/mslao-logo.png" class="partner-logo">
+                        <img src="images/launch/colub-1.png" class="partner-logo" style="height: 150px">
+                        <br>
                         <img src="images/launch/legatum_2.png" class="partner-logo">
                         <img src="images/launch/martin_trust_2.png" class="partner-logo">
                         <img src="images/launch/reap_2.png" class="partner-logo">
