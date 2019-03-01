@@ -34,7 +34,7 @@ body {
     display: inline-block;
     background-image: url("../../images/launch/launch_background_short.png");
     background-size: cover;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 
