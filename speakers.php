@@ -11,7 +11,7 @@
     </div>
 </div>
 
-<body style="background-image: url('../../images/speaker/speaker-background.jpg');">
+<body style="background-image: url('images/speaker/speaker-background.jpg');">
 <!-- <div class="section" id="keynote-section-expanded">
     <p class="section-header section-header-page" style="color: white">Keynotes</p>
     <div class="row speaker-expanded-bio">
