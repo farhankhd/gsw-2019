@@ -37,8 +37,8 @@
         <div class="line"></div>
         <br>
         <div class="row">
-            <div class="col-2"></div>
-            <div class="col-8">
+            <div class="col-3"></div>
+            <div class="col-6">
                 <p class="white" style="text-align:left"> Do you have an amazing early-stage startup? Apply to the Business Plan Competition (BPC)
                     for the opportunity to win $10,000 USD and receive mentorship from business leaders from MIT and Latin America! </p>
                 <br>
@@ -48,10 +48,9 @@
                 <p class="white text-center">Deadline to Apply: 7 April, 2019</p>
                 <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/92yzirmbNllCV0QA3">Apply FIX ME</a>
             </div>
-            <div class="col-2"></div>
+            <div class="col-3"></div>
         </div>
-
-        <br><br>
+        <br>
         <div class="line"></div>
 
         <br>
