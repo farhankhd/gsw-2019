@@ -46,11 +46,11 @@
             <br /><br><br><br>
             <!-- <img class="blob" src="images/launch/blob_01.png" /> -->
             <div class="section-subheader text-center registration-message">
-                <h4>Applications to attend the conference will open in 2019.</h4>
-                <h4>Selected applicants will receive free registration to attend. Sign up to receive updates here!</h4>
+                <h4>Registration applications for MIT GSW 2019 are now open!</h4>
+                <h4>Selected applications will receive free tickets to attend. For more information, see the <a href="registration.php">Registration page.</a></h4>
             </div>
             <br><br>
-            <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/xlOAGFyLPkg8PEc33">Apply Now</a>
+            <a class="register-btn" style="text-decoration: none;" href="registration.php">Apply Now</a>
             <!-- href="registration.php" -->
             <br><br><br><br><br><br>
             <div class="line"></div>
