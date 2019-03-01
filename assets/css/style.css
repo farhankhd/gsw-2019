@@ -29,7 +29,7 @@ html,
 body {
     margin: 0px;
     padding: 0px;
-    /* width: 100%; */
+    width: 100%;
     font-family: 'DIN Regular', sans-serif;
     display: inline-block;
     background-image: url("../../images/launch/launch_background_short.png");
