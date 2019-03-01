@@ -5,12 +5,16 @@
 
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/register-cover.jpg');">
     <!-- <div class="header-overlay"> -->
-    <img style="position: absolute; right:-100px;" class= "blob-mobile" src="images/register/blob-1.png">
+    <div class="blob-box">
+        <img style="position: absolute; right:-100px;" class= "blob-mobile" src="images/register/blob-1.png">
+    </div>
     <div class="register-brand">
         
         <img src="images/launch/bogota_plus_dates.png" />
     </div>
+    <div class="blob-box">
     <img style="position: absolute; left: -200px" class= "blob-mobile" src="images/register/blob-2.png">
+</div>
     <!-- </div> -->
 </div>
 
@@ -21,8 +25,9 @@
         <h1> Apply to attend the MIT Global Startup Workshop </h1>
         <br>
         <br>
+        <div class="blob-box">
         <img style="position: absolute; right:-200px;" class= "blob-mobile" src="images/register/blob-3.png">
-
+</div>
         <div class="register-box">
             <h2>How Registration Works</h2>
 
@@ -61,8 +66,9 @@
             </div>
         </div>
     </div>
+    <div class="blob-box">
     <img style="position: absolute; margin-bottom: 20px; left: -300px;" class= "blob-mobile" src="images/register/blob-4.png">
-
+</div>
 
 </div>
 
