@@ -5,23 +5,23 @@
 
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/register-cover.jpg');">
     <!-- <div class="header-overlay"> -->
-    <img style="position: absolute; height: 70%; right:-100px;" src="../../images/register/blob-1.png">
+    <img style="position: absolute; height: 70%; right:-100px;" src="images/register/blob-1.png">
     <div class="register-brand">
         
         <img src="images/launch/bogota_plus_dates.png" />
     </div>
-    <img style="position: absolute; height: 70%; left: -200px" src="../../images/register/blob-2.png">
+    <img style="position: absolute; height: 70%; left: -200px" src="images/register/blob-2.png">
     <!-- </div> -->
 </div>
 
-<body style="background-image: url('../../images/register/register-bg.jpg');">
+<body style="background-image: url('images/register/register-bg.jpg');">
 
 <div class="section">
     <div class="row text-center">
         <h1> Apply to attend the MIT Global Startup Workshop </h1>
         <br>
         <br>
-        <img style="position: absolute; height: 70%; right:-200px;" src="../../images/register/blob-3.png">
+        <img style="position: absolute; height: 70%; right:-200px;" src="images/register/blob-3.png">
 
         <div class="register-box">
             <h2>How Registration Works</h2>
@@ -62,7 +62,7 @@
             </div>
         </div>
 
-        <img style="position: absolute; padding-top: 50px; height: 60%; left: -400px; overflow: hidden;" src="../../images/register/blob-4.png">
+        <img style="position: absolute; padding-top: 50px; height: 60%; left: -400px; overflow: hidden;" src="images/register/blob-4.png">
 
         
     </div>

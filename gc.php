@@ -11,7 +11,7 @@
     </div>
 </div>
 
-<body style="background-image: url('../../images/comp/comp-background.jpg');">
+<body style="background-image: url('images/comp/comp-background.jpg');">
 
 <div class="section">
     <div class="comp-center">
