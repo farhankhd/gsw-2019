@@ -55,7 +55,7 @@
             <div class="col-md-6 comp-content">
                 <h2> PRIZES </h2>
                 <ul>
-                <li><strong>Monetary prizes for </strong> 1st and 2nd place winners</li>
+                <li><strong>Monetary prizes </strong> for 1st and 2nd place winners</li>
                 <li>In addition, the winner and runner up will be directly <strong>accepted for the MassChallenge Competition Round 2.</strong> More information here: masschallenge.org/apply</li>
                 <li>Mentorship from experienced entrepreneurs</li>
                 <li>More great prizes to come - check back often!</li>
