@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c91f110-52fc-4c72-9507-76a9dcddf8c5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/MIT GSW 2019 Business Plan Competition Rules.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/MIT GSW 2019 Grand Challenge Rules.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bpc.php" afterPath="$PROJECT_DIR$/bpc.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gc.php" afterPath="$PROJECT_DIR$/gc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/nav-bar.php" afterPath="$PROJECT_DIR$/templates/nav-bar.php" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,21 +30,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bpc.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bpc.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bpc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="39" column="123" lean-forward="false" selection-start-line="39" selection-start-column="123" selection-end-line="39" selection-end-column="123" />
-              <folding />
+            <state relative-caret-position="428">
+              <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="1038" column="12" lean-forward="true" selection-start-line="1038" selection-start-column="12" selection-end-line="1038" selection-end-column="12" />
+            <state relative-caret-position="351">
+              <caret line="1040" column="17" lean-forward="false" selection-start-line="1040" selection-start-column="17" selection-end-line="1040" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -57,9 +55,11 @@
       <file leaf-file-name="gc.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="40" column="38" lean-forward="false" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
-              <folding />
+            <state relative-caret-position="262">
+              <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,9 +78,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/team.php" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/gc.php" />
         <option value="$PROJECT_DIR$/bpc.php" />
+        <option value="$PROJECT_DIR$/gc.php" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
       </list>
     </option>
   </component>
@@ -175,12 +175,12 @@
       <workItem from="1550111232011" duration="571000" />
       <workItem from="1550717014003" duration="1239000" />
       <workItem from="1551127507299" duration="325000" />
-      <workItem from="1551403826496" duration="411000" />
+      <workItem from="1551403826496" duration="681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2773000" />
+    <option name="totallyTimeSpent" value="3043000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="802" extended-state="0" />
@@ -281,26 +281,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+    <entry file="file://$PROJECT_DIR$/bpc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="1038" column="12" lean-forward="true" selection-start-line="1038" selection-start-column="12" selection-end-line="1038" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="428">
+          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="40" column="38" lean-forward="false" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
-          <folding />
+        <state relative-caret-position="262">
+          <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bpc.php">
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="39" column="123" lean-forward="false" selection-start-line="39" selection-start-column="123" selection-end-line="39" selection-end-column="123" />
+        <state relative-caret-position="351">
+          <caret line="1040" column="17" lean-forward="false" selection-start-line="1040" selection-start-column="17" selection-end-line="1040" selection-end-column="17" />
           <folding />
         </state>
       </provider>
