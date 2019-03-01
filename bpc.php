@@ -11,10 +11,12 @@
     </div>
 </div>
 
-<body style="background-image: url('images/comp/comp-background.jpg');">
+<body style="background-image: url('images/comp/comp-background.jpg')">
 
 <div class="section">
-    <div class="comp-center">
+    <!-- <img style="position: absolute; height: 70%; left: -700px; z-index: 10" src="images/comp/blob-2.png"> -->
+
+    <div class="comp-center" style="z-index: 10">
         <h1> Business Plan Competition</h1>
         <br>
         <div class="line"></div>
@@ -22,8 +24,8 @@
         <div class="row">
             <div class="col-3"></div>
             <div class="col-6">
-                <p class="white" style="text-align:left;"> Do you have an amazing early-stage startup? Apply to the Business Plan Competition (BPC)
-                    for the opportunity to win $10,000 USD and receive mentorship from business leaders from MIT and Latin America! </p>
+                <p class="white" style="text-align:left; padding-left: 3%"> Do you have an amazing early-stage startup? Apply to the Business Plan Competition (BPC)
+                    for the opportunity to win monetary prizes and receive mentorship from business leaders from MIT and Latin America! </p>
                 <br>
                 <p class="white text-center">Check out our <a href="assets/MIT%20GSW%202019%20Business%20Plan%20Competition%20Rules.pdf">Official Rules Document</a> for more information.</p>
                 <!--<p>Consulte nuestro <a href="">Reglamento Oficial</a> para más información.</p>-->
@@ -34,6 +36,8 @@
             <div class="col-3"></div>
         </div>
         <br>
+        <!-- <img style="position: absolute; height: 70%; right: -100px; z-index: 10" src="images/comp/blob-3.png"> -->
+
         <div class="line"></div>
         <br>
         <img class="comp-flow" src="images/comp/bpc-flow.png">
