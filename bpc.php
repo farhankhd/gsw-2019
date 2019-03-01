@@ -36,14 +36,14 @@
             <div class="col-3"></div>
         </div>
         <br>
-        <img style="position: absolute; height: 70%; right: -100px; z-index: 10" src="images/comp/blob-3.png">
+        <!-- <img style="position: absolute; height: 70%; right: -100px; z-index: 10" src="images/comp/blob-3.png"> -->
 
         <div class="line"></div>
         <br>
         <img class="comp-flow" src="images/comp/bpc-flow.png">
         <br><br>
     </div>
-    <img style="position: absolute; height: 70%; left: -150px; z-index: 1" src="images/comp/blob-4.png">
+    <!-- <img style="position: absolute; height: 70%; left: -150px; z-index: 1" src="images/comp/blob-4.png"> -->
 
     <div class="row text-center">
         <div>

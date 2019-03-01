@@ -1861,6 +1861,9 @@ p {
     .comp-content h2 {
         font-size: 1.4em;
     }
+    .comp-content h1 {
+        font-size: 1.6em;
+    }
     .register-box {
         padding-top: 20px;
         padding-bottom: 20px;
