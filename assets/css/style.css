@@ -34,7 +34,7 @@ body {
     display: inline-block;
     background-image: url("../../images/launch/launch_background_short.png");
     background-size: cover;
-    overflow: auto;
+    overflow: hidden;
 }
 
 
@@ -212,6 +212,10 @@ h6 {
 #registration-section p {
     font-family: DIN Italic;
     font-size: 2vw
+}
+
+.blob-mobile {
+    height: 50%;
 }
 
 .register-btn,
@@ -1781,6 +1785,10 @@ p {
         color: white;
         border: 2px white;
     }
+    .register-btn-large {
+        padding: 10px 30px;
+        border-radius: 40px;
+    }
     .video-container video {
         visibility: hidden;
     }
@@ -1849,6 +1857,19 @@ p {
     }
     .brand2 {
         display: none;
+    }
+    .comp-content h2 {
+        font-size: 1.4em;
+    }
+    .register-box {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 50px;
+        padding-right: 50px;
+        outline: 2px solid white;
+    }
+    .blob-mobile {
+        height: 40%;
     }
 }
 
