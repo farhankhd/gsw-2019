@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c91f110-52fc-4c72-9507-76a9dcddf8c5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bpc.php" afterPath="$PROJECT_DIR$/bpc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gc.php" afterPath="$PROJECT_DIR$/gc.php" />
-    </list>
+    <list default="true" id="2c91f110-52fc-4c72-9507-76a9dcddf8c5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -186,12 +183,12 @@
       <workItem from="1550111232011" duration="571000" />
       <workItem from="1550717014003" duration="1239000" />
       <workItem from="1551127507299" duration="325000" />
-      <workItem from="1551403826496" duration="966000" />
+      <workItem from="1551403826496" duration="1143000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3328000" />
+    <option name="totallyTimeSpent" value="3505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="802" extended-state="0" />

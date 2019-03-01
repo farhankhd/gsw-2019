@@ -193,7 +193,7 @@
         </div>
         <div class="col-md-4">
             <img src="images/team/Travis.jpg" class="team-picture" alt="">
-            <div class="team-name">Lee Ullmann</div>
+            <div class="team-name">Travis Hunter</div>
             <div class="team-role">Director</div>
             <div class="team-area">MIT Regional Entrepreneurship & Acceleration Program</div>
         </div>
