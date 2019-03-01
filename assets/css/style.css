@@ -248,6 +248,13 @@ a:focus {
     font-weight: 800 !important;
 }
 
+.register-brand img {
+    padding-top: 250px;
+    width: 15%;
+    display: block;
+    margin: auto;
+}
+
 
 /* video on main page */
 

@@ -5,12 +5,8 @@
 
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/register-cover.jpg');">
     <div class="header-overlay">
-    <div class="brand">
-        <br> <br>
-        <br> <br>
-        <br> <br>
-        <br> <br>
-        <br> <br>
+    <div class="register-brand">
+        
         <img src="images/launch/bogota_plus_dates.png" />
     </div>
 
