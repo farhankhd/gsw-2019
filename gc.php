@@ -55,8 +55,7 @@
             <div class="col-md-6 comp-content">
                 <h2> PRIZES </h2>
                 <ul>
-                <li><strong>First Place: $1,500 USD </strong> cash prize</li>
-                <li><strong>Second Place: $500 USD</strong> cash prize</li>
+                <li><strong>Monetary prizes for </strong> 1st and 2nd place winners</li>
                 <li>Mentorship from experienced entrepreneurs</li>
                 <li>More great prizes to come - check back often!</li>
             </ul><br><br>
