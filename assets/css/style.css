@@ -889,7 +889,7 @@ h6 {
 
 .navbar-default a:hover,
 .navbar-default a:focus {
-    font-size: 0.95em;
+    /* font-size: 0.95em; */
 }
 
 .navbar-default .navbar-nav>li>a {

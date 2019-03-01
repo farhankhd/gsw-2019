@@ -22,7 +22,7 @@
         <div class="row">
             <div class="col-3"></div>
             <div class="col-6">
-                <p class="white" style="text-align:left"> Do you have an amazing early-stage startup? Apply to the Business Plan Competition (BPC)
+                <p class="white" style="text-align:left;"> Do you have an amazing early-stage startup? Apply to the Business Plan Competition (BPC)
                     for the opportunity to win $10,000 USD and receive mentorship from business leaders from MIT and Latin America! </p>
                 <br>
                 <p class="white text-center">Check out our <a href="assets/MIT%20GSW%202019%20Business%20Plan%20Competition%20Rules.pdf">Official Rules Document</a> for more information.</p>
