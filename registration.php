@@ -60,12 +60,13 @@
                 <br><br>
             </div>
         </div>
-
-        <img style="position: absolute; padding-top: 100px; height: 60%; left: -300px; overflow: hidden; z-index: 1" src="images/register/blob-4.png">
-
-        
     </div>
+    <img style="position: absolute; margin-bottom: 20px; height: 40%; left: -300px;" src="images/register/blob-4.png">
+
+
 </div>
+
+
 <script src="assets/js/papaparse.min.js"></script>
 <script src="assets/js/main.js"></script>
 <script src="assets/js/jquery.min.js"></script>
