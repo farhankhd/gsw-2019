@@ -1236,7 +1236,7 @@ h6 {
 
 .endSpeakers {
     text-align: center;
-    font-size: 1.2em;
+    font-size: 0.9em;
     font-weight: 800;
     color: white;
 }
@@ -1495,6 +1495,7 @@ h6 {
 
 #footer p {
     color: white;
+    font-size: 0.8em;
 }
 
 #footer-hr {
