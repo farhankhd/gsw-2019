@@ -27,6 +27,7 @@
                 <p  class="white" style="text-align:left">Our inaugural Grand Challenge invites you to address a major challenge Colombians are currently facing: limited connectivity between geographically separate locations (e.g. supply chain improvement between rural and urban communities). Identify a specific problem relating to this theme and propose a solution that could be developed into a viable venture.</p>
                 <br>
                 <p class="white text-center">Check out our <strong><a href="assets/MIT%20GSW%202019%20Grand%20Challenge%20Rules.pdf">Official Rules Document</a></strong> for more information.</p>
+                <p class="white text-center">Consulte nuestro <a href='assets/MIT GSW 2019 Grand Challenge Rules Spanish.pdf'>Reglamento Oficial</a> para más información. </p>
                 <!-- <p class="white text-center">Consulte nuestro Reglamento Oficial para más información.</p> -->
             </div>
             <div class="col-3"></div>

@@ -28,6 +28,7 @@
                     for the opportunity to win monetary prizes and receive mentorship from business leaders from MIT and Latin America! </p>
                 <br>
                 <p class="white text-center">Check out our <a href="assets/MIT%20GSW%202019%20Business%20Plan%20Competition%20Rules.pdf">Official Rules Document</a> for more information.</p>
+                <p class="white text-center">Consulte nuestro <a href='assets/MIT GSW 2019 Business Plan Competition Rules Spanish.pdf'>Reglamento Oficial</a> para más información. </p>
                 <!--<p>Consulte nuestro <a href="">Reglamento Oficial</a> para más información.</p>-->
 
                 <p class="white text-center">Deadline to Apply: 7 April, 2019</p>
@@ -62,7 +63,7 @@
                 <h2> PRIZES </h2>
                 <ul>
                 <li><strong>Monetary prizes </strong> for 1st and 2nd place winners</li>
-                <li>In addition, the winner and runner up will be directly <strong>accepted for the MassChallenge Competition Round 2.</strong> More information here: masschallenge.org/apply</li>
+                <li>In addition, the winner and runner up will be directly <strong>accepted for the MassChallenge Competition Round 2.</strong> More information here: <a href='https://masschallenge.org/about-apply'> masschallenge.org/apply </a></li>
                 <li>Mentorship from experienced entrepreneurs</li>
                 <li>More great prizes to come - check back often!</li>
             </ul><br><br>
