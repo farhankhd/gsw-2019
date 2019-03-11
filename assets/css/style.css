@@ -1180,8 +1180,17 @@ h6 {
 /* SPEAKER CSS */
 
 .speaker-picture {
-    width: 90%;
-    height: auto;
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.speaker-picture-keynote {
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     margin-bottom: 10px;
 }
@@ -1218,11 +1227,14 @@ h6 {
     font-size: 1.8em;
     color: white;
     font-family: "DIN";
+    text-transform: uppercase;
 }
 
 .speaker-expanded-position {
     margin-bottom: 20px;
-    color: #e4e4f0;
+    color: white;
+    font-weight: 400;
+    text-transform: uppercase;
 }
 
 .link-to-speaker {
@@ -1544,10 +1556,10 @@ h6 {
     word-wrap: break-word;
 }
 
-.btn,
+
+/* .btn,
 #subscribe-button {
     border: none;
-    /*padding: 12px 16px;*/
     font-weight: 500;
     text-transform: uppercase;
     margin-bottom: 20px;
@@ -1567,7 +1579,7 @@ h6 {
     background-color: #dd4f33;
     border: none;
     font-family: "DIN";
-}
+} */
 
 .register-button {
     padding: 12px 16px;
@@ -1601,7 +1613,8 @@ footer-title a:focus {
 
 /* General */
 
-.registration-button {
+.registration-button,
+#subscribe-button {
     border: none;
     font-size: 10px;
     padding: 5px 10px;

@@ -58,7 +58,7 @@ function getSpeakers() {
 
                 var imageMarkup = '<div class=\'speaker col-sm-6 col-md-3\'>' +
                     associationMarkup +
-                    '<img class=\'team-picture\' src=\'images/speaker/' + path + '\'>';
+                    '<img class=\'speaker-picture\' src=\'images/speaker/' + path + '\'>';
                 // markup += imageMarkup + name + '</div>';
 
                 speakerInfoMarkup = '<div class=\'row speaker-expanded-bio\'>' +
@@ -68,8 +68,18 @@ function getSpeakers() {
                     '<div class=\'speaker-expanded-position\'>' + title + '</div>' +
                     bio + '</div></div>';
 
+                keynoteMarkup = '<div class=\'speaker row\'>' +
+                    associationMarkup +
+                    '<img class=\'speaker-picture-keynote\' src=\'images/speaker/' + path + '\'>';
+                keynoteMoreMarkeup = '<div class=\'row speaker-expanded-bio\'>' +
+                    '<span class=\"anchor\" id=\"' + anchor + '\"></span>' +
+                    keynoteMarkup + '</div><div class=\'row speaker-expanded-text\'>' +
+                    '<div class=\'speaker-expanded-name\' style=\'text-align: center\'>' + name + '</div>' +
+                    '<div class=\'speaker-expanded-position\' style=\'text-align: center\'>' + title + '</div>' +
+                    bio + '</div></div>';
+
                 if (currentSpeaker['Keynote'] == 'Y') {
-                    $(speakerInfoMarkup).appendTo('#keynote-section-expanded');
+                    $(keynoteMoreMarkeup).appendTo('#keynote-section-expanded');
                 } else {
                     $(speakerInfoMarkup).appendTo('#speaker-section-expanded');
                 }
@@ -79,6 +89,6 @@ function getSpeakers() {
     });
 }
 
-// getSpeakers()
+getSpeakers()
 
 // countdown()

@@ -22,6 +22,14 @@
                 <div class="col-md-3"></div>
                 <div class="col-md-9"></div>
             </div>
+            <!-- <div class="row speaker-expanded-bio">
+                <div class="row">
+                <img class="speaker-picture-keynote" src="images/speaker/maria.jpg"></div>
+                <div class="row">
+                <div class="speaker-expanded-name">Mentor Example</div>
+                <div class="speaker-expanded-position">Mentor</div>
+                </div>
+            </div> -->
         </div>
         <div class="col-md-6 comp-content" id="speaker-section-expanded">
             <p class="section-header section-header-page" style="color: white">Speakers</p>
