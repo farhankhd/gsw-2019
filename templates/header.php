@@ -59,11 +59,12 @@
                 <p>Collaborators</p>
                 <div class="container">
                     <div class="row">
-                        <img src="images/logo/mslao-logo.png" class="partner-logo">
                         <img src="images/logo/colub-1.png" class="partner-logo" style="height: 150px">
                         <img src="images/logo/connect-logo.png" class="partner-logo">
                         <img src="images/logo/nuevo-logo.png" class="partner-logo" style="height: 150px">
+                        <img src="images/logo/cesa.png" class="partner-logo">
                         <br>
+                        <img src="images/logo/mslao-logo.png" class="partner-logo">
                         <img src="images/logo/legatum_2.png" class="partner-logo">
                         <img src="images/logo/martin_trust_2.png" class="partner-logo">
                         <img src="images/logo/reap_2.png" class="partner-logo">
