@@ -930,6 +930,12 @@ h6 {
     background-color: rgba(10, 28, 63, 1);
 }
 
+.navbar-nav>li>.dropdown-menu {
+    width: 100%;
+}
+
+
+
 .dropdown-menu a:hover,
 .dropdown-menu a:focus {
     color: #fff;
