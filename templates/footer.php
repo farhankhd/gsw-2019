@@ -1,18 +1,18 @@
 <div id="footer">
     <br><br>
-    <div class="row text-center">
+    <div class="row text-center" style='font-size: 15px'>
         <div>
             <p style="font-family: 'Din Light'"> Copyright &copy; 2011-2019. Massachusetts Institute of Technology. All Rights Reserved.</p>
             <p style="font-family: 'Din Light'"> For more information please contact <a style="color: white; text-decoration: underline" href="mailto:gsw-contact@mit.edu"> gsw-contact@mit.edu</a>.</p>
 
-            <p class="section-header section-header-footer">Stay in touch! Subscribe to our newsletter.</p>
+            <!-- <p class="section-header section-header-footer">Stay in touch! Subscribe to our newsletter.</p>
                 <p>Don't miss any news about MIT GSW 2019. We promise we won't spam you.</p>
                 <form method="post" class="form-inline" action="http://gsw.mit.edu/wordpress/?na=s">
                     <div class="form-group">
                         <input class="form-control" type="email" name="ne" placeholder="Email" required>
                         <input class="form-control" id="subscribe-button" type="submit" value="Subscribe">
                     </div>
-                </form>
+                </form> -->
         </div>
         <div class="row text-center">
             <div class="col-md-offset-2 col-md-8">
