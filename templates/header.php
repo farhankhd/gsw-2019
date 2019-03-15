@@ -29,11 +29,17 @@
         <img src="images/launch/gsw-heading.png"/>
         <br> <br>
         <img src="images/launch/bogota_plus_dates.png" />
+        <br> <br><br> <br><br> <br>
+        <div>
+            <!-- <img src="images/logo/bogota-team-logo.png"> -->
+
+        </div>
+
     </div>
     <div class="video-container">
         <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="http://gsw-2019.herokuapp.com/images/launch/bogota-drone-footage.mp4"></video>
     </div>
-    
+
     <div class="brand2">
         <p> footage from worldmoments.org</p>
     </div>
