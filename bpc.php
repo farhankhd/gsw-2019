@@ -27,8 +27,8 @@
                 <p class="white" style="text-align:left; padding-left: 3%"> Do you have an amazing early-stage startup? Apply to the Business Plan Competition (BPC)
                     for the opportunity to win monetary prizes and receive mentorship from business leaders from MIT and Latin America! </p>
                 <br>
-                <p class="white text-center">Check out our <a href="assets/MITGSW%202019%20Business%20Plan%20Competition%20Rules.pdf">Official Rules Document</a> for more information.</p>
-                <p class="white text-center">Consulte nuestro <a href='assets/MITGSW 2019 Business Plan Competition Rules Spanish.pdf'>Reglamento Oficial</a> para más información. </p>
+                <p class="white text-center">Check out our <a href="assets/docs/MITGSW%202019%20Business%20Plan%20Competition%20Rules.pdf">Official Rules Document</a> for more information.</p>
+                <p class="white text-center">Consulte nuestro <a href='assets/docs/MITGSW 2019 Business Plan Competition Rules Spanish.pdf'>Reglamento Oficial</a> para más información. </p>
                 <!--<p>Consulte nuestro <a href="">Reglamento Oficial</a> para más información.</p>-->
 
                 <p class="white text-center">Deadline to Apply: 7 April, 2019</p>

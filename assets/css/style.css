@@ -70,7 +70,7 @@ h6 {
 }
 
 .landing-page-img {
-    background-image: url("../../images/launch/launch_background_long.png");
+    background-image: url("../../images/launch/background_long.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     /* color: #c8ece9; */
@@ -325,7 +325,7 @@ a:focus {
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background-image: url("../../images/landing-page/bogota.png");
+    background-image: url("../../images/launch/bogota.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -933,8 +933,6 @@ h6 {
 .navbar-nav>li>.dropdown-menu {
     width: 100%;
 }
-
-
 
 .dropdown-menu a:hover,
 .dropdown-menu a:focus {
@@ -1825,7 +1823,7 @@ p {
         visibility: hidden;
     }
     .video-container {
-        background-image: url("../../images/landing-page/bogota.png");
+        background-image: url("../../images/launch/bogota.png");
         display: inline-block
     }
     .partner-logo {

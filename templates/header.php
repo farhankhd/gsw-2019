@@ -31,7 +31,6 @@
         <img src="images/launch/bogota_plus_dates.png" />
     </div>
     <div class="video-container">
-        <!-- <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="images/launch/bogota-drone-footage.mp4"></video> -->
         <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="http://gsw-2019.herokuapp.com/images/launch/bogota-drone-footage.mp4"></video>
     </div>
     
@@ -44,7 +43,6 @@
     <div class="row text-center">
         <div class="col-xs-12">
             <br /><br><br><br>
-            <!-- <img class="blob" src="images/launch/blob_01.png" /> -->
             <div class="section-subheader text-center registration-message">
                 <h4>Registration applications for MIT GSW 2019 are now open!</h4>
                 <h4>Selected applications will receive free tickets to attend. For more information, see the <a href="registration.php">Registration page.</a></h4>
@@ -135,7 +133,7 @@
                 </iframe>
             </div>            
             <div class="col-xs-6">
-                <img class="why-img" src="images/landing-page/colsubsidio.jpg" />
+                <img class="why-img" src="images/launch/colsubsidio.jpg" />
             </div>
         </div>
     </div>

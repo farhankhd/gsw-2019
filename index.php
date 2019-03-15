@@ -6,10 +6,8 @@
     $headerTitle = 'MIT Global Startup Workshop';
     $headerSubTitle = 'GSW 2019';
     $classIndexMenu = 'active';
-// include('templates/nav-bar.php');
 
     include('templates/nav-bar.php');
-    // include('templates/landing-page.php');
     include('templates/header.php');
     include('templates/footer.php');
 ?>

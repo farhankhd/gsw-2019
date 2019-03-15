@@ -44,8 +44,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <!-- <img src="images/landing-page/logo2.png" id="navbar-logo"/> -->
-            <a class="navbar-brand" href="index.php"><img src="images/landing-page/logo2.png" id="navbar-logo"></a>
+            <a class="navbar-brand" href="index.php"><img src="images/logo/logo2.png" id="navbar-logo"></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -67,7 +66,7 @@
                 <li><a href="team.php">About Us</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
-            <img src="images/launch/bogota-team-logo.png" id="navbar-logo-right">
+            <img src="images/logo/bogota-team-logo.png" id="navbar-logo-right">
                 <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         About <span class="caret"></span>
