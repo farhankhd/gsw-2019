@@ -20,7 +20,7 @@
         <br>
         <div class="line"></div>
         <br>
-        <div class="row">
+        <div class="col-lg-12">
             <div class="col-3"></div>
             <div class="col-6">
                 <p class="white" style="text-align:left; font-size: 1.2em;"><strong>Do you dream of ways to improve life for your community and country? Would you like to promote longer & stronger engagement between MIT and Colombia?</strong></p>
@@ -35,13 +35,17 @@
         <a class="register-btn" style="text-decoration: none;" href="https://mit.co1.qualtrics.com/jfe/form/SV_7PpPqYrKxm2yrfD">Apply</a>
         </div>
         <br><br>
-        <div class="line"></div>
 
         <br>
+        
+    </div>
+    <div class="col-lg-12 text-center">
+        <br><br>
+        <div class="line"></div>
         <img class="comp-flow" src="images/comp/gc-flow.png">
         <br><br>
     </div>
-    <div class="row text-center">
+    <div class="col-lg-12 text-center">
         <div>
             <div class="col-md-6 comp-content">
                 <h2> FORMAT </h2>
@@ -66,7 +70,7 @@
     </div>
     <div class="row text-center">
         
-        <div>
+        <div class="col-lg-12">
             <div class="col-md-6 comp-content">
                 <h2> ELIGIBILITY </h2>
                 <ul>

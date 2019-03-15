@@ -21,7 +21,7 @@
         <br>
         <div class="line"></div>
         <br>
-        <div class="row">
+        <div class="col-lg-12">
             <div class="col-3"></div>
             <div class="col-6">
                 <p class="white" style="text-align:left; padding-left: 3%"> Do you have an amazing early-stage startup? Apply to the Business Plan Competition (BPC)
@@ -39,15 +39,19 @@
         <br>
         <!-- <img style="position: absolute; height: 70%; right: -100px; z-index: 10" src="images/comp/blob-3.png"> -->
 
-        <div class="line"></div>
-        <br>
-        <img class="comp-flow" src="images/comp/bpc-flow.png">
         <br><br>
     </div>
     <!-- <img style="position: absolute; height: 70%; left: -150px; z-index: 1" src="images/comp/blob-4.png"> -->
+    <br>
+    <div class="col-lg-12 text-center">
+        <br><br>
+        <div class="line"></div>
+        <img class="comp-flow" src="images/comp/bpc-flow.png">
+        <br><br>
+    </div>
 
     <div class="row text-center">
-        <div>
+        <div class="col-lg-12">
             <div class="col-md-6 comp-content">
                 <h2> FORMAT </h2>
                 <p> Selected semi-finalists for our Business Plan Competition will receive direct 
@@ -73,7 +77,7 @@
     </div>
     <div class="row text-center">
 
-        <div>
+        <div class="col-lg-12">
             <div class="col-md-6 comp-content">
                 <h2> ELIGIBILITY </h2>
                 <ul>
