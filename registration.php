@@ -3,7 +3,7 @@
     include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/register-header.jpg');">
+<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/register_header.jpg');">
     <!-- <div class="header-overlay"> -->
     <div class="blob-box">
         <img style="position: absolute; right:-100px;" class= "blob-mobile" src="images/register/blob-1.png">

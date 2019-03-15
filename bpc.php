@@ -3,7 +3,7 @@
     include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/business-header.jpg');">
+<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/business_header.jpg');">
     <div class="header-overlay">
     <h1 class="parallax-text">
         Business Plan Competition

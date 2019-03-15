@@ -30,7 +30,7 @@ function countdown() {
 }
 
 function getSpeakers() {
-    var filename = 'data/speakersinfo.csv'
+    var filename = 'data/bios.csv'
     Papa.parse(filename, {
         download: true,
         header: true,
@@ -49,16 +49,16 @@ function getSpeakers() {
 
                 var anchor = name.replace(/ /g, "_");
 
-                var path = currentSpeaker['Filename'];
+                var path = currentSpeaker['headshot'];
                 var bio = currentSpeaker['Bio'];
-                var title = currentSpeaker['Title'];
+                var title = currentSpeaker['Job'];
 
-                var associationMarkup = currentSpeaker['MIT association'] == 'Y' ?
+                var associationMarkup = currentSpeaker['MIT'] == 'Y' ?
                     '<img class=\'speaker-picture-association\' src=\'images/speaker/mit.png\'/>' : '';
 
                 var imageMarkup = '<div class=\'speaker col-sm-6 col-md-3\'>' +
                     associationMarkup +
-                    '<img class=\'speaker-picture\' src=\'images/speaker/' + path + '\'>';
+                    '<img class=\'speaker-picture\' src=\'images/speaker-img/' + path + '\'>';
                 // markup += imageMarkup + name + '</div>';
 
                 speakerInfoMarkup = '<div class=\'row speaker-expanded-bio\'>' +
@@ -70,13 +70,14 @@ function getSpeakers() {
 
                 keynoteMarkup = '<div class=\'speaker row\'>' +
                     associationMarkup +
-                    '<img class=\'speaker-picture-keynote\' src=\'images/speaker/' + path + '\'>';
+                    '<img class=\'speaker-picture-keynote\' src=\'images/speaker-img/' + path + '\'>';
                 keynoteMoreMarkeup = '<div class=\'row speaker-expanded-bio\'>' +
                     '<span class=\"anchor\" id=\"' + anchor + '\"></span>' +
                     keynoteMarkup + '</div><div class=\'row speaker-expanded-text\'>' +
                     '<div class=\'speaker-expanded-name\' style=\'text-align: center\'>' + name + '</div>' +
                     '<div class=\'speaker-expanded-position\' style=\'text-align: center\'>' + title + '</div>' +
-                    bio + '</div></div>';
+                    '<div style=\'width: 90%; display: inline-block;\'>' +
+                    bio + '</div></div></div>';
 
                 if (currentSpeaker['Keynote'] == 'Y') {
                     $(keynoteMoreMarkeup).appendTo('#keynote-section-expanded');
@@ -89,6 +90,6 @@ function getSpeakers() {
     });
 }
 
-// getSpeakers()
+getSpeakers()
 
 // countdown()
