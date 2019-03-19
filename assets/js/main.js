@@ -50,8 +50,12 @@ function getSpeakers() {
                 var anchor = name.replace(/ /g, "_");
 
                 var path = currentSpeaker['headshot'];
-                var bio = currentSpeaker['Bio'];
+                var bio = currentSpeaker['Bio_New'];
                 var title = currentSpeaker['Job'];
+
+                if (bio.length == 0) {
+                    var bio = currentSpeaker['Bio'];
+                }
 
                 var associationMarkup = currentSpeaker['MIT'] == 'Y' ?
                     '<img class=\'speaker-picture-association\' src=\'images/speaker/mit.png\'/>' : '';
@@ -77,11 +81,14 @@ function getSpeakers() {
                     '<div class=\'speaker-expanded-position\' style=\'text-align: center\'>' + title + '</div>' +
                     bio + '</div></div>';
 
-                if (currentSpeaker['Keynote'] == 'Y') {
-                    $(keynoteMoreMarkeup).appendTo('#keynote-section-expanded');
-                } else {
-                    $(speakerInfoMarkup).appendTo('#speaker-section-expanded');
-                }
+                // if (currentSpeaker['Keynote'] == 'Y') {
+                //     $(keynoteMoreMarkeup).appendTo('#keynote-section-expanded');
+                // } else {
+                //     $(speakerInfoMarkup).appendTo('#speaker-section-expanded');
+                // }
+
+                $(speakerInfoMarkup).appendTo('#speaker-section-expanded');
+
             }
 
         }

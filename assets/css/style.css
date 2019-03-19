@@ -1185,8 +1185,8 @@ h6 {
 
 .speaker-picture {
     object-fit: cover;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     margin-bottom: 10px;
 }
