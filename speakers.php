@@ -1,11 +1,6 @@
 <?php
     $pageTitle = 'Speakers | MIT Global Startup Workshop 2018';
     include('templates/nav-bar.php');
-
-    //set headers to NOT cache a page
-    header("Cache-Control: no-cache, must-revalidate"); //HTTP 1.1
-    header("Pragma: no-cache"); //HTTP 1.0
-    header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 ?>
 
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/speaker_header.jpg');">
