@@ -36,10 +36,38 @@
                 <div class="col-md-3"></div>
                 <div class="col-md-9"></div>
             </div>
+
         </div> 
-        
     </div>
 </div>
+
+<div id="speaker-modals">
+
+</div>
+
+<div class="modal fade" id="modal-text" tabindex="-1" role="dialog" aria-labelledby="modal-text-label">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="document.getElementById('video').pause();">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                
+
+        
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .team-speaker {
+        min-height: 350px;
+    }
+</style>
+
 
 <script src="assets/js/papaparse.min.js"></script>
 <script src="assets/js/main.js"></script>

@@ -1220,7 +1220,7 @@ h6 {
 }
 
 .speaker-expanded-text {
-    font-size: 0.7em;
+    font-size: 1.2em;
     text-align: justify;
     text-justify: inter-word;
 }
@@ -1228,7 +1228,7 @@ h6 {
 .speaker-expanded-name {
     font-weight: 500;
     margin-bottom: 5px;
-    font-size: 1.8em;
+    font-size: 2.0em;
     color: white;
     font-family: "DIN";
     text-transform: uppercase;
@@ -1255,6 +1255,73 @@ h6 {
     font-size: 0.9em;
     font-weight: 800;
     color: white;
+}
+
+.team-speaker {
+    margin: 30;
+    padding: 30;
+    height: 300;
+}
+
+
+/****MODAL****/
+
+.modal-backdrop.in {
+    filter: alpha(opacity=7);
+    opacity: 0.7;
+}
+
+.modal-dialog {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.modal-content {
+    background: black;
+    border: 10;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    margin: 50px 40px 40px 40px;
+}
+
+.modal-body {
+    /*padding: 25px 25px 25px 25px;*/
+    height: 80%;
+    width: 80%;
+    margin-left: 120px;
+}
+
+.modal-body2 {
+    padding: 50px 40px 40px 40px;
+    margin-left: 20px;
+    /* margin-left: 100px;
+    margin-right: 100px; */
+}
+
+.modal-header {
+    /*padding: 0px 0px 15px 15px;*/
+    text-align: left;
+}
+
+.modal-header,
+.modal-footer {
+    border: 0;
+}
+
+.modal-header .close {
+    float: none;
+    margin: 0;
+    font-size: 36px;
+    color: #fff;
+    font-weight: 300;
+    text-shadow: none;
+    opacity: 1;
 }
 
 
