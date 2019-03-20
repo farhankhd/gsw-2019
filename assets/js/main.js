@@ -30,7 +30,7 @@ function countdown() {
 }
 
 function getSpeakers() {
-    var filename = 'data/bios.csv'
+    var filename = 'data/bios2.csv'
     Papa.parse(filename, {
         download: true,
         header: true,
@@ -41,21 +41,23 @@ function getSpeakers() {
             var rows = speakers.length
             console.log(rows);
 
-            for (var i = 0; i < rows; i++) {
+            for (var i = 1; i < rows; i++) {
                 var currentSpeaker = speakers[i];
                 console.log(currentSpeaker);
 
-                var name = currentSpeaker['First Name'] + ' ' + currentSpeaker['Last Name'];
+                var name = currentSpeaker['WebName'];
 
                 var anchor = name.replace(/ /g, "_");
 
                 var path = currentSpeaker['headshot'];
-                var bio = currentSpeaker['Bio_New'];
-                var title = currentSpeaker['Job'];
+                var bio = currentSpeaker['Bio'];
+                var title = currentSpeaker['Job Title'];
 
-                if (bio.length == 0) {
-                    var bio = currentSpeaker['Bio'];
-                }
+                var wait = currentSpeaker['Wait']
+
+                // if (bio.length == 0) {
+                //     var bio = currentSpeaker['Bio'];
+                // }
 
                 var associationMarkup = currentSpeaker['MIT'] == 'Y' ?
                     '<img class=\'speaker-picture-association\' src=\'images/speaker/mit.png\'/>' : '';
@@ -87,7 +89,10 @@ function getSpeakers() {
                 //     $(speakerInfoMarkup).appendTo('#speaker-section-expanded');
                 // }
 
-                $(speakerInfoMarkup).appendTo('#speaker-section-expanded');
+                if (wait != 'Y') {
+                    $(speakerInfoMarkup).appendTo('#speaker-section-expanded');
+                }
+
 
             }
 
