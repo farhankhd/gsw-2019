@@ -1191,6 +1191,13 @@ h6 {
     margin-bottom: 10px;
 }
 
+@media only screen and (max-width: 479px) {
+    .speaker-picture {
+        width: 100px;
+        height: 100px;
+    }
+}
+
 .speaker-picture-keynote {
     object-fit: cover;
     width: 200px;
@@ -1211,6 +1218,12 @@ h6 {
 .speaker-expanded-bio {
     margin-bottom: 40px;
     color: white;
+}
+
+@media only screen and (max-width: 479px) {
+    .speaker-expanded-bio {
+        font-size: 0.7em;
+    }
 }
 
 .speaker {
@@ -1234,11 +1247,23 @@ h6 {
     text-transform: uppercase;
 }
 
+@media only screen and (max-width: 479px) {
+    .speaker-expanded-name {
+        font-size: 1.2em;
+    }
+}
+
 .speaker-expanded-position {
     margin-bottom: 20px;
     color: white;
     font-weight: 400;
     text-transform: uppercase;
+}
+
+@media only screen and (max-width: 479px) {
+    .speaker-expanded-position {
+        font-size: 0.8em;
+    }
 }
 
 .link-to-speaker {
@@ -1302,6 +1327,12 @@ h6 {
     margin-left: 20px;
     /* margin-left: 100px;
     margin-right: 100px; */
+}
+
+@media only screen and (max-width: 479px) {
+    .modal-body {
+        margin-left: 10%;
+    }
 }
 
 .modal-header {
