@@ -1304,7 +1304,8 @@ h6 {
 }
 
 .modal-content {
-    background: black;
+    background: rgba(0, 0, 0, 0.5);
+    ;
     border: 10;
     -moz-border-radius: 0;
     -webkit-border-radius: 0;
@@ -1313,6 +1314,7 @@ h6 {
     -webkit-box-shadow: none;
     box-shadow: none;
     margin: 50px 40px 40px 40px;
+    border-radius: 20px;
 }
 
 .modal-body {
