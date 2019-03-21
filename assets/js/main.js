@@ -123,6 +123,6 @@ function getSpeakers() {
     });
 }
 
-getSpeakers()
+// getSpeakers()
 
 // countdown()
