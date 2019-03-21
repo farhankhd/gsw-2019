@@ -30,12 +30,14 @@
         <br> <br>
         <img src="images/launch/bogota_plus_dates.png" />
         <br> <br><br> <br><br> <br>
-        <div>
-            <!-- <img src="images/logo/bogota-team-logo.png"> -->
-
-        </div>
 
     </div>
+
+    <div class="brand-logo">
+        <h2 style="font-size: 2.5em"> Hosted By</h2>
+        <img src="images/logo/bogota-team-logo.png">
+    </div>
+
     <div class="video-container">
         <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="http://gsw-2019.herokuapp.com/images/launch/bogota-drone-footage.mp4"></video>
     </div>
