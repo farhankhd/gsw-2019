@@ -29,6 +29,24 @@ function countdown() {
     }, 1000);
 }
 
+function linkify(inputText) {
+    var replacedText, replacePattern1, replacePattern2, replacePattern3;
+
+    //URLs starting with http://, https://, or ftp://
+    replacePattern1 = /(\b(https?|ftp):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/gim;
+    replacedText = inputText.replace(replacePattern1, '<a href="$1" target="_blank">$1</a>');
+
+    //URLs starting with "www." (without // before it, or it'd re-link the ones done above).
+    replacePattern2 = /(^|[^\/])(www\.[\S]+(\b|$))/gim;
+    replacedText = replacedText.replace(replacePattern2, '$1<a href="http://$2" target="_blank">$2</a>');
+
+    //Change email addresses to mailto:: links.
+    replacePattern3 = /(([a-zA-Z0-9\-\_\.])+@[a-zA-Z\_]+?(\.[a-zA-Z]{2,6})+)/gim;
+    replacedText = replacedText.replace(replacePattern3, '<a href="mailto:$1">$1</a>');
+
+    return replacedText;
+}
+
 function getSpeakers() {
     var filename = 'data/bios2.csv'
     Papa.parse(filename, {
@@ -47,7 +65,7 @@ function getSpeakers() {
 
                 var name = currentSpeaker['WebName'];
 
-                var first = currentSpeaker['First Name']
+                var first = currentSpeaker['First Name'].toLowerCase();
 
                 var anchor = name.replace(/ /g, "_");
 
@@ -55,14 +73,44 @@ function getSpeakers() {
                 var bio = currentSpeaker['Bio'];
                 var title = currentSpeaker['Job Title'];
 
-                var wait = currentSpeaker['Wait']
+                var wait = currentSpeaker['Wait'];
+                var id = path.replace('.jpg', '').replace('.png', '').replace('.jpeg', '');
 
                 // if (bio.length == 0) {
                 //     var bio = currentSpeaker['Bio'];
                 // }
 
-                var associationMarkup = currentSpeaker['MIT'] == 'Y' ?
-                    '<img class=\'speaker-picture-association\' src=\'images/speaker/mit.png\'/>' : '';
+                var job = '';
+                var place = '';
+
+                // var titles = title.split('&&');
+                // console.log(titles);
+                // console.log(title.includes('&&'));
+
+                var double = title.includes('&&');
+
+                if (double) {
+                    job = title.split('&&')[0];
+                    place = title.split('&&')[1];
+                } else {
+                    job = title.split(',')[0];
+                    place = title.split(',')[1];
+                }
+
+                bio = linkify(bio);
+                associationMarkup = '';
+
+                // var associationMarkup = currentSpeaker['MIT'] == 'Y' ?
+                //     '<img class=\'speaker-picture-association\' src=\'images/speaker/mit.png\'/>' : '';
+
+                // var associationMarkup = currentSpeaker['MIT'] == 'Harvard' ?
+                //     '<img class=\'speaker-picture-association\' src=\'images/speaker-img/harvard-2.png\'/>' : '';
+
+                if (currentSpeaker['MIT'] == 'Y') {
+                    associationMarkup = '<img class=\'speaker-picture-association\' src=\'images/speaker/mit.png\'/>';
+                } else if (currentSpeaker['MIT'] == 'Harvard') {
+                    associationMarkup = '<img class=\'speaker-picture-association\' src=\'images/speaker-img/harvard-2.png\'/>';
+                }
 
                 var imageMarkup = '<div class=\'speaker col-sm-6 col-md-3\'>' +
                     associationMarkup +
@@ -91,15 +139,16 @@ function getSpeakers() {
                 //     $(speakerInfoMarkup).appendTo('#speaker-section-expanded');
                 // }
 
-                speakerSmallMarkup = '</div><div class="team-speaker col-md-4" style="padding: 20"><a href="#modal-text-' + first + '"data-modal-id="modal-text" data-toggle="modal">' +
+                speakerSmallMarkup = '</div><div class="team-speaker col-md-4" style="padding: 20"><a href="#modal-text-' + id + '"data-modal-id="modal-text" data-toggle="modal">' +
                     associationMarkup +
                     '<img class="team-picture" src=\'images/speaker-img/' + path + '\'>' +
                     '<div class="team-name">' + name + '</div>' +
-                    '<div class="team-role" style="font-size: 0.6em">' + title + '</div>' +
+                    '<div class="team-role" style="font-size: 0.6em">' + job + '</div>' +
+                    '<div class="team-role" style="font-size: 0.6em">' + place + '</div>' +
                     // '<div class="team-area">MIT Health Sciences Technology</div>' +
                     '</div>'
 
-                modalMarkup = '<div class="modal fade" id="modal-text-' + first + '" tabindex="-1" role="dialog" aria-labelledby="modal-text-label">' +
+                modalMarkup = '<div class="modal fade" id="modal-text-' + id + '" tabindex="-1" role="dialog" aria-labelledby="modal-text-label">' +
                     '<div class="modal-dialog" role="document">' +
                     '<div class="modal-content"> <div class="modal-header"> <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="document.getElementById(\'video\').pause();">' +
                     ' <span aria-hidden="true">&times;</span> </button> </div>' +
