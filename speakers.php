@@ -78,7 +78,7 @@
 
 
 <script src="assets/js/papaparse.min.js"></script>
-<script src="assets/js/main.js"></script>
+<script src="assets/js/main.js?12435436536"></script>
 <script src="assets/js/jquery.min.js"></script>
 
 <?php
