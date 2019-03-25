@@ -6,7 +6,7 @@
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/register_header.jpg');">
     <!-- <div class="header-overlay"> -->
     <div class="blob-box">
-        <img style="position: absolute; right:-100px;" class= "blob-mobile" src="images/register/blob-1.png">
+        <!-- <img style="position: absolute; right:-100px;" class= "blob-mobile" src="images/register/blob-1.png"> -->
     </div>
     <div class="register-brand">
         
@@ -18,7 +18,7 @@
     <!-- </div> -->
 </div>
 
-<body style="background-image: url('images/register/register-bg.jpg');">
+<body style="background-image: url('images/register/register-bg.jpg'); overflow-x: hidden;">
 
 <div style="overflow-x:hidden; max-width:100vw;w-x: hidden;">
     <div class="section">
@@ -27,7 +27,7 @@
             <br>
             <br>
             <div class="blob-box">
-            <img style="position: absolute; right:-200px;" class= "blob-mobile" src="images/register/blob-3.png">
+            <!-- <img style="position: absolute; right:-200px;" class= "blob-mobile" src="images/register/blob-3.png"> -->
     </div>
             <div class="register-box">
                 <h2>How Registration Works</h2>
