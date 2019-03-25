@@ -78,8 +78,7 @@
 
 
 <script src="assets/js/papaparse.min.js"></script>
-<!-- <script src="assets/js/main.js"></script> -->
-<script src="<?php echo auto_version('assets/js/main.js'); ?>"> </script>
+<script src="assets/js/main.js?v=1.1"></script>
 <script src="assets/js/jquery.min.js"></script>
 
 <?php
