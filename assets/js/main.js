@@ -97,11 +97,20 @@ function getSpeakers() {
                     place = title.split(',')[1];
                 }
 
-
                 bio = linkify(bio);
+                associationMarkup = '';
 
-                var associationMarkup = currentSpeaker['MIT'] == 'Y' ?
-                    '<img class=\'speaker-picture-association\' src=\'images/speaker/mit.png\'/>' : '';
+                // var associationMarkup = currentSpeaker['MIT'] == 'Y' ?
+                //     '<img class=\'speaker-picture-association\' src=\'images/speaker/mit.png\'/>' : '';
+
+                // var associationMarkup = currentSpeaker['MIT'] == 'Harvard' ?
+                //     '<img class=\'speaker-picture-association\' src=\'images/speaker-img/harvard-2.png\'/>' : '';
+
+                if (currentSpeaker['MIT'] == 'Y') {
+                    associationMarkup = '<img class=\'speaker-picture-association\' src=\'images/speaker/mit.png\'/>';
+                } else if (currentSpeaker['MIT'] == 'Harvard') {
+                    associationMarkup = '<img class=\'speaker-picture-association\' src=\'images/speaker-img/harvard-2.png\'/>';
+                }
 
                 var imageMarkup = '<div class=\'speaker col-sm-6 col-md-3\'>' +
                     associationMarkup +
