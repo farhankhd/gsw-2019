@@ -1,3 +1,21 @@
+<?php
+/**
+ *  Given a file, i.e. /css/base.css, replaces it with a string containing the
+ *  file's mtime, i.e. /css/base.1221534296.css.
+ *  
+ *  @param $file  The file to be loaded.  Must be an absolute path (i.e.
+ *                starting with slash).
+ */
+function auto_version($file)
+{
+  if(strpos($file, '/') !== 0 || !file_exists($_SERVER['DOCUMENT_ROOT'] . $file))
+    return $file;
+
+  $mtime = filemtime($_SERVER['DOCUMENT_ROOT'] . $file);
+  return preg_replace('{\\.([^./]+)$}', ".$mtime.\$1", $file);
+}
+?>
+
 <head>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -18,10 +36,13 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
     <link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,400i,500,500i,600,700,800,900" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/style?1512460622.css">
+    <!-- <link rel="stylesheet" href="assets/css/style.css"> -->
+    <link rel="stylesheet" href="<?php echo auto_version('assets/css/style.css'); ?>">
     <link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">
     <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
+
+
 <body>
 <div data-parallax="scroll" class="parallax-window main-page-header" style="display:inline-block;">
 
