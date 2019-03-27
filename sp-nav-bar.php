@@ -57,7 +57,7 @@
         <div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li><a href="sp-index.php">Inicio<span class="sr-only">(current)</span></a></li>
-                <li><a href="registration.php">Registro</a></li>
+                <li><a href="sp-registration.php">Registro</a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Competiciones <span class="caret"></span>
