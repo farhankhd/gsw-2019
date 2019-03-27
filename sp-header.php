@@ -14,6 +14,8 @@ function auto_version($file)
   $mtime = filemtime($_SERVER['DOCUMENT_ROOT'] . $file);
   return preg_replace('{\\.([^./]+)$}', ".$mtime.\$1", $file);
 }
+
+$pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
 ?>
 
 <head>
@@ -76,18 +78,17 @@ function auto_version($file)
         <div class="col-xs-12">
             <br /><br><br><br>
             <div class="section-subheader text-center registration-message">
-                <h4><a href="sp-index.php"> En Español</a></h4>
-                <h4 class="trn">Registration applications for MIT GSW 2019 are now open!</h4>
-                <h4 class="trn" style="display: inline">Selected applications will receive free tickets to attend. For more information, see the <a href="registration.php" class="trn" style="display: inline">Registration page.</a></h4>
+                <h4>La inscripción para MIT GSW 2019 ya está abierta!</h4>
+                <h4 style="display: inline">Las solicitudes seleccionadas recibirán entradas gratis para asistir. Para más información, consulte <a href="registration.php"   style="display: inline">la página de Inscripción.</a></h4>
             </div>
             <br><br>
-            <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/xlOAGFyLPkg8PEc33">Apply Now</a>
+            <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/xlOAGFyLPkg8PEc33">Aplica Ya</a>
             <!-- href="registration.php" -->
             <br><br><br><br><br><br>
             <div class="line"></div>
 	    <br><br><br><br>
             <div class="section-subheader text-center">
-                <p>Collaborators</p>
+                <p>Colaboradores</p>
                 <div class="container">
                     <div class="row">
                         <img src="images/logo/colub-1.png" class="partner-logo" style="height: 150px">
@@ -113,16 +114,16 @@ function auto_version($file)
     <div class="row">
         <div class="col-xs-12">
             <div class="section-header text-center">
-                    <h1 class="trn">WHY ATTEND?</h1>
+                    <h1>¿POR QUÉ ASISTIR?</h1>
             </div>
             <ul>
-                <li class="trn">Transform your ideas into successful <strong class="trn">startups</strong> by gaining valuable <strong>MIT expertise</strong> through workshops</li>
-                <li>Learn about cutting edge, innovative <strong>technologies</strong> from <strong>MIT & world experts</strong> through panel discussions</li>
-                <li>Participate in the <strong>GSW Competitions</strong> to receive mentorship from renowned entrepreneurs and gain access to exclusive <strong>VIP networking events</strong> </li>
-                <li>Display your company in the <strong>GSW Startup Showcase</strong> featuring protected time with investors</li>
-                <li>Gain access to top talent and emerging <strong>tech startups</strong></li>
-                <li>Learn and understand the <strong>business landscape</strong> in Colombia</li>
-                <li>Make fruitful connections with <strong>investors, government officials, corporate representatives,</strong> and more.</li>
+                <li>Transforme sus ideas en <strong>nuevas empresas</strong> exitosas obteniendo una valiosa <strong>experiencia de MIT</strong> a través de talleres</li>
+                <li>Aprender sobre <strong>las tecnologías innovadoras</strong> y de vanguardia de <strong>MIT y expertos mundiales</strong> a través de paneles de discusión.</li>
+                <li>Participe en <strong>las competencias de GSW</strong> para recibir mentorship de emprendedores exitosos y obtener acceso <strong>a eventos VIP exclusivos</strong>. </li>
+                <li>Presente su emprendimiento <strong>en GSW Startup Showcase</strong> con exposición a los inversores.</li>
+                <li>Obtener acceso a los mejores talentos y <strong>nuevas empresas tecnológicas</strong> emergentes.</li>
+                <li>Aprender y entender <strong>el panorama emprendedor</strong> en Colombia.</li>
+                <li>Hacer conexiones fructíferas con <strong>inversionistas, funcionarios gubernamentales, representantes corporativos</strong> y más.</li>
             </ul><br><br><br>
         </div>
     </div>
@@ -133,9 +134,9 @@ function auto_version($file)
             <div class="col-xs-1"></div>
             <div class="col-xs-5">
                 <div class="quote">
-                    <p class="img-quote">By bringing together cross-sector experts</br>and leaders, GSW has built a global</br>support network, empowering and accelerating</br>entrepreneurship in emerging markets,</br>from Seoul to Madrid, Cape Town to Santiago.</p>
+                    <p class="img-quote">Al reunir expertos y líderes de diferentes sectores,</br> GSW ha construido una red global de apoyo y</br> aceleración del emprendedorismo en</br> mercados emergentes. Desde Seúl a Madrid,</br> Ciudad del Cabo a Santiago.</p>
                     <p class="quote-name">L. Rafael Reif</p>
-                    <p class="quote-position">President of MIT</p>
+                    <p class="quote-position">Presidente de MIT</p>
                 </div>
             </div>
             <img src="images/launch/rafael_reif.jpg" class="img-responsive hidden-xs" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
@@ -148,7 +149,7 @@ function auto_version($file)
     <div class="row">
     <br>
     <div class="section-header text-center">
-            <h1>THE VENUE</h1>
+            <h1>SEDE DEL EVENTO</h1>
     </div>
     <div class="text-center">
         <p>El Cubo - Business and Recreation Center (Colsubsidio)</p>

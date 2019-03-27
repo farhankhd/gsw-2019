@@ -56,21 +56,21 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
-                <li><a href="registration.php">Registration</a></li>
+                <li><a href="sp-index.php">Inicio<span class="sr-only">(current)</span></a></li>
+                <li><a href="registration.php">Registro</a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Competitions <span class="caret"></span>
+                    Competiciones <span class="caret"></span>
                     </a>
                     <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="gc.php">Grand <br />Challenge</a>
+                        <a class="dropdown-item" href="sp-gc.php">Grand <br />Challenge</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="bpc.php">Business Plan <br /> Competition</a>
+                        <a class="dropdown-item" href="sp-bpc.php">Business Plan <br /> Competition</a>
                     </div>
                 </li> 
-                <li><a href="speakers.php">Speakers</a></li>
-                <li><a href="team.php">About Us</a></li>
-                <li><a href="sp-index.php">Español</a></li>
+                <li><a href="sp-speakers.php">Ponentes</a></li>
+                <li><a href="sp-team.php">Quienes Somos</a></li>
+                <li><a href="index.php">English</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
             <img src="images/logo/bogota-team-logo.png" id="navbar-logo-right">

@@ -34,7 +34,7 @@ body {
     display: inline-block;
     background-image: url("../../images/launch/launch_background_short.png");
     background-size: cover;
-    max-width: 100%;
+    max-width: 100vw;
     overflow-x: hidden;
 }
 
@@ -1089,6 +1089,11 @@ h6 {
 
 
 /*}*/
+
+.blob-div {
+    z-index: -10;
+    position: absolute;
+}
 
 .comp-center {
     text-align: center;

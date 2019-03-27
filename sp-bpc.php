@@ -1,6 +1,6 @@
 <?php
     $pageTitle = 'Business Plan Competition | MIT Global Startup Workshop 2018';
-    include('templates/nav-bar.php');
+    include('sp-nav-bar.php');
 ?>
 
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/business_header.jpg');">
@@ -26,14 +26,13 @@
         <div class="col-lg-12">
             <div class="col-3"></div>
             <div class="col-6">
-                <p class="white" style="text-align:left; padding-left: 3%"> Do you have an amazing early-stage startup? Apply to the Business Plan Competition (BPC)
-                    for the opportunity to win monetary prizes and receive mentorship from business leaders from MIT and Latin America! </p>
+                <p class="white" style="text-align:left; padding-left: 3%"> ¿Tienes una idea increíble para tu startup? ¡Aplique al Business Plan Competition, compita 
+                por premios monetarios y reciba mentorship de emprendedores líderes de MIT y América Latina! </p>
                 <br>
-                <p class="white text-center">Check out our <a href="assets/docs/MITGSW%202019%20Business%20Plan%20Competition%20Rules.pdf">Official Rules Document</a> for more information.</p>
                 <p class="white text-center">Consulte nuestro <a href='assets/docs/MITGSW 2019 Business Plan Competition Rules Spanish.pdf'>Reglamento Oficial</a> para más información. </p>
                 <!--<p>Consulte nuestro <a href="">Reglamento Oficial</a> para más información.</p>-->
 
-                <p class="white text-center">Deadline to Apply: 7 April, 2019</p>
+                <p class="white text-center">Cierre de Inscripción: Abril 7, 2019</p>
                 <a class="register-btn" style="text-decoration: none;" href="https://startup.openstartups.net/?eventcode=mit_businessplan_2019">Apply</a>
             </div>
             <div class="col-3"></div>
@@ -55,23 +54,23 @@
     <div class="row text-center">
         <div class="col-lg-12">
             <div class="col-md-6 comp-content">
-                <h2> FORMAT </h2>
-                <p> Selected semi-finalists for our Business Plan Competition will receive direct 
-                    mentorship and participate in workshops with experienced mentors, and have a chance to win prizes to advance their startups.</p>
+                <h2> FORMATO </h2>
+                <p> Los semifinalistas de nuestro Business Plan Competition recibirán feedback sobre sus 
+                emprendimientos y participarán en talleres con mentores experimentados, también tendrán la oportunidad de ganar premios para invertir en sus startups.</p>
                 <ul>
-                <li>Up to <strong>16 semi-finalist teams </strong> </li>
-                <li>Up to <strong>8 finalist teams</strong> present their current startup to a panel of experienced judges.</li>
-                <li>Receive <strong>1-on-1 mentorship</strong> from entrepreneurs and ecosystem stakeholders from MIT and LATAM.</li>
-                <li>Semi-Finalists & Finalists get to participate in the Entrepreneurship Fair!</li>
+                <li>16 <strong>equipos semifinalistas</strong> </li>
+                <li><strong>8 equipos finalistas</strong> presentan su startup a un panel de jueces experimentados.</li>
+                <li>Recibirán <strong>mentorship personal</strong> de emprendedores del ecosistema de MIT y LATAM</li>
+                <li>¡Los semifinalistas y finalistas podrán participar en la Feria de Emprendedores!</li>
             </ul><br><br>
             </div>
             <div class="col-md-6 comp-content">
-                <h2> PRIZES </h2>
+                <h2> PREMIOS </h2>
                 <ul>
-                <li><strong>Monetary prizes </strong> for 1st and 2nd place winners</li>
-                <li>In addition, the winner and runner up will be directly <strong>accepted for the MassChallenge Competition Round 2.</strong> More information here: <a href='https://masschallenge.org/about-apply'> masschallenge.org/apply </a></li>
-                <li>Mentorship from experienced entrepreneurs</li>
-                <li>More great prizes to come - check back often!</li>
+                <li><strong>Premios monetarios</strong> para el 1º y 2º puesto
+                <li>Además, el ganador y el subcampeón serán aceptados directamente para <strong>la Ronda 2 de la competencia MassChallenge</strong>. Más información aquí: <a href='https://masschallenge.org/about-apply'> masschallenge.org/apply </a></li>
+                <li>Mentoría de emprendedores exitosos</li>
+                <li>Más premios por venir!</li>
             </ul><br><br>
             </div>
         </div>
