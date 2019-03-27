@@ -1212,8 +1212,8 @@ h6 {
 
 .speaker-picture {
     object-fit: cover;
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
     border-radius: 50%;
     margin-bottom: 10px;
 }
@@ -1238,6 +1238,7 @@ h6 {
     height: auto;
     top: 5px;
     left: 5%;
+    /* right: 10%; */
     position: absolute;
 }
 
@@ -1348,7 +1349,7 @@ h6 {
     /*padding: 25px 25px 25px 25px;*/
     height: 80%;
     width: 80%;
-    margin-left: 120px;
+    margin-left: 100px;
 }
 
 .modal-body2 {

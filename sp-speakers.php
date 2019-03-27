@@ -6,7 +6,7 @@
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/speaker_header.jpg');">
     <div class="header-overlay">
     <h1 class="parallax-text">
-        Our Speakers
+    Oradores
     </h1>
     </div>
 </div>
@@ -31,12 +31,13 @@
         </div>  -->
 
         <div class="col-lg-12 comp-content" id="speaker-section-expanded">
-            <p class="section-header section-header-page" style="color: white; font-size: 1.7em">Ponentes</p>
-            <h4 style="text-align: justify;">MIT GSW is proud to host a diverse range of speakers from Cambridge, Latin America and around the world. 
-            We're excited to have these world class individuals share their experiences with us!
+            <p class="section-header section-header-page" style="color: white; font-size: 1.7em">Oradores</p>
+            <h4 style="text-align: justify;">MIT GSW se enorgullece de contar con una amplia gama de oradores de Cambridge, 
+            América Latina y de todo el mundo. ¡Estamos encantados de que estas personas de 
+            clase mundial compartan sus experiencias con nosotros!
             </h4>
 
-            <h4 style="text-align: justify;"> Click on each speaker to learn more about their background and accomplishments</h4>
+            <h4 style="text-align: justify;"> Haga clic en cada orador para obtener más información sobre su trayectoria y logros</h4>
             <br> <br>
             <div class="row speaker-expanded-bio">
                 <div class="col-md-3"></div>

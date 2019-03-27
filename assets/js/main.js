@@ -100,12 +100,6 @@ function getSpeakers() {
                 bio = linkify(bio);
                 associationMarkup = '';
 
-                // var associationMarkup = currentSpeaker['MIT'] == 'Y' ?
-                //     '<img class=\'speaker-picture-association\' src=\'images/speaker/mit.png\'/>' : '';
-
-                // var associationMarkup = currentSpeaker['MIT'] == 'Harvard' ?
-                //     '<img class=\'speaker-picture-association\' src=\'images/speaker-img/harvard-2.png\'/>' : '';
-
                 if (currentSpeaker['MIT'] == 'Y') {
                     associationMarkup = '<img class=\'speaker-picture-association\' src=\'images/speaker/mit.png\'/>';
                 } else if (currentSpeaker['MIT'] == 'Harvard') {
@@ -124,14 +118,14 @@ function getSpeakers() {
                     '<div class=\'speaker-expanded-position\'>' + title + '</div>' +
                     bio + '</div></div>';
 
-                keynoteMarkup = '<div class=\'speaker row\'>' +
-                    associationMarkup +
-                    '<img class=\'speaker-picture-keynote\' src=\'images/speaker-img/' + path + '\'>';
-                keynoteMoreMarkeup = '<div class=\'col-lg-12 speaker-expanded-bio\'>' +
-                    keynoteMarkup + '</div><div class=\'row speaker-expanded-text\'>' +
-                    '<div class=\'speaker-expanded-name\' style=\'text-align: center\'>' + name + '</div>' +
-                    '<div class=\'speaker-expanded-position\' style=\'text-align: center\'>' + title + '</div>' +
-                    bio + '</div></div>';
+                // keynoteMarkup = '<div class=\'speaker row\'>' +
+                //     associationMarkup +
+                //     '<img class=\'speaker-picture-keynote\' src=\'images/speaker-img/' + path + '\'>';
+                // keynoteMoreMarkeup = '<div class=\'col-lg-12 speaker-expanded-bio\'>' +
+                //     keynoteMarkup + '</div><div class=\'row speaker-expanded-text\'>' +
+                //     '<div class=\'speaker-expanded-name\' style=\'text-align: center\'>' + name + '</div>' +
+                //     '<div class=\'speaker-expanded-position\' style=\'text-align: center\'>' + title + '</div>' +
+                //     bio + '</div></div>';
 
                 // if (currentSpeaker['Keynote'] == 'Y') {
                 //     $(keynoteMoreMarkeup).appendTo('#keynote-section-expanded');
