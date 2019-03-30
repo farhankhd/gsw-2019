@@ -89,8 +89,28 @@ function auto_version($file)
             <div class="section-subheader text-center">
                 <p>Collaborators</p>
                 <div class="container">
-                    <div class="row">
-                        <img src="images/logo/colub-1.png" class="partner-logo" style="height: 150px">
+                    <div class="col-lg-12 text-center partner-border">
+                        <div class="col-sm-6 text-center">
+                            <h1> Our Host</h1>
+                        </div>
+                        <div class="col-sm-6">
+                            <img src="images/logo/bogota-team-logo.png" class="partner-logo" style="height: 100px">
+                        </div>
+                    </div>
+                    <br><br><br>
+                    <div class="col-lg-12 text-center partner-border">
+                        <div class="col-sm-6 text-center">
+                            <h1> Partner</h1>
+                        </div>
+                        <div class="col-sm-6">
+                            <img src="images/logo/colub-1.png" style="height: 100px">
+                        </div>
+                    </div>
+                    <br><br><br>
+                    <div class="col-lg-12 text-center partner-border">
+                        <div class="text-center">
+                            <h2 style="font-size: 1.4vw"> Academic Parnters</h2>
+                        </div>
                         <img src="images/logo/connect-logo.png" class="partner-logo">
                         <img src="images/logo/nuevo-logo.png" class="partner-logo" style="height: 150px">
                         <img src="images/logo/cesa.png" class="partner-logo">
@@ -99,7 +119,6 @@ function auto_version($file)
                         <img src="images/logo/legatum_2.png" class="partner-logo">
                         <img src="images/logo/martin_trust_2.png" class="partner-logo">
                         <img src="images/logo/reap_2.png" class="partner-logo">
-
                     </div>
                 </div>
             </div>
