@@ -33,6 +33,9 @@
             <div class="col-3"></div>
         <p class="white text-center">Deadline to Apply: 7 April, 2019</p>
         <a class="register-btn" style="text-decoration: none;" href="https://mit.co1.qualtrics.com/jfe/form/SV_7PpPqYrKxm2yrfD">Apply</a>
+        <br> <br><br>
+        <a href="https://universidadean.edu.co/eventos/workshop-de-ideacion-grand-challenge-mit-gsw">Register for Ideation Workshop for the Grand Challenge</a>
+
         </div>
         <br><br>
 
