@@ -95,7 +95,9 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
                             <h1> Our Host</h1>
                         </div>
                         <div class="col-sm-6">
-                            <img src="images/logo/bogota-team-logo.png" class="partner-logo" style="height: 100px">
+                            <a href="https://www.ccb.org.co/en">
+                                <img src="images/logo/bogota-team-logo.png" class="partner-logo" style="height: 100px">
+                            </a>                        
                         </div>
                     </div>
                     <br><br><br>
