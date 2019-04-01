@@ -105,7 +105,7 @@ function auto_version($file)
                             <h1> Partner</h1>
                         </div>
                         <div class="col-sm-6">
-                            <img src="images/logo/colub-1-c.png" style="height: 110px;">
+                            <img src="images/logo/colub-1.png" style="height: 110px;">
                         </div>
                     </div>
                     <br><br><br>
