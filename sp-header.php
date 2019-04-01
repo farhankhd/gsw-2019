@@ -91,7 +91,7 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
             <div class="section-subheader text-center">
                 <p>Colaboradores</p>
                 <div class="container">
-                    <div class="col-lg-12 text-center partner-border" style="padding: 50px 0px 50px 0px ">
+                    <div class="col-lg-12 text-center partner-border" style="padding: 80px 0px 80px 0px ">
                         <div class="col-sm-6 text-center">
                             <h1> Our Host</h1>
                         </div>
