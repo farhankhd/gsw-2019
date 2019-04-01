@@ -1259,6 +1259,15 @@ h6 {
     position: absolute;
 }
 
+.speaker-picture-association-expanded {
+    width: 30px;
+    height: auto;
+    top: 5px;
+    left: 0%;
+    /* right: 10%; */
+    position: absolute;
+}
+
 .speaker-row,
 .speaker-expanded-bio {
     margin-bottom: 40px;
