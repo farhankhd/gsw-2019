@@ -103,7 +103,7 @@ function getSpeakers() {
                 if (currentSpeaker['MIT'] == 'Y') {
                     associationMarkup = '<img class=\'speaker-picture-association\' src=\'images/speaker/mit.png\'/>';
                 } else if (currentSpeaker['MIT'] == 'Harvard') {
-                    associationMarkup = '<img class=\'speaker-picture-association\' src=\'images/speaker-img/harvard-2.png\'/>';
+                    associationMarkup = '<img class=\'speaker-picture-association\' src=\'images/speaker-img/harvard-3.png\'/>';
                 }
 
                 var imageMarkup = '<div class=\'speaker col-sm-6 col-md-3\'>' +
