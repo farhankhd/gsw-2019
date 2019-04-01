@@ -2,6 +2,18 @@
     // Increase this version every time you change the style.css file
     // See more in https://css-tricks.com/strategies-for-cache-busting-css/#article-header-id-1
     $cssVersion = "1.0.1";
+
+    //set headers to NOT cache a page
+    header("Cache-Control: no-cache, must-revalidate"); //HTTP 1.1
+    header("Pragma: no-cache"); //HTTP 1.0
+    header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
+
+    // Require https
+    if ($_SERVER['HTTPS'] != "on") {
+        $url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+        header("Location: $url");
+        exit;
+    }
 ?>
 
 <!DOCTYPE html>
