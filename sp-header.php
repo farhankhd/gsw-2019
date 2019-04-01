@@ -91,14 +91,14 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
             <div class="section-subheader text-center">
                 <p>Colaboradores</p>
                 <div class="container">
-                    <div class="col-lg-12 text-center partner-border">
+                    <div class="col-lg-12 text-center partner-border" style="padding: 50px 0px 50px 0px ">
                         <div class="col-sm-6 text-center">
                             <h1> Our Host</h1>
                         </div>
                         <div class="col-sm-6">
                             <a href="https://www.ccb.org.co/en">
                                 <img src="images/logo/bogota-team-logo.png" class="partner-logo" style="height: 100px">
-                            </a>                        
+                            </a>
                         </div>
                     </div>
                     <br><br><br>
@@ -107,17 +107,19 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
                             <h1> Partner</h1>
                         </div>
                         <div class="col-sm-6">
-                            <img src="images/logo/colub-1.png" style="height: 100px">
+                            <img src="images/logo/colub-1-c.png" style="height: 110px;">
                         </div>
                     </div>
                     <br><br><br>
-                    <div class="col-lg-12 text-center partner-border">
+                    <div class="col-lg-12 text-center partner-border" style="padding: 5px 0px 80px 0px ">
                         <div class="text-center">
-                            <h2 style="font-size: 1.4vw"> Academic Parnters</h2>
+                            <h2 class="academic-mobile"> Academic Partners</h2>
                         </div>
-                        <img src="images/logo/connect-logo.png" class="partner-logo">
-                        <img src="images/logo/nuevo-logo.png" class="partner-logo" style="height: 150px">
-                        <img src="images/logo/cesa.png" class="partner-logo">
+                        <div class="row" style="padding-left: 10%">
+                            <img src="images/logo/nuevo-logo.png" class="partner-logo" style="height: 150px">
+                            <img src="images/logo/connect-logo.png" class="partner-logo">
+                            <img src="images/logo/cesa.png" class="partner-logo">
+                        </div>
                         <br>
                         <img src="images/logo/mslao-logo.png" class="partner-logo">
                         <img src="images/logo/legatum_2.png" class="partner-logo">

@@ -715,12 +715,23 @@ h6 {
     outline: 1px solid white;
     padding: 15px;
     margin: 5px;
+    vertical-align: middle;
+}
+
+.partner-vertical-center {
+    position: relative;
+    top: 50%;
+    transform: translateY(50%);
+}
+
+.academic-mobile {
+    font-size: 1.4vw;
 }
 
 @media only screen and (min-width: 480px) {
     .partner-logo {
-        margin-top: 30px;
-        margin-bottom: 30px;
+        /* margin-top: 30px;
+        margin-bottom: 30px; */
     }
 }
 
@@ -2040,6 +2051,9 @@ p {
     }
     .blob-box {
         overflow: hidden;
+    }
+    .academic-mobile {
+        font-size: 4vw;
     }
 }
 
