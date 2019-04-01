@@ -34,7 +34,7 @@ body {
     display: inline-block;
     background-image: url("../../images/launch/launch_background_short.png");
     background-size: cover;
-    max-width: 100%;
+    max-width: 100vw;
     overflow-x: hidden;
 }
 
@@ -70,7 +70,7 @@ h6 {
 }
 
 .landing-page-img {
-    background-image: url("../../images/launch/launch_background_long.png");
+    background-image: url("../../images/launch/background_long.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     /* color: #c8ece9; */
@@ -325,7 +325,7 @@ a:focus {
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background-image: url("../../images/landing-page/bogota.png");
+    background-image: url("../../images/launch/bogota.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -352,6 +352,28 @@ a:focus {
     right: 0;
     font-size: 0.6em;
     z-index: 20;
+}
+
+.brand-logo {
+    position: absolute;
+    bottom: 10%;
+    text-align: center;
+    /* left: 50%; */
+    left: 0;
+    right: 0;
+    font-size: 0.6em;
+    z-index: 20;
+    visibility: hidden;
+}
+
+.brand-logo img {
+    width: 50%;
+}
+
+@media only screen and (max-width: 479px) {
+    .brand-logo {
+        visibility: visible;
+    }
 }
 
 .brand2 {
@@ -535,7 +557,7 @@ h6 {
 }
 
 .parallax-text {
-    padding-top: 100px;
+    padding-top: 150px;
     font-size: 40px;
     font-weight: 800;
     text-align: center;
@@ -689,10 +711,27 @@ h6 {
     margin: 0 auto;
 }
 
+.partner-border {
+    outline: 1px solid white;
+    padding: 15px;
+    margin: 5px;
+    vertical-align: middle;
+}
+
+.partner-vertical-center {
+    position: relative;
+    top: 50%;
+    transform: translateY(50%);
+}
+
+.academic-mobile {
+    font-size: 1.4vw;
+}
+
 @media only screen and (min-width: 480px) {
     .partner-logo {
-        margin-top: 30px;
-        margin-bottom: 30px;
+        /* margin-top: 30px;
+        margin-bottom: 30px; */
     }
 }
 
@@ -934,8 +973,6 @@ h6 {
     width: 100%;
 }
 
-
-
 .dropdown-menu a:hover,
 .dropdown-menu a:focus {
     color: #fff;
@@ -1070,6 +1107,11 @@ h6 {
 
 /*}*/
 
+.blob-div {
+    z-index: -10;
+    position: absolute;
+}
+
 .comp-center {
     text-align: center;
     max-width: 100%;
@@ -1187,10 +1229,17 @@ h6 {
 
 .speaker-picture {
     object-fit: cover;
-    width: 100px;
-    height: 100px;
+    width: 180px;
+    height: 180px;
     border-radius: 50%;
     margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 479px) {
+    .speaker-picture {
+        width: 100px;
+        height: 100px;
+    }
 }
 
 .speaker-picture-keynote {
@@ -1202,10 +1251,11 @@ h6 {
 }
 
 .speaker-picture-association {
-    width: 30px;
+    width: 50px;
     height: auto;
     top: 5px;
-    left: 5px;
+    left: 5%;
+    /* right: 10%; */
     position: absolute;
 }
 
@@ -1215,6 +1265,12 @@ h6 {
     color: white;
 }
 
+@media only screen and (max-width: 479px) {
+    .speaker-expanded-bio {
+        font-size: 0.7em;
+    }
+}
+
 .speaker {
     font-size: 0.8em;
     font-weight: 600;
@@ -1222,7 +1278,7 @@ h6 {
 }
 
 .speaker-expanded-text {
-    font-size: 0.7em;
+    font-size: 1.2em;
     text-align: justify;
     text-justify: inter-word;
 }
@@ -1230,10 +1286,16 @@ h6 {
 .speaker-expanded-name {
     font-weight: 500;
     margin-bottom: 5px;
-    font-size: 1.8em;
+    font-size: 2.0em;
     color: white;
     font-family: "DIN";
     text-transform: uppercase;
+}
+
+@media only screen and (max-width: 479px) {
+    .speaker-expanded-name {
+        font-size: 1.2em;
+    }
 }
 
 .speaker-expanded-position {
@@ -1241,6 +1303,12 @@ h6 {
     color: white;
     font-weight: 400;
     text-transform: uppercase;
+}
+
+@media only screen and (max-width: 479px) {
+    .speaker-expanded-position {
+        font-size: 0.8em;
+    }
 }
 
 .link-to-speaker {
@@ -1254,9 +1322,84 @@ h6 {
 
 .endSpeakers {
     text-align: center;
-    font-size: 0.9em;
+    font-size: 1.5em;
     font-weight: 800;
     color: white;
+}
+
+.team-speaker {
+    margin: 30;
+    padding: 30;
+    height: 300;
+}
+
+
+/****MODAL****/
+
+.modal-backdrop.in {
+    filter: alpha(opacity=7);
+    opacity: 0.7;
+}
+
+.modal-dialog {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.modal-content {
+    background: rgba(0, 0, 0, 0.5);
+    ;
+    border: 10;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    margin: 50px 40px 40px 40px;
+    border-radius: 20px;
+}
+
+.modal-body {
+    /*padding: 25px 25px 25px 25px;*/
+    height: 80%;
+    width: 80%;
+    margin-left: 100px;
+}
+
+.modal-body2 {
+    padding: 50px 40px 40px 40px;
+    margin-left: 20px;
+    /* margin-left: 100px;
+    margin-right: 100px; */
+}
+
+@media only screen and (max-width: 479px) {
+    .modal-body {
+        margin-left: 10%;
+    }
+}
+
+.modal-header {
+    /*padding: 0px 0px 15px 15px;*/
+    text-align: left;
+}
+
+.modal-header,
+.modal-footer {
+    border: 0;
+}
+
+.modal-header .close {
+    float: none;
+    margin: 0;
+    font-size: 36px;
+    color: #fff;
+    font-weight: 300;
+    text-shadow: none;
+    opacity: 1;
 }
 
 
@@ -1825,7 +1968,7 @@ p {
         visibility: hidden;
     }
     .video-container {
-        background-image: url("../../images/landing-page/bogota.png");
+        background-image: url("../../images/launch/bogota.png");
         display: inline-block
     }
     .partner-logo {
@@ -1908,6 +2051,9 @@ p {
     }
     .blob-box {
         overflow: hidden;
+    }
+    .academic-mobile {
+        font-size: 4vw;
     }
 }
 

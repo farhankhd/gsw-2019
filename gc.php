@@ -3,7 +3,7 @@
     include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/grand-header.jpg');">
+<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/grand_header.jpg');">
     <div class="header-overlay">
     <h1 class="parallax-text">
         Grand Challenge
@@ -20,28 +20,35 @@
         <br>
         <div class="line"></div>
         <br>
-        <div class="row">
+        <div class="col-lg-12">
             <div class="col-3"></div>
             <div class="col-6">
                 <p class="white" style="text-align:left; font-size: 1.2em;"><strong>Do you dream of ways to improve life for your community and country? Would you like to promote longer & stronger engagement between MIT and Colombia?</strong></p>
                 <p  class="white" style="text-align:left">Our inaugural Grand Challenge invites you to address a major challenge Colombians are currently facing: limited connectivity between geographically separate locations (e.g. supply chain improvement between rural and urban communities). Identify a specific problem relating to this theme and propose a solution that could be developed into a viable venture.</p>
                 <br>
-                <p class="white text-center">Check out our <strong><a href="assets/MITGSW%202019%20Grand%20Challenge%20Rules.pdf">Official Rules Document</a></strong> for more information.</p>
-                <p class="white text-center">Consulte nuestro <a href='assets/MITGSW 2019 Grand Challenge Rules Spanish.pdf'>Reglamento Oficial</a> para más información. </p>
+                <p class="white text-center">Check out our <strong><a href="assets/docs/MITGSW%202019%20Grand%20Challenge%20Rules.pdf">Official Rules Document</a></strong> for more information.</p>
+                <p class="white text-center">Consulte nuestro <a href='assets/docs/MITGSW 2019 Grand Challenge Rules Spanish.pdf'>Reglamento Oficial</a> para más información. </p>
                 <!-- <p class="white text-center">Consulte nuestro Reglamento Oficial para más información.</p> -->
             </div>
             <div class="col-3"></div>
         <p class="white text-center">Deadline to Apply: 7 April, 2019</p>
         <a class="register-btn" style="text-decoration: none;" href="https://mit.co1.qualtrics.com/jfe/form/SV_7PpPqYrKxm2yrfD">Apply</a>
+        <br> <br><br>
+        <a href="https://universidadean.edu.co/eventos/workshop-de-ideacion-grand-challenge-mit-gsw">Register for Ideation Workshop for the Grand Challenge</a>
+
         </div>
         <br><br>
-        <div class="line"></div>
 
         <br>
+        
+    </div>
+    <div class="col-lg-12 text-center">
+        <br><br>
+        <div class="line"></div>
         <img class="comp-flow" src="images/comp/gc-flow.png">
         <br><br>
     </div>
-    <div class="row text-center">
+    <div class="col-lg-12 text-center">
         <div>
             <div class="col-md-6 comp-content">
                 <h2> FORMAT </h2>
@@ -66,7 +73,7 @@
     </div>
     <div class="row text-center">
         
-        <div>
+        <div class="col-lg-12">
             <div class="col-md-6 comp-content">
                 <h2> ELIGIBILITY </h2>
                 <ul>
@@ -80,7 +87,7 @@
 </div>
 
 <script src="assets/js/papaparse.min.js"></script>
-<script src="assets/js/main.js"></script>
+<script src="assets/js/main.js?v=1.1"></script>
 <script src="assets/js/jquery.min.js"></script>
 
 <?php

@@ -3,7 +3,7 @@
     include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/business-header.jpg');">
+<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/business_header.jpg');">
     <div class="header-overlay">
     <h1 class="parallax-text">
         Business Plan Competition
@@ -13,22 +13,24 @@
 
 <body style="background-image: url('images/comp/comp-background.jpg')">
 
+<!-- <img style="width: 800px; left: -400px; z-index: 10; opacity: 0.6; position: absolute" src="images/comp/blob-2.png"> -->
+
 <div class="section">
-    <!-- <img style="position: absolute; height: 70%; left: -700px; z-index: 10" src="images/comp/blob-2.png"> -->
+    <!-- <img style="width: 800px; left: -400px; z-index: 10; opacity: 0.6; position: absolute" src="images/comp/blob-3.png"> -->
 
     <div class="comp-center" style="z-index: 10">
         <h1> Business Plan Competition</h1>
         <br>
         <div class="line"></div>
         <br>
-        <div class="row">
+        <div class="col-lg-12">
             <div class="col-3"></div>
             <div class="col-6">
                 <p class="white" style="text-align:left; padding-left: 3%"> Do you have an amazing early-stage startup? Apply to the Business Plan Competition (BPC)
                     for the opportunity to win monetary prizes and receive mentorship from business leaders from MIT and Latin America! </p>
                 <br>
-                <p class="white text-center">Check out our <a href="assets/MITGSW%202019%20Business%20Plan%20Competition%20Rules.pdf">Official Rules Document</a> for more information.</p>
-                <p class="white text-center">Consulte nuestro <a href='assets/MITGSW 2019 Business Plan Competition Rules Spanish.pdf'>Reglamento Oficial</a> para más información. </p>
+                <p class="white text-center">Check out our <a href="assets/docs/MITGSW%202019%20Business%20Plan%20Competition%20Rules.pdf">Official Rules Document</a> for more information.</p>
+                <p class="white text-center">Consulte nuestro <a href='assets/docs/MITGSW 2019 Business Plan Competition Rules Spanish.pdf'>Reglamento Oficial</a> para más información. </p>
                 <!--<p>Consulte nuestro <a href="">Reglamento Oficial</a> para más información.</p>-->
 
                 <p class="white text-center">Deadline to Apply: 7 April, 2019</p>
@@ -37,17 +39,21 @@
             <div class="col-3"></div>
         </div>
         <br>
-        <!-- <img style="position: absolute; height: 70%; right: -100px; z-index: 10" src="images/comp/blob-3.png"> -->
+        <!-- <img style="position: absolute; height: 50%; right: -50px; z-index: 10; opacity: 0.3" src="images/comp/blob-3.png"> -->
 
-        <div class="line"></div>
-        <br>
-        <img class="comp-flow" src="images/comp/bpc-flow.png">
         <br><br>
     </div>
     <!-- <img style="position: absolute; height: 70%; left: -150px; z-index: 1" src="images/comp/blob-4.png"> -->
+    <br>
+    <div class="col-lg-12 text-center">
+        <br><br>
+        <div class="line"></div>
+        <img class="comp-flow" src="images/comp/bpc-flow.png">
+        <br><br>
+    </div>
 
     <div class="row text-center">
-        <div>
+        <div class="col-lg-12">
             <div class="col-md-6 comp-content">
                 <h2> FORMAT </h2>
                 <p> Selected semi-finalists for our Business Plan Competition will receive direct 
@@ -73,7 +79,7 @@
     </div>
     <div class="row text-center">
 
-        <div>
+        <div class="col-lg-12">
             <div class="col-md-6 comp-content">
                 <h2> ELIGIBILITY </h2>
                 <ul>
@@ -93,7 +99,7 @@
     </div>
 </div>
 <script src="assets/js/papaparse.min.js"></script>
-<script src="assets/js/main.js"></script>
+<script src="assets/js/main.js?v=1.1"></script>
 <script src="assets/js/jquery.min.js"></script>
 
 <?php

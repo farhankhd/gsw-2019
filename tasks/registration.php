@@ -3,7 +3,7 @@
     include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header" data-parallax="scroll" data-image-src="gsw2018/headers/img/epc-header.png">
+<div class="parallax-window header" data-parallax="scroll" data-image-src="gsw2018/headers/img/register_header.jpg">
     <h1 class="parallax-text">
         Registration
     </h1>

@@ -1,3 +1,21 @@
+<?php
+/**
+ *  Given a file, i.e. /css/base.css, replaces it with a string containing the
+ *  file's mtime, i.e. /css/base.1221534296.css.
+ *  
+ *  @param $file  The file to be loaded.  Must be an absolute path (i.e.
+ *                starting with slash).
+ */
+function auto_version($file)
+{
+  if(strpos($file, '/') !== 0 || !file_exists($_SERVER['DOCUMENT_ROOT'] . $file))
+    return $file;
+
+  $mtime = filemtime($_SERVER['DOCUMENT_ROOT'] . $file);
+  return preg_replace('{\\.([^./]+)$}', ".$mtime.\$1", $file);
+}
+?>
+
 <head>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -18,10 +36,16 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
     <link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,400i,500,500i,600,700,800,900" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css?v=1.1">
     <link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">
     <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.translate.js"></script>
+    <script src="assets/js/translate_page.js"></script>
 </head>
+
+
 <body>
 <div data-parallax="scroll" class="parallax-window main-page-header" style="display:inline-block;">
 
@@ -29,12 +53,19 @@
         <img src="images/launch/gsw-heading.png"/>
         <br> <br>
         <img src="images/launch/bogota_plus_dates.png" />
+        <br> <br><br> <br><br> <br>
+
     </div>
+
+    <div class="brand-logo">
+        <h2 style="font-size: 2.5em"> Hosted By</h2>
+        <img src="images/logo/bogota-team-logo.png">
+    </div>
+
     <div class="video-container">
-        <!-- <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="images/launch/bogota-drone-footage.mp4"></video> -->
         <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="http://gsw-2019.herokuapp.com/images/launch/bogota-drone-footage.mp4"></video>
     </div>
-    
+
     <div class="brand2">
         <p> footage from worldmoments.org</p>
     </div>
@@ -44,10 +75,10 @@
     <div class="row text-center">
         <div class="col-xs-12">
             <br /><br><br><br>
-            <!-- <img class="blob" src="images/launch/blob_01.png" /> -->
             <div class="section-subheader text-center registration-message">
-                <h4>Registration applications for MIT GSW 2019 are now open!</h4>
-                <h4>Selected applications will receive free tickets to attend. For more information, see the <a href="registration.php">Registration page.</a></h4>
+                <h4><a href="sp-index.php"> En Español</a></h4>
+                <h4 class="trn">Registration applications for MIT GSW 2019 are now open!</h4>
+                <h4 class="trn" style="display: inline">Selected applications will receive free tickets to attend. For more information, see the <a href="registration.php" class="trn" style="display: inline">Registration page.</a></h4>
             </div>
             <br><br>
             <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/xlOAGFyLPkg8PEc33">Apply Now</a>
@@ -58,17 +89,40 @@
             <div class="section-subheader text-center">
                 <p>Collaborators</p>
                 <div class="container">
-                    <div class="row">
-                        <img src="images/logo/colub-1.png" class="partner-logo" style="height: 150px">
-                        <img src="images/logo/connect-logo.png" class="partner-logo">
-                        <img src="images/logo/nuevo-logo.png" class="partner-logo" style="height: 150px">
-                        <img src="images/logo/cesa.png" class="partner-logo">
+                    <div class="col-lg-12 text-center partner-border" style="padding: 80px 0px 80px 0px ">
+                        <div class="col-sm-6 text-center">
+                            <h1> Our Host</h1>
+                        </div>
+                        <div class="col-sm-6">
+                            <a href="https://www.ccb.org.co/en">
+                                <img src="images/logo/bogota-team-logo.png" class="partner-logo" style="height: 100px">
+                            </a>
+                        </div>
+                    </div>
+                    <br><br><br>
+                    <div class="col-lg-12 text-center partner-border">
+                        <div class="col-sm-6 text-center">
+                            <h1> Partner</h1>
+                        </div>
+                        <div class="col-sm-6">
+                            <img src="images/logo/colub-1.png" style="height: 110px;">
+                        </div>
+                    </div>
+                    <br><br><br>
+                    <div class="col-lg-12 text-center partner-border" style="padding: 5px 0px 80px 0px ">
+                        <div class="text-center">
+                            <h2 class="academic-mobile"> Academic Partners</h2>
+                        </div>
+                        <div class="row" style="padding-left: 10%">
+                            <img src="images/logo/nuevo-logo.png" class="partner-logo" style="height: 150px">
+                            <img src="images/logo/connect-logo.png" class="partner-logo">
+                            <img src="images/logo/cesa.png" class="partner-logo">
+                        </div>
                         <br>
                         <img src="images/logo/mslao-logo.png" class="partner-logo">
                         <img src="images/logo/legatum_2.png" class="partner-logo">
                         <img src="images/logo/martin_trust_2.png" class="partner-logo">
                         <img src="images/logo/reap_2.png" class="partner-logo">
-
                     </div>
                 </div>
             </div>
@@ -82,10 +136,10 @@
     <div class="row">
         <div class="col-xs-12">
             <div class="section-header text-center">
-                    <h1>WHY ATTEND?</h1>
+                    <h1 class="trn">WHY ATTEND?</h1>
             </div>
             <ul>
-                <li>Transform your ideas into successful <strong>startups</strong> by gaining valuable <strong>MIT expertise</strong> through workshops</li>
+                <li class="trn">Transform your ideas into successful <strong class="trn">startups</strong> by gaining valuable <strong>MIT expertise</strong> through workshops</li>
                 <li>Learn about cutting edge, innovative <strong>technologies</strong> from <strong>MIT & world experts</strong> through panel discussions</li>
                 <li>Participate in the <strong>GSW Competitions</strong> to receive mentorship from renowned entrepreneurs and gain access to exclusive <strong>VIP networking events</strong> </li>
                 <li>Display your company in the <strong>GSW Startup Showcase</strong> featuring protected time with investors</li>
@@ -135,10 +189,11 @@
                 </iframe>
             </div>            
             <div class="col-xs-6">
-                <img class="why-img" src="images/landing-page/colsubsidio.jpg" />
+                <img class="why-img" src="images/launch/colsubsidio.jpg" />
             </div>
         </div>
     </div>
 
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
 </div>
+</body>
