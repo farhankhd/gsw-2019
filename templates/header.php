@@ -89,20 +89,6 @@ function auto_version($file)
             <div class="section-subheader text-center">
                 <p>Collaborators</p>
                 <div class="container">
-                    <div class="row">
-                        <img src="images/logo/colub-1.png" class="partner-logo" style="height: 150px">
-                        <img src="images/logo/connect-logo.png" class="partner-logo">
-                        <img src="images/logo/nuevo-logo.png" class="partner-logo" style="height: 150px">
-                        <img src="images/logo/cesa.png" class="partner-logo">
-                        <br>
-                        <img src="images/logo/mslao-logo.png" class="partner-logo">
-                        <img src="images/logo/legatum_2.png" class="partner-logo">
-                        <img src="images/logo/martin_trust_2.png" class="partner-logo">
-                        <img src="images/logo/reap_2.png" class="partner-logo">
-
-                    </div>
-                </div>
-                <!-- <div class="container">
                     <div class="col-lg-12 text-center partner-border" style="padding: 80px 0px 80px 0px ">
                         <div class="col-sm-6 text-center">
                             <h1> Our Host</h1>
@@ -115,7 +101,7 @@ function auto_version($file)
                     </div>
                     <br><br><br>
                     <div class="col-lg-12 text-center partner-border">
-                        <div class="col-sm-6 text-center">
+                        <div class="col-sm-6 text-center partner-vertical-center">
                             <h1> Partner</h1>
                         </div>
                         <div class="col-sm-6">
@@ -125,12 +111,23 @@ function auto_version($file)
                     <br><br><br>
                     <div class="col-lg-12 text-center partner-border" style="padding: 5px 0px 80px 0px ">
                         <div class="text-center">
-                            <h2 class="academic-mobile"> Academic Partners</h2>
+                            <h2 class="academic-mobile" style="margin-bottom: 20px"> Academic Partners</h2>
                         </div>
-                        <div class="row" style="padding-left: 10%">
-                            <img src="images/logo/nuevo-logo.png" class="partner-logo" style="height: 150px">
+                        <div class="row">
+                            <div class="col-sm-4" style="outline: 1px solid red; max-height: 100px">
+                                <img src="images/logo/nuevo-logo.png" class="partner-logo" style="height: 150px; padding-bottom: 40px">
+                            </div>
+                            <div class="col-sm-4" style="outline: 1px solid red">
                             <img src="images/logo/connect-logo.png" class="partner-logo">
+
+                            </div>
+                            <div class="col-sm-2" style="outline: 1px solid red">
                             <img src="images/logo/cesa.png" class="partner-logo">
+
+                            </div>
+                            <!-- <img src="images/logo/nuevo-logo.png" class="partner-logo" style="height: 150px">
+                            <img src="images/logo/connect-logo.png" class="partner-logo">
+                            <img src="images/logo/cesa.png" class="partner-logo"> -->
                         </div>
                         <br>
                         <img src="images/logo/mslao-logo.png" class="partner-logo">
@@ -138,7 +135,7 @@ function auto_version($file)
                         <img src="images/logo/martin_trust_2.png" class="partner-logo">
                         <img src="images/logo/reap_2.png" class="partner-logo">
                     </div>
-                </div> -->
+                </div>
             </div>
             <br><br>
         </div>
