@@ -8,14 +8,14 @@
     header("Pragma: no-cache"); //HTTP 1.0
     header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 
-    // Require https
-    if( !($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') ){
-        if ($_SERVER['HTTPS'] != "on") {
-            $url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
-            header("Location: $url");
-            exit;
-        }
-    }
+    // // Require https
+    // if( !($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') ){
+    //     if ($_SERVER['HTTPS'] != "on") {
+    //         $url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+    //         header("Location: $url");
+    //         exit;
+    //     }
+    // }
 ?>
 
 <!DOCTYPE html>
@@ -79,7 +79,7 @@
                 </li> 
                 <li><a href="speakers.php">Speakers</a></li>
                 <li><a href="team.php">About Us</a></li>
-                <li><a href="sp-index.php">Español</a></li>
+                <!-- <li><a href="sp-index.php">Español</a></li> -->
             </ul>
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
             <img src="images/logo/bogota-team-logo.png" id="navbar-logo-right">
