@@ -89,6 +89,20 @@ function auto_version($file)
             <div class="section-subheader text-center">
                 <p>Collaborators</p>
                 <div class="container">
+                    <div class="row">
+                        <img src="images/logo/colub-1.png" class="partner-logo" style="height: 150px">
+                        <img src="images/logo/connect-logo.png" class="partner-logo">
+                        <img src="images/logo/nuevo-logo.png" class="partner-logo" style="height: 150px">
+                        <img src="images/logo/cesa.png" class="partner-logo">
+                        <br>
+                        <img src="images/logo/mslao-logo.png" class="partner-logo">
+                        <img src="images/logo/legatum_2.png" class="partner-logo">
+                        <img src="images/logo/martin_trust_2.png" class="partner-logo">
+                        <img src="images/logo/reap_2.png" class="partner-logo">
+
+                    </div>
+                </div>
+                <!-- <div class="container">
                     <div class="col-lg-12 text-center partner-border" style="padding: 80px 0px 80px 0px ">
                         <div class="col-sm-6 text-center">
                             <h1> Our Host</h1>
@@ -124,7 +138,7 @@ function auto_version($file)
                         <img src="images/logo/martin_trust_2.png" class="partner-logo">
                         <img src="images/logo/reap_2.png" class="partner-logo">
                     </div>
-                </div>
+                </div> -->
             </div>
             <br><br>
         </div>
