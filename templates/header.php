@@ -117,22 +117,6 @@ function auto_version($file)
                         <div class="col-sm-1">
                             </div>
                             <img src="images/logo/logos-row.png" class="partner-logo"> 
-                            <!-- <div class="col-sm-2">
-                            </div>
-                            <div class="col-sm-2">
-                                <img src="images/logo/nuevo-logo-2.png" class="partner-logo-2" style="height: 60px; margin-right: 0px">
-                            </div>
-                            <div class="col-sm-4" style="max-width: 300px">
-                            <img src="images/logo/connect-logo.png" class="partner-logo-2">
-
-                            </div>
-                            <div class="col-sm-4">
-                            <img src="images/logo/cesa.png" class="partner-logo-2" style="float: left">
-
-                            </div> -->
-                            <!-- <img src="images/logo/nuevo-logo.png" class="partner-logo" style="height: 150px">
-                            <img src="images/logo/connect-logo.png" class="partner-logo">
-                            <img src="images/logo/cesa.png" class="partner-logo"> -->
                         </div>
                         <br>
                         <img src="images/logo/mslao-logo.png" class="partner-logo">
