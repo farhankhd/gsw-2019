@@ -530,6 +530,14 @@ h6 {
     background-repeat: none;
 }
 
+.parallax-window.header2 {
+    height: 500px;
+    margin-top: -20px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+}
+
 .header-overlay {
     position: relative;
     height: 100%;
