@@ -7,6 +7,16 @@
     header("Cache-Control: no-cache, must-revalidate"); //HTTP 1.1
     header("Pragma: no-cache"); //HTTP 1.0
     header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
+
+    // Require https
+
+    if( !($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') ){
+        if ($_SERVER['HTTPS'] != "on") {
+            $url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+            header("Location: $url");
+            exit;
+        }
+    }
 ?>
 
 <!DOCTYPE html>
