@@ -54,7 +54,7 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
     <div class="brand">
         <img src="images/launch/gsw-heading.png"/>
         <br> <br>
-        <img src="images/launch/bogota_plus_dates.png" />
+        <img src="images/launch/bogota_plus_dates_sp.png" />
         <br> <br><br> <br><br> <br>
 
     </div>
@@ -79,8 +79,8 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
             <br /><br><br><br>
             <div class="section-subheader text-center registration-message">
                 <h4><a href="index.php"> In English</a></h4>
-                <h4>La inscripción para MIT GSW 2019 ya está abierta!</h4>
-                <h4 style="display: inline">Las solicitudes seleccionadas recibirán entradas gratis para asistir. Para más información, consulte <a href="registration.php"   style="display: inline">la página de Inscripción.</a></h4>
+                <h4>¡Las inscripciones para el MIT GSW están abiertas!</h4>
+                <h4 style="display: inline">Los aplicantes seleccionados recibirán entradas gratuitas al evento. Para más información consulte <a href="registration.php"   style="display: inline">la página de inscripción</a></h4>
             </div>
             <br><br>
             <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/xlOAGFyLPkg8PEc33">Aplica Ya</a>
@@ -93,7 +93,7 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
                 <div class="container">
                     <div class="col-lg-12 text-center partner-border" style="padding: 80px 0px 80px 0px ">
                         <div class="col-sm-6 text-center">
-                            <h1> Our Host</h1>
+                            <h1> ANFITRIÓN</h1>
                         </div>
                         <div class="col-sm-6">
                             <a href="https://www.ccb.org.co/en">
@@ -104,7 +104,7 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
                     <br><br><br>
                     <div class="col-lg-12 text-center partner-border">
                         <div class="col-sm-6 text-center partner-vertical-center">
-                            <h1> Partner</h1>
+                            <h1> ALIADO PREMIUM</h1>
                         </div>
                         <div class="col-sm-6">
                             <img src="images/logo/colub-1.png" style="height: 110px;">
@@ -113,7 +113,7 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
                     <br><br><br>
                     <div class="col-lg-12 text-center partner-border" style="padding: 5px 0px 80px 0px ">
                         <div class="text-center">
-                            <h2 class="academic-mobile" style="margin-bottom: 20px"> Academic Partners</h2>
+                            <h2 class="academic-mobile" style="margin-bottom: 20px"> ALIADOS ACADÉMICOS</h2>
                         </div>
                         <div class="row" style="padding: 40px;">
                         <div class="col-sm-1">
@@ -141,13 +141,13 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
                     <h1>¿POR QUÉ ASISTIR?</h1>
             </div>
             <ul>
-                <li>Transforme sus ideas en <strong>nuevas empresas</strong> exitosas obteniendo una valiosa <strong>experiencia de MIT</strong> a través de talleres</li>
-                <li>Aprender sobre <strong>las tecnologías innovadoras</strong> y de vanguardia de <strong>MIT y expertos mundiales</strong> a través de paneles de discusión.</li>
-                <li>Participe en <strong>las competencias de GSW</strong> para recibir mentorship de emprendedores exitosos y obtener acceso <strong>a eventos VIP exclusivos</strong>. </li>
-                <li>Presente su emprendimiento <strong>en GSW Startup Showcase</strong> con exposición a los inversores.</li>
-                <li>Obtener acceso a los mejores talentos y <strong>nuevas empresas tecnológicas</strong> emergentes.</li>
-                <li>Aprender y entender <strong>el panorama emprendedor</strong> en Colombia.</li>
-                <li>Hacer conexiones fructíferas con <strong>inversionistas, funcionarios gubernamentales, representantes corporativos</strong> y más.</li>
+                <li>Aprópiese de la experiencia de MIT a través de talleres que le permitirán transformar sus ideas de negocio en <strong>empresas exitosas</strong></li>
+                <li>Aprenda <strong> sobre tecnologías  innovadoras  y  de  vanguardia </strong> de  MIT  y  expertos  mundiales  a través de paneles de discusión</li>
+                <li>Participe en <strong>los concursos del GSW </strong> para recibir mentorías por parte de emprendedores exitosos y obtenga acceso a eventos exclusivos de networking </li>
+                <li>Presente su emprendimiento ante inversionistas en <strong> el GSW Showcase</strong></li>
+                <li>Conozca a <strong>los mejores emprendedores </strong>de base tecnológica del país</li>
+                <li>Familiarícese con <strong>el ecosistema de emprendimiento </strong> del país</li>
+                <li>Conéctese con <strong>inversionistas, entidades gubernamentales y gerentes de grandes empresas </strong></li>
             </ul><br><br><br>
         </div>
     </div>
@@ -158,7 +158,7 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
             <div class="col-xs-1"></div>
             <div class="col-xs-5">
                 <div class="quote">
-                    <p class="img-quote">Al reunir expertos y líderes de diferentes sectores,</br> GSW ha construido una red global de apoyo y</br> aceleración del emprendedorismo en</br> mercados emergentes. Desde Seúl a Madrid,</br> Ciudad del Cabo a Santiago.</p>
+                    <p class="img-quote">Al   reunir   expertos   y   líderes   de diferentes sectores, </br> GSW ha construido una red global de apoyo </br> y aceleración del   emprendimiento   en  </br> mercados emergentes.  Desde  Seúl  a  Madrid, </br> Ciudad del Cabo a Santiago de Chile.</p>
                     <p class="quote-name">L. Rafael Reif</p>
                     <p class="quote-position">Presidente de MIT</p>
                 </div>
@@ -176,8 +176,8 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
             <h1>SEDE DEL EVENTO</h1>
     </div>
     <div class="text-center">
-        <p>El Cubo - Business and Recreation Center (Colsubsidio)</p>
-        <p>Ak. 30 #52-77, Bogota, Colombia</p>
+        <p>El Cubo (Colsubsidio) – Centro Empresarial y Recreativo</p>
+        <p>Ak. 30 # 52-77, Bogotá D.C., Colombia</p>
     </div>
     <br>
 

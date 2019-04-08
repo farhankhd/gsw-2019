@@ -60,7 +60,7 @@
                 <li><a href="sp-registration.php">Registro</a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Competiciones <span class="caret"></span>
+                    Concursos <span class="caret"></span>
                     </a>
                     <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="sp-gc.php">Grand <br />Challenge</a>
@@ -68,8 +68,8 @@
                         <a class="dropdown-item" href="sp-bpc.php">Business Plan <br /> Competition</a>
                     </div>
                 </li> 
-                <li><a href="sp-speakers.php">Oradores</a></li>
-                <li><a href="sp-team.php">Quienes Somos</a></li>
+                <li><a href="sp-speakers.php">Conferenciastas</a></li>
+                <li><a href="sp-team.php">QUIÉNES SOMOS</a></li>
                 <li><a href="index.php">English</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >

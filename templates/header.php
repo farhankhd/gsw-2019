@@ -76,7 +76,7 @@ function auto_version($file)
         <div class="col-xs-12">
             <br /><br><br><br>
             <div class="section-subheader text-center registration-message">
-                <!-- <h4><a href="sp-index.php"> En Español</a></h4> -->
+                <h4><a href="sp-index.php"> En Español</a></h4>
                 <h4 class="trn">Registration applications for MIT GSW 2019 are now open!</h4>
                 <h4 class="trn" style="display: inline">Selected applications will receive free tickets to attend. For more information, see the <a href="registration.php" class="trn" style="display: inline">Registration page.</a></h4>
             </div>
@@ -175,7 +175,7 @@ function auto_version($file)
     </div>
     <div class="text-center">
         <p>El Cubo - Business and Recreation Center (Colsubsidio)</p>
-        <p>Ak. 30 #52-77, Bogota, Colombia</p>
+        <p>Ak. 30 # 52-77, Bogotá D.C., Colombia</p>
     </div>
     <br>
 

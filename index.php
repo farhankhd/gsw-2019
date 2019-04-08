@@ -1,11 +1,11 @@
 <?php
 
     // // Require https
-    if ($_SERVER['HTTPS'] != "on") {
-        $url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
-        header("Location: $url");
-        exit;
-    }
+    // if ($_SERVER['HTTPS'] != "on") {
+    //     $url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+    //     header("Location: $url");
+    //     exit;
+    // }
 
     $pageTitle = 'MIT Global Startup Workshop 2019';
     $metaDescription = 'MIT Global Startup Workshop is an annual conference that aims to accelerate entrepreneurial ecosystems around the world, through workshops, mentorship and skills training.'; 

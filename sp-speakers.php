@@ -83,7 +83,7 @@
 <script src="assets/js/jquery.min.js"></script>
 
 <?php
-include("templates/footer.php");
+include("sp-footer.php");
 ?>
 
 </body>

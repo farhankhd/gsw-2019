@@ -26,14 +26,14 @@
         <div class="col-lg-12">
             <div class="col-3"></div>
             <div class="col-6">
-                <p class="white" style="text-align:left; padding-left: 3%"> ¿Tienes una idea increíble para tu startup? ¡Aplique al Business Plan Competition, compita 
-                por premios monetarios y reciba mentorship de emprendedores líderes de MIT y América Latina! </p>
+                <p class="white" style="text-align:left; padding-left: 3%"> ¿Tiene una idea increíble de emprendimiento? ¡Aplique al Business Plan Competition para recibir 
+                premios en efectivo y mentorías por parte de líderes del MIT y América Latina! </p>
                 <br>
                 <p class="white text-center">Consulte nuestro <a href='assets/docs/MITGSW 2019 Business Plan Competition Rules Spanish.pdf'>Reglamento Oficial</a> para más información. </p>
                 <!--<p>Consulte nuestro <a href="">Reglamento Oficial</a> para más información.</p>-->
 
-                <p class="white text-center">Cierre de Inscripción: Abril 7, 2019</p>
-                <a class="register-btn" style="text-decoration: none;" href="https://startup.openstartups.net/?eventcode=mit_businessplan_2019">Apply</a>
+                <p class="white text-center">Cierre de Inscripciones. Abril 7 de 2019</p>
+                <a class="register-btn" style="text-decoration: none;" href="https://startup.openstartups.net/?eventcode=mit_businessplan_2019">Aplique</a>
             </div>
             <div class="col-3"></div>
         </div>
@@ -47,7 +47,7 @@
     <div class="col-lg-12 text-center">
         <br><br>
         <div class="line"></div>
-        <img class="comp-flow" src="images/comp/bpc-flow.png">
+        <img class="comp-flow" src="images/comp/bpc-flow-sp.png">
         <br><br>
     </div>
 
@@ -55,22 +55,22 @@
         <div class="col-lg-12">
             <div class="col-md-6 comp-content">
                 <h2> FORMATO </h2>
-                <p> Los semifinalistas de nuestro Business Plan Competition recibirán feedback sobre sus 
+                <p> Los  semifinalistas  del Business  Plan  Competition  recibirán retroalimentación sobre sus 
                 emprendimientos y participarán en talleres con mentores experimentados, también tendrán la oportunidad de ganar premios para invertir en sus startups.</p>
                 <ul>
                 <li>16 <strong>equipos semifinalistas</strong> </li>
-                <li><strong>8 equipos finalistas</strong> presentan su startup a un panel de jueces experimentados.</li>
-                <li>Recibirán <strong>mentorship personal</strong> de emprendedores del ecosistema de MIT y LATAM</li>
-                <li>¡Los semifinalistas y finalistas podrán participar en la Feria de Emprendedores!</li>
+                <li><strong>8  equipos  finalistas</strong> que  podrán  presentar  sus  emprendimientos  ante  un panel de jueces experimentados</li>
+                <li>Mentorías  personalizada <strong> con  emprendedore</strong>  exitosos  y  actores  del ecosistema de MIT y América Latina</li>
+                <li>¡Los semifinalistas podrán participar en una Feria de Emprendedores!</li>
             </ul><br><br>
             </div>
             <div class="col-md-6 comp-content">
                 <h2> PREMIOS </h2>
                 <ul>
-                <li><strong>Premios monetarios</strong> para el 1º y 2º puesto
-                <li>Además, el ganador y el subcampeón serán aceptados directamente para <strong>la Ronda 2 de la competencia MassChallenge</strong>. Más información aquí: <a href='https://masschallenge.org/about-apply'> masschallenge.org/apply </a></li>
-                <li>Mentoría de emprendedores exitosos</li>
-                <li>Más premios por venir!</li>
+                <li><strong>Premios en efectiv</strong>  para el 1° y 2° puesto</li>
+                <li>El equipo campeón y subcampeón serán aceptados para <strong>la segunda  ronda </strong> de  la  competencia <strong>Mass Challenge.</strong> Más información <a href='https://masschallenge.org/about-apply'> masschallenge.org/apply </a></li>
+                <li>Mentorías personalizadas</li>
+                <li>¡Más premios por ser anunciados!</li>
             </ul><br><br>
             </div>
         </div>
@@ -80,17 +80,17 @@
 
         <div class="col-lg-12">
             <div class="col-md-6 comp-content">
-                <h2> ELIGIBILITY </h2>
+                <h2> CRITERIOS DE SELECCIÓN</h2>
                 <ul>
-                <li>Any early-stage startups currently seeking outside equity capital </li>
-                <li>Startups must have raised less than $250,000 USD from angel investors, venture capital, or other equity sources to be eligible</li>
+                <li>Ser  un  emprendimiento  en  etapa temprana de consolidación y estar en búsqueda de inversionistas </li>
+                <li>No haber recibido recursos por más de 250.000 USD por parte de ángeles inversionistas o capital de riesgo</li>
             </ul><br><br>
             </div>
             <div class="col-md-6 comp-content">
-                <h2> ENTREPRENEURSHIP FAIR </h2>
+                <h2> FERIA DE EMPRENDIMIENTO </h2>
                 <ul>
-                <li>Opportunity to showcase your venture to investors, key opinion leaders, and hundred of conference attendees!  </li>
-                <li>All Semi-Finalists get to participate</li>
+                <li>Una  oportunidad  para  mostrar  su idea   de   emprendimiento   ante inversionistas,  líderes  de  opinión  y cientos de asistentes  </li>
+                <li>Todos los semifinalistas del Business Plan Competition serán expositores</li>
             </ul><br><br>
             </div>
         </div>
@@ -102,7 +102,7 @@
 <script src="assets/js/jquery.min.js"></script>
 
 <?php
-include("templates/footer.php");
+include("sp-footer.php");
 ?>
 
 </body>

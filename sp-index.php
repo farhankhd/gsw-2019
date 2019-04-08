@@ -14,6 +14,6 @@
     
     include('sp-nav-bar.php');
     include('sp-header.php');
-    include('templates/footer.php');
+    include('sp-footer.php');
 ?>
 <!-- <br /><br />

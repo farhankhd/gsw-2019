@@ -10,7 +10,7 @@
     </div>
     <div class="register-brand">
         
-        <img src="images/launch/bogota_plus_dates.png" />
+        <img src="images/launch/bogota_plus_dates_sp.png" />
     </div>
     <div class="blob-box">
     <img style="position: absolute; left: -200px" class= "blob-mobile" src="images/register/blob-2.png">
@@ -23,7 +23,7 @@
 <div style="overflow-x:hidden; max-width:100vw;w-x: hidden;">
     <div class="section">
         <div class="row text-center comp-content">
-            <h1> REGRISTRESE PARA ASISTIR AL MIT GLOBAL STARTUP WORKSHOP </h1>
+            <h1> REGÍSTRESE PARA ASISTIR AL MIT GLOBAL STARTUP WORKSHOP </h1>
             <br>
             <br>
             <div class="blob-box">
@@ -31,23 +31,13 @@
     </div>
             <div class="register-box">
                 <h2>COMO FUNCIONA EL PROCESO DE INSCRIPCIÓN</h2>
-
-                <p>To apply to the MIT Global Startup Workshop, please complete this form. 
-                    Applications are evaluated on a rolling basis, and if your application is accepted, 
-                    you will be contacted with additional information on how to receive your ticket. 
-                    This year, MIT GSW and the Cámara de Comercio de Bogotá are proud to announce that all tickets 
-                    for selected attendees are free of charge. GSW will be held on May 27-28th, in El Cubo (Colsubsidio) in Bogotá. We hope to see you there!
-                </p>
-
-                <p> <strong style="font-family: 'DIN';"> For competition applicants:</strong> Even if you are applying for competitions, an application to attend the conference is still required here.
-                </p>
                 
-                <p>Completar el siguiente formulario para poder asistir al MIT Global Startup Workshop. 
-                    Todas las aplicaciones seran evaluadas y, en caso de ser aceptado, será contactado con 
-                    información adicional para recibir su entrada. MIT GSW y la Cámara de Comercio de Bogotá 
-                    están orgullosos de anunciar que las entradas al evento serán gratuitas para los candidatos seleccionados. 
-                    El evento tomará lugar los días 27 y 28 de Mayo en El Cubo (Colsubsidio) Bogotá. Esperamos verlos allí!</p>
-                <p> <strong style="font-family: 'DIN';">Participantes de la competencia:</strong> Es necesario completar ambos formularios. Formulario de asistencia a la conferencia y formulario de participación en la competencia.</p>
+                <p>Para aplicar <strong>complete el siguiente formulario.</strong> Las aplicaciones serán evaluadas de forma continua, 
+                en caso de ser seleccionado, lo contactáremos para entregar las boletas de entrada. MIT GSW y la Cámara 
+                de Comercio de Bogotá se complacen de anunciar que el evento no tendrá costo para los asistentes. 
+                El evento tendrá lugar los días 27 y 28 de mayo de 2019 en El Cubo de Colsubsidio – Bogotá. 
+                ¡Esperamos contar con sus asistencia!</p>
+                <p> <strong style="font-family: 'DIN';">Los participantes de los concursos: </strong> deben completar tanto el formulario del concurso como el de asistencia general</p>
             </div>
         </div>
 
@@ -78,7 +68,7 @@
 <script src="assets/js/jquery.min.js"></script>
 
 <?php
-include("templates/footer.php");
+include("sp-footer.php");
 ?>
 
 </body>

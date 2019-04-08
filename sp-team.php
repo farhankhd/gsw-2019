@@ -231,5 +231,5 @@
 <div class="row team-expanded-bio"><span class="anchor" id="teamJShelly"></span><div class="team col-md-5 col-lg-3 text-center"><a href="#teamJShelly"><img class="team-picture" src="images/team/J.jpg"></a></div><div class="col-md-7 col-lg-9"><div class="team-expanded-name">J Shelly</div><div class="team-expanded-role">External Relations</div><div class="team-expanded-text">J is an undergraduate studying biology and has primarily worked in cancer research labs across the US and in Berlin. They are interested in entrepreneurship and innovation at the intersections of biotech and edtech. They are passionate about social justice and equality. J hopes to found a startup in the future that has a positive impact on marginalized populations around the globe.</div></div></div></div>
 
 <?php
-    include('templates/footer.php');
+    include('sp-footer.php');
 ?>
