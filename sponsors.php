@@ -16,6 +16,10 @@
 
 <body style="background-image: url('images/register/register-bg.jpg'); overflow-x: hidden;">
 
+
+<div style="margin-left: calc(50% - 50vw); width: 100vw;" class="line"></div>
+
+
 <div class="section">
     <div class="row text-center comp-content">
         <h1> Interested in Sponsorship? </h1>
@@ -37,9 +41,12 @@
         <div class='col-lg-12'>
             <a class="register-btn-large" style="text-decoration: none; z-index: 1000;" href="">Sponsorship Deck</a>
         </div>
-    </div>
-        
+    </div>  
+    <br> <br>      
 </div>
+
+<div style="margin-left: calc(50% - 50vw); width: 100vw;" class="line"></div>
+
 
 
 

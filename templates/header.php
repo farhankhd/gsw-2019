@@ -77,8 +77,8 @@ function auto_version($file)
             <br /><br><br><br>
             <div class="section-subheader text-center registration-message">
                 <h4><a href="sp-index.php"> En Español</a></h4>
-                <h4 class="trn">Registration applications for MIT GSW 2019 are now open!</h4>
-                <h4 class="trn" style="display: inline">Selected applications will receive free tickets to attend. For more information, see the <a href="registration.php" class="trn" style="display: inline">Registration page.</a></h4>
+                <h4>Registration applications for MIT GSW 2019 are now open!</h4>
+                <h4 style="display: inline">Selected applications will receive free tickets to attend. For more information, see the <a href="registration.php" class="trn" style="display: inline">Registration page.</a></h4>
             </div>
             <br><br>
             <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/xlOAGFyLPkg8PEc33">Apply Now</a>
