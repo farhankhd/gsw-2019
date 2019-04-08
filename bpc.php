@@ -71,6 +71,14 @@
                 <li><strong>Monetary prizes </strong> for 1st and 2nd place winners</li>
                 <li>In addition, the winner and runner up will be directly <strong>accepted for the MassChallenge Competition Round 2.</strong> More information here: <a href='https://masschallenge.org/about-apply'> masschallenge.org/apply </a></li>
                 <li>Mentorship from experienced entrepreneurs</li>
+                <li><strong> One winner</strong> will receive EAN + CESA Incubation program (6 Months):
+                    <ul>
+                    <li> Opportunity to attend 4 workshops on specifics methodologies 
+                    to support the incubation process (Finances, Pitch, Market research, 
+                    Brand strategy, Sales and Marketing, Business plan, Strategy, Processes).</li>
+                    <li>Specialized tutors in topics needed by the type of project - 30 hrs (Finances, Sales and Marketing, processes, among others).</li>
+                    </ul>
+                </li>
                 <li>More great prizes to come - check back often!</li>
             </ul><br><br>
             </div>

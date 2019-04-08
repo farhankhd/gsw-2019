@@ -65,6 +65,15 @@
                 <ul>
                 <li><strong>Monetary prizes</strong> for 1st and 2nd place winners</li>
                 <li>Mentorship from experienced entrepreneurs</li>
+                <li><strong> One winner</strong> will receive EAN + CESA Validation Program (3 Months):
+                    <ul>
+                    <li>Opportunity to attend 4 workshops on specifics methodologies to support the validation process 
+                    (Possible topics: Customer discovery, Sustainable Bussiness model design, Go To Market, 
+                    Finances, Pitch, Market research, Company creation and formalization).</li>
+                    <li>Coach for validation process - 8 hrs</li>
+                    <li>Specialized tutor in topics needed by the type of project - 8 hrs</li>
+                    </ul>
+                </li>
                 <li>More great prizes to come - check back often!</li>
             </ul><br><br>
             </div>
