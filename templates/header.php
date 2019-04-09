@@ -109,33 +109,30 @@ function auto_version($file)
                         </div>
                     </div>
                     <br><br><br>
-                    <div class="col-lg-12 text-center partner-border" style="padding: 5px 0px 80px 0px ">
+                    <div class="col-lg-12 text-center partner-border" style="padding: 5px 0px 60px 0px ">
                         <div class="text-center">
                             <h2 class="academic-mobile" style="margin-bottom: 30px"> Sponsors</h2>
                         </div>
-                        <div class="col-sm-4">
-                        <img src="images/logo/pnaa.png" class="partner-logo">
+                        <div class="row">
+                            <img src="images/logo/mintic.png" class="partner-logo">
 
                         </div>
-                        <div class="col-sm-4">
-                        <img src="images/logo/mintic.png" class="partner-logo">
-
-                        </div>
-
-                        <div class="col-sm-4">
-                        <img src="images/logo/sasin.png" class="partner-logo">
-                        
+                        <br><br>
+                        <div class="row">
+                            <img src="images/logo/sasin.png" class="partner-logo">
                         </div>
 
                     </div>
-                    <br><br><br>
+                    <br><br>
                     <div class="col-lg-12 text-center partner-border" style="padding: 5px 0px 80px 0px ">
                         <div class="text-center">
                             <h2 class="academic-mobile" style="margin-bottom: 20px"> Academic Partners</h2>
                         </div>
                         <div class="row" style="padding: 40px;">
-                        <div class="col-sm-1">
+                        <div>
                             </div>
+                            <img src="images/logo/pnaa.png" class="partner-logo">
+
                             <img src="images/logo/logos-row.png" class="partner-logo"> 
                         </div>
                         <br>

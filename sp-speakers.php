@@ -6,7 +6,7 @@
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/speaker_header.jpg');">
     <div class="header-overlay">
     <h1 class="parallax-text">
-    Oradores
+    Conferencistas
     </h1>
     </div>
 </div>
