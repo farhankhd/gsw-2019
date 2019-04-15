@@ -39,7 +39,7 @@
     <div class="row text-center">
             
         <div class='col-lg-12'>
-            <a class="register-btn-large" style="text-decoration: none; z-index: 1000;" href="">Sponsorship Deck</a>
+            <a class="register-btn-large" style="text-decoration: none; z-index: 1000;" href='assets/docs/sponsorship.pdf'>Sponsorship Deck</a>
         </div>
     </div>  
     <br> <br>      

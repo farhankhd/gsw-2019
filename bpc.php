@@ -68,15 +68,13 @@
             <div class="col-md-6 comp-content">
                 <h2> PRIZES </h2>
                 <ul>
-                <li><strong>Monetary prizes </strong> for 1st and 2nd place winners</li>
-                <li>In addition, the winner and runner up will be directly <strong>accepted for the MassChallenge Competition Round 2.</strong> More information here: <a href='https://masschallenge.org/about-apply'> masschallenge.org/apply </a></li>
-                <li>Mentorship from experienced entrepreneurs</li>
-                <li><strong> One winner</strong> will receive EAN + CESA Incubation program (6 Months):
+                <li><strong>$3,000 USD</strong></li>
+                <li><strong>A trip to MIT</strong> (flights and hotel costs covered) for mentorship, stakeholder meetings, and networking with leaders in entrepreneurship at MIT</li>
+                <li>The winner and runner up will BOTH be directly <strong>accepted for the MassChallenge Competition Round 2.</strong> More information here: <a href='https://masschallenge.org/about-apply'> masschallenge.org/apply </a></li>
+                <li><strong> 6 month local incubation program</strong> with:
                     <ul>
-                    <li> Opportunity to attend 4 workshops on specifics methodologies 
-                    to support the incubation process (Finances, Pitch, Market research, 
-                    Brand strategy, Sales and Marketing, Business plan, Strategy, Processes).</li>
-                    <li>Specialized tutors in topics needed by the type of project - 30 hrs (Finances, Sales and Marketing, processes, among others).</li>
+                    <li><strong>Workshops</strong> on important topics for startups</li>
+                    <li>And <strong>30 hours of personalized guidance</strong> (finance, sales, marketing, etc.)</li>
                     </ul>
                 </li>
                 <li>More great prizes to come - check back often!</li>
