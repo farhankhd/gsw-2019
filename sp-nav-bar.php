@@ -78,6 +78,7 @@
                         <a class="dropdown-item" href="sp-bpc.php">Business Plan <br /> Competition</a>
                     </div>
                 </li> 
+                <li><a href="sp-sponsors.php">PATROCINADORES</a></li>
                 <li><a href="sp-speakers.php">Conferencistas</a></li>
                 <li><a href="sp-team.php">QUIÉNES SOMOS</a></li>
                 <li><a href="index.php">English</a></li>
