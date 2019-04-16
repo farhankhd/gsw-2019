@@ -63,9 +63,15 @@
             <div class="col-md-6 comp-content">
                 <h2> PREMIOS </h2>
                 <ul>
-                <li><strong>Premios en efectiv</strong>  para el 1° y 2° puesto</li>
-                <li>Mentorías personalizadas</li>
-                <li>¡Más premios por ser anunciados!</li>
+                <li><strong>$ 1.000 USD</strong></li>
+                <li><strong>Programa de 3 meses</strong> sobre Validación de Ideas con:
+                    <ul>
+                    <li>Oportunidad de <strong>asistir a talleres</strong> sobre metodologías para el proceso de validación.</li>
+                    <li><strong>8 horas de coaching</strong> para el proceso de validación.</li>
+                    <li><strong>8 horas de tutoría especializada</strong> en temas relevantes para el emprendimiento.</li>
+                    </ul>
+                </li>
+                <li>Más premios por venir - ¡Vuelve seguido a visitar el sitio!</li>
             </ul><br><br>
             </div>
         </div>

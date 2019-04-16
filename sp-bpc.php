@@ -67,10 +67,16 @@
             <div class="col-md-6 comp-content">
                 <h2> PREMIOS </h2>
                 <ul>
-                <li><strong>Premios en efectiv</strong>  para el 1° y 2° puesto</li>
-                <li>El equipo campeón y subcampeón serán aceptados para <strong>la segunda  ronda </strong> de  la  competencia <strong>Mass Challenge.</strong> Más información <a href='https://masschallenge.org/about-apply'> masschallenge.org/apply </a></li>
-                <li>Mentorías personalizadas</li>
-                <li>¡Más premios por ser anunciados!</li>
+                <li><strong>$ 3.000 USD</strong></li>
+                <li><strong>Un viaje a MIT</strong> (vuelos y costos de hotel cubiertos) para tutorías, reuniones con miembros de la universidad y contacto con líderes en emprendimiento en MIT</li>
+                <li>El ganador y el subcampeón serán AMBOS <strong>directamente aceptados para la Ronda 2 de la competencia MassChallenge.</strong> Más información aquí: <a href='https://masschallenge.org/about-apply'> masschallenge.org/apply </a></li>
+                <li><strong> Programa de incubación local de 6 meses</strong> con:
+                    <ul>
+                    <li><strong>Talleres </strong> sobre temas importantes para startups.</li>
+                    <li>y  <strong>30 horas de orientación personalizada</strong> (finanzas, ventas, marketing, etc.).</li>
+                    </ul>
+                </li>
+                <li>Más premios por venir - ¡Vuelve seguido a visitar el sitio!</li>
             </ul><br><br>
             </div>
         </div>
