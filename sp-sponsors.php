@@ -22,14 +22,14 @@
 
 <div class="section">
     <div class="row text-center comp-content">
-        <h1> Interested in Sponsorship? </h1>
+        <h1> ¿INTERESADO EN SER SPONSOR? </h1>
         <br>
         <br>
         <div class="blob-box">
         <div style="text-align:center">
-            <h1 style="font-size: 1.2vw"> Contact us at </h1>
+            <h1 style="font-size: 1.2vw"> CONTACTENOS A </h1>
             <i><p style="text-align:center"><a style="color: white; text-decoration: underline" href="mailto:gsw-contact@mit.edu"> gsw-contact@mit.edu</a></p></i>
-            <h1 style="font-size: 1.2vw"> And find more information here </h1>
+            <h1 style="font-size: 1.2vw"> Y ENCUENTRE MÁS INFORMACIÓN AQUÍ </h1>
 
         </div>
         <!-- <img style="position: absolute; right:-200px;" class= "blob-mobile" src="images/register/blob-3.png"> -->
