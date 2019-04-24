@@ -3,7 +3,7 @@
     include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/grand_header.jpg');">
+<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/efair_header.png');">
     <div class="header-overlay">
     <h1 class="parallax-text">
         ENTREPRENEURSHIP FAIR
