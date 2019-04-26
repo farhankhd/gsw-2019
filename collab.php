@@ -25,42 +25,27 @@
     </div>
 </div>
 
-<!-- <div data-parallax="scroll" class="parallax-window header" style="background-image: url('headers/img/Team.jpg');">
-    <div class="brand">
-    <h1 class="parallax-text">
-        Who we are
-    </h1>
-    </div>
-</div> -->
-<div class="section text-center">
-    <div>
-        <div class="col-md-3">
-
-        </div>
-        <div class="col-md-3 comp-content">
-        <a class="register-btn" style="text-decoration: none;" href="team.php">Who We Are</a>
-
-        </div>
-        <div class="col-md-3 comp-content">
-        <a class="register-btn" style="text-decoration: none;" href="collab.php">Collaborators</a>
-            <br><br>
-        </div>
-        <div class="col-md-3">
-            
-        </div>
-    </div>
-</div>
+<body>
 
 <div class="section">
-    <div style="color:white;">
-        Collaborators
-    </div>
-
     <br>
 
     <div class="section-header section-header-page" style="color: white">Collaborators</div>
-<div></div>
+<div>
+</div>
 
+
+<div class="row team-row text-center">
+
+<div class="row team-expanded-bio"><span class="anchor" id="teamAditiGupta"></span><div class="team col-md-5 col-lg-3 text-center"><a href="#teamAditiGupta"><img class="team-picture" src="images/team/Aditi.jpg"></a></div><div class="col-md-7 col-lg-9"><div class="team-expanded-name">Aditi Gupta</div><div class="team-expanded-role">Co-Director</div><div class="team-expanded-text">Aditi is a PhD Candidate in Medical Engineering &amp; Medical Physics in the Harvard-MIT Health Sciences &amp; Technology program. Her research, done with the Human Systems Lab in MIT AeroAstro, focuses on human-exoskeleton adaptation. She is passionate about human-centered design and spends her spare time advocating and working on issues of representation, diversity &amp; equity in STEM. She hopes to one day apply her knowledge and skills to tackling issues of social justice around the world. She hails from Southern California and remains grounded through photography, travel, dance, and spending time in the outdoors with friends and family.</div></div></div>
+
+</div>
+
+</body>
+
+<script src="assets/js/papaparse.min.js"></script>
+<script src="assets/js/main.js?v=1.1"></script>
+<script src="assets/js/jquery.min.js"></script>
 
 <?php
     include('templates/footer.php');

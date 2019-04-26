@@ -111,13 +111,17 @@ function auto_version($file)
                     <br><br><br>
                     <div class="col-lg-12 text-center partner-border" style="padding: 5px 0px 60px 0px ">
                         <div class="text-center">
-                            <h2 class="academic-mobile" style="margin-bottom: 30px"> Sponsors</h2>
+                            <h2 style="font-size: 2.0vw" class="academic-mobile" style="margin-bottom: 30px"> Diamond Sponsors</h2>
+                            <br>
                         </div>
                         <div class="row">
                             <img src="images/logo/mintic.png" class="partner-logo">
-
                         </div>
                         <br><br>
+                        <div class="text-center">
+                            <h2 class="academic-mobile" style="margin-bottom: 30px"> Silver Sponsors</h2>
+                        </div>
+                        
                         <div class="row">
                             <img src="images/logo/sasin.png" class="partner-logo">
                         </div>

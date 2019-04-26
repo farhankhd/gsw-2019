@@ -33,24 +33,6 @@
     </div>
 </div> -->
 
-<div class="section text-center">
-    <div>
-        <div class="col-md-3">
-
-        </div>
-        <div class="col-md-3 comp-content">
-        <a class="register-btn" style="text-decoration: none;" href="team.php">Who We Are</a>
-
-        </div>
-        <div class="col-md-3 comp-content">
-        <a class="register-btn" style="text-decoration: none;" href="collab.php">Collaborators</a>
-            <br><br>
-        </div>
-        <div class="col-md-3">
-            
-        </div>
-    </div>
-</div>
 <div class="section">
     <div style="color:white;">
         Our team consists of individuals across all parts of the MIT campus, and is supported by an accomplished advisory board.

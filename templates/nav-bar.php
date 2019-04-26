@@ -82,8 +82,8 @@
                 </li> 
                 <li><a href="sponsors.php">Sponsors</a></li>
                 <li><a href="speakers.php">Speakers</a></li>
-                <li><a href="team.php">About Us</a></li>
-                <!-- <li class="nav-item dropdown">
+                <!-- <li><a href="team.php">About Us</a></li> -->
+                <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         About Us <span class="caret"></span>
                     </a>
@@ -92,7 +92,7 @@
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="collab.php">Collaborators</a>
                     </div>
-                </li>  -->
+                </li> 
                 <li><a href="sp-index.php">Español</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
