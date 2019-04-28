@@ -1,6 +1,6 @@
 <?php
     $pageTitle = 'Team | MIT Global Startup Workshop 2018';
-    include('templates/nav-bar.php');
+    include('sp-nav-bar.php');
 ?>
 
 <head>
@@ -20,7 +20,7 @@
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/Team.jpg');">
     <div class="header-overlay">
     <h1 class="parallax-text">
-        Collaborators
+        PATROCINADORES
     </h1>
     </div>
 </div>
@@ -30,12 +30,12 @@
 <div class="section">
     <br>
 
-    <div class="section-header section-header-page" style="color: white">Collaborators</div>
+    <div class="section-header section-header-page" style="color: white">PATROCINADORES</div>
 <div>
 </div>
 
 
-<div class="row team-row text-center" id="collab-section-en">
+<div class="row team-row text-center" id="collab-section-sp">
 
 </div>
 

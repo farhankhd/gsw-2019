@@ -169,6 +169,64 @@ function getSpeakers() {
     });
 }
 
+function getCollabEnglish() {
+    var filename = 'data/collab.csv'
+    Papa.parse(filename, {
+        download: true,
+        header: true,
+        complete: function(results) {
+            console.log(results);
+
+            var collab = results['data']
+            var rows = collab.length
+            console.log(rows);
+
+            for (var i = 1; i < rows; i++) {
+                var currentCollab = collab[i];
+                console.log(currentCollab);
+
+                var name = currentCollab['Name'];
+                var logoPath = currentCollab['Logo'];
+                var bioEnglish = currentCollab['English'];
+                var bioSpanish = currentCollab['Spanish'];
+
+                // collabMarkup = '<div class=\"row team-expanded-bio\">' +
+                //     '<span class=\"anchor\" id=\"' + name + '\"></span>' +
+                //     '<div class=\"team col-md-5 col-lg-3 text-center\">' +
+                //     '<img class=\"partner-logo\" src=\"' + logoPath + '\">' +
+                //     '</div>' +
+                //     '<div class=\"team-expanded-text\">' + bioEnglish + '</div></div></div>'
+
+
+                collabMarkup = '<div class=\"row team-expanded-bio\">' +
+                    '<span class="anchor" id=\"' + name + '\"></span>' +
+                    '<div class=\"row\">' +
+                    '<div class=\"col-md-6 text-center\">' +
+                    '<img class=\"partner-logo\" src=\"' + logoPath + '\">' +
+                    '</div>' +
+                    '<div class=\"team-expanded-text col-md-6\">' + bioEnglish + '</div></div></div>'
+
+                collabMarkupSp = '<div class=\"row team-expanded-bio\">' +
+                    '<span class="anchor" id=\"' + name + '\"></span>' +
+                    '<div class=\"row\">' +
+                    '<div class=\"col-md-6 text-center\">' +
+                    '<img class=\"partner-logo\" src=\"' + logoPath + '\">' +
+                    '</div>' +
+                    '<div class=\"team-expanded-text col-md-6\">' + bioSpanish + '</div></div></div>'
+
+                $(collabMarkup).appendTo('#collab-section-en');
+                $(collabMarkupSp).appendTo('#collab-section-sp');
+
+                console.log(collabMarkup);
+
+
+            }
+
+        }
+    });
+}
+
 getSpeakers()
+getCollabEnglish()
 
 // countdown()

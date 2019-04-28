@@ -705,6 +705,7 @@ h6 {
 
 .partner-logo {
     /* width: 200px; */
+    /* max-width: 50%; */
     height: 80px;
     width: auto;
     margin: 30 auto;
