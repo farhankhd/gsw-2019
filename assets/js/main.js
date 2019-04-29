@@ -201,8 +201,8 @@ function getCollabEnglish() {
                 collabMarkup = '<div class=\"row team-expanded-bio\">' +
                     '<span class="anchor" id=\"' + name + '\"></span>' +
                     '<div class=\"row\">' +
-                    '<div class=\"col-md-6 text-center\">' +
-                    '<img class=\"partner-logo\" src=\"' + logoPath + '\">' +
+                    '<div class=\"col-md-6 text-center\"' +
+                    '<img class=\"partner-logo-2\" src=\"' + logoPath + '\">' +
                     '</div>' +
                     '<div class=\"team-expanded-text col-md-6\">' + bioEnglish + '</div></div></div>'
 
@@ -217,7 +217,7 @@ function getCollabEnglish() {
                 $(collabMarkup).appendTo('#collab-section-en');
                 $(collabMarkupSp).appendTo('#collab-section-sp');
 
-                console.log(collabMarkup);
+                console.log(collabMarkupSp);
 
 
             }

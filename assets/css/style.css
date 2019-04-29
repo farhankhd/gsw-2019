@@ -715,13 +715,13 @@ h6 {
 }
 
 .partner-logo-2 {
-    /* width: 200px; */
-    height: 80px;
-    width: auto;
-    margin: 30 auto;
+    width: 180px;
+    height: auto;
+    /* width: auto; */
+    /* margin: 30 auto; */
     /* padding: 20px; */
-    padding-left: 20px;
-    padding-right: 20px;
+    vertical-align: middle;
+    /* display: inline-block; */
 }
 
 .partner-border {
