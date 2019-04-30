@@ -197,18 +197,17 @@ function getCollabEnglish() {
                     '<img class=\"partner-logo-w\" src=\"' + logoPath + '\">'
 
 
-                collabMarkup = '<div class=\"row team-expanded-bio\">' +
+                collabMarkup = '<div class=\"row vertical-center\">' +
                     '<span class="anchor" id=\"' + name + '\"></span>' +
                     '<div class=\"row text-center\">' +
                     imageMarkup +
                     '</div>' +
                     '<div class=\"team-expanded-text col-md-6\">' + bioEnglish + '</div></div></div>'
 
-                collabMarkupSp = '<div class=\"row team-expanded-bio\">' +
+                collabMarkupSp = '<div class=\"row vertical-center\">' +
                     '<span class="anchor" id=\"' + name + '\"></span>' +
-                    '<div class=\"row\">' +
-                    '<div class=\"col-md-6 text-center\">' +
-                    '<img class=\"partner-logo\" src=\"' + logoPath + '\">' +
+                    '<div class=\"row text-center\">' +
+                    imageMarkup +
                     '</div>' +
                     '<div class=\"team-expanded-text col-md-6\">' + bioSpanish + '</div></div></div>'
 
