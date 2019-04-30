@@ -76,8 +76,8 @@
                         <a class="dropdown-item" href="gc.php">Grand <br />Challenge</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="bpc.php">Business Plan <br /> Competition</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="efair.php">Entrepreneurship <br /> Fair</a>
+                        <!-- <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="efair.php">Entrepreneurship <br /> Fair</a> -->
                     </div>
                 </li> 
                 <li><a href="sponsors.php">Sponsors</a></li>
