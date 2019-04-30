@@ -208,7 +208,7 @@ function getCollabEnglish() {
 
                 collabMarkupSp = '<div class=\"row collab-vertical-center\">' +
                     '<span class="anchor" id=\"' + name + '\"></span>' +
-                    '<div class=\"row text-center\"> <div class=\"col-md-1 \"></div> ' +
+                    '<div class=\"row text-center img-container\"> <div class=\"col-md-1 \"></div> ' +
                     imageMarkup +
                     '</div>' +
                     '<div class=\"team-expanded-text col-md-7\">' + bioSpanish + '</div></div></div> <div class="line"></div>';
