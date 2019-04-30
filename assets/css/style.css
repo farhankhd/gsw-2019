@@ -714,6 +714,26 @@ h6 {
     padding-right: 20px;
 }
 
+.collab-vertical-center .row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.img-container img {
+    width: 100%;
+    height: auto;
+}
+
+@supports(object-fit: cover) {
+    .img-container img {
+        height: 100%;
+        object-fit: cover;
+        object-position: center center;
+    }
+}
+
 .partner-logo-w {
     width: 140px;
     height: auto;
@@ -722,12 +742,6 @@ h6 {
     /* padding: 20px; */
     vertical-align: middle;
     /* display: inline-block; */
-}
-
-.vertical-center .row {
-    display: flex;
-    align-items: center;
-    margin-bottom: 20px;
 }
 
 .partner-logo-h {

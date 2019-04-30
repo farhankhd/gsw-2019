@@ -190,26 +190,52 @@ function getCollabEnglish() {
                 var bioEnglish = currentCollab['English'];
                 var bioSpanish = currentCollab['Spanish'];
 
+                var diffImages = ['Connect', 'CCB'];
+
                 imageMarkup = (currentCollab['Vertical'] == 'Y') ?
-                    '<div class=\"col-md-6 text-center\" >' +
-                    '<img class=\"partner-logo-h\" src=\"' + logoPath + '\">' :
-                    '<div class=\"col-md-6 text-center\" >' +
-                    '<img class=\"partner-logo-w\" src=\"' + logoPath + '\">'
+                    '<div class=\"col-md-4 text-center\" >' +
+                    '<img class=\"\" src=\"' + logoPath + '\">' :
+                    '<div class=\"col-md-4 text-center\" >' +
+                    '<img class=\"\" src=\"' + logoPath + '\">';
 
 
-                collabMarkup = '<div class=\"row vertical-center\">' +
+                collabMarkup = '<div class=\"row collab-vertical-center\">' +
                     '<span class="anchor" id=\"' + name + '\"></span>' +
-                    '<div class=\"row text-center\">' +
+                    '<div class=\"row text-center img-container\"> <div class=\"col-md-1 \"></div> ' +
                     imageMarkup +
                     '</div>' +
-                    '<div class=\"team-expanded-text col-md-6\">' + bioEnglish + '</div></div></div>'
+                    '<div class=\"team-expanded-text col-md-6\">' + bioEnglish + '</div></div></div> <div class="line"></div>';
 
-                collabMarkupSp = '<div class=\"row vertical-center\">' +
+                collabMarkupSp = '<div class=\"row collab-vertical-center\">' +
                     '<span class="anchor" id=\"' + name + '\"></span>' +
-                    '<div class=\"row text-center\">' +
+                    '<div class=\"row text-center\"> <div class=\"col-md-1 \"></div> ' +
                     imageMarkup +
                     '</div>' +
-                    '<div class=\"team-expanded-text col-md-6\">' + bioSpanish + '</div></div></div>'
+                    '<div class=\"team-expanded-text col-md-7\">' + bioSpanish + '</div></div></div> <div class="line"></div>';
+
+                if (diffImages.indexOf(name) > -1) {
+
+                    imageMarkup = (currentCollab['Vertical'] == 'Y') ?
+                        '<div class=\"col-md-4 text-center\" >' +
+                        '<img class=\"partner-logo-h\" src=\"' + logoPath + '\">' :
+                        '<div class=\"col-md-4 text-center\" >' +
+                        '<img class=\"partner-logo-w\" src=\"' + logoPath + '\">';
+
+                    collabMarkup = '<div class=\"row collab-vertical-center\">' +
+                        '<span class="anchor" id=\"' + name + '\"></span>' +
+                        '<div class=\"row text-center\"> <div class=\"col-md-1 \"></div> ' +
+                        imageMarkup +
+                        '</div>' +
+                        '<div class=\"team-expanded-text col-md-6\">' + bioEnglish + '</div></div></div> <div class="line"></div>';
+
+                    collabMarkupSp = '<div class=\"row collab-vertical-center\">' +
+                        '<span class="anchor" id=\"' + name + '\"></span>' +
+                        '<div class=\"row text-center\"> <div class=\"col-md-1 \"></div> ' +
+                        imageMarkup +
+                        '</div>' +
+                        '<div class=\"team-expanded-text col-md-7\">' + bioSpanish + '</div></div></div> <div class="line"></div>';
+
+                }
 
                 $(collabMarkup).appendTo('#collab-section-en');
                 $(collabMarkupSp).appendTo('#collab-section-sp');
