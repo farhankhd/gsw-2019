@@ -181,7 +181,7 @@ function getCollabEnglish() {
             var rows = collab.length
             console.log(rows);
 
-            for (var i = 1; i < rows; i++) {
+            for (var i = 0; i < rows; i++) {
                 var currentCollab = collab[i];
                 console.log(currentCollab);
 
@@ -190,19 +190,17 @@ function getCollabEnglish() {
                 var bioEnglish = currentCollab['English'];
                 var bioSpanish = currentCollab['Spanish'];
 
-                // collabMarkup = '<div class=\"row team-expanded-bio\">' +
-                //     '<span class=\"anchor\" id=\"' + name + '\"></span>' +
-                //     '<div class=\"team col-md-5 col-lg-3 text-center\">' +
-                //     '<img class=\"partner-logo\" src=\"' + logoPath + '\">' +
-                //     '</div>' +
-                //     '<div class=\"team-expanded-text\">' + bioEnglish + '</div></div></div>'
+                imageMarkup = (currentCollab['Vertical'] == 'Y') ?
+                    '<div class=\"col-md-6 text-center\" >' +
+                    '<img class=\"partner-logo-h\" src=\"' + logoPath + '\">' :
+                    '<div class=\"col-md-6 text-center\" >' +
+                    '<img class=\"partner-logo-w\" src=\"' + logoPath + '\">'
 
 
                 collabMarkup = '<div class=\"row team-expanded-bio\">' +
                     '<span class="anchor" id=\"' + name + '\"></span>' +
-                    '<div class=\"row\">' +
-                    '<div class=\"col-md-6 text-center\"' +
-                    '<img class=\"partner-logo-2\" src=\"' + logoPath + '\">' +
+                    '<div class=\"row text-center\">' +
+                    imageMarkup +
                     '</div>' +
                     '<div class=\"team-expanded-text col-md-6\">' + bioEnglish + '</div></div></div>'
 
@@ -217,7 +215,7 @@ function getCollabEnglish() {
                 $(collabMarkup).appendTo('#collab-section-en');
                 $(collabMarkupSp).appendTo('#collab-section-sp');
 
-                console.log(collabMarkupSp);
+                console.log(collabMarkup);
 
 
             }

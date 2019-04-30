@@ -714,9 +714,19 @@ h6 {
     padding-right: 20px;
 }
 
-.partner-logo-2 {
-    width: 180px;
+.partner-logo-w {
+    width: 140px;
     height: auto;
+    /* width: auto; */
+    /* margin: 30 auto; */
+    /* padding: 20px; */
+    vertical-align: middle;
+    /* display: inline-block; */
+}
+
+.partner-logo-h {
+    height: 80px;
+    width: auto;
     /* width: auto; */
     /* margin: 30 auto; */
     /* padding: 20px; */
