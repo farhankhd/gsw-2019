@@ -109,13 +109,13 @@ function auto_version($file)
                         </div>
                     </div>
                     <br><br><br>
-                    <div class="col-lg-12 text-center partner-border" style="padding: 5px 0px 60px 0px ">
+                    <div class="col-lg-12 text-center partner-border vertical-center" style="padding: 5px 0px 60px 0px ">
                         <div class="text-center">
                             <h1> Sponsors</h1>
                             <br>
                         </div>
                         <div class="row">
-                            <div class="col-sm-6 text-center partner-vertical-center">
+                            <div class="col-sm-6 text-center">
                                 <h2 style="font-size: 2.0vw" class="academic-mobile" style="margin-bottom: 30px"> Diamond</h2>
                             </div>
                             <div class="col-sm-6">
@@ -125,7 +125,7 @@ function auto_version($file)
                         <br><br>
                         
                         <div class="row">
-                            <div class="col-sm-6 text-center partner-vertical-center">
+                            <div class="col-sm-6 text-center">
                                 <h2 style="font-size: 2.0vw" class="academic-mobile" style="margin-bottom: 30px"> Silver</h2>
                             </div>
                             <div class="col-sm-6">
