@@ -169,6 +169,14 @@ function getSpeakers() {
     });
 }
 
+function escapeRegExp(str) {
+    return str.replace(/([.*+?^=!:${}()|\[\]\/\\])/g, "\\$1");
+}
+
+function replaceAll(str, find, replace) {
+    return str.replace(new RegExp(escapeRegExp(find), 'g'), replace);
+}
+
 function getCollabEnglish() {
     var filename = 'data/collab.csv'
     Papa.parse(filename, {
@@ -198,6 +206,10 @@ function getCollabEnglish() {
                     '<div class=\"col-md-4 text-center\" >' +
                     '<img class=\"\" src=\"' + logoPath + '\">';
 
+                console.log('location: ' + bioEnglish.indexOf('�'));
+
+                bioEnglish = replaceAll(bioEnglish, '�', 'á');
+                bioSpanish = replaceAll(bioSpanish, '�', 'á')
 
                 collabMarkup = '<div class=\"row collab-vertical-center\">' +
                     '<span class="anchor" id=\"' + name + '\"></span>' +
@@ -211,7 +223,7 @@ function getCollabEnglish() {
                     '<div class=\"row text-center img-container\"> <div class=\"col-md-1 \"></div> ' +
                     imageMarkup +
                     '</div>' +
-                    '<div class=\"team-expanded-text col-md-7\">' + bioSpanish + '</div></div></div> <div class="line"></div>';
+                    '<div class=\"team-expanded-text col-md-6\">' + bioSpanish + '</div></div></div> <div class="line"></div>';
 
                 if (diffImages.indexOf(name) > -1) {
 
@@ -233,7 +245,7 @@ function getCollabEnglish() {
                         '<div class=\"row text-center\"> <div class=\"col-md-1 \"></div> ' +
                         imageMarkup +
                         '</div>' +
-                        '<div class=\"team-expanded-text col-md-7\">' + bioSpanish + '</div></div></div> <div class="line"></div>';
+                        '<div class=\"team-expanded-text col-md-6\">' + bioSpanish + '</div></div></div> <div class="line"></div>';
 
                 }
 
