@@ -109,17 +109,28 @@ function auto_version($file)
                         </div>
                     </div>
                     <br><br><br>
-                    <div class="col-lg-12 text-center partner-border" style="padding: 5px 0px 60px 0px ">
+                    <div class="col-lg-12 text-center partner-border vertical-center" style="padding: 5px 0px 60px 0px ">
                         <div class="text-center">
-                            <h2 class="academic-mobile" style="margin-bottom: 30px"> Sponsors</h2>
+                            <h1> Sponsors</h1>
+                            <br>
                         </div>
                         <div class="row">
-                            <img src="images/logo/mintic.png" class="partner-logo">
-
+                            <div class="col-sm-6 text-center">
+                                <h2 style="font-size: 2.0vw" class="academic-mobile" style="margin-bottom: 30px"> Diamond</h2>
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="images/logo/mintic.png" class="partner-logo">
+                            </div>
                         </div>
                         <br><br>
+                        
                         <div class="row">
-                            <img src="images/logo/sasin.png" class="partner-logo">
+                            <div class="col-sm-6 text-center">
+                                <h2 style="font-size: 2.0vw" class="academic-mobile" style="margin-bottom: 30px"> Silver</h2>
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="images/logo/sasin.png" class="partner-logo">
+                            </div>
                         </div>
 
                     </div>
@@ -131,7 +142,8 @@ function auto_version($file)
                         <div class="row" style="padding: 40px;">
                         <div>
                             </div>
-                            <img src="images/logo/pnaa.png" class="partner-logo">
+                            <div class="col-sm-1">
+                            </div>
 
                             <img src="images/logo/logos-row.png" class="partner-logo"> 
                         </div>

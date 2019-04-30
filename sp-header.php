@@ -113,15 +113,26 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
                     <br><br><br>
                     <div class="col-lg-12 text-center partner-border" style="padding: 5px 0px 60px 0px ">
                         <div class="text-center">
-                            <h2 class="academic-mobile" style="margin-bottom: 30px"> Patrocinadores</h2>
+                            <h1> Patrocinadores</h1>
+                            <br>
                         </div>
                         <div class="row">
-                            <img src="images/logo/mintic.png" class="partner-logo">
-
+                            <div class="col-sm-6 text-center partner-vertical-center">
+                                <h2 style="font-size: 2.0vw" class="academic-mobile" style="margin-bottom: 30px"> Diamante</h2>
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="images/logo/mintic.png" class="partner-logo">
+                            </div>
                         </div>
                         <br><br>
+                        
                         <div class="row">
-                            <img src="images/logo/sasin.png" class="partner-logo">
+                            <div class="col-sm-6 text-center partner-vertical-center">
+                                <h2 style="font-size: 2.0vw" class="academic-mobile" style="margin-bottom: 30px"> Plata</h2>
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="images/logo/sasin.png" class="partner-logo">
+                            </div>
                         </div>
 
                     </div>
@@ -133,7 +144,8 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
                         <div class="row" style="padding: 40px;">
                         <div class="col-sm-1">
                             </div>
-                            <img src="images/logo/pnaa.png" class="partner-logo">
+                            <div class="col-sm-1">
+                            </div>
 
                             <img src="images/logo/logos-row.png" class="partner-logo"> 
                         </div>

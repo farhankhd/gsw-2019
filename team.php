@@ -32,6 +32,7 @@
     </h1>
     </div>
 </div> -->
+
 <div class="section">
     <div style="color:white;">
         Our team consists of individuals across all parts of the MIT campus, and is supported by an accomplished advisory board.

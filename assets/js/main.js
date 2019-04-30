@@ -169,6 +169,99 @@ function getSpeakers() {
     });
 }
 
+function escapeRegExp(str) {
+    return str.replace(/([.*+?^=!:${}()|\[\]\/\\])/g, "\\$1");
+}
+
+function replaceAll(str, find, replace) {
+    return str.replace(new RegExp(escapeRegExp(find), 'g'), replace);
+}
+
+function getCollabEnglish() {
+    var filename = 'data/collab.csv'
+    Papa.parse(filename, {
+        download: true,
+        header: true,
+        complete: function(results) {
+            console.log(results);
+
+            var collab = results['data']
+            var rows = collab.length
+            console.log(rows);
+
+            for (var i = 0; i < rows; i++) {
+                var currentCollab = collab[i];
+                console.log(currentCollab);
+
+                var name = currentCollab['Name'];
+                var logoPath = currentCollab['Logo'];
+                var bioEnglish = currentCollab['English'];
+                var bioSpanish = currentCollab['Spanish'];
+
+                var diffImages = ['Connect', 'CCB'];
+
+                imageMarkup = (currentCollab['Vertical'] == 'Y') ?
+                    '<div class=\"col-md-4 text-center\" >' +
+                    '<img class=\"\" src=\"' + logoPath + '\">' :
+                    '<div class=\"col-md-4 text-center\" >' +
+                    '<img class=\"\" src=\"' + logoPath + '\">';
+
+                console.log('location: ' + bioEnglish.indexOf('�'));
+
+                bioEnglish = replaceAll(bioEnglish, '�', 'á');
+                bioSpanish = replaceAll(bioSpanish, '�', 'á')
+
+                collabMarkup = '<div class=\"row collab-vertical-center\">' +
+                    '<span class="anchor" id=\"' + name + '\"></span>' +
+                    '<div class=\"row text-center img-container\"> <div class=\"col-md-1 \"></div> ' +
+                    imageMarkup +
+                    '</div>' +
+                    '<div class=\"team-expanded-text col-md-6\">' + bioEnglish + '</div></div></div> <div class="line"></div>';
+
+                collabMarkupSp = '<div class=\"row collab-vertical-center\">' +
+                    '<span class="anchor" id=\"' + name + '\"></span>' +
+                    '<div class=\"row text-center img-container\"> <div class=\"col-md-1 \"></div> ' +
+                    imageMarkup +
+                    '</div>' +
+                    '<div class=\"team-expanded-text col-md-6\">' + bioSpanish + '</div></div></div> <div class="line"></div>';
+
+                if (diffImages.indexOf(name) > -1) {
+
+                    imageMarkup = (currentCollab['Vertical'] == 'Y') ?
+                        '<div class=\"col-md-4 text-center\" >' +
+                        '<img class=\"partner-logo-h\" src=\"' + logoPath + '\">' :
+                        '<div class=\"col-md-4 text-center\" >' +
+                        '<img class=\"partner-logo-w\" src=\"' + logoPath + '\">';
+
+                    collabMarkup = '<div class=\"row collab-vertical-center\">' +
+                        '<span class="anchor" id=\"' + name + '\"></span>' +
+                        '<div class=\"row text-center\"> <div class=\"col-md-1 \"></div> ' +
+                        imageMarkup +
+                        '</div>' +
+                        '<div class=\"team-expanded-text col-md-6\">' + bioEnglish + '</div></div></div> <div class="line"></div>';
+
+                    collabMarkupSp = '<div class=\"row collab-vertical-center\">' +
+                        '<span class="anchor" id=\"' + name + '\"></span>' +
+                        '<div class=\"row text-center\"> <div class=\"col-md-1 \"></div> ' +
+                        imageMarkup +
+                        '</div>' +
+                        '<div class=\"team-expanded-text col-md-6\">' + bioSpanish + '</div></div></div> <div class="line"></div>';
+
+                }
+
+                $(collabMarkup).appendTo('#collab-section-en');
+                $(collabMarkupSp).appendTo('#collab-section-sp');
+
+                console.log(collabMarkup);
+
+
+            }
+
+        }
+    });
+}
+
 getSpeakers()
+getCollabEnglish()
 
 // countdown()

@@ -705,6 +705,7 @@ h6 {
 
 .partner-logo {
     /* width: 200px; */
+    /* max-width: 50%; */
     height: 80px;
     width: auto;
     margin: 30 auto;
@@ -713,14 +714,44 @@ h6 {
     padding-right: 20px;
 }
 
-.partner-logo-2 {
-    /* width: 200px; */
-    height: 80px;
-    width: auto;
-    margin: 30 auto;
+.collab-vertical-center .row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.img-container img {
+    width: 100%;
+    height: auto;
+}
+
+@supports(object-fit: cover) {
+    .img-container img {
+        height: 100%;
+        object-fit: cover;
+        object-position: center center;
+    }
+}
+
+.partner-logo-w {
+    width: 140px;
+    height: auto;
+    /* width: auto; */
+    /* margin: 30 auto; */
     /* padding: 20px; */
-    padding-left: 20px;
-    padding-right: 20px;
+    vertical-align: middle;
+    /* display: inline-block; */
+}
+
+.partner-logo-h {
+    height: 70px;
+    width: auto;
+    /* width: auto; */
+    /* margin: 30 auto; */
+    /* padding: 20px; */
+    vertical-align: middle;
+    /* display: inline-block; */
 }
 
 .partner-border {
@@ -976,13 +1007,14 @@ h6 {
 .dropdown-menu {
     padding: 15px;
     letter-spacing: 0.08em;
-    font-size: 0.7em;
+    font-size: 0.6em;
     font-weight: 300;
     background-color: rgba(10, 28, 63, 1);
 }
 
 .navbar-nav>li>.dropdown-menu {
-    width: 100%;
+    /* width: 100%; */
+    max-width: 10px;
 }
 
 .dropdown-menu a:hover,

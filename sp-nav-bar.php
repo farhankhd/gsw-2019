@@ -80,7 +80,17 @@
                 </li> 
                 <li><a href="sp-sponsors.php">PATROCINADORES</a></li>
                 <li><a href="sp-speakers.php">Conferencistas</a></li>
-                <li><a href="sp-team.php">QUIÉNES SOMOS</a></li>
+                <!-- <li><a href="sp-team.php">QUIÉNES SOMOS</a></li> -->
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    QUIÉNES SOMOS <span class="caret"></span>
+                    </a>
+                    <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="team.php">QUIÉNES SOMOS</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="sp-collab.php">PATROCINADORES</a>
+                    </div>
+                </li> 
                 <li><a href="index.php">English</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
