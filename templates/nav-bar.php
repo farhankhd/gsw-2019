@@ -80,7 +80,7 @@
                         <a class="dropdown-item" href="efair.php">Entrepreneurship <br /> Fair</a>
                     </div>
                 </li> 
-                <li><a href="sponsors.php">Sponsors</a></li>
+                <li><a href="agenda.php">Agenda</a></li>
                 <li><a href="sponsors.php">Sponsors</a></li>
                 <li><a href="speakers.php">Speakers</a></li>
                 <!-- <li><a href="team.php">About Us</a></li> -->
