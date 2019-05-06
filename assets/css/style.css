@@ -989,7 +989,7 @@ h6 {
     color: rgba(255, 255, 255, 0.8);
     font-family: "DIN";
     letter-spacing: 0.08em;
-    font-size: 0.7em;
+    font-size: 0.6em;
 }
 
 @media (max-width: 960px) and (min-width: 870px) {

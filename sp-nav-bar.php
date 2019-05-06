@@ -80,6 +80,7 @@
                         <a class="dropdown-item" href="sp-efair.php">Entrepreneurship <br /> Fair</a>
                     </div>
                 </li> 
+                <li><a href="agenda.php">Agenda</a></li>
                 <li><a href="sp-sponsors.php">PATROCINADORES</a></li>
                 <li><a href="sp-speakers.php">Conferencistas</a></li>
                 <!-- <li><a href="sp-team.php">QUIÉNES SOMOS</a></li> -->
@@ -97,18 +98,6 @@
             </ul>
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
             <img src="images/logo/bogota-team-logo.png" id="navbar-logo-right">
-                <!-- <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        About <span class="caret"></span>
-                    </a>
-                    <div id="aboutMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="history.php">History</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="team.php">Who we are</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="sponsors.php">Sponsors</a>
-                    </div>
-                </li> -->
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
