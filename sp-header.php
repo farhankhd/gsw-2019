@@ -121,10 +121,13 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
                                 <h2 style="font-size: 2.0vw" class="academic-mobile" style="margin-bottom: 30px"> Diamante</h2>
                             </div>
                             <div class="col-sm-6">
-                                <img src="images/logo/mintic.png" class="partner-logo">
+                            <img src="images/logo/mintic.png" class="partner-logo">
+                                <br><br>
+                                <img src="images/logo/hilton.png" class="partner-logo">
                             </div>
                         </div>
                         <br><br>
+                        <br>
                         
                         <div class="row">
                             <div class="col-sm-6 text-center partner-vertical-center">

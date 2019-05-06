@@ -105,7 +105,7 @@ function auto_version($file)
                             <h1> Partner</h1>
                         </div>
                         <div class="col-sm-6">
-                            <img src="images/logo/colub-1.png" style="height: 110px;">
+                            <a href="https://www.colsubsidio.com/"><img src="images/logo/colub-1.png" style="height: 110px;"> </a>
                         </div>
                     </div>
                     <br><br><br>
@@ -120,9 +120,12 @@ function auto_version($file)
                             </div>
                             <div class="col-sm-6">
                                 <img src="images/logo/mintic.png" class="partner-logo">
+                                <br><br>
+                                <img src="images/logo/hilton.png" class="partner-logo">
                             </div>
                         </div>
                         <br><br>
+                        <br>
                         
                         <div class="row">
                             <div class="col-sm-6 text-center">
