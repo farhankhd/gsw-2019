@@ -81,6 +81,7 @@
                     </div>
                 </li> 
                 <li><a href="sponsors.php">Sponsors</a></li>
+                <li><a href="sponsors.php">Sponsors</a></li>
                 <li><a href="speakers.php">Speakers</a></li>
                 <!-- <li><a href="team.php">About Us</a></li> -->
                 <li class="nav-item dropdown">

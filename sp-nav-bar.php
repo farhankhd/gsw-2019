@@ -10,13 +10,13 @@
 
     // Require https
 
-    if( !($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') ){
-        if ($_SERVER['HTTPS'] != "on") {
-            $url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
-            header("Location: $url");
-            exit;
-        }
-    }
+    // if( !($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') ){
+    //     if ($_SERVER['HTTPS'] != "on") {
+    //         $url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+    //         header("Location: $url");
+    //         exit;
+    //     }
+    // }
 ?>
 
 <!DOCTYPE html>
@@ -76,6 +76,8 @@
                         <a class="dropdown-item" href="sp-gc.php">Grand <br />Challenge</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="sp-bpc.php">Business Plan <br /> Competition</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="sp-efair.php">Entrepreneurship <br /> Fair</a>
                     </div>
                 </li> 
                 <li><a href="sp-sponsors.php">PATROCINADORES</a></li>
