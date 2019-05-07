@@ -119,14 +119,13 @@ function auto_version($file)
                                 <h2 style="font-size: 2.0vw" class="academic-mobile" style="margin-bottom: 30px"> Diamond</h2>
                             </div>
                             <div class="col-sm-8">
-                                    <div class="col-sm-8">
-                                        <img src="images/logo/mintic.png" class="partner-logo">
-                                    </div>
+                                <div class="col-sm-8">
+                                    <img src="images/logo/mintic.png" class="partner-logo">
+                                </div>
 
-                                    <div class="col-sm-1">
-                                        <img src="images/logo/hilton.png" class="partner-logo">
-                                    </div>
-                                
+                                <div class="col-sm-1">
+                                    <img src="images/logo/hilton.png" class="partner-logo">
+                                </div>
                             </div>
                         </div>
                         <br><br>
@@ -228,6 +227,19 @@ function auto_version($file)
             <div class="col-xs-6">
                 <img class="why-img" src="images/launch/colsubsidio.jpg" />
             </div>
+        </div>
+    </div>
+
+    <br><br>
+
+    <div class="col-lg-12 text-center">
+        <div class="row text-center partner-vertical-center">
+            <h1> Official Hotel</h1>
+        </div>
+        <br><br>
+        <br><br>
+        <div class="row">
+            <img src="images/logo/hilton.png" style="height: 150px;">
         </div>
     </div>
 

@@ -232,6 +232,19 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
         </div>
     </div>
 
+    <br><br>
+
+    <div class="col-lg-12 text-center">
+        <div class="row text-center partner-vertical-center">
+            <h1> Hotel oficial</h1>
+        </div>
+        <br><br>
+        <br><br>
+        <div class="row">
+            <img src="images/logo/hilton.png" style="height: 150px;">
+        </div>
+    </div>
+
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
 </div>
 </body>
