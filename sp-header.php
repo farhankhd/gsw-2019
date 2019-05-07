@@ -135,7 +135,7 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
                                 <img src="images/logo/sasin.png" class="partner-logo">
                             </div>
                         </div>
-                        <br><br>
+                        <!-- <br><br>
                         <br>
                         
                         <div class="row">
@@ -145,7 +145,7 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
                             <div class="col-sm-6">
                                 <img src="images/logo/hilton.png" class="partner-logo">
                             </div>
-                        </div>
+                        </div> -->
 
                     </div>
                     <br><br><br>

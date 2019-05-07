@@ -133,7 +133,7 @@ function auto_version($file)
                                 <img src="images/logo/sasin.png" class="partner-logo">
                             </div>
                         </div>
-                        <br><br>
+                        <!-- <br><br>
                         <br>
 
                         <div class="row">
@@ -143,7 +143,7 @@ function auto_version($file)
                             <div class="col-sm-6">
                                 <img src="images/logo/hilton.png" class="partner-logo">
                             </div>
-                        </div>
+                        </div> -->
 
                     </div>
                     <br><br>
