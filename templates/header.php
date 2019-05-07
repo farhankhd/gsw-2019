@@ -133,6 +133,17 @@ function auto_version($file)
                                 <img src="images/logo/sasin.png" class="partner-logo">
                             </div>
                         </div>
+                        <br><br>
+                        <br>
+
+                        <div class="row">
+                            <div class="col-sm-6 text-center">
+                                <h2 style="font-size: 2.0vw" class="academic-mobile" style="margin-bottom: 30px"> Official Hotel</h2>
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="images/logo/hilton.png" class="partner-logo">
+                            </div>
+                        </div>
 
                     </div>
                     <br><br>
@@ -221,19 +232,6 @@ function auto_version($file)
             <div class="col-xs-6">
                 <img class="why-img" src="images/launch/colsubsidio.jpg" />
             </div>
-        </div>
-    </div>
-
-    <br><br>
-
-    <div class="col-lg-12 text-center">
-        <div class="row text-center partner-vertical-center">
-            <h1> Official Hotel</h1>
-        </div>
-        <br><br>
-        <br><br>
-        <div class="row">
-            <img src="images/logo/hilton.png" style="height: 150px;">
         </div>
     </div>
 

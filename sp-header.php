@@ -135,6 +135,17 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
                                 <img src="images/logo/sasin.png" class="partner-logo">
                             </div>
                         </div>
+                        <br><br>
+                        <br>
+                        
+                        <div class="row">
+                            <div class="col-sm-6 text-center">
+                                <h2 style="font-size: 2.0vw" class="academic-mobile" style="margin-bottom: 30px"> Hotel oficial</h2>
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="images/logo/hilton.png" class="partner-logo">
+                            </div>
+                        </div>
 
                     </div>
                     <br><br><br>
@@ -223,19 +234,6 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
             <div class="col-xs-6">
                 <img class="why-img" src="images/launch/colsubsidio.jpg" />
             </div>
-        </div>
-    </div>
-
-    <br><br>
-
-    <div class="col-lg-12 text-center">
-        <div class="row text-center partner-vertical-center">
-            <h1> Hotel oficial</h1>
-        </div>
-        <br><br>
-        <br><br>
-        <div class="row">
-            <img src="images/logo/hilton.png" style="height: 150px;">
         </div>
     </div>
 
