@@ -16,19 +16,19 @@
 <div class="section">
     <div class="comp-center">
         <h1> ENTREPRENEURSHIP FAIR</h1>
-        <h4> Conoce a los jugadores clave en el ecosistema de emprendimiento y enterate que estan haciendo los finalistas del BPC </h4>
+        <h4> Conoce a los jugadores clave en el ecosistema de emprendimiento y enterate que estan haciendo los finalistas del BPC. E
+        ste evento es una excelente oportunidad para crear conexiones y es abierot a todos los asistentes del GSW.  </h4>
         <br>
         <div class="line"></div>
         <br>
         <div class="col-lg-12">
             <div class="col-3"></div>
             <div class="col-6">
-                <p  class="white" style="text-align:left">El Entrepreneurship Fair de MIT GSW contara con asistentes 
-                que incluyen startups, inversionistas, incubadoras y otros jugadores claves del ecosistema 
-                de emprendimiento. Este evento es una excelente oportunidad para crear conexiones y es abierot 
-                a todos los asistentes del GSW.  
+                <p  class="white" style="text-align:left">El Entrepreneurship Fair de MIT GSW contara con 
+                asistentes que incluyen startups, inversionistas, incubadoras y otros jugadores claves 
+                del ecosistema de emprendimiento.
                 </p>
-                <p  class="white" style="text-align:left">El feria consiste de dos secciones: <strong>Startup Showcase</strong> y <strong>la Expo</strong> </p>
+                <!-- <p  class="white" style="text-align:left">El feria consiste de dos secciones: <strong>Startup Showcase</strong> y <strong>la Expo</strong> </p> -->
                 <!-- <p class="white text-center">Consulte nuestro Reglamento Oficial para más información.</p> -->
             </div>
             <div class="col-3"></div>
@@ -43,32 +43,6 @@
         <div class="line"></div>
         
         <br><br>
-    </div>
-    <div class="col-lg-12 text-center">
-        <div>
-            <div class="col-md-6 comp-content">
-                <h2> STARTUP SHOWCASE </h2>
-                <p> En este evento podras hablar con emprendedores exitosos y aprender de sus startups. 
-                    Entre los emprededores estaran los finalistas del Business Plan Competition del MIT GSW. 
-                    Conoce a nuestros finalistas prontamente! Estos se anunciaran por este medio. </p>
-                <br><br>
-            </div>
-            <div class="col-md-6 comp-content">
-                <h2> EXPO </h2>
-                <p>Conoce a los jugadores clave del ecosistema de emprendimiento de Colombia. 
-                    A este evento asistiran organizaciones varias, incluyendo inversionistas e 
-                    incubadoras entre otros. 
-                </p>
-                <p>Si representas a una startup u organizacion relacionada al ecosistema de 
-                    emprendimiento y esta interesado/a en participar, todavia tenemos espacio! 
-                    Porfavor contactanos en 
-                <a style="color: white; text-decoration: underline" href="mailto:gsw-contact@mit.edu"> gsw-contact@mit.edu</a> 
-                con el titulo "Expo Participation Interests"
-                </p>
-                <br><br>
-            </div>
-        </div>
-        
     </div>
 </div>
 
