@@ -22,13 +22,16 @@
         <br>
     </div>
     <div class="row">
-        <div class="col-lg-6" style="max-width: 100%">
-        <img src="images/agenda/may27.png"  style="max-width: 100%">
+        <div class="col-lg-12" style="max-width: 100%">
+        <img src="images/agenda/may27.png"  style="max-width: 80%">
 
         </div>
-
-        <div class="col-lg-6" style="max-width: 100%">
-        <img src="images/agenda/may28.png"  style="max-width: 100%">
+       
+    </div>
+    <br> <br> <br>
+    <div class="row">
+        <div class="col-lg-12" style="max-width: 100%">
+        <img src="images/agenda/may28.png"  style="max-width: 80%">
 
         </div>
     </div>
