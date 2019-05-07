@@ -15,20 +15,6 @@
 
 <div class="section">
     <div class="row text-center">
-        <!-- <div class="col-md-6 comp-content" id="keynote-section-expanded">
-            <p class="section-header section-header-page" style="color: white">Keynotes</p>
-            <div class="row speaker-expanded-bio">
-                <div class="col-md-3"></div>
-                <div class="col-md-9"></div>
-            </div>
-        </div>
-        <div class="col-md-6 comp-content" id="speaker-section-expanded">
-            <p class="section-header section-header-page" style="color: white">Speakers</p>
-            <div class="row speaker-expanded-bio">
-                <div class="col-md-3"></div>
-                <div class="col-md-9"></div>
-            </div>
-        </div>  -->
 
         <div class="col-lg-12 comp-content" id="speaker-section-expanded">
             <p class="section-header section-header-page" style="color: white; font-size: 1.7em">Speakers</p>
@@ -38,10 +24,25 @@
 
             <h4 style="text-align: justify;"> Click on each speaker to learn more about their background and accomplishments</h4>
             <br> <br>
-            <div class="row speaker-expanded-bio">
+            <!-- <div class="row speaker-expanded-bio">
                 <div class="col-md-3"></div>
                 <div class="col-md-9"></div>
+            </div> -->
+
+            <div class="col-lg-12 comp-content" id="keynote-section-expanded">
+                <p class="section-header section-header-page" style="color: white">Keynotes</p>
+                <div class="row speaker-expanded-bio">
+                    <div class="col-md-3"></div>
+                    <div class="col-md-9"></div>
+                </div>
             </div>
+            <div class="col-lg-12 comp-content" id="speaker-section-expanded">
+                <p class="section-header section-header-page" style="color: white">Speakers</p>
+                <div class="row speaker-expanded-bio">
+                    <div class="col-md-3"></div>
+                    <div class="col-md-9"></div>
+                </div>
+            </div> 
 
         </div> 
     </div>

@@ -156,12 +156,17 @@ function getSpeakers() {
                     ' </div></div></div> </div>';
 
                 if (wait != 'Y') {
-                    $(speakerSmallMarkup).appendTo('#speaker-section-expanded');
+                    // $(speakerSmallMarkup).appendTo('#speaker-section-expanded');
+                    // $(modalMarkup).appendTo('#speaker-modals');
+                    if (currentSpeaker['Keynote'] == 'Y') {
+                        $(speakerSmallMarkup).appendTo('#keynote-section-expanded');
+                        console.log('KEYNOTE');
+                        console.log(speakerSmallMarkup);
+                    } else {
+                        $(speakerSmallMarkup).appendTo('#speaker-section-expanded');
+                    }
                     $(modalMarkup).appendTo('#speaker-modals');
                 }
-
-                console.log(speakerInfoMarkup);
-
 
             }
 
@@ -252,7 +257,7 @@ function getCollabEnglish() {
                 $(collabMarkup).appendTo('#collab-section-en');
                 $(collabMarkupSp).appendTo('#collab-section-sp');
 
-                console.log(collabMarkup);
+                // console.log(collabMarkup);
 
 
             }

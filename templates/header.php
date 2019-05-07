@@ -115,27 +115,21 @@ function auto_version($file)
                             <br>
                         </div>
                         <div class="row">
-                            <div class="col-sm-4 text-center">
+                            <div class="col-sm-6 text-center">
                                 <h2 style="font-size: 2.0vw" class="academic-mobile" style="margin-bottom: 30px"> Diamond</h2>
                             </div>
-                            <div class="col-sm-8">
-                                <div class="col-sm-8">
-                                    <img src="images/logo/mintic.png" class="partner-logo">
-                                </div>
-
-                                <div class="col-sm-1">
-                                    <img src="images/logo/hilton.png" class="partner-logo">
-                                </div>
+                            <div class="col-sm-6">
+                                <img src="images/logo/mintic.png" class="partner-logo">
                             </div>
                         </div>
                         <br><br>
                         <br>
                         
                         <div class="row">
-                            <div class="col-sm-4 text-center">
+                            <div class="col-sm-6 text-center">
                                 <h2 style="font-size: 2.0vw" class="academic-mobile" style="margin-bottom: 30px"> Silver</h2>
                             </div>
-                            <div class="col-sm-8">
+                            <div class="col-sm-6">
                                 <img src="images/logo/sasin.png" class="partner-logo">
                             </div>
                         </div>
