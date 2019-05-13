@@ -116,30 +116,42 @@ function auto_version($file)
                         </div>
                         <br>
 
-                        <div class="row col-lg-12">
-                            <div class="col-md-5"></div>
-                            <div class="col-md-2">
-                                <h6> Official Hotel</h6>
+                        <div class="row">
+                            <div class="col-md-1">
+                                <!-- <img src="images/logo/claro.png" class="partner-logo"> -->
                             </div>
-                        </div>
-
-                        <div class="row col-lg-12">
                             <div class="col-md-5">
                                 <img src="images/logo/mintic.png" class="partner-logo">
                             </div>
                             <div class="col-md-2">
-                                <div class="row">
-                                    <img src="images/logo/hilton.png" class="partner-logo">
-                                </div>
+                                <h6> Official Hotel</h6>
+                                <img src="images/logo/hilton.png" class="partner-logo" style="max-height:60px">
                             </div>
                             <div class="col-md-2">
                                 <img src="images/logo/sasin.png" class="partner-logo">
                             </div>
-                            <div class="col-md-3">
-                                <img src="images/logo/claro.png" class="partner-logo">
+                            <div class="col-md-2">
+                                <!-- <img src="images/logo/softbank.png" class="partner-logo"> -->
                             </div>
                         </div>
                         <br><br>
+
+                        <div class="row">
+                            <div class="col-md-3">
+                                <!-- <div class="row">
+                                    <img src="images/logo/hilton.png" class="partner-logo">
+                                </div> -->
+                            </div>
+                            <div class="col-md-3">
+                                <img src="images/logo/claro.png" class="partner-logo">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="images/logo/softbank.png" class="partner-logo" style="max-height: 40px">
+                            </div>
+                            <div class="col-md-3">
+                                <!-- <img src="images/logo/sasin.png" class="partner-logo"> -->
+                            </div>
+                        </div>
                         <br>
                     </div>
                     <br><br>
