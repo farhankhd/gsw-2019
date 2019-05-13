@@ -239,12 +239,10 @@
                     <h5 style="text-decoration: underline;" class="agenda-black"> Grand Challenge Presentations</h5>
                 </div>
                 <br>
-                <div class="col-sm-8">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
                 <h4 style="font-weight: 900" class="agenda-black"> 10 Ways to Get Funded</h4>
                 <h4 style="font-weight: 900" class="agenda-black"> Product Design</h4>
                 <h4 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h4>
-            </div>
             </div>
             <div class="col-sm-2"></div>
         </div>
@@ -268,12 +266,10 @@
                     <h5 style="text-decoration: underline;" class="agenda-black"> Business Plan Competition Presentations</h5>
                 </div>
                 <br>
-                <div class="col-sm-8">
-                <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> 10 Ways to Get Funded</h4>
-                <h4 style="font-weight: 900" class="agenda-black"> Product Design</h4>
-                <h4 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h4>
-            </div>
+                    <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
+                    <h4 style="font-weight: 900" class="agenda-black"> 10 Ways to Get Funded</h4>
+                    <h4 style="font-weight: 900" class="agenda-black"> Product Design</h4>
+                    <h4 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h4>
             </div>
             <div class="col-sm-2"></div>
         </div>
@@ -338,24 +334,6 @@
         <br><br><br>
 
     </div>
-
-
-    <!-- <br><br><br>
-        <br><br><br>
-    <div class="row">
-    <div class="col-lg-12" style="max-width: 100%">
-            <img src="images/agenda/may27.png"  style="max-width: 80%">
-
-        </div>
-    </div>
-    
-    <br> <br> <br>
-    <div class="row">
-        <div class="col-lg-12" style="max-width: 100%">
-        <img src="images/agenda/may28.png"  style="max-width: 80%">
-
-        </div>
-    </div> -->
 
 </div>
 <div class="blob-box">
