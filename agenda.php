@@ -66,7 +66,7 @@
             </div>
             <div class="col-sm-8">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Charles Kane</h4>
+                <a href="speakers.php#charles"><h4 style="font-weight: 900" class="agenda-black"> Charles Kane</h4></a>
                 <i><h5 class="agenda-black"> Professor, MIT Sloan; Vice Chairman, One Laptop Per Child</h5></i>
             </div>
             <div class="col-sm-2"></div>
