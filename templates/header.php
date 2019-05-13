@@ -114,37 +114,33 @@ function auto_version($file)
                             <h1> Sponsors</h1>
                             <br>
                         </div>
-                        <div class="row">
-                            <div class="col-sm-6 text-center">
-                                <h2 style="font-size: 2.0vw" class="academic-mobile" style="margin-bottom: 30px"> Diamond</h2>
+                        <br>
+
+                        <div class="row col-lg-12">
+                            <div class="col-md-5"></div>
+                            <div class="col-md-2">
+                                <h6> Official Hotel</h6>
                             </div>
-                            <div class="col-sm-6">
+                        </div>
+
+                        <div class="row col-lg-12">
+                            <div class="col-md-5">
                                 <img src="images/logo/mintic.png" class="partner-logo">
+                            </div>
+                            <div class="col-md-2">
+                                <div class="row">
+                                    <img src="images/logo/hilton.png" class="partner-logo">
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                                <img src="images/logo/sasin.png" class="partner-logo">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="images/logo/claro.png" class="partner-logo">
                             </div>
                         </div>
                         <br><br>
                         <br>
-                        
-                        <div class="row">
-                            <div class="col-sm-6 text-center">
-                                <h2 style="font-size: 2.0vw" class="academic-mobile" style="margin-bottom: 30px"> Silver</h2>
-                            </div>
-                            <div class="col-sm-6">
-                                <img src="images/logo/sasin.png" class="partner-logo">
-                            </div>
-                        </div>
-                        <!-- <br><br>
-                        <br>
-
-                        <div class="row">
-                            <div class="col-sm-6 text-center">
-                                <h2 style="font-size: 2.0vw" class="academic-mobile" style="margin-bottom: 30px"> Official Hotel</h2>
-                            </div>
-                            <div class="col-sm-6">
-                                <img src="images/logo/hilton.png" class="partner-logo">
-                            </div>
-                        </div> -->
-
                     </div>
                     <br><br>
                     <div class="col-lg-12 text-center partner-border" style="padding: 5px 0px 80px 0px ">
