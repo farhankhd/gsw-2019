@@ -21,7 +21,7 @@
         <i><h5> SUBJECT TO MINOR CHANGES</h5></i>
         <br>
     </div>
-    <div class="row text-center" style="margin: auto; width:90%">
+    <div class="row text-center" style="margin: auto; width:95%">
 
         <div class="col-lg-12 agenda-header">
             <p color="black"> Monday May 27</p>
@@ -30,7 +30,7 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 07:00 - 07:45</h5>
+                <h2 class="agenda-time"> 07:00 - 07:45</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Registration</h5>
@@ -39,7 +39,7 @@
         </div>
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 08:00 - 08:15</h5>
+                <h2 class="agenda-time"> 08:00 - 08:15</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Welcome</h5>
@@ -50,7 +50,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 08:15 - 08:30</h5>
+                <h2 class="agenda-time"> 08:15 - 08:30</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Plenary</h5>
@@ -62,7 +62,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 08:45 - 09:30</h5>
+                <h2 class="agenda-time"> 08:45 - 09:30</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
@@ -74,7 +74,7 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 09:30 - 10:15</h5>
+                <h2 class="agenda-time"> 09:30 - 10:15</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Coffee Break</h5>
@@ -84,7 +84,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 10:15 - 11:30</h5>
+                <h2 class="agenda-time"> 10:15 - 11:30</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
@@ -98,7 +98,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 11:30 - 3:30</h5>
+                <h2 class="agenda-time"> 11:30 - 3:30</h2>
             </div>
             <div class="col-sm-6">
                 <div class="agenda-showcase">
@@ -114,7 +114,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 13:30 - 14:30</h5>
+                <h2 class="agenda-time"> 13:30 - 14:30</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
@@ -128,7 +128,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 14:45 - 16:15</h5>
+                <h2 class="agenda-time"> 14:45 - 16:15</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
@@ -141,7 +141,7 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 16:15 - 17:00</h5>
+                <h2 class="agenda-time"> 16:15 - 17:00</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Coffee Break</h5>
@@ -151,7 +151,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 17:00 - 17:45</h5>
+                <h2 class="agenda-time"> 17:00 - 17:45</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
@@ -165,7 +165,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 17:45 - 18:00</h5>
+                <h2 class="agenda-time"> 17:45 - 18:00</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Closing</h5>
@@ -177,7 +177,7 @@
 
     </div>
 
-    <div class="row text-center" style="margin: auto; width:90%">
+    <div class="row text-center" style="margin: auto; width:95%">
 
         <div class="col-lg-12 agenda-header">
             <p color="black"> Tuesday May 28</p>
@@ -185,7 +185,7 @@
         <br><br><br><br>
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 08:15 - 08:30</h5>
+                <h2 class="agenda-time"> 08:15 - 08:30</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Welcome</h5>
@@ -196,7 +196,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 08:30 - 09:15</h5>
+                <h2 class="agenda-time"> 08:30 - 09:15</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
@@ -208,7 +208,7 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 09:15 - 10:00</h5>
+                <h2 class="agenda-time"> 09:15 - 10:00</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Coffee Break</h5>
@@ -218,7 +218,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 10:00 - 11:00</h5>
+                <h2 class="agenda-time"> 10:00 - 11:00</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
@@ -232,7 +232,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 11:00 - 12:30</h5>
+                <h2 class="agenda-time"> 11:00 - 12:30</h2>
             </div>
             <div class="col-sm-6">
                 <div class="agenda-showcase">
@@ -249,7 +249,7 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 12:30 - 14:00</h5>
+                <h2 class="agenda-time"> 12:30 - 14:00</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Lunch</h5>
@@ -259,7 +259,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 14:00 - 15:30</h5>
+                <h2 class="agenda-time"> 14:00 - 15:30</h2>
             </div>
             <div class="col-sm-6">
                 <div class="agenda-showcase">
@@ -276,7 +276,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 15:30 - 16:30</h5>
+                <h2 class="agenda-time"> 15:30 - 16:30</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
@@ -290,7 +290,7 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 16:30 - 17:15</h5>
+                <h2 class="agenda-time"> 16:30 - 17:15</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Coffee Break</h5>
@@ -300,7 +300,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 17:15 - 18:00</h5>
+                <h2 class="agenda-time"> 17:15 - 18:00</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
@@ -313,7 +313,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 17:15 - 18:00</h5>
+                <h2 class="agenda-time"> 17:15 - 18:00</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Closing Remarks</h5>
@@ -323,7 +323,7 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h5 class="agenda-time"> 19:00 - 21:00</h5>
+                <h2 class="agenda-time"> 19:00 - 21:00</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Closing Gala & Reception</h5>

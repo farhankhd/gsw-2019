@@ -1726,13 +1726,9 @@ h6 {
 
 .agenda-showcase {
     outline: 1px solid black;
+    margin: 2%;
     padding: 2px;
-    -webkit-box-shadow: 0px 3px 5px 6px #ccc;
-    /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
-    -moz-box-shadow: 0px 3px 5px 6px #ccc;
-    /* Firefox 3.5 - 3.6 */
-    box-shadow: 0px 3px 5px 6px #ccc;
-    /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+    box-shadow: 1px 1px 0px #999, 2px 2px 0px #999, 3px 3px 0px #999, 4px 4px 0px #999, 5px 5px 0px #999, 6px 6px 0px #999;
 }
 
 .agenda-black {
@@ -1758,6 +1754,7 @@ p {
     color: black;
     font-style: italic;
     font-size: 0.7em;
+    margin: 5%;
 }
 
 
