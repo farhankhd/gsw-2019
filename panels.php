@@ -16,28 +16,181 @@
 
 <body style="background-image: url('images/register/register-bg.jpg'); overflow-x: hidden;">
 
-<div class="section text-center">
+<div class="section">
     <div class="text-center">
         <i><h5> SUBJECT TO MINOR CHANGES</h5></i>
         <br>
     </div>
+    <div class="row">
+        <p class="section-header section-header-page" style="color: white">Panels</p>
 
-    <div class="row text-center" style="margin: auto; width:100%">
+    </div>
 
-        <div class="col-lg-12 agenda-header vertical-align">
-            <p color="black"> Panels</p>
-        </div>
-        <br><br><br><br>
-
-        <div class="col-lg-12 agenda-blue">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 07:00 - 07:45</h2>
+    <div class="row">
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> Ask Me Anything: Startup Founders</h5>
             </div>
-            <div class="col-sm-6">
-                <h5 class="agenda-black"> Registration</h5>
-            </div>
-            <div class="col-sm-3"></div>
         </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <h5> May 27, 10:15 - 11:30</h5>
+            <h4> More info here!</h4>
+        </div>
+
+        <div class="col-md-12 text-center">
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/camila.jpg"></a>
+                <div class="team-name">Camila Petignat</div>
+                <div class="team-role">PRINCIPAL </div>
+                <div class="team-area">The Yield Lab LATAM</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/freddy.jpg"></a>
+                <div class="team-name">Freddy Vega</div>
+                <div class="team-role">CEO</div>
+                <div class="team-area">Platzi</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/barb.jpg"></a>
+                <div class="team-name">Pierpaolo Barbieri</div>
+                <div class="team-role">CEO & Founder</div>
+                <div class="team-area">Ualá</div>
+            </div>
+        </div>
+        <div class="col-md-12 text-center">
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/nick.jpg"></a>
+                <div class="team-name">Nick Meyer</div>
+                <div class="team-role">Senior Lecturer  </div>
+                <div class="team-area">MIT & CPO, Relativity6L</div>
+            </div>
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/chris_h.jpg"></a>
+                <div class="team-name">Chris Howard (Moderator)</div>
+                <div class="team-role">CEO & Co-Founder</div>
+                <div class="team-area">The Rattle</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> Innovation For Impact</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <h5> May 27, 10:15 - 11:30</h5>
+            <h4> More info here!</h4>
+        </div>
+
+        <div class="col-md-12 text-center">
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/luisfern.jpg"></a>
+                <div class="team-name">Luis Fernando Sanabria</div>
+                <div class="team-role">COO  </div>
+                <div class="team-area">Poverty Spotlight</div>
+            </div>
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/isabel.jpg"></a>
+                <div class="team-name">Isabel Guerrero</div>
+                <div class="team-role">Director, IMAGO Global Grassroots & Lecturer</div>
+                <div class="team-area">Harvard Kennedy School</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> Advanced Technologies and Social Entrepreneurship</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <h5> May 27, 13:30 - 14:30</h5>
+            <h4> More info here!</h4>
+        </div>
+
+        <div class="col-md-12 text-center">
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/carolina.png"></a>
+                <div class="team-name">Carolina Medina Gutierrez</div>
+                <div class="team-role">COO & Founder </div>
+                <div class="team-area">Vincu</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/diego.jpg"></a>
+                <div class="team-name">Diego Benitez</div>
+                <div class="team-role">CEO & Founder</div>
+                <div class="team-area">SiembraViva</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/lesley.jpg"></a>
+                <div class="team-name">Lesley Millar Nicholson</div>
+                <div class="team-role">Director</div>
+                <div class="team-area">MIT Technology Licensing Office</div>
+            </div>
+        </div>
+        <div class="col-md-12 text-center">
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/majer.jpg"></a>
+                <div class="team-name">Maier Avendano</div>
+                <div class="team-role">Senior Associate, Flagship Pioneering & Head of Innovation </div>
+                <div class="team-area">Invaio Sciences </div>
+            </div>
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/megahn.jpg"></a>
+                <div class="team-name">Megan Mitchell</div>
+                <div class="team-role">Acting Director</div>
+                <div class="team-area">MIT Legatum Center for Development & Entrepreneurship </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> The Insights of a Serial Entrepreneur</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <h5> May 27, 13:30 - 14:30</h5>
+            <h4> More info here!</h4>
+        </div>
+
+        <div class="col-md-12 text-center">
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/alexander.jpg"></a>
+                <div class="team-name">Alex Torrenegra</div>
+                <div class="team-role">CEO </div>
+                <div class="team-area">Torre</div>
+            </div>
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/travis.jpg"></a>
+                <div class="team-name">Travis Hunter (Moderator)</div>
+                <div class="team-role">Program Manager</div>
+                <div class="team-area">MIT Regional Entrepreneurship Acceleration Program</div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div class="section">
+    
+
+</div>
+
+
+
+<div class="section">
+
+<div class="row text-center" style="margin: auto; width:100%">
+
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 08:00 - 08:15</h2>
