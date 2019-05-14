@@ -102,11 +102,11 @@
                 <h2 class="agenda-time"> 11:30 - 3:30</h2>
             </div>
             <div class="col-sm-6">
-                <div class="agenda-showcase">
+                <a href="efair.php"><div class="agenda-showcase">
                     <h2 class="agenda-black"> Startup Showcase</h2>
                     <h4 style="font-weight: 900" class="agenda-black"> Showcasing Startups from our business plan competition</h4>
                 </div>
-                
+                </a>
                 <br>
                 <h4 style="font-weight: 900" class="agenda-black"> Lunch</h4>
             </div>
