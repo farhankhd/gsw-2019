@@ -417,8 +417,8 @@
                 <h4> More info here!</h4>
             </div>
             <div class="team col-md-6 text-center"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/lorena.jpg"></a>
-                <div class="team-name">Lorena Roa</div>
+                <img class="panel-picture" src="images/speaker-img/mariaroa.jpg"></a>
+                <div class="team-name">Maria Lorena Roa</div>
                 <div class="team-role">VP of Product Development & Co-Founder</div>
                 <div class="team-area">PANAL Centro de Emprendimiento</div>
             </div>
