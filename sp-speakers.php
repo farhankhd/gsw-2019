@@ -39,10 +39,21 @@
 
             <h4 style="text-align: justify;"> Haga clic en cada orador para obtener más información sobre su trayectoria y logros</h4>
             <br> <br>
-            <div class="row speaker-expanded-bio">
-                <div class="col-md-3"></div>
-                <div class="col-md-9"></div>
+
+            <div class="col-lg-12 comp-content" id="keynote-section-expanded">
+                <p class="section-header section-header-page" style="color: white">Keynotes</p>
+                <div class="row speaker-expanded-bio">
+                    <div class="col-md-3"></div>
+                    <div class="col-md-9"></div>
+                </div>
             </div>
+            <div class="col-lg-12 comp-content" id="speaker-section-expanded">
+                <p class="section-header section-header-page" style="color: white">Speakers</p>
+                <div class="row speaker-expanded-bio">
+                    <div class="col-md-3"></div>
+                    <div class="col-md-9"></div>
+                </div>
+            </div> 
 
         </div> 
     </div>

@@ -80,7 +80,16 @@
                         <a class="dropdown-item" href="efair.php">Entrepreneurship <br /> Fair</a>
                     </div>
                 </li> 
-                <li><a href="agenda.php">Agenda</a></li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Agenda <span class="caret"></span>
+                    </a>
+                    <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="agenda.php">Schedule</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="panels.php">Content</a>
+                    </div>
+                </li> 
                 <li><a href="sponsors.php">Sponsors</a></li>
                 <li><a href="speakers.php">Speakers</a></li>
                 <!-- <li><a href="team.php">About Us</a></li> -->
