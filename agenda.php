@@ -135,7 +135,7 @@
                 <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
                 <h4 style="font-weight: 900" class="agenda-black"> Entrepreneurship 101</h4>
                 <h4 style="font-weight: 900" class="agenda-black"> How to be a Founder and a Manager</h4>
-                <h4 style="font-weight: 900" class="agenda-black"> Creaing a Business Plan</h4>
+                <h4 style="font-weight: 900" class="agenda-black"> Creating a Business Plan</h4>
             </div>
             <div class="col-sm-3"></div>
         </div>

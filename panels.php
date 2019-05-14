@@ -178,318 +178,295 @@
         </div>
     </div>
 
+    <div class="row">
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> Building the Colombian Entrepreneurial Ecosystem</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <h5> May 28, 10:00 - 11:00</h5>
+            <h4> More info here!</h4>
+        </div>
+
+        <div class="col-md-12 text-center">
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/mauricio.jpg"></a>
+                <div class="team-name">Mauricio Toro</div>
+                <div class="team-role">Cámara por Bogotá </div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/xavier.jpg"></a>
+                <div class="team-name">Xavier Serrano</div>
+                <div class="team-role">General Direcetor</div>
+                <div class="team-area">CESA</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/diana.jpg"></a>
+                <div class="team-name">Diana Gaviria</div>
+                <div class="team-role">Connect Bogotá Región</div>
+            </div>
+        </div>
+        <div class="col-md-12 text-center">
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/juan.jpg"></a>
+                <div class="team-name">Juan David or CCB President</div>
+                <div class="team-role">CCB  </div>
+            </div>
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/travis.jpg"></a>
+                <div class="team-name">Travis Hunter (Moderator)</div>
+                <div class="team-role">Program Manager</div>
+                <div class="team-area">MIT Regional Entrepreneurship Acceleration Program</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> The Insights of a Serial Entrepreneur</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <h5> May 28, 10:00 - 11:00</h5>
+            <h4> More info here!</h4>
+        </div>
+
+        <div class="col-md-12 text-center">
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/ana.jpg"></a>
+                <div class="team-name">Ana Margarita Albir Sarmiento</div>
+                <div class="team-role">Managing Partner & Co-founder </div>
+                <div class="team-area">NXTP Labs</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/barb.jpg"></a>
+                <div class="team-name">Pierpaolo Barbieri</div>
+                <div class="team-role">CEO & Founder</div>
+                <div class="team-area">Ualá</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> Learning From Colombia's Sucess Stories</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <h5> May 28, 15:30 - 16:30</h5>
+            <h4> More info here!</h4>
+        </div>
+
+        <div class="col-md-12 text-center">
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/paula.jpg"></a>
+                <div class="team-name">Paula Mendoza</div>
+                <div class="team-role">Designer & Founder</div>
+                <div class="team-role">Paula Mendoza Jewelry</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/felipe.jpg"></a>
+                <div class="team-name">Felipe Chavez</div>
+                <div class="team-role">CEO & Co-founder</div>
+                <div class="team-area">Kiwi Campus<</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/susana.jpg"></a>
+                <div class="team-name">Susana Robledo</div>
+                <div class="team-role">CEO & Founder</div>
+                <div class="team-area"> Cube Care Company</div>
+            </div>
+        </div>
+        <div class="col-md-12 text-center">
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/julian.jpg"></a>
+                <div class="team-name">Julian Torres Gomez</div>
+                <div class="team-role">CEO & Founder </div>
+                <div class="team-area">Fitpal</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/ignacio.jpg"></a>
+                <div class="team-name">Ignacio Vidal</div>
+                <div class="team-role">Founder & Executive Director</div>
+                <div class="team-area">Socialab Colombia</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/catalina.jpg"></a>
+                <div class="team-name">Catalina Gutierrez</div>
+                <div class="team-role">(NXTP Colombia)</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> The Future of Digital Technologies</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <h5> May 28, 15:30 - 16:30</h5>
+            <h4> More info here!</h4>
+        </div>
+
+        <div class="col-md-12 text-center">
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/kat.jpeg"></a>
+                <div class="team-name">Kathleen Kennedy</div>
+                <div class="team-role">Executive Director </div>
+                <div class="team-area">MIT Center for Collective Intelligence</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/jeff.jpeg"></a>
+                <div class="team-name">Jeffrey Kratz</div>
+                <div class="team-role">General Manager & Regional Head</div>
+                <div class="team-area">Amazon Web Services Latin America, Canada & Caribbean</div>
+            </div>
+        </div>
+    </div>
+
+
 </div>
 
 <div class="section">
-    
-
-</div>
-
-
-
-<div class="section">
-
-<div class="row text-center" style="margin: auto; width:100%">
-
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 08:00 - 08:15</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 class="agenda-black"> Welcome</h5>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 08:15 - 08:30</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 style="text-decoration: underline;" class="agenda-black"> Plenary</h5>
-                <a href="speakers.php"><h2 style="font-weight: 900" class="agenda-black"> Marta Lucia Ramirez</h2></a>
-                <!-- <i><h5 class="agenda-black"> Vice President of Colombia</h5></i> -->
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 08:45 - 09:30</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <a href="speakers.php#charles"><h2 style="font-weight: 900" class="agenda-black"> Charles Kane</h2></a>
-                <!-- <i><h5 class="agenda-black"> Professor, MIT Sloan; Vice Chairman, One Laptop Per Child</h5></i> -->
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-blue">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 09:30 - 10:15</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 class="agenda-black"> Coffee Break</h5>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 10:15 - 11:30</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Ask Me Anything: Startup Founders</h4>
-                <br>
-                <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Innovation For Impact</h4>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 11:30 - 3:30</h2>
-            </div>
-            <div class="col-sm-6">
-                <div class="agenda-showcase">
-                    <h2 class="agenda-black"> Startup Showcase</h2>
-                    <h4 style="font-weight: 900" class="agenda-black"> Showcasing Startups from our business plan competition</h4>
-                </div>
-                
-                <br>
-                <h4 style="font-weight: 900" class="agenda-black"> Lunch</h4>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 13:30 - 14:30</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Advanced Technologies and Social Entrepreneurship</h4>
-                <br>
-                <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> The Insights of a Serial Entrepreneur</h4>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 14:45 - 16:15</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Entrepreneurship 101</h4>
-                <h4 style="font-weight: 900" class="agenda-black"> How to be a Founder and a Manager</h4>
-                <h4 style="font-weight: 900" class="agenda-black"> Creaing a Business Plan</h4>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-blue">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 16:15 - 17:00</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 class="agenda-black"> Coffee Break</h5>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 17:00 - 17:45</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <a href="speakers.php#richard"><h2 style="font-weight: 900" class="agenda-black"> Richard Lester</h2></a>
-                <!-- <i><h5 class="agenda-black"> Associate Provost for International Affairs, MIT</h5></i> -->
-                <!-- <i><h5 class="agenda-black"> Professor & Former Dept. Head, MIT Nuclear Science and Engineering </h5></i> -->
-
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 17:45 - 18:00</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 class="agenda-black"> Closing</h5>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <br><br><br>
+    <div class="row">
+        <p class="section-header section-header-page" style="color: white">Workshops</p>
 
     </div>
 
-    <br><br><br><br>
-
-    <div class="row text-center" style="margin: auto; width:100%">
-
-        <div class="col-lg-12 agenda-header ">
-            <p color="black"> Workshops</p>
+    <div class="row">
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> Entrepreneurship 101</h5>
+            </div>
         </div>
-        <br><br><br><br>
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 08:15 - 08:30</h2>
+        <br>
+        <div class="col-md-12 panel-content">
+            <div class="col-md-6">
+                <h5> May 27, 14:45 - 16:15</h5>
+                <h4> More info here!</h4>
             </div>
-            <div class="col-sm-6">
-                <h5 class="agenda-black"> Welcome</h5>
+            <div class="team col-md-6 text-center"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/chris_h.jpg"></a>
+                <div class="team-name">Chris Howard</div>
+                <div class="team-role">CEO & Co-Founder</div>
+                <div class="team-area">The Rattle</div>
             </div>
-            <div class="col-sm-3"></div>
         </div>
-
-
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 08:30 - 09:15</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <a href="speakers.php#adriana"><h2 style="font-weight: 900" class="agenda-black"> Adiana Norena</h2></a>
-                <!-- <i><h5 class="agenda-black"> Google Inc., Vice President Spanish Speaking Latin America</h5></i> -->
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-blue">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 09:15 - 10:00</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 class="agenda-black"> Coffee Break</h5>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 10:00 - 11:00</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Building the Colombian Entrepreneurial Ecosystem</h4>
-                <br>
-                <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> An Investor's Perspective</h4>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 11:00 - 12:30</h2>
-            </div>
-            <div class="col-sm-6">
-                <div class="agenda-showcase">
-                    <h2 class="agenda-black"> Grand Challenge Presentations</h2>
-                </div>
-                <br>
-                <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> 10 Ways to Get Funded</h4>
-                <h4 style="font-weight: 900" class="agenda-black"> Product Design</h4>
-                <h4 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h4>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-blue">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 12:30 - 14:00</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 class="agenda-black"> Lunch</h5>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 14:00 - 15:30</h2>
-            </div>
-            <div class="col-sm-6">
-                <div class="agenda-showcase">
-                    <h2 class="agenda-black"> Business Plan Competition Presentations</h2>
-                </div>
-                <br>
-                    <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
-                    <h4 style="font-weight: 900" class="agenda-black"> 10 Ways to Get Funded</h4>
-                    <h4 style="font-weight: 900" class="agenda-black"> Product Design</h4>
-                    <h4 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h4>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 15:30 - 16:30</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Learning From Colombia's Sucess Stories</h4>
-                <br>
-                <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> The Future of Digital Technologies</h4>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-blue">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 16:30 - 17:15</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 class="agenda-black"> Coffee Break</h5>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 17:15 - 18:00</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <a href="speakers.php#danielle"><h2 style="font-weight: 900" class="agenda-black"> Danielle Wood</h2></a>
-                <!-- <i><h5 class="agenda-black"> Professor, MIT Media Lab; Director of MIT Space Enabled Resarch Group </h5></i> -->
-
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-white">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 17:15 - 18:00</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 class="agenda-black"> Closing Remarks</h5>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <div class="col-lg-12 agenda-blue">
-            <div class="col-sm-3">
-                <h2 class="agenda-time"> 19:00 - 21:00</h2>
-            </div>
-            <div class="col-sm-6">
-                <h5 class="agenda-black"> Closing Gala & Reception</h5>
-            </div>
-            <div class="col-sm-3"></div>
-        </div>
-
-        <br><br><br>
-
     </div>
+
+    <div class="row">
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> How to be a Founder and a Manager</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <div class="col-md-6">
+                <h5> May 27, 14:45 - 16:15</h5>
+                <h4> More info here!</h4>
+            </div>
+            <div class="team col-md-6 text-center"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/nick.jpg"></a>
+                <div class="team-name">Nick Meyer</div>
+                <div class="team-role">Senior Lecturer  </div>
+                <div class="team-area">MIT & CPO, Relativity6L</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> Creating a Business Plan</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <div class="col-md-6">
+                <h5> May 27, 14:45 - 16:15</h5>
+                <h4> More info here!</h4>
+            </div>
+            <div class="team col-md-6 text-center"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/sorin.jpg"></a>
+                <div class="team-name">Sorin Grama </div>
+                <div class="team-role">Co-Founder </div>
+                <div class="team-area">Transaera, Inc. </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> 10 Ways to Get Funded</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <div class="col-md-6">
+                <h5> May 28, 11:00 - 12:30 and 14:00 - 15:30</h5>
+                <h4> More info here!</h4>
+            </div>
+            <div class="team col-md-6 text-center"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/lorena.jpg"></a>
+                <div class="team-name">Lorena Roa</div>
+                <div class="team-role">VP of Product Development & Co-Founder</div>
+                <div class="team-area">PANAL Centro de Emprendimiento</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> Product Design</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <div class="col-md-6">
+                <h5> May 28, 11:00 - 12:30 and 14:00 - 15:30</h5>
+                <h4> More info here!</h4>
+            </div>
+            <div class="team col-md-6 text-center"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/lee_m.jpg"></a>
+                <div class="team-name">Lee Moreau</div>
+                <div class="team-role">VP</div>
+                <div class="team-area"> Design at EPAM Continuum</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <div class="col-md-6">
+                <h5> May 28, 11:00 - 12:30 and 14:00 - 15:30</h5>
+                <h4> More info here!</h4>
+            </div>
+            <div class="team col-md-6 text-center"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/isabel.jpg"></a>
+                <div class="team-name">Isabel Guerrero</div>
+                <div class="team-role">Director, IMAGO Global Grassroots & Lecturer</div>
+                <div class="team-area">Harvard Kennedy School</div>
+            </div>
+        </div>
+    </div>
+
 
 </div>
 <div class="blob-box">
