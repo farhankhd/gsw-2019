@@ -26,7 +26,7 @@
 
     </div>
 
-    <div class="row">
+    <div class="row" id='panel1'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Ask Me Anything: Startup Founders</h5>
@@ -74,7 +74,7 @@
         </div>
     </div>
 
-    <div class="row">
+    <div class="row" id='fireside1'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Innovation For Impact</h5>

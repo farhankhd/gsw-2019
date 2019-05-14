@@ -89,10 +89,10 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Ask Me Anything: Startup Founders</h4>
+                <a href='panels.php#panel1'><h4 style="font-weight: 900" class="agenda-black"> Ask Me Anything: Startup Founders</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Innovation For Impact</h4>
+                <a href='panels.php#fireside1'><h4 style="font-weight: 900" class="agenda-black"> Innovation For Impact</h4></a>
             </div>
             <div class="col-sm-3"></div>
         </div>

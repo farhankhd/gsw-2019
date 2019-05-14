@@ -1749,6 +1749,12 @@ h6 {
     font-size: 0.7em;
 }
 
+.agenda-black:hover {
+    color: black;
+    font-weight: 900;
+    font-size: 0.7em;
+}
+
 .agenda-time {
     color: black;
     font-style: italic;
