@@ -20,6 +20,8 @@
 
     <div class="comp-center" style="z-index: 10">
         <h1> Business Plan Competition</h1>
+        <h6 class="registration-closed" style="color: #461EC0">Applications are now closed. Applicants can expect to hear back about their registration status soon</h6>
+
         <br>
         <div class="line"></div>
         <br>
@@ -34,7 +36,7 @@
                 <!--<p>Consulte nuestro <a href="">Reglamento Oficial</a> para más información.</p>-->
 
                 <p class="white text-center">Deadline to Apply: 7 April, 2019</p>
-                <a class="register-btn" style="text-decoration: none;" href="https://startup.openstartups.net/?eventcode=mit_businessplan_2019">Apply</a>
+                <a class="register-btn" style="text-decoration: none;">Apply</a>
             </div>
             <div class="col-3"></div>
         </div>
