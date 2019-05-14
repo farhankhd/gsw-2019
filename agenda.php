@@ -54,8 +54,8 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Plenary</h5>
-                <a href="speakers.php"><h4 style="font-weight: 900" class="agenda-black"> Marta Lucia Ramirez</h4></a>
-                <i><h5 class="agenda-black"> Vice President of Colombia</h5></i>
+                <a href="speakers.php"><h2 style="font-weight: 900" class="agenda-black"> Marta Lucia Ramirez</h2></a>
+                <!-- <i><h5 class="agenda-black"> Vice President of Colombia</h5></i> -->
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -66,8 +66,8 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <a href="speakers.php#charles"><h4 style="font-weight: 900" class="agenda-black"> Charles Kane</h4></a>
-                <i><h5 class="agenda-black"> Professor, MIT Sloan; Vice Chairman, One Laptop Per Child</h5></i>
+                <a href="speakers.php#charles"><h2 style="font-weight: 900" class="agenda-black"> Charles Kane</h2></a>
+                <!-- <i><h5 class="agenda-black"> Professor, MIT Sloan; Vice Chairman, One Laptop Per Child</h5></i> -->
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -89,7 +89,7 @@
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
                 <h4 style="font-weight: 900" class="agenda-black"> Ask Me Anything: Startup Founders</h4>
-                <br> <br>
+                <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
                 <h4 style="font-weight: 900" class="agenda-black"> Innovation For Impact</h4>
             </div>
@@ -102,7 +102,7 @@
             </div>
             <div class="col-sm-6">
                 <div class="agenda-showcase">
-                    <h5 style="text-decoration: underline;" class="agenda-black"> Startup Showcase</h5>
+                    <h2 class="agenda-black"> Startup Showcase</h2>
                     <h4 style="font-weight: 900" class="agenda-black"> Showcasing Startups from our business plan competition</h4>
                 </div>
                 
@@ -119,7 +119,7 @@
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
                 <h4 style="font-weight: 900" class="agenda-black"> Advanced Technologies and Social Entrepreneurship</h4>
-                <br> <br>
+                <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
                 <h4 style="font-weight: 900" class="agenda-black"> The Insights of a Serial Entrepreneur</h4>
             </div>
@@ -155,9 +155,9 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Richard Lester</h4>
-                <i><h5 class="agenda-black"> Associate Provost for International Affairs, MIT</h5></i>
-                <i><h5 class="agenda-black"> Professor & Former Dept. Head, MIT Nuclear Science and Engineering </h5></i>
+                <h2 style="font-weight: 900" class="agenda-black"> Richard Lester</h2>
+                <!-- <i><h5 class="agenda-black"> Associate Provost for International Affairs, MIT</h5></i> -->
+                <!-- <i><h5 class="agenda-black"> Professor & Former Dept. Head, MIT Nuclear Science and Engineering </h5></i> -->
 
             </div>
             <div class="col-sm-3"></div>
@@ -200,8 +200,8 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <a href="speakers.php"><h4 style="font-weight: 900" class="agenda-black"> Adiana Norena</h4></a>
-                <i><h5 class="agenda-black"> Google Inc., Vice President Spanish Speaking Latin America</h5></i>
+                <a href="speakers.php"><h2 style="font-weight: 900" class="agenda-black"> Adiana Norena</h2></a>
+                <!-- <i><h5 class="agenda-black"> Google Inc., Vice President Spanish Speaking Latin America</h5></i> -->
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -223,7 +223,7 @@
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
                 <h4 style="font-weight: 900" class="agenda-black"> Building the Colombian Entrepreneurial Ecosystem</h4>
-                <br> <br>
+                <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
                 <h4 style="font-weight: 900" class="agenda-black"> An Investor's Perspective</h4>
             </div>
@@ -236,7 +236,7 @@
             </div>
             <div class="col-sm-6">
                 <div class="agenda-showcase">
-                    <h5 style="text-decoration: underline;" class="agenda-black"> Grand Challenge Presentations</h5>
+                    <h2 class="agenda-black"> Grand Challenge Presentations</h2>
                 </div>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
@@ -263,7 +263,7 @@
             </div>
             <div class="col-sm-6">
                 <div class="agenda-showcase">
-                    <h5 style="text-decoration: underline;" class="agenda-black"> Business Plan Competition Presentations</h5>
+                    <h2 class="agenda-black"> Business Plan Competition Presentations</h2>
                 </div>
                 <br>
                     <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
@@ -281,7 +281,7 @@
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
                 <h4 style="font-weight: 900" class="agenda-black"> Learning From Colombia's Sucess Stories</h4>
-                <br> <br>
+                <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
                 <h4 style="font-weight: 900" class="agenda-black"> The Future of Digital Technologies</h4>
             </div>
@@ -304,8 +304,8 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Danielle Wood</h4>
-                <i><h5 class="agenda-black"> Professor, MIT Media Lab; Director of MIT Space Enabled Resarch Group </h5></i>
+                <h2 style="font-weight: 900" class="agenda-black"> Danielle Wood</h2>
+                <!-- <i><h5 class="agenda-black"> Professor, MIT Media Lab; Director of MIT Space Enabled Resarch Group </h5></i> -->
 
             </div>
             <div class="col-sm-3"></div>
