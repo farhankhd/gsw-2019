@@ -136,7 +136,7 @@ function getSpeakers() {
                 //     $(speakerInfoMarkup).appendTo('#speaker-section-expanded');
                 // }
 
-                speakerSmallMarkup = '</div><div class="team-speaker col-md-4" style="padding: 20"><a href="#modal-text-' + id + '"data-modal-id="modal-text" data-toggle="modal">' +
+                speakerSmallMarkup = '</div><div class="team-speaker col-md-4" style="padding: 20" id="' + first + '"><a href="#modal-text-' + id + '"data-modal-id="modal-text" data-toggle="modal">' +
                     associationMarkup +
                     '<img class="team-picture" src=\'images/speaker-img/' + path + '\'>' +
                     '<div class="team-name">' + name + '</div>' +

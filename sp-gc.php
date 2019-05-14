@@ -17,6 +17,7 @@
     <div class="comp-center">
         <h1> Grand Challenge</h1>
         <h4> Cultivando conexiones para promover el desarrollo y la prosperidad de Colombia </h4>
+        <h6 class="registration-closed" style="color: #461EC0">Las aplicaciones están cerradas. Los solicitantes pueden esperar escuchar sobre su estado de registro pronto</h6>
         <br>
         <div class="line"></div>
         <br>
@@ -31,9 +32,9 @@
             </div>
             <div class="col-3"></div>
         <p class="white text-center">Cierre de Inscripciones. Abril 7 de 2019</p>
-        <a class="register-btn" style="text-decoration: none;" href="https://mit.co1.qualtrics.com/jfe/form/SV_7PpPqYrKxm2yrfD">Aplique</a>
+        <a class="register-btn" style="text-decoration: none;">Aplique</a>
         <br> <br><br>
-        <a href="https://universidadean.edu.co/eventos/workshop-de-ideacion-grand-challenge-mit-gsw">Regístrese para un taller de ideación que le permita prepararse para el Grand Challenge</a>
+        <a>Regístrese para un taller de ideación que le permita prepararse para el Grand Challenge</a>
         </div>
         <br><br>
         

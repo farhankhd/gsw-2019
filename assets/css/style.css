@@ -1698,6 +1698,66 @@ h6 {
 }
 
 
+/* AGENDA CSS */
+
+.agenda-header {
+    background-color: rgba(255, 255, 255, 0.3);
+    outline: 4px solid white;
+    margin: 10px;
+}
+
+.agenda-header p {
+    color: white;
+    font-family: "DIN";
+    font-size: 2vw;
+}
+
+.agenda-blue {
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 1%;
+    margin: 10px;
+}
+
+.agenda-white {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 1%;
+    margin: 10px;
+}
+
+.agenda-showcase {
+    outline: 1px solid black;
+    margin: 2%;
+    padding: 2px;
+    box-shadow: 1px 1px 0px #999, 2px 2px 0px #999, 3px 3px 0px #999, 4px 4px 0px #999, 5px 5px 0px #999, 6px 6px 0px #999;
+}
+
+.agenda-black {
+    color: black;
+    font-size: 0.7em;
+}
+
+
+/* .agenda-blue,
+.agenda-white h5 {
+    color: black;
+}
+
+.agenda-blue h5,
+h6,
+h3,
+h4,
+p {
+    color: black;
+} */
+
+.agenda-time {
+    color: black;
+    font-style: italic;
+    font-size: 0.7em;
+    margin: 5%;
+}
+
+
 /* FOOTER CSS */
 
 #footer {
@@ -1782,6 +1842,12 @@ h6 {
     border: none;
     font-family: "DIN";
 } */
+
+.registration-closed {
+    font-weight: 900 !important;
+    font-family: 'DIN';
+    color: #81FFA3;
+}
 
 .register-button {
     padding: 12px 16px;
