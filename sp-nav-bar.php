@@ -80,7 +80,8 @@
                         <a class="dropdown-item" href="sp-efair.php">Entrepreneurship <br /> Fair</a>
                     </div>
                 </li> 
-                <li class="nav-item dropdown">
+                <li><a href="agenda.php">Agenda</a></li>
+                <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Agenda <span class="caret"></span>
                     </a>
@@ -89,7 +90,7 @@
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="panels.php">Content</a>
                     </div>
-                </li>
+                </li> -->
                 <li><a href="sp-sponsors.php">PATROCINADORES</a></li>
                 <li><a href="sp-speakers.php">Conferencistas</a></li>
                 <!-- <li><a href="sp-team.php">QUIÉNES SOMOS</a></li> -->
