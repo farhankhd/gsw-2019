@@ -1703,7 +1703,7 @@ h6 {
 .agenda-header {
     background-color: rgba(255, 255, 255, 0.3);
     outline: 4px solid white;
-    margin: 15px;
+    margin: 10px;
 }
 
 .agenda-header p {
@@ -1715,13 +1715,13 @@ h6 {
 .agenda-blue {
     background-color: rgba(255, 255, 255, 0.3);
     padding: 1%;
-    margin: 15px;
+    margin: 10px;
 }
 
 .agenda-white {
     background-color: rgba(255, 255, 255, 1);
     padding: 1%;
-    margin: 15px;
+    margin: 10px;
 }
 
 .agenda-showcase {
@@ -1842,6 +1842,12 @@ p {
     border: none;
     font-family: "DIN";
 } */
+
+.registration-closed {
+    font-weight: 900 !important;
+    font-family: 'DIN';
+    color: #81FFA3;
+}
 
 .register-button {
     padding: 12px 16px;

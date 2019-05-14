@@ -23,18 +23,24 @@
 <div style="overflow-x:hidden; max-width:100vw;w-x: hidden;">
     <div class="section">
         <div class="row text-center comp-content">
-            <!-- <h1> REGÍSTRESE PARA ASISTIR AL MIT GLOBAL STARTUP WORKSHOP </h1> -->
+            <h1> El registro está cerrado </h1>
+            <h6 class="registration-closed">Los solicitantes pueden esperar escuchar sobre su estado de registro pronto</h6>
+
             <br>
             <br>
             <div class="blob-box">
             <!-- <img style="position: absolute; right:-200px;" class= "blob-mobile" src="images/register/blob-3.png"> -->
     </div>
             <div class="register-box">
-                <h2>COMO FUNCIONA EL PROCESO DE INSCRIPCIÓN</h2>
+            <h2>COMO FUNCIONA EL PROCESO DE INSCRIPCIÓN</h2>
                 
-                
-                <p>La inscripción ya está cerrada. Los solicitantes pueden esperar escuchar sobre su estado de registro pronto</p>
-            </div>
+                <p>Para aplicar <strong>complete el siguiente formulario.</strong> Las aplicaciones serán evaluadas de forma continua, 
+                en caso de ser seleccionado, lo contactáremos para entregar las boletas de entrada. MIT GSW y la Cámara 
+                de Comercio de Bogotá se complacen de anunciar que el evento no tendrá costo para los asistentes. 
+                El evento tendrá lugar los días 27 y 28 de mayo de 2019 en El Cubo de Colsubsidio – Bogotá. 
+                ¡Esperamos contar con sus asistencia!</p>
+                <p> <strong style="font-family: 'DIN';">Los participantes de los concursos: </strong> deben completar tanto el formulario del concurso como el de asistencia general</p>
+                </div>
         </div>
 
         <br> <br> <br> <br>

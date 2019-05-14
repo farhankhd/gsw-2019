@@ -155,7 +155,7 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <h2 style="font-weight: 900" class="agenda-black"> Richard Lester</h2>
+                <a href="speakers.php#richard"><h2 style="font-weight: 900" class="agenda-black"> Richard Lester</h2></a>
                 <!-- <i><h5 class="agenda-black"> Associate Provost for International Affairs, MIT</h5></i> -->
                 <!-- <i><h5 class="agenda-black"> Professor & Former Dept. Head, MIT Nuclear Science and Engineering </h5></i> -->
 
@@ -200,7 +200,7 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <a href="speakers.php"><h2 style="font-weight: 900" class="agenda-black"> Adiana Norena</h2></a>
+                <a href="speakers.php#adriana"><h2 style="font-weight: 900" class="agenda-black"> Adiana Norena</h2></a>
                 <!-- <i><h5 class="agenda-black"> Google Inc., Vice President Spanish Speaking Latin America</h5></i> -->
             </div>
             <div class="col-sm-3"></div>
@@ -304,7 +304,7 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <h2 style="font-weight: 900" class="agenda-black"> Danielle Wood</h2>
+                <a href="speakers.php#danielle"><h2 style="font-weight: 900" class="agenda-black"> Danielle Wood</h2></a>
                 <!-- <i><h5 class="agenda-black"> Professor, MIT Media Lab; Director of MIT Space Enabled Resarch Group </h5></i> -->
 
             </div>
