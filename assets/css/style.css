@@ -1737,6 +1737,7 @@ h6 {
 
 .agenda-black {
     color: black;
+    font-size: 0.7em;
 }
 
 
@@ -1756,6 +1757,7 @@ p {
 .agenda-time {
     color: black;
     font-style: italic;
+    font-size: 0.7em;
 }
 
 

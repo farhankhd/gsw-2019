@@ -23,7 +23,7 @@
 <div style="overflow-x:hidden; max-width:100vw;w-x: hidden;">
     <div class="section">
         <div class="row text-center comp-content">
-            <h1> Apply to attend the MIT Global Startup Workshop </h1>
+            <h1> Registration is now closed </h1>
             <br>
             <br>
             <div class="blob-box">
@@ -57,11 +57,11 @@
             
             <div>
                 <div class="col-md-6 comp-content">
-                <a class="register-btn-large" style="text-decoration: none; z-index: 1000;" href="https://docs.google.com/forms/d/e/1FAIpQLScOgBsciOL8P5jBq6IZiRJrwYqEBofmbE4X07nQ7mhf6Aa2Wg/viewform">Registro en Español</a>
+                <a class="register-btn-large" style="text-decoration: none; z-index: 1000;" >Registro en Español</a>
 
                 </div>
                 <div class="col-md-6 comp-content">
-                <a class="register-btn-large" style="text-decoration: none;" href="https://goo.gl/forms/xlOAGFyLPkg8PEc33">Register in English</a>
+                <a class="register-btn-large" style="text-decoration: none;" >Register in English</a>
 
                     <br><br>
                 </div>
