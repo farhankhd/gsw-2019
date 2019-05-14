@@ -105,7 +105,7 @@ function auto_version($file)
                             <h1> Partner</h1>
                         </div>
                         <div class="col-sm-6">
-                            <a href="https://www.colsubsidio.com/"><img src="images/logo/colub-1.png" style="height: 110px;"> </a>
+                            <a href="https://www.cetcolsubsidio.edu.co/"><img src="images/logo/colub-1.png" style="height: 110px;"> </a>
                         </div>
                     </div>
                     <br><br><br>
