@@ -219,7 +219,7 @@ function auto_version($file)
     <br>
 
     <div class="container">
-        <div class="row">
+        <div class="row vertical-align">
             <!-- <div class="col-xs-6 why-map" id="map">
             </div> -->
             <div class="col-xs-6 why-img">

@@ -21,7 +21,8 @@
         <i><h5> SUBJECT TO MINOR CHANGES</h5></i>
         <br>
     </div>
-    <div class="row text-center" style="margin: auto; width:95%">
+
+    <div class="row text-center" style="margin: auto; width:85%">
 
         <div class="col-lg-12 agenda-header">
             <p color="black"> Monday May 27</p>
@@ -177,7 +178,9 @@
 
     </div>
 
-    <div class="row text-center" style="margin: auto; width:95%">
+    <br><br><br><br>
+
+    <div class="row text-center" style="margin: auto; width:85%">
 
         <div class="col-lg-12 agenda-header">
             <p color="black"> Tuesday May 28</p>

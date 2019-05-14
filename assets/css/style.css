@@ -1708,7 +1708,8 @@ h6 {
 .agenda-header {
     background-color: rgba(255, 255, 255, 0.3);
     outline: 4px solid white;
-    margin: 10px;
+    margin: 5px;
+    max-height: 100px;
 }
 
 .agenda-header p {
@@ -1719,14 +1720,14 @@ h6 {
 
 .agenda-blue {
     background-color: rgba(255, 255, 255, 0.3);
-    padding: 1%;
-    margin: 10px;
+    padding: 5px;
+    margin: 5px;
 }
 
 .agenda-white {
     background-color: rgba(255, 255, 255, 1);
-    padding: 1%;
-    margin: 10px;
+    padding: 5px;
+    margin: 5px;
 }
 
 .agenda-showcase {
@@ -1740,20 +1741,6 @@ h6 {
     color: black;
     font-size: 0.7em;
 }
-
-
-/* .agenda-blue,
-.agenda-white h5 {
-    color: black;
-}
-
-.agenda-blue h5,
-h6,
-h3,
-h4,
-p {
-    color: black;
-} */
 
 .agenda-time {
     color: black;
@@ -2134,7 +2121,7 @@ p {
     }
     .why-map {
         width: 50vw;
-        height: 36vw;
+        height: 40vw;
         padding: 10px;
         display: inline-block;
     }
