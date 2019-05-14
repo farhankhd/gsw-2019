@@ -123,8 +123,8 @@ function auto_version($file)
                             <div class="col-md-2">
                                 <img src="images/logo/hilton.png" class="partner-logo">
                             </div>
-                            <div class="col-md-2">
-                                <img src="images/logo/softbank.png" class="partner-logo" style="max-height: 40px">
+                            <div class="col-md-4">
+                                <img src="images/logo/softbank.png" class="partner-logo" style="max-height: 70px">
                             </div>
                         </div>
                         <br><br>
