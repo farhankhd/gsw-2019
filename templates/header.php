@@ -121,8 +121,7 @@ function auto_version($file)
                                 <img src="images/logo/mintic.png" class="partner-logo">
                             </div>
                             <div class="col-md-2">
-                                <h6> Official Hotel</h6>
-                                <img src="images/logo/hilton.png" class="partner-logo" style="max-height:60px">
+                                <img src="images/logo/hilton.png" class="partner-logo">
                             </div>
                             <div class="col-md-2">
                                 <img src="images/logo/softbank.png" class="partner-logo" style="max-height: 40px">
