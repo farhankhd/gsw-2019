@@ -767,6 +767,11 @@ h6 {
     transform: translateY(30%);
 }
 
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
 .academic-mobile {
     font-size: 1.4vw;
 }

@@ -10,13 +10,13 @@
 
     // Require https
 
-    if( !($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') ){
-        if ($_SERVER['HTTPS'] != "on") {
-            $url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
-            header("Location: $url");
-            exit;
-        }
-    }
+    // if( !($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') ){
+    //     if ($_SERVER['HTTPS'] != "on") {
+    //         $url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+    //         header("Location: $url");
+    //         exit;
+    //     }
+    // }
 ?>
 
 <!DOCTYPE html>
@@ -97,19 +97,9 @@
                 <li><a href="sp-index.php">Español</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
-            <img src="images/logo/bogota-team-logo.png" id="navbar-logo-right">
-                <!-- <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        About <span class="caret"></span>
-                    </a>
-                    <div id="aboutMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="history.php">History</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="team.php">Who we are</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="sponsors.php">Sponsors</a>
-                    </div>
-                </li> -->
+            <a href="https://www.ccb.org.co/en"> 
+                <img src="images/logo/bogota-team-logo.png" id="navbar-logo-right">
+            </a>
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
