@@ -49,7 +49,7 @@
                 led to over 50 million computers to be distributed within this Marketplace. 
                 The challenges of the nonprofit world will be highlighted in this keynote speech.</h4>
             </div>
-            <div class="team col-md-4 text-center"><a href="speakers.php">
+            <div class="team col-md-4 text-center"><a href="speakers.php#charles">
                 <img class="keynote-picture" src="images/speaker-img/charles.png"></a>
                 <div class="team-name">Charles Kane</div>
                 <div class="team-role">Senior Lecturer</div>
@@ -70,7 +70,7 @@
                 <h2> May 27, 17:00-17:45</h2>
                 <h4> More info coming soon!</h4>
             </div>
-            <div class="team col-md-4 text-center"><a href="speakers.php">
+            <div class="team col-md-4 text-center"><a href="speakers.php#richard">
                 <img class="keynote-picture" src="images/speaker-img/richard.jpg"></a>
                 <div class="team-name">Richard Lester</div>
                 <div class="team-role">Associate Provost for International Activities</div>
@@ -95,7 +95,7 @@
                 increasingly changing needs of customers, achieve better results, distribute resources, 
                 and transform to the next level. </h4>
             </div>
-            <div class="team col-md-4 text-center"><a href="speakers.php">
+            <div class="team col-md-4 text-center"><a href="speakers.php#adriana">
                 <img class="keynote-picture" src="images/speaker-img/adriana.png"></a>
                 <div class="team-name">Adriana Noreña </div>
                 <div class="team-role">VP </div>
@@ -116,7 +116,7 @@
                 <h2> May 28, 18:00-18:10</h2>
                 <h4> More info coming soon!</h4>
             </div>
-            <div class="team col-md-4 text-center"><a href="speakers.php">
+            <div class="team col-md-4 text-center"><a href="speakers.php#danielle">
                 <img class="keynote-picture" src="images/speaker-img/danielle.png"></a>
                 <div class="team-name">Danielle Wood</div>
                 <div class="team-role">Professor at the MIT Media Lab</div>
