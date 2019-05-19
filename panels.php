@@ -17,10 +17,116 @@
 <body style="background-image: url('images/register/register-bg.jpg'); overflow-x: hidden;">
 
 <div class="section">
-    <div class="text-center">
+     <div class="text-center">
         <i><h5> SUBJECT TO MINOR CHANGES</h5></i>
         <br>
     </div>
+    <div class="row">
+        <p class="section-header section-header-page" style="color: white">Keynotes</p>
+
+    </div>
+
+    <div class="row" id='workshop1'>
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> Learning to Change the World-The story of One Laptop per Child</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content vertical-align">
+            <div class="col-md-8">
+                <h2> May 27, 08:45-09:30</h2>
+                <h4> The One Laptop per Child (OLPC) initiative was born in MIT’s Media Lab where a 
+                “Children’s computer” was designed and tested for global deployment. OLPC was the 
+                first major technology initiative in the education space and its mission was to 
+                target the bottom of the pyramid countries and provide laptops that utilized the 
+                internet and brought the world “library” to the poorest and most remote parts of 
+                the earth. As President, Chuck provided the business direction to a project that 
+                delivered over 3 million computers worldwide, as well as the educational software 
+                and services to make the deployments successful. OLPC has been credited with forcing 
+                the computer and software giants of the world to pay attention to the market opportunity 
+                for education technology in the developing world and price aggressively....which has 
+                led to over 50 million computers to be distributed within this Marketplace. 
+                The challenges of the nonprofit world will be highlighted in this keynote speech.</h4>
+            </div>
+            <div class="team col-md-4 text-center"><a href="speakers.php">
+                <img class="keynote-picture" src="images/speaker-img/charles.png"></a>
+                <div class="team-name">Charles Kane</div>
+                <div class="team-role">Senior Lecturer</div>
+                <div class="team-area">MIT</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row" id='workshop2'>
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> Keynote</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <div class="col-md-8">
+                <h2> May 27, 17:00-17:45</h2>
+                <h4> More info coming soon!</h4>
+            </div>
+            <div class="team col-md-4 text-center"><a href="speakers.php">
+                <img class="keynote-picture" src="images/speaker-img/richard.jpg"></a>
+                <div class="team-name">Richard Lester</div>
+                <div class="team-role">Associate Provost for International Activities</div>
+                <div class="team-area">MIT</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row" id='workshop3'>
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> Keynote: Qué significa transformación Hoy</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <div class="col-md-8">
+                <h2> May 28, 08:15-09:00</h2>
+                <h4> In this talk, Adriana will explain how artificial intelligence allows companies 
+                to transform themselves. Although its rise is recent, AI has become an important 
+                ally for entrepreneurs. It is a powerful tool that helps companies adapt to the 
+                increasingly changing needs of customers, achieve better results, distribute resources, 
+                and transform to the next level. </h4>
+            </div>
+            <div class="team col-md-4 text-center"><a href="speakers.php">
+                <img class="keynote-picture" src="images/speaker-img/adriana.png"></a>
+                <div class="team-name">Adriana Noreña </div>
+                <div class="team-role">VP </div>
+                <div class="team-area">Google Spanish Speaking Latin America </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row" id='workshop5'>
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> Keynote</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <div class="col-md-8">
+                <h2> May 28, 18:00-18:10</h2>
+                <h4> More info coming soon!</h4>
+            </div>
+            <div class="team col-md-4 text-center"><a href="speakers.php">
+                <img class="keynote-picture" src="images/speaker-img/danielle.png"></a>
+                <div class="team-name">Danielle Wood</div>
+                <div class="team-role">Professor at the MIT Media Lab</div>
+                <div class="team-area"> Director of the MIT Space Enabled Research Group</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section">
     <div class="row">
         <p class="section-header section-header-page" style="color: white">Panels</p>
 
@@ -452,13 +558,13 @@
 
         <div class="col-md-12 text-center">
             <div class="team col-md-6"><a href="speakers.php">
-                <img class="team-picture" src="images/team/Santiago.jpg"></a>
+                <img class="panel-picture" src="images/team/Santiago.jpg"></a>
                 <div class="team-name">Santiago Melo</div>
                 <div class="team-role">Competitions Team</div>
                 <div class="team-area">MIT Sloan School of Management</div>
             </div>
             <div class="team col-md-6"><a href="speakers.php">
-                <img class="team-picture" src="images/team/Joaquin.jpg"></a>
+                <img class="panel-picture" src="images/team/Joaquin.jpg"></a>
                 <div class="team-name">Joaquin Richards</div>
                 <div class="team-role">Content team</div>
                 <div class="team-area">MIT Sloan School of Management</div>
