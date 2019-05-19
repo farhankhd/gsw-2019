@@ -1773,6 +1773,10 @@ h6 {
     font-size: 1.5vw;
 }
 
+.panel-header:hover h5 {
+    font-size: 1.5vw;
+}
+
 .panel-content {
     padding: 20px;
     margin: 10px;
