@@ -34,8 +34,10 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h5> May 27, 10:15 - 11:30</h5>
-            <h4> More info here!</h4>
+            <h2> May 27, 10:15 - 11:30</h2>
+            <h4> Starting a company is no easy task, and while there are NO set rules for succeeding, experience can prove very helpful. 
+            Hear about 5 entrepreneurs in this session that will discuss some of the challenges they faced and the lessons they learned 
+            on their journeys to becoming leading innovators.</h4>
         </div>
 
         <div class="col-md-12 text-center">
@@ -74,35 +76,7 @@
         </div>
     </div>
 
-    <div class="row" id='fireside1'>
-        <div class="col-sm-12 panel-top text-center">
-            <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black"> Innovation For Impact</h5>
-            </div>
-        </div>
-        <br>
-        <div class="col-md-12 panel-content">
-            <h5> May 27, 10:15 - 11:30</h5>
-            <h4> More info here!</h4>
-        </div>
-
-        <div class="col-md-12 text-center">
-            <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/luisfern.jpg"></a>
-                <div class="team-name">Luis Fernando Sanabria</div>
-                <div class="team-role">COO  </div>
-                <div class="team-area">Poverty Spotlight</div>
-            </div>
-            <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/isabel.jpg"></a>
-                <div class="team-name">Isabel Guerrero</div>
-                <div class="team-role">Director, IMAGO Global Grassroots & Lecturer</div>
-                <div class="team-area">Harvard Kennedy School</div>
-            </div>
-        </div>
-    </div>
-
-    <div class="row">
+    <div class="row" id='panel2'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Advanced Technologies and Social Entrepreneurship</h5>
@@ -110,8 +84,11 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h5> May 27, 13:30 - 14:30</h5>
-            <h4> More info here!</h4>
+            <h2> May 27, 13:30 - 14:30</h2>
+            <h4> With the tech industry expanding more rapidly than ever, there are countless opportunities to use tech for your next big idea. Identifying an 
+            open problem that can be addressed with a simple and 
+            effective solution is challenging, and this panel features experts who will share first-hand experiences on how technology helped to transform
+             ideas into ventures that contribute back to society. </h4>
         </div>
 
         <div class="col-md-12 text-center">
@@ -150,35 +127,7 @@
         </div>
     </div>
 
-    <div class="row">
-        <div class="col-sm-12 panel-top text-center">
-            <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black"> The Insights of a Serial Entrepreneur</h5>
-            </div>
-        </div>
-        <br>
-        <div class="col-md-12 panel-content">
-            <h5> May 27, 13:30 - 14:30</h5>
-            <h4> More info here!</h4>
-        </div>
-
-        <div class="col-md-12 text-center">
-            <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/alexander.jpg"></a>
-                <div class="team-name">Alex Torrenegra</div>
-                <div class="team-role">CEO </div>
-                <div class="team-area">Torre</div>
-            </div>
-            <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/travis.jpg"></a>
-                <div class="team-name">Travis Hunter (Moderator)</div>
-                <div class="team-role">Program Manager</div>
-                <div class="team-area">MIT Regional Entrepreneurship Acceleration Program</div>
-            </div>
-        </div>
-    </div>
-
-    <div class="row">
+    <div class="row" id='panel3'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Building the Colombian Entrepreneurial Ecosystem</h5>
@@ -186,72 +135,41 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h5> May 28, 10:00 - 11:00</h5>
-            <h4> More info here!</h4>
+            <h2> May 28, 10:00 - 11:00</h2>
+            <h4> More info coming soon! </h4>
         </div>
 
         <div class="col-md-12 text-center">
-            <div class="team col-md-4"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/mauricio.jpg"></a>
-                <div class="team-name">Mauricio Toro</div>
-                <div class="team-role">Cámara por Bogotá </div>
-            </div>
-            <div class="team col-md-4"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/xavier.jpg"></a>
-                <div class="team-name">Xavier Serrano</div>
-                <div class="team-role">General Direcetor</div>
-                <div class="team-area">CESA</div>
-            </div>
-            <div class="team col-md-4"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/diana.jpg"></a>
-                <div class="team-name">Diana Gaviria</div>
-                <div class="team-role">Connect Bogotá Región</div>
-            </div>
-        </div>
-        <div class="col-md-12 text-center">
-            <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/juan.jpg"></a>
-                <div class="team-name">Juan David or CCB President</div>
-                <div class="team-role">CCB  </div>
-            </div>
             <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/travis.jpg"></a>
                 <div class="team-name">Travis Hunter (Moderator)</div>
                 <div class="team-role">Program Manager</div>
                 <div class="team-area">MIT Regional Entrepreneurship Acceleration Program</div>
             </div>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12 panel-top text-center">
-            <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black"> The Insights of a Serial Entrepreneur</h5>
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/diana.jpg"></a>
+                <div class="team-name">Diana Gaviria</div>
+                <div class="team-role">Executive Director</div>
+                <div class="team-area">Connect Bogotá</div>
             </div>
         </div>
-        <br>
-        <div class="col-md-12 panel-content">
-            <h5> May 28, 10:00 - 11:00</h5>
-            <h4> More info here!</h4>
-        </div>
-
         <div class="col-md-12 text-center">
             <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/ana.jpg"></a>
-                <div class="team-name">Ana Margarita Albir Sarmiento</div>
-                <div class="team-role">Managing Partner & Co-founder </div>
-                <div class="team-area">NXTP Labs</div>
+                <img class="panel-picture" src="images/speaker-img/juan.jpg"></a>
+                <div class="team-name">Juan David </div>
+                <div class="team-role">Director of Macro-Business Articulation</div>
+                <div class="team-area">Cámara de Comercio de Bogotá</div>
             </div>
-            <div class="team col-md-4"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/barb.jpg"></a>
-                <div class="team-name">Pierpaolo Barbieri</div>
-                <div class="team-role">CEO & Founder</div>
-                <div class="team-area">Ualá</div>
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/victor.jpg"></a>
+                <div class="team-name">Victor Munoz</div>
+                <div class="team-role">Advisor for Digital Transformation and Innovationr</div>
+                <div class="team-area">MinTIC</div>
             </div>
         </div>
     </div>
 
-    <div class="row">
+    <div class="row" id='panel4'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Learning From Colombia's Sucess Stories</h5>
@@ -259,8 +177,10 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h5> May 28, 15:30 - 16:30</h5>
-            <h4> More info here!</h4>
+            <h2> May 28, 15:30 - 16:30</h2>
+            <h4>Colombia is a growing hub for innovation. This panel features some of Colombia's leading entrepreneurs 
+            who have scaled companies from their foundations. Join this session for the opportunity to hear a diverse 
+            group of entrepreneurs share the lessons they learned and the biggest challenges they faced in the startup world.</h4>
         </div>
 
         <div class="col-md-12 text-center">
@@ -297,14 +217,117 @@
                 <div class="team-area">Socialab Colombia</div>
             </div>
             <div class="team col-md-4"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/catalina.jpg"></a>
-                <div class="team-name">Catalina Gutierrez</div>
-                <div class="team-role">(NXTP Colombia)</div>
+                <img class="panel-picture" src="images/speaker-img/ignacio2.jpg"></a>
+                <div class="team-name">Ignacio Gaitan</div>
+                <div class="team-role">Undefined</div>
+                <div class="team-area">Undefined</div>
             </div>
         </div>
     </div>
 
+</div>
+
+<div class="section">
     <div class="row">
+        <p class="section-header section-header-page" style="color: white">Fireside Chats</p>
+
+    </div>
+
+    <div class="row" id='fireside1'>
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> Innovation For Impact</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <h2> May 27, 10:15 - 11:30</h2>
+            <h4> Enduring innovations are those that have the greatest impact. In this fireside chat, Luis and Isabel will address the key components of 
+            leading a social enterprise. Learn how Poverty Spotlight helps communities to lift themselves out of poverty and how to build, sustain, 
+            and grow your own community-based social enterprise. </h4>
+        </div>
+
+        <div class="col-md-12 text-center">
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/luisfern.jpg"></a>
+                <div class="team-name">Luis Fernando Sanabria</div>
+                <div class="team-role">COO  </div>
+                <div class="team-area">Poverty Spotlight</div>
+            </div>
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/isabel.jpg"></a>
+                <div class="team-name">Isabel Guerrero</div>
+                <div class="team-role">Director, IMAGO Global Grassroots & Lecturer</div>
+                <div class="team-area">Harvard Kennedy School</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row" id='fireside2'>
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> The Insights of a Serial Entrepreneur</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <h2> May 27, 13:30 - 14:30</h2>
+            <h4> As the co-founder of several companies, an angel investor, a judge on Shark Tank Colombia, and now the head of an accelerator, 
+            Alex has seen it all when it comes to entrepreneurship. A self-proclaimed “accidental entrepreneur”, Alex has witnessed many 
+            paths to success and knows what factors contribute most to a long-lasting venture. Join us to hear his story and his take on how to build a startup.</h4>
+        </div>
+
+        <div class="col-md-12 text-center">
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/alexander.jpg"></a>
+                <div class="team-name">Alex Torrenegra</div>
+                <div class="team-role">CEO </div>
+                <div class="team-area">Torre</div>
+            </div>
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/travis.jpg"></a>
+                <div class="team-name">Travis Hunter (Moderator)</div>
+                <div class="team-role">Program Manager</div>
+                <div class="team-area">MIT Regional Entrepreneurship Acceleration Program</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row" id='fireside3'>
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> An Investor's Perspective</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <h2> May 28, 10:00 - 11:00</h2>
+            <h4> More info coming soon!</h4>
+        </div>
+
+        <div class="col-md-12 text-center">
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/edwin.jpg"></a>
+                <div class="team-name">Edwin Zacipa</div>
+                <div class="team-role">Undefined </div>
+                <div class="team-area">Undefined</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/edwin.jpg"></a>
+                <div class="team-name">Juan Robledo</div>
+                <div class="team-role">Undefined </div>
+                <div class="team-area">Undefined</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/barb.jpg"></a>
+                <div class="team-name">Pierpaolo Barbieri</div>
+                <div class="team-role">CEO & Founder</div>
+                <div class="team-area">Ualá</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row" id='fireside4'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> The Future of Digital Technologies</h5>
@@ -312,8 +335,12 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h5> May 28, 15:30 - 16:30</h5>
-            <h4> More info here!</h4>
+            <h2> May 28, 15:30 - 16:30</h2>
+            <h4> Join us for an exciting conversation between leading experts from two of the 
+            largest tech organizations: MIT and Amazon. Kathleen will offer her insights on the 
+            future of human and computing as well as how to create ventures in this space, and 
+            Jeffrey will share his international experience working with startups and 
+            governments on big data, cybersecurity, disaster response, and more. </h4>
         </div>
 
         <div class="col-md-12 text-center">
@@ -332,7 +359,6 @@
         </div>
     </div>
 
-
 </div>
 
 <div class="section">
@@ -341,7 +367,7 @@
 
     </div>
 
-    <div class="row">
+    <div class="row" id='workshop1'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Entrepreneurship 101</h5>
@@ -350,8 +376,12 @@
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-6">
-                <h5> May 27, 14:45 - 16:15</h5>
-                <h4> More info here!</h4>
+                <h2> May 27, 14:45 - 16:15</h2>
+                <h4> The session will cover the various stages of most startups that plan on raising capital. It will cover what to say, 
+                but as importantly, what NOT to say to potential investors, co-founders, team members, and partners. Chris Howard, 
+                an entrepreneur and investor, will use examples of some of the world's most recognised companies to understand how 
+                they communicated what they did, and how they overcame the various early startup hurdles. A mixture of lecture, 
+                pitch workshop, and quiz - the session will be intense and fast paced. Bring a note book...</h4>
             </div>
             <div class="team col-md-6 text-center"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/chris_h.jpg"></a>
@@ -362,7 +392,7 @@
         </div>
     </div>
 
-    <div class="row">
+    <div class="row" id='workshop2'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> How to be a Founder and a Manager</h5>
@@ -371,8 +401,8 @@
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-6">
-                <h5> May 27, 14:45 - 16:15</h5>
-                <h4> More info here!</h4>
+                <h2> May 27, 14:45 - 16:15</h2>
+                <h4> More info coming soon!</h4>
             </div>
             <div class="team col-md-6 text-center"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/nick.jpg"></a>
@@ -383,7 +413,7 @@
         </div>
     </div>
 
-    <div class="row">
+    <div class="row" id='workshop3'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Creating a Business Plan</h5>
@@ -392,8 +422,10 @@
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-6">
-                <h5> May 27, 14:45 - 16:15</h5>
-                <h4> More info here!</h4>
+                <h2> May 27, 14:45 - 16:15</h2>
+                <h4> As an entrepreneur-in-residence at MIT, Sorin is an expert in the founding and 
+                building of ideas into startups that scale. In this workshop you will learn how to make your market, 
+                product, and strategy fit together as well as better understand your business's competitive advantage.</h4>
             </div>
             <div class="team col-md-6 text-center"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/sorin.jpg"></a>
@@ -404,28 +436,37 @@
         </div>
     </div>
 
-    <div class="row">
+    <div class="row" id='workshop4'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black"> 10 Ways to Get Funded</h5>
+                <h5 style="font-weight: 900" class="agenda-black"> How to Raise Venture Capital</h5>
             </div>
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <div class="col-md-6">
-                <h5> May 28, 11:00 - 12:30 and 14:00 - 15:30</h5>
-                <h4> More info here!</h4>
+            <h2> May 28, 11:00 - 12:30 and 14:00 - 15:30</h2>
+            <h4> Santiago and Joaquin, both MIT Sloan School of Management MBAs, bring extensive experience in 
+            entrepreneurship and finance across the private and public sectors. The workshop will cover how to 
+            find the best finance partner for your business model, as well as what do you need to know to close a successful funding round.</h4>
+        </div>
+
+        <div class="col-md-12 text-center">
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="team-picture" src="images/team/Santiago.jpg"></a>
+                <div class="team-name">Santiago Melo</div>
+                <div class="team-role">Competitions Team</div>
+                <div class="team-area">MIT Sloan School of Management</div>
             </div>
-            <div class="team col-md-6 text-center"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/mariaroa.jpg"></a>
-                <div class="team-name">Maria Lorena Roa</div>
-                <div class="team-role">VP of Product Development & Co-Founder</div>
-                <div class="team-area">PANAL Centro de Emprendimiento</div>
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="team-picture" src="images/team/Joaquin.jpg"></a>
+                <div class="team-name">Joaquin Richards</div>
+                <div class="team-role">Content team</div>
+                <div class="team-area">MIT Sloan School of Management</div>
             </div>
         </div>
     </div>
 
-    <div class="row">
+    <div class="row" id='workshop5'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Product Design</h5>
@@ -434,8 +475,12 @@
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-6">
-                <h5> May 28, 11:00 - 12:30 and 14:00 - 15:30</h5>
-                <h4> More info here!</h4>
+                <h2> May 28, 11:00 - 12:30 and 14:00 - 15:30</h2>
+                <h4> Product. Service. Experience. The world is changing rapidly and companies are realizing they need to not 
+                simply satisfy basic functional needs, but allow their products to interact richly within a rapidly growing 
+                service environment—or risk being cast aside. MIT Media Lab lecturer and VP Design of Continuum Lee Moreau's 
+                interactive presentation will explore how human-centered design methods can be used to help companies 
+                integrate new technology experiences into our everyday lives. </h4>
             </div>
             <div class="team col-md-6 text-center"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/lee_m.jpg"></a>
@@ -446,7 +491,7 @@
         </div>
     </div>
 
-    <div class="row">
+    <div class="row" id='workshop6'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h5>
@@ -455,8 +500,12 @@
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-6">
-                <h5> May 28, 11:00 - 12:30 and 14:00 - 15:30</h5>
-                <h4> More info here!</h4>
+                <h2> May 28, 11:00 - 12:30 and 14:00 - 15:30</h2>
+                <h4> Former World Bank Economist and current expert in helping social entrepreneurs scale up, 
+                Isabel will answer some of the critical questions companies and organizations often face at 
+                this stage. This workshop will provide you with a framework to help you understand the different 
+                pathways to scale, and challenge you to rethink and reassess the strategy, operations, 
+                and systems needed for greater impact. </h4>
             </div>
             <div class="team col-md-6 text-center"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/isabel.jpg"></a>
@@ -466,6 +515,7 @@
             </div>
         </div>
     </div>
+</div>
 
 
 </div>
