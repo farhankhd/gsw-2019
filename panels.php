@@ -6,7 +6,7 @@
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/agenda_header.png');">
     <div class="header-overlay">
     <h1 class="parallax-text">
-        Content Overiew
+        Content Overview
     </h1>
     </div>
     <div class="blob-box">
