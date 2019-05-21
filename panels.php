@@ -170,8 +170,8 @@
             <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/nick.jpg"></a>
                 <div class="team-name">Nick Meyer</div>
-                <div class="team-role">Senior Lecturer  </div>
-                <div class="team-area">MIT & CPO, Relativity6L</div>
+                <div class="team-role">Co-Founder at Relativity6  </div>
+                <div class="team-area">Senior Lecturer at MIT Sloan</div>
             </div>
             <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/chris_h.jpg"></a>

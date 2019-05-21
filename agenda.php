@@ -99,7 +99,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 11:30 - 3:30</h2>
+                <h2 class="agenda-time"> 11:30 - 13:30</h2>
             </div>
             <div class="col-sm-6">
                 <a href="efair.php"><div class="agenda-showcase">
