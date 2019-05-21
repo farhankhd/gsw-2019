@@ -3,6 +3,10 @@
     include('templates/nav-bar.php');
 ?>
 
+<head>
+    <meta http-equiv="refresh" content="0; URL='https://gsw.mit.edu/2019/app.php'" />
+</head>
+
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('images/launch/bogota.png');">
     <div class="header-overlay">
         <h1 class="parallax-text">
