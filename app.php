@@ -6,7 +6,7 @@
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('images/launch/bogota.png');">
     <div class="header-overlay">
         <h1 class="parallax-text">
-        APP Landing Page
+        APP
         </h1>
     </div>
     <div class="blob-box">
@@ -19,16 +19,38 @@
 
 <div class="section">
     <div class="text-center">
-        <h1> APP LANDING PAGE</h1>
-        <div class="col-lg-12" style="max-width: 100%">
-            <img src='images/launch/iphone.png' style="max-width: 80%">
+        <h2> Conference App</h2>
+        <div class='row vertical-align'>
+            <div class='col-md-6'>
+                <h4 style='text-align: justify'>Get our free app to: </h4>
+                <div class='row'>
+                    <h4><ul style='color: white; text-align: justify'>
+                        <li>Connect with speakers and other attendees
+                        <li>Access the schedule and speaker profiles</li>
+                        <li>Navigate the venue using an interactive map</li>
+                        <li>Vote for Startup Showcase winner</li>
+                        <li>Receive live announcements</li>
+                    </ul></h4>
+                </div>
+            </div>
+            <div class='col-md-6'>
+                <div class='col-md-6'>
+                    <a href='https://itunes.apple.com/us/app/mit-gsw-2019/id1458106305?ls=1&mt=8'><img class='app-logo' src='images/logo/apple.svg'></a>
+                </div>
+                <div class='col-md-6'>
+                    <a href='https://play.google.com/store/apps/details?id=edu.mit.eeeh6p'><img class='app-logo' src='images/logo/google.png'></a>
+                </div>
+            </div>
+        
         </div>
+        
+    
     </div>
 </div>
 <br>
 <div class="section">
     <div class="text-center">
-        <h4>FIND OUT MORE</h4>
+        <h4>Coming soon</h4>
     </div>
 </div>
 

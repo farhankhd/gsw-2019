@@ -89,24 +89,24 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Ask Me Anything: Startup Founders</h4>
+                <a href='panels.php#panel1'><h4 style="font-weight: 900" class="agenda-black"> Ask Me Anything: Startup Founders</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Innovation For Impact</h4>
+                <a href='panels.php#fireside1'><h4 style="font-weight: 900" class="agenda-black"> Innovation For Impact</h4></a>
             </div>
             <div class="col-sm-3"></div>
         </div>
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 11:30 - 3:30</h2>
+                <h2 class="agenda-time"> 11:30 - 13:30</h2>
             </div>
             <div class="col-sm-6">
-                <div class="agenda-showcase">
+                <a href="efair.php"><div class="agenda-showcase">
                     <h2 class="agenda-black"> Startup Showcase</h2>
-                    <h4 style="font-weight: 900" class="agenda-black"> Showcasing Startups from our business plan competition</h4>
+                    <a href='bpc.php'><h4 style="font-weight: 900" class="agenda-black"> Showcasing Startups from our business plan competition</h4></a>
                 </div>
-                
+                </a>
                 <br>
                 <h4 style="font-weight: 900" class="agenda-black"> Lunch</h4>
             </div>
@@ -119,10 +119,10 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Advanced Technologies and Social Entrepreneurship</h4>
+                <a href='panels.php#panel2'><h4 style="font-weight: 900" class="agenda-black"> Advanced Technologies and Social Entrepreneurship</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> The Insights of a Serial Entrepreneur</h4>
+                <a href='panels.php#fireside2'><h4 style="font-weight: 900" class="agenda-black"> Insights of a Serial Entrepreneur</h4></a>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -133,9 +133,9 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Entrepreneurship 101</h4>
-                <h4 style="font-weight: 900" class="agenda-black"> How to be a Founder and a Manager</h4>
-                <h4 style="font-weight: 900" class="agenda-black"> Creaing a Business Plan</h4>
+                <a href='panels.php#workshop1'><h4 style="font-weight: 900" class="agenda-black"> Entrepreneurship 101</h4></a>
+                <a href='panels.php#workshop2'><h4 style="font-weight: 900" class="agenda-black"> How to be a Founder and a Manager</h4></a>
+                <a href='panels.php#workshop3'><h4 style="font-weight: 900" class="agenda-black"> Creating a Business Plan</h4></a>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -188,10 +188,12 @@
         <br><br><br><br>
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 08:15 - 08:30</h2>
+                <h2 class="agenda-time"> 08:00 - 08:15</h2>
             </div>
             <div class="col-sm-6">
-                <h5 class="agenda-black"> Welcome</h5>
+                <h5 style="text-decoration: underline;" class="agenda-black"> Plenary</h5>
+                <a href="speakers.php#adriana"><h2 style="font-weight: 900" class="agenda-black"> President Iván Duque</h2></a>
+                <!-- <i><h5 class="agenda-black"> Google Inc., Vice President Spanish Speaking Latin America</h5></i> -->
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -199,7 +201,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 08:30 - 09:15</h2>
+                <h2 class="agenda-time"> 08:15 - 09:00</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
@@ -211,7 +213,7 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 09:15 - 10:00</h2>
+                <h2 class="agenda-time"> 09:00 - 09:45</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Coffee Break</h5>
@@ -221,14 +223,14 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 10:00 - 11:00</h2>
+                <h2 class="agenda-time"> 09:45 - 10:45</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Building the Colombian Entrepreneurial Ecosystem</h4>
+                <a href='panels.php#panel3'><h4 style="font-weight: 900" class="agenda-black"> Building the Colombian Entrepreneurial Ecosystem</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> An Investor's Perspective</h4>
+                <a href='panels.php#fireside3'><h4 style="font-weight: 900" class="agenda-black"> An Investor's Perspective</h4></a>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -243,16 +245,16 @@
                 </div>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> 10 Ways to Get Funded</h4>
-                <h4 style="font-weight: 900" class="agenda-black"> Product Design</h4>
-                <h4 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h4>
+                <a href='panels.php#workshop4'><h4 style="font-weight: 900" class="agenda-black"> How to Raise Venture Capital</h4></a>
+                <a href='panels.php#workshop5'> <h4 style="font-weight: 900" class="agenda-black"> Product Design</h4></a>
+                <a href='panels.php#workshop6'><h4 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h4></a>
             </div>
             <div class="col-sm-3"></div>
         </div>
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 12:30 - 14:00</h2>
+                <h2 class="agenda-time"> 12:30 - 13:45</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Lunch</h5>
@@ -262,17 +264,21 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 14:00 - 15:30</h2>
+                <h2 class="agenda-time"> 13:45 - 15:15</h2>
             </div>
             <div class="col-sm-6">
                 <div class="agenda-showcase">
                     <h2 class="agenda-black"> Business Plan Competition Presentations</h2>
                 </div>
                 <br>
+                <h5 style="text-decoration: underline;" class="agenda-black"> Know Your Customer: Customer Service?</h5>
+                <br>
+                <h5 style="text-decoration: underline;" class="agenda-black"> Apps.co</h5>
+                <br>
                     <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
-                    <h4 style="font-weight: 900" class="agenda-black"> 10 Ways to Get Funded</h4>
-                    <h4 style="font-weight: 900" class="agenda-black"> Product Design</h4>
-                    <h4 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h4>
+                    <a href='panels.php#workshop5'><h4 style="font-weight: 900" class="agenda-black"> Product Design</h4></a>
+                    <a href='panels.php#workshop6'><h4 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h4></a>
+
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -316,20 +322,22 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 17:15 - 18:00</h2>
+                <h2 class="agenda-time"> 18:00 - 18:10</h2>
             </div>
             <div class="col-sm-6">
-                <h5 class="agenda-black"> Closing Remarks</h5>
+                <h5 style="text-decoration: underline;" class="agenda-black"> Closing</h5>
+                <a href="speakers.php#danielle"><h2 style="font-weight: 900" class="agenda-black"> Sylvia Constain</h2></a>
+                <!-- <i><h5 class="agenda-black"> Professor, MIT Sloan; Vice Chairman, One Laptop Per Child</h5></i> -->
             </div>
             <div class="col-sm-3"></div>
         </div>
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 19:00 - 21:00</h2>
+                <h2 class="agenda-time"> 18:10 - 21:00</h2>
             </div>
             <div class="col-sm-6">
-                <h5 class="agenda-black"> Closing Gala & Reception</h5>
+                <h5 class="agenda-black"> Closing Gala, Awards Ceremony & Reception</h5>
             </div>
             <div class="col-sm-3"></div>
         </div>
