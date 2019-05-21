@@ -141,6 +141,16 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
                             <div class="col-md-3">
                             </div>
                         </div>
+                        <br><br>
+                        <div class="row  vertical-align">
+                            <div class="col-md-4">
+                            </div>
+                            <div class="col-md-4">
+                                <img src="images/logo/pulsa.png" class="partner-logo">
+                            </div>
+                            <div class="col-md-4">
+                            </div>
+                        </div>
                         <br>
                     </div>
                     <br><br><br>
