@@ -4,7 +4,7 @@
 ?>
 
 <head>
-    <!-- <meta http-equiv="refresh" content="0; URL='https://gsw.mit.edu/2019/app.php'" /> -->
+    <meta http-equiv="refresh" content="0; URL='https://gsw.mit.edu/2019/app.php'" />
 </head>
 
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('images/launch/bogota.png');">
@@ -38,10 +38,11 @@
                 </div>
             </div>
             <div class='col-md-6'>
-                <div class='col-md-6'>
+            <br><br>
+                <div class='row'>
                     <a href='https://itunes.apple.com/us/app/mit-gsw-2019/id1458106305?ls=1&mt=8'><img class='app-logo' src='images/logo/apple.png'></a>
                 </div>
-                <div class='col-md-6'>
+                <div class='row'>
                     <a href='https://play.google.com/store/apps/details?id=edu.mit.eeeh6p'><img class='app-logo' src='images/logo/google.png'></a>
                 </div>
             </div>
