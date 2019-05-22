@@ -50,7 +50,6 @@
 <br>
 <div class="section">
     <div class="text-center">
-        <h4>Coming soon</h4>
     </div>
 </div>
 
