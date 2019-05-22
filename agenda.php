@@ -271,10 +271,6 @@
                     <h2 class="agenda-black"> Business Plan Competition Presentations</h2>
                 </div>
                 <br>
-                <h5 style="text-decoration: underline;" class="agenda-black"> Know Your Customer: Customer Service?</h5>
-                <br>
-                <h5 style="text-decoration: underline;" class="agenda-black"> Apps.co</h5>
-                <br>
                     <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
                     <a href='panels.php#workshop5'><h4 style="font-weight: 900" class="agenda-black"> Product Design</h4></a>
                     <a href='panels.php#workshop6'><h4 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h4></a>
