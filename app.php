@@ -4,7 +4,7 @@
 ?>
 
 <head>
-    <meta http-equiv="refresh" content="0; URL='https://gsw.mit.edu/2019/app.php'" />
+    <!-- <meta http-equiv="refresh" content="0; URL='https://gsw.mit.edu/2019/app.php'" /> -->
 </head>
 
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('images/launch/bogota.png');">
@@ -26,9 +26,9 @@
         <h2> Conference App</h2>
         <div class='row vertical-align'>
             <div class='col-md-6'>
-                <h4 style='text-align: justify'>Get our free app to: </h4>
+                <h4 style='text-align: left'>Get our free app to: </h4>
                 <div class='row'>
-                    <h4><ul style='color: white; text-align: justify'>
+                    <h4><ul style='color: white; text-align: left'>
                         <li>Connect with speakers and other attendees
                         <li>Access the schedule and speaker profiles</li>
                         <li>Navigate the venue using an interactive map</li>
@@ -39,7 +39,7 @@
             </div>
             <div class='col-md-6'>
                 <div class='col-md-6'>
-                    <a href='https://itunes.apple.com/us/app/mit-gsw-2019/id1458106305?ls=1&mt=8'><img class='app-logo' src='images/logo/apple.svg'></a>
+                    <a href='https://itunes.apple.com/us/app/mit-gsw-2019/id1458106305?ls=1&mt=8'><img class='app-logo' src='images/logo/apple.png'></a>
                 </div>
                 <div class='col-md-6'>
                     <a href='https://play.google.com/store/apps/details?id=edu.mit.eeeh6p'><img class='app-logo' src='images/logo/google.png'></a>
