@@ -22,11 +22,80 @@
         <br>
     </div>
     <div class="row">
+        <p class="section-header section-header-page" style="color: white">Plenary</p>
+
+    </div>
+
+    <div class="row" id='keynote-kane'>
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> Plenary</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content vertical-align">
+            <div class="col-md-8">
+                <h2> May 28, 09:00-09:30</h2>
+                <h4> More info coming soon!</h4>
+            </div>
+            <div class="team col-md-4 text-center"><a href="speakers.php#iván">
+                <img class="keynote-picture" src="images/speaker-img/ivan.png"></a>
+                <div class="team-name">President Iván Duque Márquez</div>
+                <div class="team-role">President of Colombia</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row" id='keynote-lester'>
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> Plenary</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <div class="col-md-8">
+                <h2> May 27, 08:15 - 08:30</h2>
+                <h4> More info coming soon!</h4>
+            </div>
+            <div class="team col-md-4 text-center"><a href="speakers.php#marta">
+                <img class="keynote-picture" src="images/speaker-img/marta.jpg"></a>
+                <div class="team-name">Marta Lucia Ramírez</div>
+                <div class="team-role">Vice President of Colombia</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row" id='keynote-adriana'>
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black">  Plenary</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <div class="col-md-8">
+                <h2> May 28, 18:15 - 18:30</h2>
+                <h4> More info coming soon!  </h4>
+            </div>
+            <div class="team col-md-4 text-center"><a href="speakers.php#adriana">
+                <img class="keynote-picture" src="images/speaker-img/adriana.png"></a>
+                <div class="team-name">Sylvia Constaín </div>
+                <div class="team-role">MINISTER OF INFORMATION AND COMMUNICATION TECHNOLOGIES</div>
+                <div class="team-area">MINTIC Colombia </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div class="section">
+    <div class="row">
         <p class="section-header section-header-page" style="color: white">Keynotes</p>
 
     </div>
 
-    <div class="row" id='workshop1'>
+    <div class="row" id='keynote-kane'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Learning to Change the World-The story of One Laptop per Child</h5>
@@ -54,7 +123,7 @@
         </div>
     </div>
 
-    <div class="row" id='workshop2'>
+    <div class="row" id='keynote-lester'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Keynote</h5>
@@ -80,7 +149,7 @@
         </div>
     </div>
 
-    <div class="row" id='workshop3'>
+    <div class="row" id='keynote-adriana'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black">  How AI is transforming business</h5>
@@ -105,17 +174,26 @@
         </div>
     </div>
 
-    <div class="row" id='workshop5'>
+    <div class="row" id='keynote-danielle'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black"> Keynote</h5>
+                <h5 style="font-weight: 900" class="agenda-black">The Role of Space Technology to Support Sustainable Development</h5>
             </div>
         </div>
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-8">
-                <h2> May 28, 18:00-18:10</h2>
-                <h4> More info coming soon!</h4>
+                <h2> May 28, 17:30-18:15</h2>
+                <h4> Danielle leads the new Space Enabled Research Group at the MIT Media Lab, which advances 
+                justice in Earth’s complex 
+                systems by increasing access to space technology for development leaders around the 
+                world and by applying space technology in support of the Sustainable Development 
+                Goals, as curated by the United Nations. During these projects, Space Enabled 
+                implements an integrated design process that includes techniques from engineering
+                 design, art, social science, complex systems modeling, satellite engineering 
+                 and data science. During this talk, Danielle will discuss the role of space
+                  to spur innovation and development and give examples of projects 
+                  pursued by the Space Enabled Research Group.</h4>
             </div>
             <div class="team col-md-4 text-center"><a href="speakers.php#danielle">
                 <img class="keynote-picture" src="images/speaker-img/danielle.png"></a>
@@ -125,6 +203,7 @@
             </div>
         </div>
     </div>
+
 </div>
 
 <div class="section">
@@ -351,10 +430,11 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h2> May 28, 15:30 - 16:30</h2>
-            <h4>Colombia is a growing hub for innovation. This panel features some of Colombia's leading entrepreneurs 
-            who have scaled companies from their foundations. Join this session for the opportunity to hear a diverse 
-            group of entrepreneurs share the lessons they learned and the biggest challenges they faced in the startup world.</h4>
+            <h2> May 28, 15:45 - 16:45</h2>
+            <h4>Colombia is a growing hub for innovation. This panel features some of Colombia's 
+            leading entrepreneurs who have scaled companies from their foundations. Join this
+             session for the opportunity to hear a diverse group of entrepreneurs share the lessons
+              they learned and the biggest challenges they faced in the startup world.</h4>
         </div>
 
         <div class="col-md-12 text-center">
@@ -368,33 +448,28 @@
                 <img class="panel-picture" src="images/speaker-img/felipe.jpg"></a>
                 <div class="team-name">Felipe Chavez</div>
                 <div class="team-role">CEO & Co-founder</div>
-                <div class="team-area">Kiwi Campus<</div>
+                <div class="team-area">Kiwi Campus</div>
             </div>
-            <div class="team col-md-4"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/susana.jpg"></a>
-                <div class="team-name">Susana Robledo</div>
-                <div class="team-role">CEO & Founder</div>
-                <div class="team-area"> Cube Care Company</div>
-            </div>
-        </div>
-        <div class="col-md-12 text-center">
             <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/julian.jpg"></a>
-                <div class="team-name">Julian Torres Gomez</div>
+                <div class="team-name">Julián Torres Gomez</div>
                 <div class="team-role">CEO & Founder </div>
                 <div class="team-area">Fitpal</div>
             </div>
-            <div class="team col-md-4"><a href="speakers.php">
+        </div>
+        <div class="col-md-12 text-center">
+            
+            <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/ignacio.jpg"></a>
                 <div class="team-name">Ignacio Vidal</div>
                 <div class="team-role">Founder & Executive Director</div>
                 <div class="team-area">Socialab Colombia</div>
             </div>
-            <div class="team col-md-4"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/ignacio2.jpg"></a>
-                <div class="team-name">Ignacio Gaitan</div>
-                <div class="team-role">Undefined</div>
-                <div class="team-area">Undefined</div>
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/ignacio.jpeg"></a>
+                <div class="team-name">Ignacio Gaitán Villegas (Moderator)</div>
+                <div class="team-role">President and CEO</div>
+                <div class="team-area">iNNpulsa</div>
             </div>
         </div>
     </div>
@@ -500,7 +575,7 @@
                 <div class="team-area">Colombia Fintech</div>
             </div>
             <div class="team col-md-4"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/juan.jpg"></a>
+                <img class="panel-picture" src="images/speaker-img/julian.jpeg"></a>
                 <div class="team-name">Julian Robledo</div>
                 <div class="team-role">Director of Business Services</div>
                 <div class="team-area">CCB</div>
@@ -516,12 +591,12 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h2> May 28, 15:30 - 16:30</h2>
-            <h4> Join us for an exciting conversation between leading experts from two of the 
-            largest tech organizations: MIT and Amazon. Kathleen will offer her insights on the 
-            future of human and computing as well as how to create ventures in this space, and 
-            Jeffrey will share his international experience working with startups and 
-            governments on big data, cybersecurity, disaster response, and more. </h4>
+            <h2> May 28, 15:45 - 16:45</h2>
+            <h4> Join us for an exciting conversation between leading experts from two of 
+            the largest tech organizations: MIT and Amazon. Kathleen will offer her insights
+             on the future of human and computing as well as how to create ventures in 
+             this space, and Jeffrey will share his international experience working 
+             with startups and governments on big data, cybersecurity, disaster response, and more. </h4>
         </div>
 
         <div class="col-md-12 text-center">
