@@ -64,7 +64,12 @@
         <div class="col-md-12 panel-content">
             <div class="col-md-8">
                 <h2> May 27, 17:00-17:45</h2>
-                <h4> More info coming soon!</h4>
+                <h4> In this talk, Professor Lester will talk about some of the knowledge and 
+                practices that have helped thousands of companies launch from MIT.  He will 
+                also talk about MIT’s work around the world in education, research, and innovation, 
+                and why this is such an important part of our mission.  Additionally, he will 
+                talk about the importance of taking the societal implications of technology into 
+                account when working in science and technology.</h4>
             </div>
             <div class="team col-md-4 text-center"><a href="speakers.php#richard">
                 <img class="keynote-picture" src="images/speaker-img/richard.jpg"></a>
@@ -78,18 +83,18 @@
     <div class="row" id='workshop3'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black"> Keynote: Qué significa transformación Hoy</h5>
+                <h5 style="font-weight: 900" class="agenda-black">  How AI is transforming business</h5>
             </div>
         </div>
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-8">
                 <h2> May 28, 08:15-09:00</h2>
-                <h4> In this talk, Adriana will explain how artificial intelligence allows companies 
-                to transform themselves. Although its rise is recent, AI has become an important 
-                ally for entrepreneurs. It is a powerful tool that helps companies adapt to the 
-                increasingly changing needs of customers, achieve better results, distribute resources, 
-                and transform to the next level. </h4>
+                <h4> In this talk, Adriana will explain how artificial intelligence allows companies to 
+                transform themselves. Although its rise is recent, AI has become an important ally for 
+                entrepreneurs. It is a powerful tool that helps companies adapt to the increasingly 
+                changing needs of customers, achieve better results, distribute resources, and transform 
+                to the next level.  </h4>
             </div>
             <div class="team col-md-4 text-center"><a href="speakers.php#adriana">
                 <img class="keynote-picture" src="images/speaker-img/adriana.png"></a>
@@ -294,18 +299,28 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h2> May 28, 10:00 - 11:00</h2>
-            <h4> More info coming soon! </h4>
+            <h2> May 28, 10:15 - 11:15</h2>
+            <h4> A key goal of the MIT Global Startup Workshop is to identify challenges unique to 
+            entrepreneurial ecosystems around the world and understand how an essential combination 
+            of MIT and local expertise can be brought to bear on these challenges. This panel will 
+            explore how important stakeholders in the Colombian entrepreneurial ecosystem can work 
+            together to accelerate and sustain growth.</h4>
         </div>
 
         <div class="col-md-12 text-center">
-            <div class="team col-md-6"><a href="speakers.php">
+            <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/travis.jpg"></a>
                 <div class="team-name">Travis Hunter (Moderator)</div>
                 <div class="team-role">Program Manager</div>
                 <div class="team-area">MIT Regional Entrepreneurship Acceleration Program</div>
             </div>
-            <div class="team col-md-6"><a href="speakers.php">
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/fran.jpeg"></a>
+                <div class="team-name">Francisco Matiz</div>
+                <div class="team-role">Entrepreneurship Manager</div>
+                <div class="team-area">EAN</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/diana.jpg"></a>
                 <div class="team-name">Diana Gaviria</div>
                 <div class="team-role">Executive Director</div>
@@ -314,14 +329,14 @@
         </div>
         <div class="col-md-12 text-center">
             <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/juan.jpg"></a>
-                <div class="team-name">Juan David </div>
+                <img class="panel-picture" src="images/speaker-img/juan.jpeg"></a>
+                <div class="team-name">Juan David Castaño Alzate (Moderator)</div>
                 <div class="team-role">Director of Macro-Business Articulation</div>
                 <div class="team-area">Cámara de Comercio de Bogotá</div>
             </div>
             <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/victor.jpg"></a>
-                <div class="team-name">Victor Munoz</div>
+                <img class="panel-picture" src="images/speaker-img/victor2.jpg"></a>
+                <div class="team-name">Victor Manuel Muñoz Rodriguez</div>
                 <div class="team-role">Advisor for Digital Transformation and Innovationr</div>
                 <div class="team-area">MinTIC</div>
             </div>
@@ -464,28 +479,31 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h2> May 28, 10:00 - 11:00</h2>
-            <h4> More info coming soon!</h4>
+            <h2> May 28, 10:15 - 11:15</h2>
+            <h4>Entrepreneurs looking for funding must navigate a complex system that never has 
+            enough money to go around. In this fireside chat, get the chance to look into the 
+            mind of experts who provide, manage, and strategize around capital and get a leg up 
+            when you decide to take the plunge and start fundraising yourself.</h4>
         </div>
 
         <div class="col-md-12 text-center">
             <div class="team col-md-4"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/edwin.jpg"></a>
-                <div class="team-name">Edwin Zacipa</div>
-                <div class="team-role">Undefined </div>
-                <div class="team-area">Undefined</div>
+                <img class="panel-picture" src="images/speaker-img/santi.jpeg"></a>
+                <div class="team-name">Santiago Suarez</div>
+                <div class="team-role">Co-Founder and CEO</div>
+                <div class="team-area">Addi</div>
             </div>
             <div class="team col-md-4"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/edwin.jpg"></a>
-                <div class="team-name">Juan Robledo</div>
-                <div class="team-role">Undefined </div>
-                <div class="team-area">Undefined</div>
+                <img class="panel-picture" src="images/speaker-img/edwin.png"></a>
+                <div class="team-name">Edwin Zácipa</div>
+                <div class="team-role">Managing Director </div>
+                <div class="team-area">Colombia Fintech</div>
             </div>
             <div class="team col-md-4"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/barb.jpg"></a>
-                <div class="team-name">Pierpaolo Barbieri</div>
-                <div class="team-role">CEO & Founder</div>
-                <div class="team-area">Ualá</div>
+                <img class="panel-picture" src="images/speaker-img/juan.jpg"></a>
+                <div class="team-name">Julian Robledo</div>
+                <div class="team-role">Director of Business Services</div>
+                <div class="team-area">CCB</div>
             </div>
         </div>
     </div>
@@ -593,9 +611,10 @@
         <div class="col-md-12 panel-content">
             <div class="col-md-6">
                 <h2> May 27, 14:45 - 16:15</h2>
-                <h4> As an entrepreneur-in-residence at MIT, Sorin is an expert in the founding and 
-                building of ideas into startups that scale. In this workshop you will learn how to make your market, 
-                product, and strategy fit together as well as better understand your business's competitive advantage.</h4>
+                <h4> As an entrepreneur-in-residence at MIT, Sorin is an expert in the founding and building 
+                of ideas into startups that scale. In this workshop you will learn how to create a product 
+                that appeals to the customer and suits your market. Sorin will run through the basics of
+                 understanding your business' competitive advantage and creating a successful business strategy. </h4>
             </div>
             <div class="team col-md-6 text-center"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/sorin.jpg"></a>
@@ -614,10 +633,12 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h2> May 28, 11:00 - 12:30 and 14:00 - 15:30</h2>
-            <h4> Santiago and Joaquin, both MIT Sloan School of Management MBAs, bring extensive experience in 
-            entrepreneurship and finance across the private and public sectors. The workshop will cover how to 
-            find the best finance partner for your business model, as well as what do you need to know to close a successful funding round.</h4>
+            <h2> May 28, 11:00 - 13:30</h2>
+            <h4> Learning how to raise capital is a crucial part of starting a business. Santiago and 
+            Joaquin, both MIT Sloan School of Management MBAs, bring extensive experience in 
+            entrepreneurship and finance across the private and public sectors. The workshop will 
+            cover how to design a financial plan tailored to your business model, find a finance 
+            partner, and close a successful funding round.</h4>
         </div>
 
         <div class="col-md-12 text-center">
@@ -645,12 +666,13 @@
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-6">
-                <h2> May 28, 11:00 - 12:30 and 14:00 - 15:30</h2>
-                <h4> Product. Service. Experience. The world is changing rapidly and companies are realizing they need to not 
-                simply satisfy basic functional needs, but allow their products to interact richly within a rapidly growing 
-                service environment—or risk being cast aside. MIT Media Lab lecturer and VP Design of Continuum Lee Moreau's 
-                interactive presentation will explore how human-centered design methods can be used to help companies 
-                integrate new technology experiences into our everyday lives. </h4>
+                <h2> May 28, 11:00 - 13:30 and 14:00 - 15:30</h2>
+                <h4> Product. Service. Experience. The world is changing rapidly and companies are 
+                realizing they need to not only satisfy basic functional needs, but also allow their 
+                products to interact richly within a rapidly growing service environment—or risk being 
+                cast aside. MIT Media Lab lecturer and the VP Design of Continuum, Lee's interactive 
+                presentation will explore how human-centered design methods can be used to help 
+                companies integrate new technology experiences into our everyday lives.  </h4>
             </div>
             <div class="team col-md-6 text-center"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/lee_m.jpg"></a>
@@ -670,12 +692,12 @@
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-6">
-                <h2> May 28, 11:00 - 12:30 and 14:00 - 15:30</h2>
-                <h4> Former World Bank Economist and current expert in helping social entrepreneurs scale up, 
-                Isabel will answer some of the critical questions companies and organizations often face at 
-                this stage. This workshop will provide you with a framework to help you understand the different 
-                pathways to scale, and challenge you to rethink and reassess the strategy, operations, 
-                and systems needed for greater impact. </h4>
+                <h2> May 28, 11:00 - 13:30 and 14:00 - 15:30</h2>
+                <h4> Former World Bank economist and current expert in helping social entrepreneurs 
+                scale up, Isabel will answer some of the critical questions companies and organizations 
+                often face when looking to expand. This workshop will provide you with a framework 
+                to help you understand the different pathways to scale, and challenge you to rethink 
+                and reassess the strategy, operations, and systems needed for greater impact. </h4>
             </div>
             <div class="team col-md-6 text-center"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/isabel.jpg"></a>
