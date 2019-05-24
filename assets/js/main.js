@@ -48,7 +48,7 @@ function linkify(inputText) {
 }
 
 function getSpeakers() {
-    var filename = 'data/bios2.csv'
+    var filename = 'data/bios-new.csv'
     Papa.parse(filename, {
         download: true,
         header: true,
