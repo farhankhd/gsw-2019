@@ -36,18 +36,14 @@
         <div class="col-md-12 panel-content vertical-align">
             <div class="col-md-8">
                 <h2> May 27, 08:45-09:30</h2>
-                <h4> The One Laptop per Child (OLPC) initiative was born in MIT’s Media Lab where a 
-                “Children’s computer” was designed and tested for global deployment. OLPC was the 
-                first major technology initiative in the education space and its mission was to 
-                target the bottom of the pyramid countries and provide laptops that utilized the 
-                internet and brought the world “library” to the poorest and most remote parts of 
-                the earth. As President, Chuck provided the business direction to a project that 
-                delivered over 3 million computers worldwide, as well as the educational software 
-                and services to make the deployments successful. OLPC has been credited with forcing 
-                the computer and software giants of the world to pay attention to the market opportunity 
-                for education technology in the developing world and price aggressively....which has 
-                led to over 50 million computers to be distributed within this Marketplace. 
-                The challenges of the nonprofit world will be highlighted in this keynote speech.</h4>
+                <h4> The One Laptop per Child (OLPC) initiative was born in MIT’s Media Lab and 
+                was the first major technology initiative in the education space. Its mission was 
+                to target the bottom-of-the-pyramid countries, providing laptops that brought the 
+                world “library” to the poorest and most remote parts of the Earth. As President, 
+                Chuck provided the business direction to a project that delivered over 3 million 
+                computers worldwide as well as the educational software and services to make the
+                 deployments successful. In this keynote, he will highlight the challenges of the 
+                 nonprofit world.</h4>
             </div>
             <div class="team col-md-4 text-center"><a href="speakers.php#charles">
                 <img class="keynote-picture" src="images/speaker-img/charles.png"></a>
@@ -141,9 +137,12 @@
         <br>
         <div class="col-md-12 panel-content">
             <h2> May 27, 10:15 - 11:30</h2>
-            <h4> Starting a company is no easy task, and while there are NO set rules for succeeding, experience can prove very helpful. 
-            Hear about 5 entrepreneurs in this session that will discuss some of the challenges they faced and the lessons they learned 
-            on their journeys to becoming leading innovators.</h4>
+            <h4> Starting a company is no easy task, and while there are no set rules 
+            for succeeding, experience can prove very helpful. This panel features 
+            startup founders from various industries, from agrotech to education, gaming 
+            to banking. Hear from five entrepreneurs who will discuss what they learned 
+            on their journeys to becoming leading innovators and the keys to being a  
+            successful founder.</h4>
         </div>
 
         <div class="col-md-12 text-center">
@@ -191,18 +190,20 @@
         <br>
         <div class="col-md-12 panel-content">
             <h2> May 27, 13:30 - 14:30</h2>
-            <h4> With the tech industry expanding more rapidly than ever, there are countless opportunities to use tech for your next big idea. Identifying an 
-            open problem that can be addressed with a simple and 
-            effective solution is challenging, and this panel features experts who will share first-hand experiences on how technology helped to transform
-             ideas into ventures that contribute back to society. </h4>
+            <h4> With the tech industry expanding more rapidly than ever, there are countless 
+            opportunities to use tech for your next big idea. Identifying an open problem that 
+            can be addressed with a simple and effective solution is challenging, and this panel 
+            features experts who will share first-hand experiences on how technology helped to 
+            transform ideas into ventures that contribute back to society. 
+</h4>
         </div>
 
         <div class="col-md-12 text-center">
             <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/carolina.png"></a>
                 <div class="team-name">Carolina Medina Gutierrez</div>
-                <div class="team-role">COO & Founder </div>
-                <div class="team-area">Vincu</div>
+                <div class="team-role">Entrepreneur </div>
+                <div class="team-area">Consultant</div>
             </div>
             <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/diego.jpg"></a>
@@ -229,6 +230,58 @@
                 <div class="team-name">Megan Mitchell</div>
                 <div class="team-role">Acting Director</div>
                 <div class="team-area">MIT Legatum Center for Development & Entrepreneurship </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row" id='panel-social'>
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black">Pathways to Investment </h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <h2> May 27, 14:45 - 16:15</h2>
+            <h4> Raising capital is one often one of the most challenging steps in the entrepreneurial 
+            journey. This can be even more difficult in Colombia, where capital is hard to come by, 
+            if you even know where to look. In this panel, hear about what regional entities are doing
+             to close this gap, and help entrepreneurs reach their investment goals.
+        </h4>
+        </div>
+
+        <div class="col-md-12 text-center">
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/javier.jpeg"></a>
+                <div class="team-name">Javier Villamizar</div>
+                <div class="team-role">Partner </div>
+                <div class="team-area">SoftBank Investment Advisors</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/catalina.jpeg"></a>
+                <div class="team-name">Catalina Gutierrez</div>
+                <div class="team-role">Business Solutions Manager</div>
+                <div class="team-area">Fintech Regional, NXTP Labs</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/oscar.jpeg"></a>
+                <div class="team-name">Óscar Rodríguez</div>
+                <div class="team-role">Innovation Vice President</div>
+                <div class="team-area">Grupo Bolívar</div>
+            </div>
+        </div>
+        <div class="col-md-12 text-center">
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/greg.jpeg"></a>
+                <div class="team-name">Gregorio Márquez</div>
+                <div class="team-role">Managing Director </div>
+                <div class="team-area">InQLab </div>
+            </div>
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/carlos.jpeg"></a>
+                <div class="team-name">Carlos Castañeda Olaya (Moderator)</div>
+                <div class="team-role">Open Innovation Leader</div>
+                <div class="team-area">Accenture </div>
             </div>
         </div>
     </div>
@@ -348,9 +401,10 @@
         <br>
         <div class="col-md-12 panel-content">
             <h2> May 27, 10:15 - 11:30</h2>
-            <h4> Enduring innovations are those that have the greatest impact. In this fireside chat, Luis and Isabel will address the key components of 
-            leading a social enterprise. Learn how Poverty Spotlight helps communities to lift themselves out of poverty and how to build, sustain, 
-            and grow your own community-based social enterprise. </h4>
+            <h4> Enduring innovations are those that have the greatest impact. In this fireside chat, 
+            Luis and Isabel will address the key components of leading a social enterprise. Learn how 
+            Poverty Spotlight helps communities to lift themselves out of poverty and how to build, 
+            sustain, and grow your own community-based social enterprise. </h4>
         </div>
 
         <div class="col-md-12 text-center">
@@ -378,9 +432,12 @@
         <br>
         <div class="col-md-12 panel-content">
             <h2> May 27, 13:30 - 14:30</h2>
-            <h4> As the co-founder of several companies, an angel investor, a judge on Shark Tank Colombia, and now the head of an accelerator, 
-            Alex has seen it all when it comes to entrepreneurship. A self-proclaimed “accidental entrepreneur”, Alex has witnessed many 
-            paths to success and knows what factors contribute most to a long-lasting venture. Join us to hear his story and his take on how to build a startup.</h4>
+            <h4> As the co-founder of several companies, an angel investor, a judge on Shark Tank Colombia, 
+            and now the head of an accelerator, Alex has seen it all when it comes to entrepreneurship. A 
+            self-proclaimed “accidental entrepreneur”, Alex has witnessed many paths to success and knows 
+            what factors contribute most to a long-lasting venture. Join us to hear his story and his 
+            take on how to build a startup. 
+</h4>
         </div>
 
         <div class="col-md-12 text-center">
@@ -483,11 +540,12 @@
         <div class="col-md-12 panel-content">
             <div class="col-md-6">
                 <h2> May 27, 14:45 - 16:15</h2>
-                <h4> The session will cover the various stages of most startups that plan on raising capital. It will cover what to say, 
-                but as importantly, what NOT to say to potential investors, co-founders, team members, and partners. Chris Howard, 
-                an entrepreneur and investor, will use examples of some of the world's most recognised companies to understand how 
-                they communicated what they did, and how they overcame the various early startup hurdles. A mixture of lecture, 
-                pitch workshop, and quiz - the session will be intense and fast paced. Bring a note book...</h4>
+                <h4> The workshop will cover the various stages of a startups during the process of raising 
+                capital. It will cover what to say, but as importantly, what *not* to say to potential 
+                investors, co-founders, team members, and partners. Chris will use examples of some of 
+                the world's most recognized companies to demonstrate how to communicate your ideas and 
+                how to overcome early-startup hurdles. A mixture of lecture, pitch workshop, and quiz -- 
+                the session will be intense and fast-paced. Bring a notebook.</h4>
             </div>
             <div class="team col-md-6 text-center"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/chris_h.jpg"></a>
@@ -508,7 +566,13 @@
         <div class="col-md-12 panel-content">
             <div class="col-md-6">
                 <h2> May 27, 14:45 - 16:15</h2>
-                <h4> More info coming soon!</h4>
+                <h4> A startup is a complex social landscape where the financial, social, and emotional are 
+                inherently tangled and rapidly shifting. Employees are often more like founders, and 
+                co-founders are often friends or family. In the stress of chasing speed, startup 
+                founders often ignore day-to-day people management. But startups are a marathon, 
+                and ignoring this crucial tactical skill is a sure path to the deadpool. In this workshop 
+                we talk milestones, hiring and firing, tools vs process, communication and feedback, 
+                and more as we learn how serial founders operate.</h4>
             </div>
             <div class="team col-md-6 text-center"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/nick.jpg"></a>
