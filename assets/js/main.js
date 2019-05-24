@@ -155,7 +155,7 @@ function getSpeakers() {
 
                     ' </div></div></div> </div>';
 
-                if (wait != 'Y') {
+                if (wait != 'Y' && name.length > 0) {
                     // $(speakerSmallMarkup).appendTo('#speaker-section-expanded');
                     // $(modalMarkup).appendTo('#speaker-modals');
                     if (currentSpeaker['Keynote'] == 'Y') {
