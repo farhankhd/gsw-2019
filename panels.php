@@ -33,7 +33,7 @@
             </div>
         </div>
         <br>
-        <div class="col-md-12 panel-content vertical-align">
+        <div class="col-md-12 panel-content">
             <div class="col-md-8">
                 <h2> May 28, 09:00-09:30</h2>
                 <h4> More info coming soon!</h4>
@@ -78,8 +78,8 @@
                 <h2> May 28, 18:15 - 18:30</h2>
                 <h4> More info coming soon!  </h4>
             </div>
-            <div class="team col-md-4 text-center"><a href="speakers.php#adriana">
-                <img class="keynote-picture" src="images/speaker-img/adriana.png"></a>
+            <div class="team col-md-4 text-center"><a href="speakers.php#sylvia">
+                <img class="keynote-picture" src="images/speaker-img/silvia.jpg"></a>
                 <div class="team-name">Sylvia Constaín </div>
                 <div class="team-role">MINISTER OF INFORMATION AND COMMUNICATION TECHNOLOGIES</div>
                 <div class="team-area">MINTIC Colombia </div>
