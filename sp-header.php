@@ -79,7 +79,7 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
             <br /><br><br><br>
             <div class="section-subheader text-center registration-message">
                 <h4><a href="index.php"> In English</a></h4>
-                <h4>¡Las inscripciones para el MIT GSW están abiertas!</h4>
+                <h4>¡Las inscripciones para el MIT GSW están abiertas! Los solicitantes pueden esperar escuchar sobre su estado de registro pronto</h4>
                 <h4 style="display: inline">Los aplicantes seleccionados recibirán entradas gratuitas al evento. Para más información consulte <a href="registration.php"   style="display: inline">la página de inscripción</a></h4>
             </div>
             <br><br>
