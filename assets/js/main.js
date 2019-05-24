@@ -59,7 +59,7 @@ function getSpeakers() {
             var rows = speakers.length
             console.log(rows);
 
-            for (var i = 1; i < rows; i++) {
+            for (var i = 0; i < rows; i++) {
                 var currentSpeaker = speakers[i];
                 console.log(currentSpeaker);
 
