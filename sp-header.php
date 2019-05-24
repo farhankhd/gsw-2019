@@ -79,7 +79,7 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
             <br /><br><br><br>
             <div class="section-subheader text-center registration-message">
                 <h4><a href="index.php"> In English</a></h4>
-                <h4>¡Las inscripciones para el MIT GSW están abiertas!</h4>
+                <h4>¡Las inscripciones para el MIT GSW están abiertas! Los solicitantes pueden esperar escuchar sobre su estado de registro pronto</h4>
                 <h4 style="display: inline">Los aplicantes seleccionados recibirán entradas gratuitas al evento. Para más información consulte <a href="registration.php"   style="display: inline">la página de inscripción</a></h4>
             </div>
             <br><br>
@@ -93,62 +93,49 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
                 <div class="container">
                     <div class="col-lg-12 text-center partner-border vertical-align" style="padding: 80px 0px 80px 0px ">
                         <div class="col-sm-6 text-center">
-                            <h1> ANFITRIÓN</h1>
+                            <h1 style='font-size: 3.5vw'> ANFITRIÓN</h1>
                         </div>
                         <div class="col-sm-6">
                             <a href="https://www.ccb.org.co/en">
-                                <img src="images/logo/bogota-team-logo.png" class="partner-logo" style="height: 100px">
+                                <img src="images/logo/bogota-team-logo.png" class="partner-logo partner-logo-mobile" style="height: 100px">
                             </a>
                         </div>
                     </div>
                     <br><br><br>
                     <div class="col-lg-12 text-center partner-border vertical-align">
                         <div class="col-sm-6 text-center">
-                            <h1> ALIADO PREMIUM</h1>
+                            <h1 style='font-size: 3.5vw'> ALIADO PREMIUM</h1>
                         </div>
                         <div class="col-sm-6">
-                        <a href="https://www.cetcolsubsidio.edu.co/"><img src="images/logo/colub-1.png" style="height: 110px;"> </a>
+                        <a href="https://www.cetcolsubsidio.edu.co/"><img src="images/logo/colub-1.png" style="height: 110px;" class='partner-logo-mobile'> </a>
                         </div>
                     </div>
                     <br><br><br>
                     <div class="col-lg-12 text-center partner-border" style="padding: 5px 0px 60px 0px ">
                         <div class="text-center">
-                            <h1> Patrocinadores</h1>
+                            <h1 style='font-size: 2.5vw'> Patrocinadores</h1>
                             <br>
                         </div>
-                        <div class="row  vertical-align">
-                            <div class="col-md-6">
-                                <img src="images/logo/mintic.png" class="partner-logo">
-                            </div>
-                            <div class="col-md-2">
-                                <img src="images/logo/hilton.png" class="partner-logo">
-                            </div>
-                            <div class="col-md-2">
-                                <img src="images/logo/softbank.png" class="partner-logo" style="max-height: 40px">
+                        <div class="row">
+                            <div style='display: block, margin: auto, text-align: center'>
+                                <img src="images/logo/mintic.png" class="partner-logo partner-logo-mobile">
+                                <img src="images/logo/hilton.png" class="partner-logo partner-logo-mobile">
+                                <img src="images/logo/softbank.png" class="partner-logo partner-logo-mobile" style="max-height: 70px">
                             </div>
                         </div>
                         <br><br>
 
-                        <div class="row vertical-align">
-                            <div class="col-md-3">
-                            </div>
-                            <div class="col-md-3">
+                        <div class="row">
+                            <div style='display: block, margin: auto, text-align: center'>
                                 <img src="images/logo/claro.png" class="partner-logo">
-                            </div>
-                            <div class="col-md-3">
                                 <img src="images/logo/sasin.png" class="partner-logo">
-                            </div>
-                            <div class="col-md-3">
                             </div>
                         </div>
                         <br><br>
-                        <div class="row  vertical-align">
-                            <div class="col-md-4">
-                            </div>
-                            <div class="col-md-4">
+                        <div class="row ">
+                            <div style='display: block, margin: auto, text-align: center'>
                                 <img src="images/logo/pulsa2.png" class="partner-logo">
-                            </div>
-                            <div class="col-md-4">
+                                <img src="images/logo/pulsa.png" class="partner-logo">
                             </div>
                         </div>
                         <br>
