@@ -212,7 +212,7 @@
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
                 <a href="speakers.php#adriana"><h2 style="font-weight: 900" class="agenda-black"> Adiana Norena</h2></a>
-                <i><h5 class="agenda-black"> Google Inc., Vice President Spanish Speaking Latin America</h5></i>
+                <i><h4 class="agenda-black"> Google Inc., Vice President Spanish Speaking Latin America</h4></i>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -224,7 +224,7 @@
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Plenary</h5>
                 <a href="speakers.php#adriana"><h2 style="font-weight: 900" class="agenda-black"> President Iván Duque</h2></a>
-                <i><h5 class="agenda-black"> President of Colombia</h5></i>
+                <i><h4 class="agenda-black"> President of Colombia</h4></i>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -332,7 +332,7 @@
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
                 <a href="speakers.php#danielle"><h2 style="font-weight: 900" class="agenda-black"> Danielle Wood</h2></a>
-                <i><h5 class="agenda-black"> Professor, MIT Media Lab; Director of MIT Space Enabled Resarch Group </h5></i>
+                <i><h4 class="agenda-black"> Professor, MIT Media Lab; Director of MIT Space Enabled Resarch Group </h4></i>
 
             </div>
             <div class="col-sm-3"></div>
@@ -345,7 +345,7 @@
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Closing</h5>
                 <a href="speakers.php#danielle"><h2 style="font-weight: 900" class="agenda-black"> Sylvia Constain</h2></a>
-                <i><h5 class="agenda-black"> Minister of Information and Communication Technologies</h5></i>
+                <i><h4 class="agenda-black"> Minister of Information and Communication Technologies</h4></i>
             </div>
             <div class="col-sm-3"></div>
         </div>
