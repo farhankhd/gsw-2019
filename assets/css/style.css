@@ -1741,7 +1741,7 @@ h6 {
     outline: 1px solid black;
     margin: 2%;
     padding: 2px;
-    box-shadow: 1px 1px 0px rgb(0, 0, 0), 2px 2px 0px rgb(0, 0, 0), 3px 3px 0px rgb(2, 2, 2), 4px 4px 0px rgb(0, 0, 0), 5px 5px 0px rgb(0, 0, 0), 6px 6px 0px rgb(0, 0, 0);
+    box-shadow: 1px 1px 0px #999, 2px 2px 0px #999, 3px 3px 0px #999, 4px 4px 0px #999, 5px 5px 0px #999, 6px 6px 0px #999;
 }
 
 .agenda-black {
