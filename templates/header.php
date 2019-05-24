@@ -91,64 +91,51 @@ function auto_version($file)
                 <div class="container">
                     <div class="col-lg-12 text-center partner-border vertical-align" style="padding: 80px 0px 80px 0px ">
                         <div class="col-sm-6 text-center">
-                            <h1> Our Host</h1>
+                            <h1 style='font-size: 3.5vw'> Our Host</h1>
                         </div>
                         <div class="col-sm-6">
                             <a href="https://www.ccb.org.co/en">
-                                <img src="images/logo/bogota-team-logo.png" class="partner-logo" style="height: 100px">
+                                <img src="images/logo/bogota-team-logo.png" class="partner-logo partner-logo-mobile" style="height: 100px">
                             </a>
                         </div>
                     </div>
                     <br><br><br>
                     <div class="col-lg-12 text-center partner-border vertical-align">
                         <div class="col-sm-6 text-center ">
-                            <h1> Partner</h1>
+                            <h1 style='font-size: 3.5vw'> Partner</h1>
                         </div>
                         <div class="col-sm-6">
-                            <a href="https://www.cetcolsubsidio.edu.co/"><img src="images/logo/colub-1.png" style="height: 110px;"> </a>
+                            <a href="https://www.cetcolsubsidio.edu.co/"><img src="images/logo/colub-1.png" class='partner-logo-mobile' style="height: 110px;"> </a>
                         </div>
                     </div>
                     <br><br><br>
                     <div class="col-lg-12 text-center partner-border vertical-center" style="padding: 5px 0px 60px 0px ">
                         <div class="text-center">
-                            <h1> Sponsors</h1>
+                            <h1 style='font-size: 2.5vw'> Sponsors</h1>
                             <br>
                         </div>
                         <br>
 
-                        <div class="row  vertical-align">
-                            <div class="col-md-6">
-                                <img src="images/logo/mintic.png" class="partner-logo">
-                            </div>
-                            <div class="col-md-2">
-                                <img src="images/logo/hilton.png" class="partner-logo">
-                            </div>
-                            <div class="col-md-4">
-                                <img src="images/logo/softbank.png" class="partner-logo" style="max-height: 70px">
+                        <div class="row">
+                            <div style='display: block, margin: auto, text-align: center'>
+                                <img src="images/logo/mintic.png" class="partner-logo partner-logo-mobile">
+                                <img src="images/logo/hilton.png" class="partner-logo partner-logo-mobile">
+                                <img src="images/logo/softbank.png" class="partner-logo partner-logo-mobile" style="max-height: 70px">
                             </div>
                         </div>
                         <br><br>
 
-                        <div class="row vertical-align">
-                            <div class="col-md-3">
-                            </div>
-                            <div class="col-md-3">
+                        <div class="row">
+                            <div style='display: block, margin: auto, text-align: center'>
                                 <img src="images/logo/claro.png" class="partner-logo">
-                            </div>
-                            <div class="col-md-3">
                                 <img src="images/logo/sasin.png" class="partner-logo">
-                            </div>
-                            <div class="col-md-3">
                             </div>
                         </div>
                         <br><br>
-                        <div class="row  vertical-align">
-                            <div class="col-md-4">
-                            </div>
-                            <div class="col-md-4">
+                        <div class="row ">
+                            <div style='display: block, margin: auto, text-align: center'>
                                 <img src="images/logo/pulsa2.png" class="partner-logo">
-                            </div>
-                            <div class="col-md-4">
+                                <img src="images/logo/pulsa.png" class="partner-logo">
                             </div>
                         </div>
                         
@@ -165,7 +152,7 @@ function auto_version($file)
                             <div class="col-sm-1">
                             </div>
 
-                            <img src="images/logo/logos-row.png" class="partner-logo"> 
+                            <img src="images/logo/logos-row.png" class="partner-logo partner-logo-mobile"> 
                         </div>
                         <br>
                         <img src="images/logo/mslao-logo.png" class="partner-logo">

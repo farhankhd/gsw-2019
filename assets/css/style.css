@@ -706,9 +706,9 @@ h6 {
 .partner-logo {
     /* width: 200px; */
     /* max-width: 50%; */
-    height: 80px;
+    height: 10vh;
     width: auto;
-    margin: 30 auto;
+    margin: 2%;
     /* padding: 20px; */
     padding-left: 20px;
     padding-right: 20px;
@@ -2010,6 +2010,12 @@ p {
 /* FOR MOBILE */
 
 @media only screen and (max-width: 479px) {
+    .partner-logo-mobile {
+        height: 50px;
+        width: auto;
+        margin: 30 auto;
+        padding: 20px;
+    }
     .logo-img {
         padding: 5%;
         text-align: center;
