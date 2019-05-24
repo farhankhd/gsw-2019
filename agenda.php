@@ -56,6 +56,7 @@
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Plenary</h5>
                 <a href="speakers.php"><h2 style="font-weight: 900" class="agenda-black"> Marta Lucia Ramirez</h2></a>
+                <i><h4 style="font-weight: 900" class="agenda-black"> Vice President of Colombia</h4></i>
                 <!-- <i><h5 class="agenda-black"> Vice President of Colombia</h5></i> -->
             </div>
             <div class="col-sm-3"></div>
@@ -68,6 +69,7 @@
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
                 <a href="speakers.php#charles"><h2 style="font-weight: 900" class="agenda-black"> Charles Kane</h2></a>
+                <i><h4 style="font-weight: 900" class="agenda-black"> Professor, MIT Sloan; Chairman, One Laptop Per Child</h4></i>
                 <!-- <i><h5 class="agenda-black"> Professor, MIT Sloan; Vice Chairman, One Laptop Per Child</h5></i> -->
             </div>
             <div class="col-sm-3"></div>
@@ -132,6 +134,9 @@
                 <h2 class="agenda-time"> 14:45 - 16:15</h2>
             </div>
             <div class="col-sm-6">
+                <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
+                <a href='panels.php#panel2'><h4 style="font-weight: 900" class="agenda-black"> Pathways to Invest</h4></a>
+                <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
                 <a href='panels.php#workshop1'><h4 style="font-weight: 900" class="agenda-black"> Entrepreneurship 101</h4></a>
                 <a href='panels.php#workshop2'><h4 style="font-weight: 900" class="agenda-black"> How to be a Founder and a Manager</h4></a>
@@ -157,6 +162,10 @@
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
                 <a href="speakers.php#richard"><h2 style="font-weight: 900" class="agenda-black"> Richard Lester</h2></a>
+                <i><h4 style="font-weight: 900" class="agenda-black"> Associate Provost for International Affairs, MIT</h4></i>
+                <i><h4 style="font-weight: 900" class="agenda-black"> Professor & Former Dept. Head, MIT Nuclear Science & Engineering</h4></i>
+
+
                 <!-- <i><h5 class="agenda-black"> Associate Provost for International Affairs, MIT</h5></i> -->
                 <!-- <i><h5 class="agenda-black"> Professor & Former Dept. Head, MIT Nuclear Science and Engineering </h5></i> -->
 
@@ -169,7 +178,7 @@
                 <h2 class="agenda-time"> 17:45 - 18:00</h2>
             </div>
             <div class="col-sm-6">
-                <h5 class="agenda-black"> Closing</h5>
+                <h5 class="agenda-black"> Closing Remarks</h5>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -191,13 +200,10 @@
                 <h2 class="agenda-time"> 08:00 - 08:15</h2>
             </div>
             <div class="col-sm-6">
-                <h5 style="text-decoration: underline;" class="agenda-black"> Plenary</h5>
-                <a href="speakers.php#adriana"><h2 style="font-weight: 900" class="agenda-black"> President Iván Duque</h2></a>
-                <!-- <i><h5 class="agenda-black"> Google Inc., Vice President Spanish Speaking Latin America</h5></i> -->
+                <h5 class="agenda-black"> Welcome</h5>
             </div>
             <div class="col-sm-3"></div>
         </div>
-
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
@@ -206,14 +212,26 @@
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
                 <a href="speakers.php#adriana"><h2 style="font-weight: 900" class="agenda-black"> Adiana Norena</h2></a>
-                <!-- <i><h5 class="agenda-black"> Google Inc., Vice President Spanish Speaking Latin America</h5></i> -->
+                <i><h5 class="agenda-black"> Google Inc., Vice President Spanish Speaking Latin America</h5></i>
+            </div>
+            <div class="col-sm-3"></div>
+        </div>
+
+        <div class="col-lg-12 agenda-white">
+            <div class="col-sm-3">
+                <h2 class="agenda-time"> 09:00 - 09:30</h2>
+            </div>
+            <div class="col-sm-6">
+                <h5 style="text-decoration: underline;" class="agenda-black"> Plenary</h5>
+                <a href="speakers.php#adriana"><h2 style="font-weight: 900" class="agenda-black"> President Iván Duque</h2></a>
+                <i><h5 class="agenda-black"> President of Colombia</h5></i>
             </div>
             <div class="col-sm-3"></div>
         </div>
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 09:00 - 09:45</h2>
+                <h2 class="agenda-time"> 09:30 - 10:15</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Coffee Break</h5>
@@ -223,7 +241,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 09:45 - 10:45</h2>
+                <h2 class="agenda-time"> 10:15-11:15</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
@@ -237,7 +255,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 11:00 - 12:30</h2>
+                <h2 class="agenda-time"> 11:30 - 13:30</h2>
             </div>
             <div class="col-sm-6">
                 <div class="agenda-showcase">
@@ -254,7 +272,7 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 12:30 - 13:45</h2>
+                <h2 class="agenda-time"> 13:00 - 14:00</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Lunch</h5>
@@ -264,7 +282,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 13:45 - 15:15</h2>
+                <h2 class="agenda-time"> 14:00-15:30</h2>
             </div>
             <div class="col-sm-6">
                 <div class="agenda-showcase">
@@ -272,16 +290,20 @@
                 </div>
                 <br>
                     <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
+                    <a href='panels.php#workshop5'><h4 style="font-weight: 900" class="agenda-black"> 100 Ways to Get Funded</h4></a>
                     <a href='panels.php#workshop5'><h4 style="font-weight: 900" class="agenda-black"> Product Design</h4></a>
                     <a href='panels.php#workshop6'><h4 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h4></a>
-
+                <br>
+                <h5 style="text-decoration: underline;" class="agenda-black"> Featured Talks</h5>
+                    <a href='panels.php#workshop5'><h4 style="font-weight: 900" class="agenda-black"> APPS.CO (14:00-14:30)</h4></a>
+                    <a href='panels.php#workshop6'><h4 style="font-weight: 900" class="agenda-black"> Know Your Customer (14:45-15:15)</h4></a>
             </div>
             <div class="col-sm-3"></div>
         </div>
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 15:30 - 16:30</h2>
+                <h2 class="agenda-time"> 15:45 - 16:45</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
@@ -295,7 +317,7 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 16:30 - 17:15</h2>
+                <h2 class="agenda-time"> 16:45 - 17:30</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Coffee Break</h5>
@@ -305,12 +327,12 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 17:15 - 18:00</h2>
+                <h2 class="agenda-time"> 17:30 - 18:15</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
                 <a href="speakers.php#danielle"><h2 style="font-weight: 900" class="agenda-black"> Danielle Wood</h2></a>
-                <!-- <i><h5 class="agenda-black"> Professor, MIT Media Lab; Director of MIT Space Enabled Resarch Group </h5></i> -->
+                <i><h5 class="agenda-black"> Professor, MIT Media Lab; Director of MIT Space Enabled Resarch Group </h5></i>
 
             </div>
             <div class="col-sm-3"></div>
@@ -318,19 +340,19 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 18:00 - 18:10</h2>
+                <h2 class="agenda-time"> 18:15 - 18:30</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Closing</h5>
                 <a href="speakers.php#danielle"><h2 style="font-weight: 900" class="agenda-black"> Sylvia Constain</h2></a>
-                <!-- <i><h5 class="agenda-black"> Professor, MIT Sloan; Vice Chairman, One Laptop Per Child</h5></i> -->
+                <i><h5 class="agenda-black"> Minister of Information and Communication Technologies</h5></i>
             </div>
             <div class="col-sm-3"></div>
         </div>
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 18:10 - 21:00</h2>
+                <h2 class="agenda-time"> 18:30 - 20:00</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Closing Gala, Awards Ceremony & Reception</h5>
