@@ -344,7 +344,7 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Closing</h5>
-                <a href="speakers.php#danielle"><h2 style="font-weight: 900" class="agenda-black"> Sylvia Constain</h2></a>
+                <a href="speakers.php#danielle"><h2 style="font-weight: 900" class="agenda-black"> Sylvia Consta&Iacuten</h2></a>
                 <i><h4 class="agenda-black"> Minister of Information and Communication Technologies</h4></i>
             </div>
             <div class="col-sm-3"></div>
