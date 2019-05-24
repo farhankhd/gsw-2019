@@ -162,6 +162,8 @@ function getSpeakers() {
                         $(speakerSmallMarkup).appendTo('#keynote-section-expanded');
                         console.log('KEYNOTE');
                         console.log(speakerSmallMarkup);
+                    } else if (currentSpeaker['Keynote'] == 'P') {
+                        $(speakerSmallMarkup).appendTo('#plenary-section-expanded');
                     } else {
                         $(speakerSmallMarkup).appendTo('#speaker-section-expanded');
                     }
