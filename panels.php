@@ -466,7 +466,7 @@
                 <div class="team-area">Socialab Colombia</div>
             </div>
             <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/ignacio.jpeg"></a>
+                <img class="panel-picture" src="images/speaker-img/ignacio2.jpeg"></a>
                 <div class="team-name">Ignacio Gaitán Villegas (Moderator)</div>
                 <div class="team-role">President and CEO</div>
                 <div class="team-area">iNNpulsa</div>
@@ -575,7 +575,7 @@
                 <div class="team-area">Colombia Fintech</div>
             </div>
             <div class="team col-md-4"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/julian.jpeg"></a>
+                <img class="panel-picture" src="images/speaker-img/julian2.jpeg"></a>
                 <div class="team-name">Julian Robledo</div>
                 <div class="team-role">Director of Business Services</div>
                 <div class="team-area">CCB</div>
