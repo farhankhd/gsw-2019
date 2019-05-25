@@ -395,52 +395,6 @@
         </div>
     </div>
 
-    <div class="row" id='fireside3'>
-        <div class="col-sm-12 panel-top text-center">
-            <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black"> Fintech Opportunities in Latin America</h5>
-            </div>
-        </div>
-        <br>
-        <div class="col-md-12 panel-content">
-            <h2> May 28, 10:15 - 11:15</h2>
-            <h4>Entrepreneurs looking for funding must navigate a complex system that never has 
-            enough money to go around. In this fireside chat, get the chance to look into the 
-            mind of experts who provide, manage, and strategize around capital and get a leg up 
-            when you decide to take the plunge and start fundraising yourself.</h4>
-        </div>
-
-        <div class="col-md-12 text-center">
-            <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/santi.jpeg"></a>
-                <div class="team-name">Santiago Suarez</div>
-                <div class="team-role">Co-Founder and CEO</div>
-                <div class="team-area">Addi</div>
-            </div>
-            <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/edwin.png"></a>
-                <div class="team-name">Edwin Zácipa</div>
-                <div class="team-role">Managing Director </div>
-                <div class="team-area">Colombia Fintech</div>
-            </div>
-        </div>
-        <div class="col-md-12 text-center">
-            <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/barb.jpg"></a>
-                <div class="team-name">Pierpaolo Barbieri</div>
-                <div class="team-role">CEO & Founder </div>
-                <div class="team-area">Ualá</div>
-            </div>
-            <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/julian2.jpeg"></a>
-                <div class="team-name">Julian Robledo</div>
-                <div class="team-role">Director of Business Services</div>
-                <div class="team-area">CCB</div>
-            </div>
-        </div>
-    </div>
-
-
     <div class="row" id='panel4'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
@@ -561,6 +515,43 @@
                 <div class="team-name">Travis Hunter (Moderator)</div>
                 <div class="team-role">Program Manager</div>
                 <div class="team-area">MIT Regional Entrepreneurship Acceleration Program</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row" id='fireside3'>
+        <div class="col-sm-12 panel-top text-center">
+            <div class="col-sm-12 panel-header">
+                <h5 style="font-weight: 900" class="agenda-black"> An Investor's Perspective</h5>
+            </div>
+        </div>
+        <br>
+        <div class="col-md-12 panel-content">
+            <h2> May 28, 10:15 - 11:15</h2>
+            <h4>Entrepreneurs looking for funding must navigate a complex system that never has 
+            enough money to go around. In this fireside chat, get the chance to look into the 
+            mind of experts who provide, manage, and strategize around capital and get a leg up 
+            when you decide to take the plunge and start fundraising yourself.</h4>
+        </div>
+
+        <div class="col-md-12 text-center">
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/santi.jpeg"></a>
+                <div class="team-name">Santiago Suarez</div>
+                <div class="team-role">Co-Founder and CEO</div>
+                <div class="team-area">Addi</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/edwin.png"></a>
+                <div class="team-name">Edwin Zácipa</div>
+                <div class="team-role">Managing Director </div>
+                <div class="team-area">Colombia Fintech</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/julian2.jpeg"></a>
+                <div class="team-name">Julian Robledo</div>
+                <div class="team-role">Director of Business Services</div>
+                <div class="team-area">CCB</div>
             </div>
         </div>
     </div>
