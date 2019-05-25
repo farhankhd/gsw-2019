@@ -123,21 +123,6 @@ function getSpeakers() {
                     '<div class=\'speaker-expanded-position\'>' + title + '</div>' +
                     bio + '</div></div>';
 
-                // keynoteMarkup = '<div class=\'speaker row\'>' +
-                //     associationMarkup +
-                //     '<img class=\'speaker-picture-keynote\' src=\'images/speaker-img/' + path + '\'>';
-                // keynoteMoreMarkeup = '<div class=\'col-lg-12 speaker-expanded-bio\'>' +
-                //     keynoteMarkup + '</div><div class=\'row speaker-expanded-text\'>' +
-                //     '<div class=\'speaker-expanded-name\' style=\'text-align: center\'>' + name + '</div>' +
-                //     '<div class=\'speaker-expanded-position\' style=\'text-align: center\'>' + title + '</div>' +
-                //     bio + '</div></div>';
-
-                // if (currentSpeaker['Keynote'] == 'Y') {
-                //     $(keynoteMoreMarkeup).appendTo('#keynote-section-expanded');
-                // } else {
-                //     $(speakerInfoMarkup).appendTo('#speaker-section-expanded');
-                // }
-
                 speakerSmallMarkup = '</div><div class="team-speaker col-md-4" style="padding: 20" id="' + first + '"><a href="#modal-text-' + id + '"data-modal-id="modal-text" data-toggle="modal">' +
                     associationMarkup +
                     '<img class="team-picture" src=\'images/speaker-img/' + path + '\'>' +
