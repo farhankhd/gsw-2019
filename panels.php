@@ -22,63 +22,36 @@
         <br>
     </div>
     <div class="row">
-        <p class="section-header section-header-page" style="color: white">Plenary</p>
+        <p class="section-header section-header-page" style="color: white">Plenary </p>
 
     </div>
 
     <div class="row" id='keynote-kane'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black"> Plenary</h5>
+                <h5 style="font-weight: 900" class="agenda-black"> Plenary Speakers</h5>
             </div>
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <div class="col-md-8">
+            <!-- <div class="col-md-8">
                 <h2> May 28, 09:00-09:30</h2>
                 <h4> More info coming soon!</h4>
-            </div>
+            </div> -->
             <div class="team col-md-4 text-center"><a href="speakers.php#iván">
+                <h2> May 28, 09:00-09:30</h2>
                 <img class="keynote-picture" src="images/speaker-img/ivan.png"></a>
                 <div class="team-name">President Iván Duque Márquez</div>
                 <div class="team-role">President of Colombia</div>
             </div>
-        </div>
-    </div>
-
-    <div class="row" id='keynote-lester'>
-        <div class="col-sm-12 panel-top text-center">
-            <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black"> Plenary</h5>
-            </div>
-        </div>
-        <br>
-        <div class="col-md-12 panel-content">
-            <div class="col-md-8">
-                <h2> May 27, 08:15 - 08:30</h2>
-                <h4> More info coming soon!</h4>
-            </div>
             <div class="team col-md-4 text-center"><a href="speakers.php#marta">
+                <h2> May 27, 08:15 - 08:30</h2>
                 <img class="keynote-picture" src="images/speaker-img/marta.jpg"></a>
                 <div class="team-name">Marta Lucia Ramírez</div>
                 <div class="team-role">Vice President of Colombia</div>
             </div>
-        </div>
-    </div>
-
-    <div class="row" id='keynote-adriana'>
-        <div class="col-sm-12 panel-top text-center">
-            <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black">  Plenary</h5>
-            </div>
-        </div>
-        <br>
-        <div class="col-md-12 panel-content">
-            <div class="col-md-8">
-                <h2> May 28, 18:15 - 18:30</h2>
-                <h4> More info coming soon!  </h4>
-            </div>
             <div class="team col-md-4 text-center"><a href="speakers.php#sylvia">
+                <h2> May 28, 18:15 - 18:30</h2>
                 <img class="keynote-picture" src="images/speaker-img/silvia.jpg"></a>
                 <div class="team-name">Sylvia Constaín </div>
                 <div class="team-role">MINISTER OF INFORMATION AND COMMUNICATION TECHNOLOGIES</div>
