@@ -10,13 +10,13 @@
 
     // Require https
 
-    // if( !($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') ){
-    //     if ($_SERVER['HTTPS'] != "on") {
-    //         $url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
-    //         header("Location: $url");
-    //         exit;
-    //     }
-    // }
+    if( !($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') ){
+        if ($_SERVER['HTTPS'] != "on") {
+            $url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+            header("Location: $url");
+            exit;
+        }
+    }
 ?>
 
 <!DOCTYPE html>
@@ -80,8 +80,8 @@
                         <a class="dropdown-item" href="efair.php">Entrepreneurship <br /> Fair</a>
                     </div>
                 </li> 
-                <!-- <li><a href="agenda.php">Agenda</a></li> -->
-                <li class="nav-item dropdown">
+                <li><a href="agenda.php">Agenda</a></li>
+                <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Agenda <span class="caret"></span>
                     </a>
@@ -90,7 +90,7 @@
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="panels.php">Content</a>
                     </div>
-                </li> 
+                </li>  -->
                 <li><a href="sponsors.php">Sponsors</a></li>
                 <li><a href="speakers.php">Speakers</a></li>
                 <!-- <li><a href="team.php">About Us</a></li> -->
