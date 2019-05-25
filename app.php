@@ -4,7 +4,7 @@
 ?>
 
 <head>
-    <meta http-equiv="refresh" content="0; URL='https://gsw.mit.edu/2019/app.php'" />
+    <!-- <meta http-equiv="refresh" content="0; URL='https://gsw.mit.edu/2019/app.php'" /> -->
 </head>
 
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('images/launch/bogota.png');">
@@ -24,7 +24,7 @@
 <div class="section">
     <div class="text-center">
         <h2> Conference App</h2>
-        <div class='row vertical-align'>
+        <div class='row'>
             <div class='col-md-6'>
                 <h4 style='text-align: left'>Get our free app to: </h4>
                 <div class='row'>

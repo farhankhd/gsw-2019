@@ -147,12 +147,19 @@ function auto_version($file)
                             <h2 class="academic-mobile" style="margin-bottom: 20px"> Academic Partners</h2>
                         </div>
                         <div class="row" style="padding: 40px;">
-                        <div>
+                        <!-- <div>
                             </div>
                             <div class="col-sm-1">
                             </div>
 
                             <img src="images/logo/logos-row.png" class="partner-logo partner-logo-mobile"> 
+                        </div> -->
+                        <div class='row'>
+                            <div style='display: block, margin: auto, text-align: center'>
+                                <img src="images/logo/nuevo-logo-2.png" class="partner-logo">
+                                <img src="images/logo/connect-logo.png" class="partner-logo">
+                                <img src="images/logo/cesa.png" class="partner-logo">
+                            </div>
                         </div>
                         <br>
                         <img src="images/logo/mslao-logo.png" class="partner-logo">
@@ -166,6 +173,48 @@ function auto_version($file)
         </div>
     </div>
 </div>
+
+<div class='registration-section'>
+<div style="margin-left: calc(50% - 50vw); width: 100vw;" class="line"></div>
+</div>
+<br><br>
+<div class="section">
+    <div class="text-center">
+        <h2> Conference App</h2>
+        <div class='row'>
+            <div class='col-md-6'>
+                <h4 style='text-align: left'>Get our free app to: </h4>
+                <div class='row'>
+                    <h4><ul style='color: white; text-align: left'>
+                        <li>Connect with speakers and other attendees
+                        <li>Access the schedule and speaker profiles</li>
+                        <li>Navigate the venue using an interactive map</li>
+                        <li>Vote for Startup Showcase winner</li>
+                        <li>Receive live announcements</li>
+                    </ul></h4>
+                </div>
+            </div>
+            <div class='col-md-6'>
+            <br><br>
+                <div class='row'>
+                    <a href='https://itunes.apple.com/us/app/mit-gsw-2019/id1458106305?ls=1&mt=8'><img class='app-logo' src='images/logo/apple.png'></a>
+                </div>
+                <div class='row'>
+                    <a href='https://play.google.com/store/apps/details?id=edu.mit.eeeh6p'><img class='app-logo' src='images/logo/google.png'></a>
+                </div>
+            </div>
+        
+        </div>
+        
+    
+    </div>
+</div>
+<br><br>
+
+<div class='registration-section'>
+<div style="margin-left: calc(50% - 50vw); width: 100vw;" class="line"></div>
+</div>
+<br><br>
 
 <br><br>            
 <div class="why-section">
@@ -202,8 +251,10 @@ function auto_version($file)
         <img src="images/launch/gsw-rafael-reif-mobile.jpg" class="img-responsive visible-xs-block" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
     </div>
 </div>
-<br><br><br><br>
+<br><br> 
+
 <div class="why-section">
+
     <div class="row">
     <br>
     <div class="section-header text-center">
@@ -216,15 +267,15 @@ function auto_version($file)
     <br>
 
     <div class="container">
-        <div class="row vertical-align">
+        <div class="row">
             <!-- <div class="col-xs-6 why-map" id="map">
             </div> -->
-            <div class="col-xs-6 why-img">
+            <div class="col-md-6 why-img">
                 <iframe class="why-map" src="https://maps.google.com/maps?width=720&amp;height=600&amp;hl=en&amp;coord=4.64216, -74.079369&amp;q=Ak.%2030%20%2352-77%2C%20Bogota%2C%20Colombia+(El%20Cubo%20-%20Business%20and%20Recreation%20Center)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=A&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
                 <a href="https://www.maps.ie/map-my-route/">Plot a route map</a>
                 </iframe>
             </div>            
-            <div class="col-xs-6">
+            <div class="col-md-6">
                 <img class="why-img" src="images/launch/colsubsidio.jpg" />
             </div>
         </div>
