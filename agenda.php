@@ -19,6 +19,7 @@
 <div class="section text-center">
     <div class="text-center">
         <i><h5> SUBJECT TO MINOR CHANGES</h5></i>
+        <h5> FOR MORE INFO CHECK OUT THE <a href='panels.php'>AGENDA PAGE</a></h5>
         <br>
     </div>
 
