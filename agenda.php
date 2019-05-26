@@ -106,7 +106,7 @@
             <div class="col-sm-6">
                 <a href="efair.php"><div class="agenda-showcase">
                     <h2 class="agenda-black"> Startup Showcase</h2>
-                    <a href='bpc.php'><h4 style="font-weight: 900" class="agenda-black"> Showcasing Startups from our business plan competition</h4></a>
+                    <a href='bpc.php'><h4 style="font-weight: 900" class="agenda-black"> Showcasing semi-finalist and finalist startups from our business plan competition</h4></a>
                 </div>
                 </a>
                 <br>

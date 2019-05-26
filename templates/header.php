@@ -71,19 +71,41 @@ function auto_version($file)
     </div>
 </div>
 
+<div class="section">
+    <div class="text-center">
+        <i><h1 class="trn">Conference App</h1></i>
+        <div class='row'>
+            <div class='col-md-6'>
+                <h4 style='text-align: left'>Get our free app to: </h4>
+                <div class='row'>
+                    <h4><ul style='color: white; text-align: left'>
+                        <li>Connect with speakers and other attendees
+                        <li>Access the schedule and speaker profiles</li>
+                        <li>Navigate the venue using an interactive map</li>
+                        <li>Vote for Startup Showcase winner</li>
+                        <li>Receive live announcements</li>
+                    </ul></h4>
+                </div>
+            </div>
+            <div class='col-md-6'>
+            <br><br>
+                <div class='row'>
+                    <a href='https://itunes.apple.com/us/app/mit-gsw-2019/id1458106305?ls=1&mt=8'><img class='app-logo' src='images/logo/apple.png'></a>
+                </div>
+                <div class='row'>
+                    <a href='https://play.google.com/store/apps/details?id=edu.mit.eeeh6p'><img class='app-logo' src='images/logo/google.png'></a>
+                </div>
+            </div>
+        
+        </div>  
+    </div>
+</div>
+
 <div id="registration-section">
     <div class="row text-center">
         <div class="col-xs-12">
             <br /><br><br><br>
-            <div class="section-subheader text-center registration-message">
-                <h4><a href="sp-index.php"> En Español</a></h4>
-                <h4>Registration is now closed. Applicants can expect to hear back about their registration status soon</h4>
-                <h4 style="display: inline">Selected applications will receive free tickets to attend. For more information, see the <a href="registration.php" class="trn" style="display: inline">Registration page.</a></h4>
-            </div>
-            <br><br>
-            <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/xlOAGFyLPkg8PEc33">Apply Now</a>
-            <!-- href="registration.php" -->
-            <br><br><br><br><br><br>
+            
             <div class="line"></div>
 	    <br><br><br><br>
             <div class="section-subheader text-center">
@@ -216,7 +238,7 @@ function auto_version($file)
     <br>
 
     <div class="container">
-        <div class="row vertical-align">
+        <div class="row">
             <!-- <div class="col-xs-6 why-map" id="map">
             </div> -->
             <div class="col-xs-6 why-img">

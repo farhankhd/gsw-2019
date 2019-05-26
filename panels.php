@@ -22,63 +22,36 @@
         <br>
     </div>
     <div class="row">
-        <p class="section-header section-header-page" style="color: white">Plenary</p>
+        <p class="section-header section-header-page" style="color: white">Plenary </p>
 
     </div>
 
     <div class="row" id='keynote-kane'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black"> Plenary</h5>
+                <h5 style="font-weight: 900" class="agenda-black"> Plenary Speakers</h5>
             </div>
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <div class="col-md-8">
+            <!-- <div class="col-md-8">
                 <h2> May 28, 09:00-09:30</h2>
                 <h4> More info coming soon!</h4>
-            </div>
+            </div> -->
             <div class="team col-md-4 text-center"><a href="speakers.php#iván">
+                <h2> May 28, 09:00-09:30</h2>
                 <img class="keynote-picture" src="images/speaker-img/ivan.png"></a>
                 <div class="team-name">President Iván Duque Márquez</div>
                 <div class="team-role">President of Colombia</div>
             </div>
-        </div>
-    </div>
-
-    <div class="row" id='keynote-lester'>
-        <div class="col-sm-12 panel-top text-center">
-            <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black"> Plenary</h5>
-            </div>
-        </div>
-        <br>
-        <div class="col-md-12 panel-content">
-            <div class="col-md-8">
-                <h2> May 27, 08:15 - 08:30</h2>
-                <h4> More info coming soon!</h4>
-            </div>
             <div class="team col-md-4 text-center"><a href="speakers.php#marta">
+                <h2> May 27, 08:15 - 08:30</h2>
                 <img class="keynote-picture" src="images/speaker-img/marta.jpg"></a>
                 <div class="team-name">Marta Lucia Ramírez</div>
                 <div class="team-role">Vice President of Colombia</div>
             </div>
-        </div>
-    </div>
-
-    <div class="row" id='keynote-adriana'>
-        <div class="col-sm-12 panel-top text-center">
-            <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black">  Plenary</h5>
-            </div>
-        </div>
-        <br>
-        <div class="col-md-12 panel-content">
-            <div class="col-md-8">
-                <h2> May 28, 18:15 - 18:30</h2>
-                <h4> More info coming soon!  </h4>
-            </div>
             <div class="team col-md-4 text-center"><a href="speakers.php#sylvia">
+                <h2> May 28, 18:15 - 18:30</h2>
                 <img class="keynote-picture" src="images/speaker-img/silvia.jpg"></a>
                 <div class="team-name">Sylvia Constaín </div>
                 <div class="team-role">MINISTER OF INFORMATION AND COMMUNICATION TECHNOLOGIES</div>
@@ -303,13 +276,19 @@
             </div>
         </div>
         <div class="col-md-12 text-center">
-            <div class="team col-md-6"><a href="speakers.php">
+            <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/majer.jpg"></a>
                 <div class="team-name">Maier Avendano</div>
                 <div class="team-role">Senior Associate, Flagship Pioneering & Head of Innovation </div>
                 <div class="team-area">Invaio Sciences </div>
             </div>
-            <div class="team col-md-6"><a href="speakers.php">
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/david.jpeg"></a>
+                <div class="team-name">David Londoño</div>
+                <div class="team-role">Corporate Marketing Director</div>
+                <div class="team-area">Claro Colombia  </div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/megahn.jpg"></a>
                 <div class="team-name">Megan Mitchell</div>
                 <div class="team-role">Acting Director</div>
@@ -389,7 +368,7 @@
         <div class="col-md-12 text-center">
             <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/travis.jpg"></a>
-                <div class="team-name">Travis Hunter (Moderator)</div>
+                <div class="team-name">Travis Hunter (Opener)</div>
                 <div class="team-role">Program Manager</div>
                 <div class="team-area">MIT Regional Entrepreneurship Acceleration Program</div>
             </div>
@@ -466,7 +445,7 @@
                 <div class="team-area">Socialab Colombia</div>
             </div>
             <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/ignacio.jpeg"></a>
+                <img class="panel-picture" src="images/speaker-img/ignacio2.jpeg"></a>
                 <div class="team-name">Ignacio Gaitán Villegas (Moderator)</div>
                 <div class="team-role">President and CEO</div>
                 <div class="team-area">iNNpulsa</div>
@@ -538,10 +517,10 @@
                 <div class="team-area">Torre</div>
             </div>
             <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/travis.jpg"></a>
-                <div class="team-name">Travis Hunter (Moderator)</div>
-                <div class="team-role">Program Manager</div>
-                <div class="team-area">MIT Regional Entrepreneurship Acceleration Program</div>
+                <img class="panel-picture" src="images/team/Joaquin.jpg"></a>
+                <div class="team-name">Joaquin Richards (Moderator)</div>
+                <div class="team-role">Senior Product Manager</div>
+                <div class="team-area">Nubank</div>
             </div>
         </div>
     </div>
@@ -549,37 +528,50 @@
     <div class="row" id='fireside3'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black"> An Investor's Perspective</h5>
+                <h5 style="font-weight: 900" class="agenda-black"> Fintech Opportunities in Latin America</h5>
             </div>
         </div>
         <br>
         <div class="col-md-12 panel-content">
             <h2> May 28, 10:15 - 11:15</h2>
-            <h4>Entrepreneurs looking for funding must navigate a complex system that never has 
-            enough money to go around. In this fireside chat, get the chance to look into the 
-            mind of experts who provide, manage, and strategize around capital and get a leg up 
-            when you decide to take the plunge and start fundraising yourself.</h4>
+            <h4>The Fintech startups are on the cusp of transforming the Latin American financial 
+            landscape and it’s estimated that their market will exceed $150 billion by 2021. 
+            Last year, it was the No. 1 sector of venture capital investments —and there are 
+            no signs of it slowing down. By investing in the region and working to solve the 
+            area’s unique financial challenges, the potential is there for Latin America to 
+            become a key player in the global economy.
+            </h4>
         </div>
 
         <div class="col-md-12 text-center">
-            <div class="team col-md-4"><a href="speakers.php">
+            <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/santi.jpeg"></a>
                 <div class="team-name">Santiago Suarez</div>
                 <div class="team-role">Co-Founder and CEO</div>
                 <div class="team-area">Addi</div>
             </div>
-            <div class="team col-md-4"><a href="speakers.php">
+            <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/edwin.png"></a>
                 <div class="team-name">Edwin Zácipa</div>
                 <div class="team-role">Managing Director </div>
                 <div class="team-area">Colombia Fintech</div>
             </div>
-            <div class="team col-md-4"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/julian.jpeg"></a>
-                <div class="team-name">Julian Robledo</div>
+            
+        </div>
+        <div class="col-md-12 text-center">
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/barb.jpg"></a>
+                <div class="team-name">Pierpaolo Barbieri</div>
+                <div class="team-role">CEO & Founder</div>
+                <div class="team-area">Ualá</div>
+            </div>
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/julian2.jpeg"></a>
+                <div class="team-name">Julian Robledo (Moderator)</div>
                 <div class="team-role">Director of Business Services</div>
                 <div class="team-area">CCB</div>
             </div>
+
         </div>
     </div>
 
@@ -720,14 +712,14 @@
             <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="images/team/Santiago.jpg"></a>
                 <div class="team-name">Santiago Melo</div>
-                <div class="team-role">Competitions Team</div>
-                <div class="team-area">MIT Sloan School of Management</div>
+                <div class="team-role">Senior Product Manager</div>
+                <div class="team-area">Amazon</div>
             </div>
             <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="images/team/Joaquin.jpg"></a>
                 <div class="team-name">Joaquin Richards</div>
-                <div class="team-role">Content team</div>
-                <div class="team-area">MIT Sloan School of Management</div>
+                <div class="team-role">Senior Product Manager</div>
+                <div class="team-area">Nubank</div>
             </div>
         </div>
     </div>

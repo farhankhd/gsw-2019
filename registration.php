@@ -23,7 +23,7 @@
 <div style="overflow-x:hidden; max-width:100vw;w-x: hidden;">
     <div class="section">
         <div class="row text-center comp-content">
-            <h1> El registro está cerrado  </h1>
+            <h1> Registration is now closed  </h1>
             <h6 class="registration-closed">Applicants can expect to hear back about their registration status soon</h6>
             <br><br>
             <div class="blob-box">
