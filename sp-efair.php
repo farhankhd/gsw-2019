@@ -6,7 +6,7 @@
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/efair_header.png');">
     <div class="header-overlay">
     <h1 class="parallax-text">
-        ENTREPRENEURSHIP FAIR
+        STARTUP SHOWCASE
     </h1>
     </div>
 </div>
@@ -15,7 +15,7 @@
 
 <div class="section">
     <div class="comp-center">
-        <h1> ENTREPRENEURSHIP FAIR</h1>
+        <h1> STARTUP SHOWCASE</h1>
         <h4> Conoce a los jugadores clave en el ecosistema de emprendimiento y enterate que estan haciendo los finalistas del BPC. E
         ste evento es una excelente oportunidad para crear conexiones y es abierot a todos los asistentes del GSW.  </h4>
         <br>

@@ -77,7 +77,7 @@
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="sp-bpc.php">Business Plan <br /> Competition</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="sp-efair.php">Entrepreneurship <br /> Fair</a>
+                        <a class="dropdown-item" href="sp-efair.php">Startup <br /> Showcase</a>
                     </div>
                 </li> 
                 <li><a href="agenda.php">Agenda</a></li>
