@@ -1147,6 +1147,11 @@ h6 {
     opacity: 1;
 }
 
+.linkedin {
+    max-height: 30px;
+    widows: auto;
+}
+
 
 /*.competitions-highlights a:hover,.competitions-highlights a:focus  {*/
 
