@@ -73,19 +73,41 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
     </div>
 </div>
 
+<div class="section">
+    <div class="text-center">
+        <i><h1 class="trn">Conference App</h1></i>
+        <div class='row'>
+            <div class='col-md-6'>
+                <h4 style='text-align: left'>Obtenga nuestra aplicación gratuita para: </h4>
+                <div class='row'>
+                    <h4><ul style='color: white; text-align: left'>
+                        <li>Conectar con ponentes y otros asistentes</li>
+                        <li>Accede al calendario y los perfiles de ponentes</li>
+                        <li>Navega por el lugar utilizando un mapa interactivo</li>
+                        <li>Vota por el ganador de Startup Showcase</li>
+                        <li>Recibe anuncios en vivo</li>
+                    </ul></h4>
+                </div>
+            </div>
+            <div class='col-md-6'>
+            <br><br>
+                <div class='row'>
+                    <a href='https://itunes.apple.com/us/app/mit-gsw-2019/id1458106305?ls=1&mt=8'><img class='app-logo' src='images/logo/apple.png'></a>
+                </div>
+                <div class='row'>
+                    <a href='https://play.google.com/store/apps/details?id=edu.mit.eeeh6p'><img class='app-logo' src='images/logo/google.png'></a>
+                </div>
+            </div>
+        
+        </div>  
+    </div>
+</div>
+
 <div id="registration-section">
     <div class="row text-center">
         <div class="col-xs-12">
             <br /><br><br><br>
-            <div class="section-subheader text-center registration-message">
-                <h4><a href="index.php"> In English</a></h4>
-                <h4>¡Las inscripciones para el MIT GSW están abiertas! Los solicitantes pueden esperar escuchar sobre su estado de registro pronto</h4>
-                <h4 style="display: inline">Los aplicantes seleccionados recibirán entradas gratuitas al evento. Para más información consulte <a href="registration.php"   style="display: inline">la página de inscripción</a></h4>
-            </div>
-            <br><br>
-            <a class="register-btn" style="text-decoration: none;" href="https://goo.gl/forms/xlOAGFyLPkg8PEc33">Aplica Ya</a>
-            <!-- href="registration.php" -->
-            <br><br><br><br><br><br>
+            
             <div class="line"></div>
 	    <br><br><br><br>
             <div class="section-subheader text-center">
@@ -97,7 +119,7 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
                         </div>
                         <div class="col-sm-6">
                             <a href="https://www.ccb.org.co/en">
-                                <img src="images/logo/bogota-team-logo.png" class="partner-logo partner-logo-mobile" style="height: 100px">
+                                <img src="images/logo/bogota-team-logo.png" class="partner-logo partner-logo-mobile" style="height: 90px">
                             </a>
                         </div>
                     </div>
@@ -145,13 +167,13 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
                         <div class="text-center">
                             <h2 class="academic-mobile" style="margin-bottom: 20px"> ALIADOS ACADÉMICOS</h2>
                         </div>
-                        <div class="row" style="padding: 40px;">
-                        <div class="col-sm-1">
+                        
+                        <div class='row'>
+                            <div style='display: block, margin: auto, text-align: center'>
+                                <img src="images/logo/cesa.png" class="partner-logo">
+                                <img src="images/logo/connect-logo.png" class="partner-logo">
+                                <img src="images/logo/nuevo-logo-2.png" class="partner-logo">
                             </div>
-                            <div class="col-sm-1">
-                            </div>
-
-                            <img src="images/logo/logos-row.png" class="partner-logo"> 
                         </div>
                         <br>
                         <img src="images/logo/mslao-logo.png" class="partner-logo">

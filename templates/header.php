@@ -168,13 +168,12 @@ function auto_version($file)
                         <div class="text-center">
                             <h2 class="academic-mobile" style="margin-bottom: 20px"> Academic Partners</h2>
                         </div>
-                        <div class="row" style="padding: 40px;">
-                        <div>
+                        <div class='row'>
+                            <div style='display: block, margin: auto, text-align: center'>
+                                <img src="images/logo/cesa.png" class="partner-logo">
+                                <img src="images/logo/connect-logo.png" class="partner-logo">
+                                <img src="images/logo/nuevo-logo-2.png" class="partner-logo">
                             </div>
-                            <div class="col-sm-1">
-                            </div>
-
-                            <img src="images/logo/logos-row.png" class="partner-logo partner-logo-mobile"> 
                         </div>
                         <br>
                         <img src="images/logo/mslao-logo.png" class="partner-logo">
