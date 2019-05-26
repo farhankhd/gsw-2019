@@ -18,11 +18,11 @@
 
         <div class="col-lg-12 comp-content" id="speaker-section-expanded">
             <p class="section-header section-header-page" style="color: white; font-size: 1.7em">Speakers</p>
-            <h4 style="text-align: justify;">MIT GSW is proud to host a diverse range of speakers from Cambridge, Latin America and around the world. 
+            <h4 style="text-align: left;">MIT GSW is proud to host a diverse range of speakers from Cambridge, Latin America and around the world. 
             We're excited to have these world class individuals share their experiences with us!
             </h4>
 
-            <h4 style="text-align: justify;"> Click on each speaker to learn more about their background and accomplishments</h4>
+            <h4 style="text-align: left;"> Click on each speaker to learn more about their background and accomplishments</h4>
             <br> <br>
             <!-- <div class="row speaker-expanded-bio">
                 <div class="col-md-3"></div>

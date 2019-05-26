@@ -39,19 +39,19 @@
                 <h4> More info coming soon!</h4>
             </div> -->
             <div class="team col-md-4 text-center"><a href="speakers.php#iván">
-                <h2> May 28, 09:00-09:30</h2>
+                <h2> May 28, 09:00-09:30 in Great Hall Full</h2>
                 <img class="keynote-picture" src="images/speaker-img/ivan.png"></a>
                 <div class="team-name">President Iván Duque Márquez</div>
                 <div class="team-role">President of Colombia</div>
             </div>
             <div class="team col-md-4 text-center"><a href="speakers.php#marta">
-                <h2> May 27, 08:15 - 08:30</h2>
+                <h2> May 27, 08:15 - 08:30 in Great Hall Full</h2>
                 <img class="keynote-picture" src="images/speaker-img/marta.jpg"></a>
                 <div class="team-name">Marta Lucia Ramírez</div>
                 <div class="team-role">Vice President of Colombia</div>
             </div>
             <div class="team col-md-4 text-center"><a href="speakers.php#sylvia">
-                <h2> May 28, 18:15 - 18:30</h2>
+                <h2> May 28, 18:15 - 18:30 in Great Hall Full</h2>
                 <img class="keynote-picture" src="images/speaker-img/silvia.jpg"></a>
                 <div class="team-name">Sylvia Constaín </div>
                 <div class="team-role">MINISTER OF INFORMATION AND COMMUNICATION TECHNOLOGIES</div>
@@ -75,9 +75,9 @@
             </div>
         </div>
         <br>
-        <div class="col-md-12 panel-content vertical-align">
+        <div class="col-md-12 panel-content">
             <div class="col-md-8">
-                <h2> May 27, 08:45-09:30</h2>
+                <h2> May 27, 08:45-09:30 in Great Hall Full</h2>
                 <h4> The One Laptop per Child (OLPC) initiative was born in MIT’s Media Lab and 
                 was the first major technology initiative in the education space. Its mission was 
                 to target the bottom-of-the-pyramid countries, providing laptops that brought the 
@@ -105,7 +105,7 @@
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-8">
-                <h2> May 27, 17:00-17:45</h2>
+                <h2> May 27, 17:00-17:45 in Great Hall Full</h2>
                 <h4> In this talk, Professor Lester will talk about some of the knowledge and 
                 practices that have helped thousands of companies launch from MIT.  He will 
                 also talk about MIT’s work around the world in education, research, and innovation, 
@@ -131,7 +131,7 @@
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-8">
-                <h2> May 28, 08:15-09:00</h2>
+                <h2> May 28, 08:15-09:00 in Great Hall Full</h2>
                 <h4> In this talk, Adriana will explain how artificial intelligence allows companies to 
                 transform themselves. Although its rise is recent, AI has become an important ally for 
                 entrepreneurs. It is a powerful tool that helps companies adapt to the increasingly 
@@ -156,7 +156,7 @@
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-8">
-                <h2> May 28, 17:30-18:15</h2>
+                <h2> May 28, 17:30-18:15 in Great Hall Full</h2>
                 <h4> Danielle leads the new Space Enabled Research Group at the MIT Media Lab, which advances 
                 justice in Earth’s complex 
                 systems by increasing access to space technology for development leaders around the 
@@ -185,7 +185,7 @@
 
     </div>
 
-    <div class="row" id='panel1'>
+    <div class="row" id='panel-askme'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Ask Me Anything: Startup Founders</h5>
@@ -193,7 +193,7 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h2> May 27, 10:15 - 11:30</h2>
+            <h2> May 27, 10:15 - 11:30 in Great Hall A</h2>
             <h4> Starting a company is no easy task, and while there are no set rules 
             for succeeding, experience can prove very helpful. This panel features 
             startup founders from various industries, from agrotech to education, gaming 
@@ -206,7 +206,7 @@
             <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/camila.jpg"></a>
                 <div class="team-name">Camila Petignat</div>
-                <div class="team-role">PRINCIPAL </div>
+                <div class="team-role">Principal </div>
                 <div class="team-area">The Yield Lab LATAM</div>
             </div>
             <div class="team col-md-4"><a href="speakers.php">
@@ -238,7 +238,7 @@
         </div>
     </div>
 
-    <div class="row" id='panel2'>
+    <div class="row" id='panel-advanced'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Advanced Technologies and Social Entrepreneurship</h5>
@@ -246,7 +246,7 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h2> May 27, 13:30 - 14:30</h2>
+            <h2> May 27, 13:30 - 14:30 in Great Hall A</h2>
             <h4> With the tech industry expanding more rapidly than ever, there are countless 
             opportunities to use tech for your next big idea. Identifying an open problem that 
             can be addressed with a simple and effective solution is challenging, and this panel 
@@ -290,14 +290,14 @@
             </div>
             <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/megahn.jpg"></a>
-                <div class="team-name">Megan Mitchell</div>
+                <div class="team-name">Megan Mitchell (Moderator)</div>
                 <div class="team-role">Acting Director</div>
                 <div class="team-area">MIT Legatum Center for Development & Entrepreneurship </div>
             </div>
         </div>
     </div>
 
-    <div class="row" id='panel-social'>
+    <div class="row" id='panel-pathways'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black">Pathways to Investment </h5>
@@ -305,7 +305,7 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h2> May 27, 14:45 - 16:15</h2>
+            <h2> May 27, 14:45 - 16:15 in Great Hall A</h2>
             <h4> Raising capital is one often one of the most challenging steps in the entrepreneurial 
             journey. This can be even more difficult in Colombia, where capital is hard to come by, 
             if you even know where to look. In this panel, hear about what regional entities are doing
@@ -349,7 +349,7 @@
         </div>
     </div>
 
-    <div class="row" id='panel3'>
+    <div class="row" id='panel-building'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Building the Colombian Entrepreneurial Ecosystem</h5>
@@ -357,7 +357,7 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h2> May 28, 10:15 - 11:15</h2>
+            <h2> May 28, 10:15 - 11:15 in Great Hall A</h2>
             <h4> A key goal of the MIT Global Startup Workshop is to identify challenges unique to 
             entrepreneurial ecosystems around the world and understand how an essential combination 
             of MIT and local expertise can be brought to bear on these challenges. This panel will 
@@ -369,7 +369,7 @@
             <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/travis.jpg"></a>
                 <div class="team-name">Travis Hunter (Opener)</div>
-                <div class="team-role">Program Manager</div>
+                <div class="team-role">Executive Director</div>
                 <div class="team-area">MIT Regional Entrepreneurship Acceleration Program</div>
             </div>
             <div class="team col-md-4"><a href="speakers.php">
@@ -386,22 +386,28 @@
             </div>
         </div>
         <div class="col-md-12 text-center">
-            <div class="team col-md-6"><a href="speakers.php">
+            <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/juan.jpeg"></a>
                 <div class="team-name">Juan David Castaño Alzate (Moderator)</div>
                 <div class="team-role">Director of Macro-Business Articulation</div>
                 <div class="team-area">Cámara de Comercio de Bogotá</div>
             </div>
-            <div class="team col-md-6"><a href="speakers.php">
+            <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/victor2.jpg"></a>
                 <div class="team-name">Victor Manuel Muñoz Rodriguez</div>
                 <div class="team-role">Advisor for Digital Transformation and Innovationr</div>
                 <div class="team-area">MinTIC</div>
             </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="images/speaker-img/carolina-l.jpeg"></a>
+                <div class="team-name">Carolina Lorduy</div>
+                <div class="team-role">Manager</div>
+                <div class="team-area">Technology Education Corporation Colsubsidio</div>
+            </div>
         </div>
     </div>
 
-    <div class="row" id='panel4'>
+    <div class="row" id='panel-success'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Learning From Colombia's Success Stories</h5>
@@ -409,7 +415,7 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h2> May 28, 15:45 - 16:45</h2>
+            <h2> May 28, 15:45 - 16:45 in Great Hall A</h2>
             <h4>Colombia is a growing hub for innovation. This panel features some of Colombia's 
             leading entrepreneurs who have scaled companies from their foundations. Join this
              session for the opportunity to hear a diverse group of entrepreneurs share the lessons
@@ -461,7 +467,7 @@
 
     </div>
 
-    <div class="row" id='fireside1'>
+    <div class="row" id='fireside-innovation'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Innovation For Impact</h5>
@@ -469,7 +475,7 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h2> May 27, 10:15 - 11:30</h2>
+            <h2> May 27, 10:15 - 11:30 in Great Hall B</h2>
             <h4> Enduring innovations are those that have the greatest impact. In this fireside chat, 
             Luis and Isabel will address the key components of leading a social enterprise. Learn how 
             Poverty Spotlight helps communities to lift themselves out of poverty and how to build, 
@@ -481,18 +487,18 @@
                 <img class="panel-picture" src="images/speaker-img/luisfern.jpg"></a>
                 <div class="team-name">Luis Fernando Sanabria</div>
                 <div class="team-role">COO  </div>
-                <div class="team-area">Poverty Spotlight</div>
+                <div class="team-area">Fundacion Paraguaya</div>
             </div>
             <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/isabel.jpg"></a>
                 <div class="team-name">Isabel Guerrero</div>
-                <div class="team-role">Director, IMAGO Global Grassroots & Lecturer</div>
-                <div class="team-area">Harvard Kennedy School</div>
+                <div class="team-role">Director at IMAGO Global Grassroots</div>
+                <div class="team-area">Lecturer at Harvard Kennedy School</div>
             </div>
         </div>
     </div>
 
-    <div class="row" id='fireside2'>
+    <div class="row" id='fireside-insights'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> The Insights of a Serial Entrepreneur</h5>
@@ -500,7 +506,7 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h2> May 27, 13:30 - 14:30</h2>
+            <h2> May 27, 13:30 - 14:30 in Great Hall B</h2>
             <h4> As the co-founder of several companies, an angel investor, a judge on Shark Tank Colombia, 
             and now the head of an accelerator, Alex has seen it all when it comes to entrepreneurship. A 
             self-proclaimed “accidental entrepreneur”, Alex has witnessed many paths to success and knows 
@@ -525,7 +531,7 @@
         </div>
     </div>
 
-    <div class="row" id='fireside3'>
+    <div class="row" id='fireside-fintech'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Fintech Opportunities in Latin America</h5>
@@ -533,7 +539,7 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h2> May 28, 10:15 - 11:15</h2>
+            <h2> May 28, 10:15 - 11:15 in Great Hall B</h2>
             <h4>The Fintech startups are on the cusp of transforming the Latin American financial 
             landscape and it’s estimated that their market will exceed $150 billion by 2021. 
             Last year, it was the No. 1 sector of venture capital investments —and there are 
@@ -575,7 +581,7 @@
         </div>
     </div>
 
-    <div class="row" id='fireside4'>
+    <div class="row" id='fireside-future'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> The Future of Digital Technologies</h5>
@@ -583,7 +589,7 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h2> May 28, 15:45 - 16:45</h2>
+            <h2> May 28, 15:45 - 16:45 in Great Hall B</h2>
             <h4> Join us for an exciting conversation between leading experts from two of 
             the largest tech organizations: MIT and Amazon. Kathleen will offer her insights
              on the future of human and computing as well as how to create ventures in 
@@ -598,7 +604,7 @@
                 <div class="team-role">Executive Director </div>
                 <div class="team-area">MIT Center for Collective Intelligence</div>
             </div>
-            <div class="team col-md-4"><a href="speakers.php">
+            <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/jeff.jpeg"></a>
                 <div class="team-name">Jeffrey Kratz</div>
                 <div class="team-role">General Manager & Regional Head</div>
@@ -615,7 +621,7 @@
 
     </div>
 
-    <div class="row" id='workshop1'>
+    <div class="row" id='workshop-e101'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Entrepreneurship 101</h5>
@@ -624,7 +630,7 @@
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-6">
-                <h2> May 27, 14:45 - 16:15</h2>
+                <h2> May 27, 14:45 - 16:15 in Great Hall B</h2>
                 <h4> The workshop will cover the various stages of a startups during the process of raising 
                 capital. It will cover what to say, but as importantly, what *not* to say to potential 
                 investors, co-founders, team members, and partners. Chris will use examples of some of 
@@ -641,7 +647,7 @@
         </div>
     </div>
 
-    <div class="row" id='workshop2'>
+    <div class="row" id='workshop-founder'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> How to be a Founder and a Manager</h5>
@@ -650,7 +656,7 @@
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-6">
-                <h2> May 27, 14:45 - 16:15</h2>
+                <h2> May 27, 14:45 - 16:15 in Laureles</h2>
                 <h4> A startup is a complex social landscape where the financial, social, and emotional are 
                 inherently tangled and rapidly shifting. Employees are often more like founders, and 
                 co-founders are often friends or family. In the stress of chasing speed, startup 
@@ -668,7 +674,7 @@
         </div>
     </div>
 
-    <div class="row" id='workshop3'>
+    <div class="row" id='workshop-creating'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Creating a Business Plan</h5>
@@ -677,11 +683,11 @@
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-6">
-                <h2> May 27, 14:45 - 16:15</h2>
-                <h4> As an entrepreneur-in-residence at MIT, Sorin is an expert in the founding and building 
-                of ideas into startups that scale. In this workshop you will learn how to create a product 
-                that appeals to the customer and suits your market. Sorin will run through the basics of
-                 understanding your business' competitive advantage and creating a successful business strategy. </h4>
+                <h2> May 27, 14:45 - 16:15 in Palmas</h2>
+                <h4> Creating a business plan is a journey of discovery:  discovery of your business and, 
+                ultimately, your passion.  Sorin Grama, an experienced entrepreneur and an educator at MIT, 
+                has written multiple business plans. In this interactive session he will outline the essential
+                 elements that every business plan must have. </h4>
             </div>
             <div class="team col-md-6 text-center"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/sorin.jpg"></a>
@@ -692,7 +698,7 @@
         </div>
     </div>
 
-    <div class="row" id='workshop4'>
+    <div class="row" id='workshop-raise'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> How to Raise Venture Capital</h5>
@@ -700,12 +706,12 @@
         </div>
         <br>
         <div class="col-md-12 panel-content">
-            <h2> May 28, 11:00 - 13:30</h2>
+            <h2> May 28, 11:00 - 13:30 in Great Hall B</h2>
             <h4> Learning how to raise capital is a crucial part of starting a business. Santiago and 
             Joaquin, both MIT Sloan School of Management MBAs, bring extensive experience in 
-            entrepreneurship and finance across the private and public sectors. The workshop will 
-            cover how to design a financial plan tailored to your business model, find a finance 
-            partner, and close a successful funding round.</h4>
+            entrepreneurship and finance across the private and public sectors. The workshop 
+            will cover how to design a financial plan tailored to your business model, find a 
+            finance partner, and close a successful funding round.</h4>
         </div>
 
         <div class="col-md-12 text-center">
@@ -724,7 +730,7 @@
         </div>
     </div>
 
-    <div class="row" id='workshop5'>
+    <div class="row" id='workshop-product'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Product Design</h5>
@@ -733,7 +739,7 @@
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-6">
-                <h2> May 28, 11:00 - 13:30 and 14:00 - 15:30</h2>
+                <h2> May 28, 11:00 - 13:30 and 14:00 - 15:30 in Laureles</h2>
                 <h4> Product. Service. Experience. The world is changing rapidly and companies are 
                 realizing they need to not only satisfy basic functional needs, but also allow their 
                 products to interact richly within a rapidly growing service environment—or risk being 
@@ -750,7 +756,7 @@
         </div>
     </div>
 
-    <div class="row" id='workshop6'>
+    <div class="row" id='workshop-scaling'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h5>
@@ -759,7 +765,7 @@
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-6">
-                <h2> May 28, 11:00 - 13:30 and 14:00 - 15:30</h2>
+                <h2> May 28, 11:00 - 13:30 and 14:00 - 15:30 in Palmas</h2>
                 <h4> Former World Bank economist and current expert in helping social entrepreneurs 
                 scale up, Isabel will answer some of the critical questions companies and organizations 
                 often face when looking to expand. This workshop will provide you with a framework 

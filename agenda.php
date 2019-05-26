@@ -66,12 +66,12 @@
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 08:45 - 09:30</h2>
             </div>
-            <div class="col-sm-6">
+            <a href='panels.php#keynote-kane'> <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <a href="speakers.php#charles"><h2 style="font-weight: 900" class="agenda-black"> Charles Kane</h2></a>
+                <a href="panels.php#keynote-kane"><h2 style="font-weight: 900" class="agenda-black"> Charles Kane</h2></a>
                 <i><h4 style="font-weight: 900" class="agenda-black"> Professor, MIT Sloan; Chairman, One Laptop Per Child</h4></i>
                 <!-- <i><h5 class="agenda-black"> Professor, MIT Sloan; Vice Chairman, One Laptop Per Child</h5></i> -->
-            </div>
+            </div> </a>
             <div class="col-sm-3"></div>
         </div>
 
@@ -91,10 +91,10 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
-                <a href='panels.php#panel1'><h4 style="font-weight: 900" class="agenda-black"> Ask Me Anything: Startup Founders</h4></a>
+                <a href='panels.php#panel-askme'><h4 style="font-weight: 900" class="agenda-black"> Ask Me Anything: Startup Founders</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
-                <a href='panels.php#fireside1'><h4 style="font-weight: 900" class="agenda-black"> Innovation For Impact</h4></a>
+                <a href='panels.php#fireside-innovation'><h4 style="font-weight: 900" class="agenda-black"> Innovation For Impact</h4></a>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -121,10 +121,10 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
-                <a href='panels.php#panel2'><h4 style="font-weight: 900" class="agenda-black"> Advanced Technologies and Social Entrepreneurship</h4></a>
+                <a href='panels.php#panel-advanced'><h4 style="font-weight: 900" class="agenda-black"> Advanced Technologies and Social Entrepreneurship</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
-                <a href='panels.php#fireside2'><h4 style="font-weight: 900" class="agenda-black"> Insights of a Serial Entrepreneur</h4></a>
+                <a href='panels.php#fireside-insights'><h4 style="font-weight: 900" class="agenda-black"> Insights of a Serial Entrepreneur</h4></a>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -135,12 +135,12 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
-                <a href='panels.php#panel2'><h4 style="font-weight: 900" class="agenda-black"> Pathways to Invest</h4></a>
+                <a href='panels.php#panel-pathways'><h4 style="font-weight: 900" class="agenda-black"> Pathways to Invest</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
-                <a href='panels.php#workshop1'><h4 style="font-weight: 900" class="agenda-black"> Entrepreneurship 101</h4></a>
-                <a href='panels.php#workshop2'><h4 style="font-weight: 900" class="agenda-black"> How to be a Founder and a Manager</h4></a>
-                <a href='panels.php#workshop3'><h4 style="font-weight: 900" class="agenda-black"> Creating a Business Plan</h4></a>
+                <a href='panels.php#workshop-e101'><h4 style="font-weight: 900" class="agenda-black"> Entrepreneurship 101</h4></a>
+                <a href='panels.php#workshop-founder'><h4 style="font-weight: 900" class="agenda-black"> How to be a Founder and a Manager</h4></a>
+                <a href='panels.php#workshop-creating'><h4 style="font-weight: 900" class="agenda-black"> Creating a Business Plan</h4></a>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -161,7 +161,7 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <a href="speakers.php#richard"><h2 style="font-weight: 900" class="agenda-black"> Richard Lester</h2></a>
+                <a href="panels.php#keynote-lester"><h2 style="font-weight: 900" class="agenda-black"> Richard Lester</h2></a>
                 <i><h4 style="font-weight: 900" class="agenda-black"> Associate Provost for International Affairs, MIT</h4></i>
                 <i><h4 style="font-weight: 900" class="agenda-black"> Professor & Former Dept. Head, MIT Nuclear Science & Engineering</h4></i>
 
@@ -211,7 +211,7 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <a href="speakers.php#adriana"><h2 style="font-weight: 900" class="agenda-black"> Adiana Norena</h2></a>
+                <a href="panels.php#keynote-adriana"><h2 style="font-weight: 900" class="agenda-black"> Adiana Norena</h2></a>
                 <i><h4 class="agenda-black"> Google Inc., Vice President Spanish Speaking Latin America</h4></i>
             </div>
             <div class="col-sm-3"></div>
@@ -223,7 +223,7 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Plenary</h5>
-                <a href="speakers.php#adriana"><h2 style="font-weight: 900" class="agenda-black"> President Iván Duque</h2></a>
+                <a href="speakers.php#ivan"><h2 style="font-weight: 900" class="agenda-black"> President Iván Duque</h2></a>
                 <i><h4 class="agenda-black"> President of Colombia</h4></i>
             </div>
             <div class="col-sm-3"></div>
@@ -245,10 +245,10 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
-                <a href='panels.php#panel3'><h4 style="font-weight: 900" class="agenda-black"> Building the Colombian Entrepreneurial Ecosystem</h4></a>
+                <a href='panels.php#panel-building'><h4 style="font-weight: 900" class="agenda-black"> Building the Colombian Entrepreneurial Ecosystem</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
-                <a href='panels.php#fireside3'><h4 style="font-weight: 900" class="agenda-black"> An Investor's Perspective</h4></a>
+                <a href='panels.php#fireside-fintech'><h4 style="font-weight: 900" class="agenda-black"> Fintech Opportunities in Latin America</h4></a>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -258,14 +258,14 @@
                 <h2 class="agenda-time"> 11:30 - 13:30</h2>
             </div>
             <div class="col-sm-6">
-                <div class="agenda-showcase">
+                <a href='gc.php'><div class="agenda-showcase">
                     <h2 class="agenda-black"> Grand Challenge Presentations</h2>
-                </div>
+                </div></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
-                <a href='panels.php#workshop4'><h4 style="font-weight: 900" class="agenda-black"> How to Raise Venture Capital</h4></a>
-                <a href='panels.php#workshop5'> <h4 style="font-weight: 900" class="agenda-black"> Product Design</h4></a>
-                <a href='panels.php#workshop6'><h4 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h4></a>
+                <a href='panels.php#workshop-raise'><h4 style="font-weight: 900" class="agenda-black"> How to Raise Venture Capital</h4></a>
+                <a href='panels.php#workshop-product'> <h4 style="font-weight: 900" class="agenda-black"> Product Design</h4></a>
+                <a href='panels.php#workshop-scaling'><h4 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h4></a>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -290,13 +290,12 @@
                 </div>
                 <br>
                     <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
-                    <a href='panels.php#workshop5'><h4 style="font-weight: 900" class="agenda-black"> 100 Ways to Get Funded</h4></a>
-                    <a href='panels.php#workshop5'><h4 style="font-weight: 900" class="agenda-black"> Product Design</h4></a>
-                    <a href='panels.php#workshop6'><h4 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h4></a>
+                    <a href='panels.php#workshop-product'><h4 style="font-weight: 900" class="agenda-black"> Product Design</h4></a>
+                    <a href='panels.php#workshop-scaling'><h4 style="font-weight: 900" class="agenda-black"> Scaling up for Greater Impact</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Featured Talks</h5>
-                    <a href='panels.php#workshop5'><h4 style="font-weight: 900" class="agenda-black"> APPS.CO (14:00-14:30)</h4></a>
-                    <a href='panels.php#workshop6'><h4 style="font-weight: 900" class="agenda-black"> Know Your Customer (14:45-15:15)</h4></a>
+                    <h4 style="font-weight: 900" class="agenda-black"> APPS.CO (14:00-14:30)</h4>
+                    <h4 style="font-weight: 900" class="agenda-black"> Know Your Customer (14:45-15:15)</h4>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -307,10 +306,10 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> Learning From Colombia's Sucess Stories</h4>
+                <a href='panels.php#panel-success'><h4 style="font-weight: 900" class="agenda-black"> Learning From Colombia's Success Stories</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
-                <h4 style="font-weight: 900" class="agenda-black"> The Future of Digital Technologies</h4>
+                <a href='panels.php#fireside-future'><h4 style="font-weight: 900" class="agenda-black"> The Future of Digital Technologies</h4></a>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -331,7 +330,7 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <a href="speakers.php#danielle"><h2 style="font-weight: 900" class="agenda-black"> Danielle Wood</h2></a>
+                <a href="panels.php#keynote-danielle"><h2 style="font-weight: 900" class="agenda-black"> Danielle Wood</h2></a>
                 <i><h4 class="agenda-black"> Professor, MIT Media Lab; Director of MIT Space Enabled Resarch Group </h4></i>
 
             </div>
@@ -344,7 +343,7 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Closing</h5>
-                <a href="speakers.php#danielle"><h2 style="font-weight: 900" class="agenda-black"> Sylvia Consta&Iacuten</h2></a>
+                <a href="speakers.php#silvia"><h2 style="font-weight: 900" class="agenda-black"> Sylvia Consta&Iacuten</h2></a>
                 <i><h4 class="agenda-black"> Minister of Information and Communication Technologies</h4></i>
             </div>
             <div class="col-sm-3"></div>
