@@ -129,8 +129,9 @@ function getSpeakers() {
                     '<div class="team-name">' + name + '</div>' +
                     '<div class="team-role" style="font-size: 0.6em">' + job + '</div>' +
                     '<div class="team-role" style="font-size: 0.6em">' + place + '</div>' +
-                    // '<div class="team-area">MIT Health Sciences Technology</div>' +
                     // '<a href="' + linkedIn + '" <i style="font-size:10px" class="fa">&#xf08c;</i></a>' +
+                    // '<a href="' + linkedIn + '" <img src=\'images/logo/linkedin-gray.png\'></a>' +
+                    '<a href="' + linkedIn + '"> <img class="linkedin" src=\'images/logo/linkedin-gray.png\'>' +
                     '</div>'
 
                 modalMarkup = '<div class="modal fade" id="modal-text-' + id + '" tabindex="-1" role="dialog" aria-labelledby="modal-text-label">' +
