@@ -77,8 +77,6 @@
     </div>
 </div>
 
-<p class="endSpeakers"> Come back soon! More speakers are added everyday!</p>
-
 <style>
     .team-speaker {
         min-height: 350px;
