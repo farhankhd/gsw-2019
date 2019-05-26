@@ -404,7 +404,7 @@
     <div class="row" id='panel4'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black"> Learning From Colombia's Sucess Stories</h5>
+                <h5 style="font-weight: 900" class="agenda-black"> Learning From Colombia's Success Stories</h5>
             </div>
         </div>
         <br>
@@ -513,8 +513,8 @@
             <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="images/speaker-img/alexander.jpg"></a>
                 <div class="team-name">Alex Torrenegra</div>
-                <div class="team-role">CEO </div>
-                <div class="team-area">Torre</div>
+                <div class="team-role">CEO at Torre </div>
+                <div class="team-area">Investor at Shark Tank Columbia</div>
             </div>
             <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="images/team/Joaquin.jpg"></a>
