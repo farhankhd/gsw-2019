@@ -73,7 +73,8 @@ function auto_version($file)
 
 <div class="section">
     <div class="text-center">
-    <a href='https://www.youtube.com/watch?v=TVrBLk-8JK4&feature=youtu.be'><h1 style='color: rgba(243, 239, 239, 0.9);'>CLICK HERE FOR THE LIVE STREAM</h1></a>
+        <a href='https://www.youtube.com/watch?v=ZIu3IkcJKm4'><h1 style='color: rgba(243, 239, 239, 0.9);'>CLICK HERE FOR THE LIVE STREAM SALON A</h1></a>
+        <a href='https://www.youtube.com/watch?v=0TfDeYCXvfc'><h1 style='color: rgba(243, 239, 239, 0.9);'>CLICK HERE FOR THE LIVE STREAM SALON B</h1></a>
     </div>
 
 </div>
