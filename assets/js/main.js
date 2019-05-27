@@ -352,6 +352,8 @@ function getShowcaseFinalist() {
                 var name = currentFinalist['Team Name']
                 var description = currentFinalist['Description']
 
+                var spanish = currentFinalist['Spanish']
+
                 finalistMarkup = '<div class=\"row collab-vertical-center\">' +
                     '<span class="anchor" id=\"' + name + '\"></span> <br>' +
                     '<div class=\"team-name col-md-6\">  ' +
@@ -359,7 +361,15 @@ function getShowcaseFinalist() {
                     '</div>' +
                     '<div class=\"team-expanded-text col-md-6\">' + description + '</div></div></div> <br> <div class="line"></div>';
 
+                spFinalistMarkup = '<div class=\"row collab-vertical-center\">' +
+                    '<span class="anchor" id=\"' + name + '\"></span> <br>' +
+                    '<div class=\"team-name col-md-6\">  ' +
+                    name +
+                    '</div>' +
+                    '<div class=\"team-expanded-text col-md-6\">' + spanish + '</div></div></div> <br> <div class="line"></div>';
+
                 $(finalistMarkup).appendTo('#showcase');
+                // $(spFinalistMarkup).appendTo('#sp-showcase');
 
             }
 
