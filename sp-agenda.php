@@ -20,6 +20,7 @@
     <div class="text-center">
         <i><h5> SUJETO A CAMBIOS MENORES</h5></i>
         <h5> PARA MÁS INFORMACIÓN VER LA <a href='panels.php'>Pagina de Contenido</a></h5>
+        <h5> <a href='app.php'>Obtén la aplicación para obtener la información más actualizada </a></h5>
         <br>
     </div>
 
