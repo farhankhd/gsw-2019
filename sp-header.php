@@ -75,6 +75,13 @@ $pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
 
 <div class="section">
     <div class="text-center">
+    <a href='https://www.youtube.com/watch?v=TVrBLk-8JK4&feature=youtu.be'><h1 style='color: rgba(243, 239, 239, 0.9);'>HAGA CLIC AQUÍ PARA LA CORRIENTE EN VIVO</h1></a>
+    </div>
+
+</div>
+
+<div class="section">
+    <div class="text-center">
         <i><h1 class="trn">Conference App</h1></i>
         <div class='row'>
             <div class='col-md-6'>
