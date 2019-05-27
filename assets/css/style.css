@@ -2255,6 +2255,12 @@ p {
     .academic-mobile {
         font-size: 4vw;
     }
+    .panel-header h5 {
+        font-size: 2.5vw;
+    }
+    .panel-content h2 {
+        font-size: 3.5vw;
+    }
 }
 
 #navbar-logo {
