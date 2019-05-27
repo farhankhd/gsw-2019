@@ -10,13 +10,13 @@
 
     // Require https
 
-    if( !($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') ){
-        if ($_SERVER['HTTPS'] != "on") {
-            $url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
-            header("Location: $url");
-            exit;
-        }
-    }
+    // if( !($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') ){
+    //     if ($_SERVER['HTTPS'] != "on") {
+    //         $url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+    //         header("Location: $url");
+    //         exit;
+    //     }
+    // }
 ?>
 
 <!DOCTYPE html>
@@ -86,9 +86,9 @@
                         Agenda <span class="caret"></span>
                     </a>
                     <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="agenda.php">Schedule</a>
+                        <a class="dropdown-item" href="sp-agenda.php">Programar</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="panels.php">Content</a>
+                        <a class="dropdown-item" href="sp-panels.php">Contenido</a>
                     </div>
                 </li>
                 <li><a href="sp-sponsors.php">PATROCINADORES</a></li>
