@@ -86,7 +86,8 @@
                         Agenda <span class="caret"></span>
                     </a>
                     <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="assets/booklet.pdf">Contenido Completo (Download)</a>
+                        <a class="dropdown-item" href="assets/booklet2.pdf">Agenda con Localizaciones</a>
+                        <a class="dropdown-item" href="assets/booklet.pdf">Programa (Download)</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="sp-agenda.php">Programar</a>
                         <div class="dropdown-divider"></div>

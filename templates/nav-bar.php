@@ -86,7 +86,8 @@
                         Agenda <span class="caret"></span>
                     </a>
                     <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="assets/booklet.pdf">Full Agenda (Download)</a>
+                        <a class="dropdown-item" href="assets/booklet2.pdf">Agenda with Locations</a>
+                        <a class="dropdown-item" href="assets/booklet.pdf">Conference Program (Download)</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="agenda.php">Schedule</a>
                         <div class="dropdown-divider"></div>
