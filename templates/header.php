@@ -73,6 +73,13 @@ function auto_version($file)
 
 <div class="section">
     <div class="text-center">
+    <a href='https://www.youtube.com/watch?v=TVrBLk-8JK4&feature=youtu.be'><h1>WATCH THE LIVE STREAM HERE</h1></a>
+    </div>
+
+</div>
+
+<div class="section">
+    <div class="text-center">
         <i><h1 class="trn">Conference App</h1></i>
         <div class='row'>
             <div class='col-md-6'>
