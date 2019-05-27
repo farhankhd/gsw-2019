@@ -257,7 +257,132 @@ function getCollabEnglish() {
     });
 }
 
+function getBPCFinalist() {
+    var filename = 'data/bpc.csv'
+    Papa.parse(filename, {
+        download: true,
+        header: true,
+        complete: function(results) {
+            console.log(results);
+
+            var finalists = results['data']
+            var rows = finalists.length
+            console.log(rows);
+
+            for (var i = 0; i < rows; i++) {
+                var currentFinalist = finalists[i];
+                var isFinalist = currentFinalist['Finalist?']
+                console.log(currentFinalist);
+
+                var name = currentFinalist['Team Name']
+                var description = currentFinalist['Description']
+
+                finalistMarkup = '<div class=\"row collab-vertical-center\">' +
+                    '<span class="anchor" id=\"' + name + '\"></span> <br>' +
+                    '<div class=\"team-name col-md-6\">  ' +
+                    name +
+                    '</div>' +
+                    '<div class=\"team-expanded-text col-md-6\">' + description + '</div></div></div> <br> <div class="line"></div>';
+
+                if (isFinalist == 'Y') {
+                    $(finalistMarkup).appendTo('#bpc-finalist');
+                }
+            }
+
+        }
+    });
+}
+
+function getGCFinalist() {
+    var filename = 'data/gc.csv'
+    console.log('GC FINALIST')
+    Papa.parse(filename, {
+        download: true,
+        header: true,
+        complete: function(results) {
+            console.log(results);
+
+            var finalists = results['data']
+            var rows = finalists.length
+
+            console.log(finalists[0]);
+
+            for (var i = 0; i < rows; i++) {
+                var currentFinalist = finalists[i];
+                var isFinalist = currentFinalist['Finalist?']
+                console.log(currentFinalist);
+
+                var name = currentFinalist['Team Name']
+                var description = currentFinalist['Description']
+
+                finalistMarkup = '<div class=\"row collab-vertical-center\">' +
+                    '<span class="anchor" id=\"' + name + '\"></span> <br>' +
+                    '<div class=\"team-name col-md-6\">  ' +
+                    name +
+                    '</div>' +
+                    '<div class=\"team-expanded-text col-md-6\">' + description + '</div></div></div> <br> <div class="line"></div>';
+
+                if (isFinalist == 'Y') {
+                    $(finalistMarkup).appendTo('#gc-finalist');
+                }
+
+            }
+
+        }
+    });
+}
+
+function getShowcaseFinalist() {
+    var filename = 'data/showcase.csv'
+
+    Papa.parse(filename, {
+        download: true,
+        header: true,
+        complete: function(results) {
+            console.log(results);
+
+            var finalists = results['data']
+            var rows = finalists.length
+            console.log(rows);
+
+            for (var i = 0; i < rows; i++) {
+                var currentFinalist = finalists[i];
+                console.log(currentFinalist);
+
+                var name = currentFinalist['Team Name']
+                var description = currentFinalist['Description']
+
+                var spanish = currentFinalist['Spanish']
+
+                finalistMarkup = '<div class=\"row collab-vertical-center\">' +
+                    '<span class="anchor" id=\"' + name + '\"></span> <br>' +
+                    '<div class=\"team-name col-md-6\">  ' +
+                    name +
+                    '</div>' +
+                    '<div class=\"team-expanded-text col-md-6\">' + description + '</div></div></div> <br> <div class="line"></div>';
+
+                spFinalistMarkup = '<div class=\"row collab-vertical-center\">' +
+                    '<span class="anchor" id=\"' + name + '\"></span> <br>' +
+                    '<div class=\"team-name col-md-6\">  ' +
+                    name +
+                    '</div>' +
+                    '<div class=\"team-expanded-text col-md-6\">' + spanish + '</div></div></div> <br> <div class="line"></div>';
+
+                $(finalistMarkup).appendTo('#showcase');
+                // $(spFinalistMarkup).appendTo('#sp-showcase');
+
+            }
+
+        }
+    });
+}
+
+
+
 getSpeakers()
 getCollabEnglish()
+getBPCFinalist()
+getGCFinalist()
+getShowcaseFinalist()
 
 // countdown()

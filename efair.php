@@ -46,6 +46,20 @@
 </div>
 
 <div class="section">
+    <div class="row text-center">
+
+        <div class="col-lg-12">
+            <div class="col-md-12 comp-content" id='showcase'>
+                <h2> exhibitors</h2>
+                
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+<div class="section">
 
 
 <div class="text-center">

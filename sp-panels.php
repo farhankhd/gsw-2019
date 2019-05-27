@@ -136,23 +136,14 @@
     <div class="row" id='keynote-danielle'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black">The Role of Space Technology to Support Sustainable Development</h5>
+                <h5 style="font-weight: 900" class="agenda-black"> El rol de la technología espacial para apoyar el desarrollo sustentable</h5>
             </div>
         </div>
         <br>
         <div class="col-md-12 panel-content">
             <div class="col-md-8">
-                <h2> May 28, 17:30-18:15 in Great Hall Full</h2>
-                <h4> Danielle leads the new Space Enabled Research Group at the MIT Media Lab, which advances 
-                justice in Earth’s complex 
-                systems by increasing access to space technology for development leaders around the 
-                world and by applying space technology in support of the Sustainable Development 
-                Goals, as curated by the United Nations. During these projects, Space Enabled 
-                implements an integrated design process that includes techniques from engineering
-                 design, art, social science, complex systems modeling, satellite engineering 
-                 and data science. During this talk, Danielle will discuss the role of space
-                  to spur innovation and development and give examples of projects 
-                  pursued by the Space Enabled Research Group.</h4>
+                <h2> 28 Mayo, 17:30-18:15 in Great Hall Full</h2>
+                <h4> Danielle dirige el nuevo Grupo de Investigación de Habilitación Espacial en el MIT Media Lab, que promueve la justicia en los complejos sistemas de la Tierra al aumentar el acceso a la tecnología espacial para los líderes de desarrollo en todo el mundo y al aplicar así la tecnología espacial en apoyo de los Objetivos de Desarrollo Sostenible, según denominados por las Naciones Unidas. Durante estos proyectos, su grupo implementa un proceso de diseño integrado que incluye técnicas de diseño de ingeniería, arte, ciencias sociales, modelado de sistemas complejos, ingeniería satelital y ciencia de datos. Durante esta charla, Danielle discutirá el papel del espacio para estimular la innovación y el desarrollo y dará ejemplos de proyectos llevados a cabo por el Grupo de Investigación Space Enabled.</h4>
             </div>
             <div class="team col-md-4 text-center"><a href="speakers.php#danielle">
                 <img class="keynote-picture" src="images/speaker-img/danielle.png"></a>

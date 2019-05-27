@@ -93,6 +93,19 @@
     </div>
 </div>
 
+<div class="section">
+    <div class="row text-center">
+
+        <div class="col-lg-12">
+            <div class="col-md-12 comp-content" id='gc-finalist'>
+                <h2> FINALISTS</h2>
+                
+            </div>
+        </div>
+        
+    </div>
+</div>
+
 <script src="assets/js/papaparse.min.js"></script>
 <script src="assets/js/main.js?v=1.1"></script>
 <script src="assets/js/jquery.min.js"></script>
