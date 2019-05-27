@@ -102,7 +102,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 11:30 - 13:30</h2>
+                <h2 class="agenda-time"> 11:30 - 13:45</h2>
             </div>
             <div class="col-sm-6">
                 <a href="efair.php"><div class="agenda-showcase">
@@ -118,7 +118,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 13:30 - 14:30</h2>
+                <h2 class="agenda-time"> 13:45 - 14:45</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
@@ -132,7 +132,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 14:45 - 16:15</h2>
+                <h2 class="agenda-time"> 15:00 - 16:30</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
@@ -148,7 +148,7 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 16:15 - 17:00</h2>
+                <h2 class="agenda-time"> 16:30 - 17:15</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Descanso</h5>
@@ -158,7 +158,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 17:00 - 17:45</h2>
+                <h2 class="agenda-time"> 17:15 - 18:00</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Charla</h5>
@@ -176,7 +176,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 17:45 - 18:00</h2>
+                <h2 class="agenda-time"> 18:00 - 18:15</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Clausura</h5>
