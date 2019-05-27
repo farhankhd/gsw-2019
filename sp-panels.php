@@ -18,7 +18,9 @@
 
 <div class="section">
      <div class="text-center">
-        <i><h5> SUBJECT TO MINOR CHANGES</h5></i>
+        <i><h5> SUJETO A CAMBIOS MENORES</h5></i>
+        <h5> Encuentre más información incluyendo las asignaciones de habitación en el <a href='assets/booklet.pdf'>la agenda completa</a></h5>
+
         <br>
     </div>
     <div class="row">
@@ -347,10 +349,10 @@
                 <div class="team-area">EAN</div>
             </div>
             <div class="team col-md-4"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/diana.jpg"></a>
-                <div class="team-name">Diana Gaviria</div>
-                <div class="team-role">Executive Director</div>
-                <div class="team-area">Connect Bogotá</div>
+                <img class="panel-picture" src="images/speaker-img/tatiana.jpeg"></a>
+                <div class="team-name">Tatiana Léon</div>
+                <div class="team-role">Director of Entrepreneurship Projects</div>
+                <div class="team-area">Connect Bogotá Región</div>
             </div>
         </div>
         <div class="col-md-12 text-center">
