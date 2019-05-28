@@ -53,6 +53,9 @@ function auto_version($file)
         <img src="images/launch/gsw-heading.png"/>
         <br> <br>
         <img src="images/launch/bogota_plus_dates.png" />
+        <div class='text-center'>
+            <i><h2>Innovate. Inspire. Impact.</h2></i>
+        </div>
         <br> <br><br> <br><br> <br>
 
     </div>
