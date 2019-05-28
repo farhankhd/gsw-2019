@@ -243,7 +243,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 10:15-11:15</h2>
+                <h2 class="agenda-time"> 10:45-11:45</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
@@ -257,7 +257,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 11:30 - 13:30</h2>
+                <h2 class="agenda-time"> 12:00 - 13:30</h2>
             </div>
             <div class="col-sm-6">
                 <a href='gc.php'><div class="agenda-showcase">
@@ -274,7 +274,7 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 13:00 - 14:00</h2>
+                <h2 class="agenda-time"> 13:30 - 14:30</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Almuerzo</h5>
@@ -284,7 +284,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 14:00-15:30</h2>
+                <h2 class="agenda-time"> 14:30-16:00</h2>
             </div>
             <div class="col-sm-6">
                 <div class="agenda-showcase">
@@ -296,15 +296,15 @@
                     <a href='panels.php#workshop-scaling'><h4 style="font-weight: 900" class="agenda-black"> Scalar para un impacto mayor</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Featured Talks</h5>
-                    <h4 style="font-weight: 900" class="agenda-black"> Apps.co (14:00-14:30)</h4>
-                    <h4 style="font-weight: 900" class="agenda-black"> Conocer a tu consumidor: Servicio al cliente (14:45-15:15)</h4>
+                    <h4 style="font-weight: 900" class="agenda-black"> Apps.co (14:30-15:00)</h4>
+                    <h4 style="font-weight: 900" class="agenda-black"> Conocer a tu consumidor: Servicio al cliente (15:15-15:45)</h4>
             </div>
             <div class="col-sm-3"></div>
         </div>
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 15:45 - 16:45</h2>
+                <h2 class="agenda-time"> 16:15 - 17:15</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
@@ -318,7 +318,7 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 16:45 - 17:30</h2>
+                <h2 class="agenda-time"> 17:15 - 18:00</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Descanso</h5>
@@ -328,7 +328,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 17:30 - 18:15</h2>
+                <h2 class="agenda-time"> 18:00 - 18:45</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Charla</h5>
@@ -341,7 +341,7 @@
 
         <div class="col-lg-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 18:15 - 18:30</h2>
+                <h2 class="agenda-time"> 18:45 - 19:00</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Clausura</h5>
@@ -353,7 +353,7 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 18:30 - 20:00</h2>
+                <h2 class="agenda-time"> 19:00 - 20:30</h2>
             </div>
             <div class="col-sm-6">
                 <h5 class="agenda-black"> Ceremonia de Premios y Clausura</h5>
