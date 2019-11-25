@@ -7,7 +7,7 @@
     <meta http-equiv="refresh" content="100000; URL='https://gsw.mit.edu/2019/app.php'" />
 </head>
 
-<div class="parallax-window header" data-parallax="scroll" style="background-image: url('images/launch/Bogota_Aditi.jpg');">
+<div class="parallax-window header" data-parallax="scroll" style="background-image: url('images/launch/bogota.png');">
     <div class="header-overlay">
         <h1 class="parallax-text">
         APP
