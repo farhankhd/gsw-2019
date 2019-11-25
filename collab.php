@@ -17,7 +17,7 @@
 
 </head>
 
-<div class="parallax-window header" data-parallax="scroll" style="background-image: url('images/launch/Bogota_Aditi.jpg');">
+<div class="parallax-window header" data-parallax="scroll" style="background-image: url('images/launch/bogota.png');">
     <div class="header-overlay">
     <h1 class="parallax-text">
         Collaborators
